@@ -2127,3 +2127,8 @@ Total query pages: 764
 - [[timothy-davis]] — Timothy Davis
 - [[varun-parmar]] — Varun Parmar
 - [[yuhki-yamashata]] — Yuhki Yamashita
+- [[jules-walter]] — Jules Walter
+- [[naomi-ionita]] — Naomi Ionita
+- [[paige-costello]] — Paige Costello
+- [[pete-kazanjy]] — Pete Kazanjy
+- [[tim-holley]] — Tim Holley
