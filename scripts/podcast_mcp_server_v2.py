@@ -249,6 +249,149 @@ def do_semantic_stats() -> dict:
     return {"total_vectors": index.ntotal if index else 0, "total_chunks": len(chunks) if chunks else 0}
 
 
+def do_synthesize(question: str) -> dict:
+    """Synthesize an answer across episodes, entities, and concepts.
+    
+    Returns a structured answer with synthesis, sources, disagreements, and confidence.
+    """
+    import re
+    from pathlib import Path
+    
+    t0 = time.time()
+    
+    # Step 1: Search entity pages for insights related to the question
+    query_terms = question.lower().split()
+    
+    # Direct grep for relevant Key Views in entity pages
+    entity_dir = WIKI_DIR / "wiki" / "entities"
+    concept_dir = WIKI_DIR / "wiki" / "concepts"
+    
+    sources = []
+    
+    # Search enriched entity pages (>30 lines)
+    if entity_dir.exists():
+        for f in sorted(entity_dir.glob("*.md")):
+            content = f.read_text(encoding='utf-8', errors='replace')
+            lines = content.count('\n') + 1
+            if lines < 30:
+                continue
+            # Check if any query term appears in the content
+            content_lower = content.lower()
+            term_matches = sum(1 for t in query_terms if t in content_lower)
+            if term_matches < 2:
+                continue
+            # Extract title from frontmatter
+            title = f.stem.replace('-', ' ').title()
+            fm_match = re.search(r'title:\s*(.+)', content)
+            if fm_match:
+                title = fm_match.group(1).strip().strip("'").strip('"')
+            
+            # Extract Key Views
+            views = []
+            view_sections = re.findall(r'### \d+\.\s*(.+?)(?=\n###|\Z)', content, re.DOTALL)
+            for vs in view_sections[:3]:
+                lines_v = vs.strip().split('\n')
+                if lines_v:
+                    views.append(lines_v[0].strip()[:200])
+            
+            if views:
+                sources.append({
+                    "guest": title,
+                    "source_type": "entity",
+                    "insights": views[:3],
+                    "file": str(f.name),
+                    "score": term_matches
+                })
+    
+    # Also search concept pages
+    if concept_dir.exists():
+        for f in sorted(concept_dir.glob("*.md")):
+            content = f.read_text(encoding='utf-8', errors='replace')
+            lines = content.count('\n') + 1
+            if lines < 20:
+                continue
+            content_lower = content.lower()
+            term_matches = sum(1 for t in query_terms if t in content_lower)
+            if term_matches < 2:
+                continue
+            title = f.stem.replace('-', ' ').title()
+            fm_match = re.search(r'title:\s*(.+)', content)
+            if fm_match:
+                title = fm_match.group(1).strip().strip("'").strip('"')
+            
+            # Extract synthesis section
+            syn_match = re.search(r'## Synthesis\s*\n(.*?)(?=\n##|\Z)', content, re.DOTALL)
+            synthesis_preview = syn_match.group(1).strip()[:300] if syn_match else ""
+            
+            sources.append({
+                "guest": title,
+                "source_type": "concept",
+                "insights": [synthesis_preview] if synthesis_preview else ["See concept page"],
+                "file": str(f.name),
+                "score": term_matches
+            })
+    
+    # Step 2: Sort by relevance, deduplicate
+    sources.sort(key=lambda s: -s["score"])
+    
+    # Deduplicate
+    seen = set()
+    unique_sources = []
+    for s in sources:
+        key = s["guest"]
+        if key not in seen:
+            seen.add(key)
+            unique_sources.append(s)
+    
+    top_sources = unique_sources[:10]
+    
+    # Step 3: Check for disagreements (look at disagreement comparison pages)
+    disagreements = []
+    comp_dir = WIKI_DIR / "wiki" / "comparisons"
+    if comp_dir.exists():
+        for f in comp_dir.glob("disagreements-*.md"):
+            content = f.read_text(encoding='utf-8', errors='replace')
+            content_lower = content.lower()
+            if any(t in content_lower for t in query_terms):
+                # Extract topic name
+                topic = f.stem.replace("disagreements-", "").replace("-", " ").title()
+                disagreements.append({
+                    "topic": topic,
+                    "page": str(f.name)
+                })
+    
+    # Step 4: Build synthesis
+    synthesis_parts = []
+    if top_sources:
+        # Group by source type
+        entities = [s for s in top_sources if s["source_type"] == "entity"]
+        concepts_result = [s for s in top_sources if s["source_type"] == "concept"]
+        
+        if entities:
+            names = [s["guest"] for s in entities[:5]]
+            synthesis_parts.append(f"Found relevant insights from {len(entities)} guests including {', '.join(names[:3])}.")
+        
+        if concepts_result:
+            synthesis_parts.append(f"Relevant concepts found: {', '.join(s['guest'] for s in concepts_result[:3])}.")
+        
+        if disagreements:
+            synthesis_parts.append(f"Disagreements identified on topics: {', '.join(d['topic'] for d in disagreements)}.")
+    else:
+        synthesis_parts.append("No directly matching synthesized insights found. Try a broader query or check entity pages directly.")
+    
+    t1 = time.time()
+    
+    return {
+        "question": question,
+        "synthesis": " ".join(synthesis_parts),
+        "sources": top_sources,
+        "disagreements": disagreements,
+        "total_sources_found": len(sources),
+        "confidence": "high" if len(top_sources) >= 3 else ("medium" if top_sources else "low"),
+        "latency_ms": round((t1 - t0) * 1000)
+    }
+
+
 # ── MCP Tool Registration ──────────────────────────────────────────────
 
 @server.list_tools()
@@ -340,6 +483,17 @@ async def list_tools() -> list[Tool]:
                 "properties": {},
             },
         ),
+        Tool(
+            name="synthesize",
+            description="Deep synthesis across episodes — returns structured answer with sources, disagreements, and confidence. Best for complex questions that need cross-episode analysis.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "question": {"type": "string", "description": "Natural language question for deep synthesis"},
+                },
+                "required": ["question"],
+            },
+        ),
     ]
 
 
@@ -363,6 +517,8 @@ async def call_tool(name: str, arguments: Any) -> list[TextContent]:
             result = do_search_by_meaning(args.get("query", ""), args.get("limit", 10), args.get("podcast"))
         elif name == "semantic_stats":
             result = do_semantic_stats()
+        elif name == "synthesize":
+            result = do_synthesize(args.get("question", ""))
         else:
             return [TextContent(type="text", text=json.dumps({"error": f"Unknown tool: {name}"}))]
         return [TextContent(type="text", text=json.dumps(result, indent=2, default=str))]

@@ -1,17 +1,18 @@
 ---
 title: Drew Houston
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-01
 type: entity
-tags: [founder, dropbox, startup, viral-growth, resilience, competition, y-combinator]
+tags: [founder, dropbox, startup, viral-growth, resilience, competition, y-combinator, leadership]
 sources:
   - raw/transcripts/lenny/drew-houston.md
+  - raw/transcripts/20vc/20vc-2022-10-17-20vc-dropboxs-drew-houston-o.md
 confidence: medium
 ---
 
 # Drew Houston
 
-*Co-founder and CEO of Dropbox (700M+ registered users, $9B+ valuation). Built one of the most iconic viral growth machines. Navigated competition from Apple, Microsoft, and Google. Reinvented Dropbox for the future of work.*
+*Co-founder and CEO of Dropbox (700M+ registered users, $9B+ valuation). Built one of the most iconic viral growth machines. Navigated competition from Apple, Microsoft, and Google. Reinvented Dropbox for the future of work. Sits on the board of Meta. Angel investor in Gusto, Scale AI, Pilot, and Superhuman.*
 
 ## Key Views
 
@@ -25,9 +26,14 @@ confidence: medium
 
 5. **Reinvention requires accepting you're no longer the underdog**: Dropbox's third era required letting go of the startup identity and embracing being an incumbent. The shift from "cool startup fighting giants" to "mature company finding its next act" was psychologically the hardest transition — but necessary for survival.
 
+### 6. [20VC] Leadership and Scaling Breakpoints
+
+On 20VC, Drew discussed the critical breakpoints in company scaling — when the org structure, hiring practices, and leadership approach must fundamentally change. He shared the story of nearly getting acquired by Steve Jobs and Apple, and how founders should think through potential investors and acquisition decisions. His framework for hiring and firing at scale emphasizes that the skills that get you from 0-100 employees are completely different from what's needed at 1,000+.^[raw/transcripts/20vc/20vc-2022-10-17-20vc-dropboxs-drew-houston-o.md]
+
 ## Episode Appearances
 
 - [[drew-houston]] — *Behind the founder*
+- [[20vc-2022-10-17-20vc-dropboxs-drew-houston-o]] — *20VC: Dropbox's Drew Houston on Leadership; Hiring, Firing, Breakpoints in Company Scaling*
 
 ## Related Concepts
 

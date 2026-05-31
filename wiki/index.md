@@ -2095,3 +2095,9 @@ Total query pages: 764
 - [[noah-weiss]] — Noah Weiss
 - [[rahul-vohra]] — Rahul Vohra
 - [[ryan-hoover]] — Ryan Hoover
+- [[julie-zhuo]] — Julie Zhuo
+- [[kayvon-beykpour]] — Kayvon Beykpour
+- [[kunal-shah]] — Kunal Shah
+- [[nabeel-s-qureshi]] — Nabeel S. Qureshi
+- [[shreyas-doshi]] — Shreyas Doshi
+- [[wes-kao]] — Wes Kao
