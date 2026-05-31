@@ -2132,3 +2132,9 @@ Total query pages: 764
 - [[paige-costello]] — Paige Costello
 - [[pete-kazanjy]] — Pete Kazanjy
 - [[tim-holley]] — Tim Holley
+- [[jake-knapp-john-zeratsky]] — Jake Knapp and John Zeratsky
+- [[jonny-miller]] — Jonny Miller
+- [[kenneth-berger]] — Kenneth Berger
+- [[paul-millerd]] — Paul Millerd
+- [[teresa-torres]] — Teresa Torres
+- [[uri-levine]] — Uri Levine
