@@ -25,3 +25,8 @@ confidence: medium
 - [[marketplaces]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Christian Hernandez on The Importance of Mobile and The Relationship Between Growth vs Revenue** (2016-03-09)

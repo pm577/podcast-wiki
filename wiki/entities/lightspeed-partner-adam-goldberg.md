@@ -26,3 +26,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Lightspeed Partner Adam Goldberg on Why There Remains No Mass Market Crypto Consumer Product, ** (2018-07-30)

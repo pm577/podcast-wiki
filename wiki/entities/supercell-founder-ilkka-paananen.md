@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Supercell Founder Ilkka Paananen on What it Means To Be "The Least Powerful CEO", His Relation** (2021-02-01)

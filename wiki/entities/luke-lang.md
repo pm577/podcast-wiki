@@ -25,3 +25,8 @@ confidence: medium
 - [[go-to-market]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 020: Revolutionising Investing with Luke Lang, Co-Founder of Crowdcube** (2015-03-16)

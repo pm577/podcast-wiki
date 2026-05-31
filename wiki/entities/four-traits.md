@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Four Traits of the Most Successful Founders | How to Hunt and Close Talent Like a Pro and Wher** (2025-05-09)

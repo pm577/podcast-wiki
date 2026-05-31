@@ -25,3 +25,8 @@ confidence: medium
 - [[deeptech-hardware]]
 - [[hiring-culture]]
 - [[product-strategy]]
+
+
+## Episodes
+
+- **20 Product: Hugo Barra on Lessons Building Hardware Products at Android, Xiaomi, Oculus, and Detect;** (2022-11-09)

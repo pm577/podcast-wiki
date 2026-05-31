@@ -23,3 +23,8 @@ confidence: medium
 - [[biotech-health]]
 - [[fintech]]
 - [[founder-psychology]]
+
+
+## Episodes
+
+- **Founders Friday 003: 2m users, $2m Seed Round, 220,000 Instagram Followers with Phil Jacobson, Found** (2015-07-10)

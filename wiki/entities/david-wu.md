@@ -24,3 +24,8 @@ confidence: medium
 - [[consumer]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 058: 10 Key Traits To Be A Successful Founder with David Wu, General Partner @ Maveron** (2015-07-29)

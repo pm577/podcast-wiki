@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Figma Founder Dylan Field on The Biggest Mistakes Young Founders Most Often Make, How To Go Sl** (2019-04-19)

@@ -35,3 +35,8 @@ Wertz argues that crypto and decentralized platforms represent the biggest disru
 - [[crypto]]
 - [[decentralized-platforms]]
 - [[network-effects]]
+
+
+## Episodes
+
+- **20 VC: The Ultimate Guide To Marketplaces with Boris Wertz, Founding Partner @ Version One Ventures** (2015-12-28)

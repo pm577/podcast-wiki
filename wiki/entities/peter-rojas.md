@@ -25,3 +25,8 @@ confidence: medium
 - [[marketplaces]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 079: BETAWORKS WEEK: East vs West Coast Investing with Peter Rojas, EIR @ Betaworks, Co-Founde** (2015-10-14)

@@ -25,3 +25,8 @@ confidence: medium
 - [[fintech]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Substack Founder Chris Best on The Future of Public Journalism, Why The Economics Of Attention** (2020-06-12)

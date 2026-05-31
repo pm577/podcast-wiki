@@ -34,3 +34,8 @@ Eric's approach during Y Combinator (S15) differed from many peers in how he pri
 - [[fintech]]
 - [[startups]]
 - [[consumer]]
+
+
+## Episodes
+
+- **FF 015: Y COMBINATOR WEEK: Eric Glyman, Co-Founder & CEO @ Paribus** (2015-10-02)

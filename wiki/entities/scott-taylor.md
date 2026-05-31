@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 040: The Required Qualities To Be A Great Founder, with Scott Taylor, CEO @ miDrive** (2015-05-28)

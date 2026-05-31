@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Mercury Founder Immad Akhund on Why Angel Investing Makes Founders Better Operators, The Right** (2019-09-20)

@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[marketplaces]]
+
+
+## Episodes
+
+- **Founding WIRED 2014's Winner, with Mutaz Qubbaj, Founder @ Squirrel** (2015-07-24)

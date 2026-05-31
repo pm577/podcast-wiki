@@ -25,3 +25,8 @@ confidence: medium
 - [[go-to-market]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Sweetgreen Founder Jonathan Neman on Leadership Lessons from Managing Through COVID, The Impor** (2022-01-26)

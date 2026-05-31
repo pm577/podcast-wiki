@@ -26,3 +26,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Raising A Solo GP Fund & Why They Are So Prominent Today with Charles Hudson, Managing Partner** (2016-05-09)

@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Michael Dearing on 5 Key Principles He Uses To Assess Startup Founders, Why Benevolent Dictato** (2017-10-09)

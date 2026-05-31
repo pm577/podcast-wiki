@@ -29,3 +29,8 @@ As a YC Partner, Aaron worked with startups from the earliest possible stage. Hi
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 076: Y COMBINATOR WEEK: Aaron Harris, Partner @ YC** (2015-09-30)

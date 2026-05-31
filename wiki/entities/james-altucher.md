@@ -22,3 +22,8 @@ confidence: medium
 
 - [[go-to-market]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **James Altucher: Ideas, Investing and Entrepreneurs** (2015-06-04)

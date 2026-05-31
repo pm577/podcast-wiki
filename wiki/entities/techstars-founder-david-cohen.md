@@ -22,3 +22,8 @@ confidence: medium
 
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Techstars Founder David Cohen on Why Seed Investing Is A Different Asset Class To Venture, Wha** (2019-02-11)

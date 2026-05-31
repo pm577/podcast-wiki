@@ -22,3 +22,8 @@ confidence: medium
 
 - [[ai-ml]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Hiten Shah on The Right Way To Think About Depression, Control and Burnout, Why Nobody Really ** (2019-08-09)

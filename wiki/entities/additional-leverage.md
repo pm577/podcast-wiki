@@ -24,3 +24,8 @@ confidence: medium
 - [[enterprise-saas]]
 - [[go-to-market]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Zoom From Series A to IPO, How VCs Can Provide CEOs with Additional Leverage and Why The Negat** (2019-07-15)

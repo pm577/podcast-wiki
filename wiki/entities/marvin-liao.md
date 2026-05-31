@@ -22,3 +22,8 @@ confidence: medium
 
 - [[go-to-market]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 083: 500 Startups Week: New Funds, Startup Mentoring and Dave's Masterplan with Marvin Liao, P** (2015-10-28)

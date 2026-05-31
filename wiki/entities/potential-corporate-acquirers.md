@@ -25,3 +25,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: How Startups & VCs Can Build Relationships with Potential Corporate Acquirers? The Challenge O** (2017-02-10)

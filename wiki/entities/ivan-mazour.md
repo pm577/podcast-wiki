@@ -25,3 +25,8 @@ confidence: medium
 - [[go-to-market]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC FF 029: VC vs Angel Funding & The Future of E-Commerce with Ivan Mazour, Founder @ Ometria** (2016-01-08)

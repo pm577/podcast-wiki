@@ -25,3 +25,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Sahil Lavingia on Rolling Funds and Their Impact on The Future of Venture, How To Evaluate Mar** (2020-08-24)

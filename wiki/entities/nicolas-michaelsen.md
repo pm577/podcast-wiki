@@ -34,3 +34,8 @@ The most valuable parts of YC for Nicolas were the partner office hours (notably
 - [[hiring-culture]]
 - [[venture-capital]]
 - [[startups]]
+
+
+## Episodes
+
+- **20 VC 032: Inside Y Combinator with Nicolas Michaelsen, Founder @ AirHelp** (2015-04-30)

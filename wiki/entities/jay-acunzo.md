@@ -25,3 +25,8 @@ confidence: medium
 - [[marketplaces]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 035: The Ultimate Marketing Guide for Startups with Jay Acunzo, VP of Platform @ NextView Vent** (2015-05-11)

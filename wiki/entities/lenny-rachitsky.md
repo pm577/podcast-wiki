@@ -12,3 +12,8 @@ confidence: medium
 # Lenny Rachitsky
 
 *This page was auto-generated from podcast wiki ingestion. Expand with key views and frameworks.*
+
+
+## Episodes
+
+- **20 Product: Lenny Rachitsky on The 3 Key Roles of the Product Manager, 5 Skills All The Best PMs Hav** (2022-03-16)

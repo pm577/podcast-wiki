@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Calm Founder Alex Tew on What It Takes To Build Viral Products Today, The Current State of Cus** (2020-09-11)

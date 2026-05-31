@@ -26,3 +26,8 @@ confidence: medium
 - [[marketplaces]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Kapwing Founder Julia Enthoven on Why Marketing Innovation Is As Important As Product Innovati** (2019-09-27)

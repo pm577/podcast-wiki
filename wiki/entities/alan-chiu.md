@@ -23,3 +23,8 @@ confidence: medium
 - [[enterprise-saas]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 046: How VCs Evaluate Investment Opportunities with Alan Chiu, Partner @ XSeed Capital** (2015-06-18)

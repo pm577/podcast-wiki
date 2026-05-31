@@ -48,3 +48,8 @@ The modern injunction to "be yourself" at work is naive. We all have multiple se
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC Alain De Botton on Why Companies Are Not Families | Why Status is Making You Miserable | Why Pa** (2024-11-18)

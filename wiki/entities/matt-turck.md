@@ -25,3 +25,8 @@ confidence: medium
 - [[enterprise-saas]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Is Big Data Still A Thing with Matt Turck, Managing Director at FirstMark Capital** (2016-05-30)

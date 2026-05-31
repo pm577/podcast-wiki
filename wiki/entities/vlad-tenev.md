@@ -48,3 +48,8 @@ Tenev shares lessons from Robinhood's extraordinary capital-raising journey — 
 - [[tokenization]]
 - [[regulatory-strategy]]
 - [[product-strategy]]
+
+
+## Episodes
+
+- **20VC: Vlad Tenev on Robinhood's $85BN Resurgence | Tokenizing SpaceX & OpenAI | Building Nine Revenu** (2025-07-14)

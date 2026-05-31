@@ -24,3 +24,8 @@ confidence: medium
 - [[consumer]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Lessons from Mark Zuckerberg, Keith Rabois & Tobi Lütke | Why Remote is a Bad Idea for 90% of ** (2024-08-14)

@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Michael Mauboussin on Good vs Bad Investment Decision-Making Processes, How To Improve Your Pr** (2022-11-04)

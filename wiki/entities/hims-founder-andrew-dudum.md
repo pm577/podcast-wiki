@@ -25,3 +25,8 @@ confidence: medium
 - [[go-to-market]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Hims Founder Andrew Dudum on Hims Going Public, The Reasoning and Benefits of SPACs, The Bigge** (2021-01-21)

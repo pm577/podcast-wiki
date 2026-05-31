@@ -24,3 +24,8 @@ confidence: medium
 - [[consumer]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Rick Marini on Lessons Leant From Naval Ravikant, Why You Need To Make 30 Investments Before Y** (2016-11-14)

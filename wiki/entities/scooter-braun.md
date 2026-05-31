@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Scooter Braun on Being Enough, Insecurity, Wealth, Investing, Fame, Marriage and so much more.** (2023-04-17)

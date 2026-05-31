@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Max Altman on The New Seed War: Can Anyone Compete with Sequoia and a16z | Leaving $2BN on the** (2025-11-21)

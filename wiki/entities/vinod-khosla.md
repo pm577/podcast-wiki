@@ -23,3 +23,9 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Vinod Khosla on What Venture Assistance Really Means, Why Many VCs Are Not Qualified To Advise** (2020-02-24)
+- **20VC: Vinod Khosla on How AI Impacts The Future of Healthcare, Education, Income Equality, Geo-Polit** (2023-08-07)

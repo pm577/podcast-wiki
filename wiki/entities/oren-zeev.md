@@ -24,3 +24,10 @@ confidence: medium
 - [[deeptech-hardware]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Oren Zeev on Why Diversification Does Not Work, Thesis Based Investing Is Sceptical & Partners** (2017-11-06)
+- **20VC: Oren Zeev on Why Diversification Is Overrated, The Downside of Thematic Investing, Making Qual** (2020-06-29)
+- **20VC: Oren Zeev on Raising 3 Funds and $1BN in 12 Months; Why Temporal Diversification is BS, Why Bo** (2022-05-23)

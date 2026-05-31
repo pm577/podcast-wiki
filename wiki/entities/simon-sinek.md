@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Simon Sinek on Trust; How it is Gained and Lost | Why Millennials Avoid Conflict | How to List** (2023-07-10)

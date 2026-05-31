@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Tony Conrad on Straddling The Role Of Founder & Investor, What True Founder/Product Fit Looks ** (2017-06-14)

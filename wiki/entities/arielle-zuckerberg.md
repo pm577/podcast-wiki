@@ -23,3 +23,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Arielle Zuckerberg @ Kleiner Perkins: A Review Of My First 6 Months in Venture** (2016-02-15)

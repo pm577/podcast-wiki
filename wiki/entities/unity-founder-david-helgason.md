@@ -25,3 +25,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[go-to-market]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Unity Founder David Helgason on The Hypergrowth Early Days of Unity, Why Running A Company Is ** (2020-10-29)

@@ -40,3 +40,8 @@ Marty Cagan is a luminary in product management. He founded the Silicon Valley P
 - [[nikhyl-singhal]]
 - [[melissa-perri]]
 - [[teresa-torres]]
+
+
+## Episodes
+
+- **20 Product: Marty Cagan on The Four Questions of Great Product Management, Product Lessons from Marc** (2022-12-07)

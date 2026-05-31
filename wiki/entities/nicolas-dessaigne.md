@@ -35,3 +35,8 @@ Dessaigne shares his experience that Series B is genuinely the hardest round to 
 - [[enterprise-saas]]
 - [[y-combinator]]
 - [[pivot]]
+
+
+## Episodes
+
+- **20VC: Fundraising Is Also Business Development with Nicolas Dessaigne, Co-Founder & CEO @ Algolia** (2016-04-22)

@@ -24,3 +24,8 @@ confidence: medium
 - [[fintech]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC: Morten Lund on Skype, Bankruptcy, Fintech and Why "Banks Are Full Of Lots Of Stupid People Do** (2016-01-04)

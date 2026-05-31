@@ -25,3 +25,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Dave Morin on Why Building A Fund Is Like A Company, Why Venture Is A Craft & The Journey To E** (2016-09-28)

@@ -25,3 +25,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Bryan Johnson on Why Humans Are No Longer Qualified to Manage Our Own Affairs, How Algorithms ** (2024-03-22)

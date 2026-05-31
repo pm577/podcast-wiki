@@ -25,3 +25,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Jeff Immelt on Leadership Lessons from 16 Years as CEO @ GE, Incumbent Innovation; Why Some Ha** (2021-07-22)

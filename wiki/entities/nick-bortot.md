@@ -22,3 +22,8 @@ confidence: medium
 
 - [[founder-psychology]]
 - [[marketplaces]]
+
+
+## Episodes
+
+- **FF 007: Founding Europe's Largest Trading App with Nick Bortot, Founder @ Bux** (2015-08-07)

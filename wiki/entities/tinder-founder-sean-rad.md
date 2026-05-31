@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Tinder Founder Sean Rad on Lessons Scaling Tinder to the Fastest Growing Consumer Social App i** (2024-09-09)

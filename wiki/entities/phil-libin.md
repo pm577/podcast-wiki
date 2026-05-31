@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Phil Libin on Why The Concept of A Silicon Valley Style Startup Is Made To Benefit VCs, Why Th** (2018-10-26)

@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Scott Galloway on Are Billionaires Happy & The Impact of Money on Psychology and Self-Worth | ** (2025-07-07)

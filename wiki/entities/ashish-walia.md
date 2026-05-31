@@ -25,3 +25,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC FF 019: 500 Startups Week: Life As A 500 Startups Portfolio Company with Ashish Walia, Co-Foun** (2015-10-30)

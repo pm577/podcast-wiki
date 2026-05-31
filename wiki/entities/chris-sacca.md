@@ -24,3 +24,10 @@ confidence: medium
 - [[consumer]]
 - [[enterprise-saas]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Lessons From Working with Chris Sacca, The Rise Of Mobile Commerce and Improving Push Notifica** (2016-01-27)
+- **20VC: Chris Sacca on Coming Out of Retirement To Unf**k The Planet with Lowercarbon, How Chris Evalu** (2021-10-11)
+- **20VC: The Memo: Chris Sacca on Why We Are Breeding a Generation of Entitled Assholes, Harley Finkels** (2022-05-04)

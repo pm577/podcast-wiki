@@ -25,3 +25,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Slack Founder Stewart Butterfield on Leadership Styles, Decision-Making, The 3 Levels of Wealt** (2020-11-16)

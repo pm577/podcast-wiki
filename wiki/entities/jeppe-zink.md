@@ -24,3 +24,8 @@ confidence: medium
 - [[fintech]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 087: From The Investors Of Spotify, TrustPilot and Klarna with Jeppe Zink, General Partner @ N** (2015-11-11)

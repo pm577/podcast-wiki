@@ -23,3 +23,10 @@ confidence: medium
 - [[consumer]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Semil Shah on Why The Most Important Thing An Investor Can Do Is Attract Follow On & The Funda** (2016-07-25)
+- **20VC: Semil Shah on How To Raise An Institutional Venture Fund, Why LPs Mostly Have Reserve Allocati** (2017-10-23)
+- **20VC: Semil Shah on The Biggest Mistakes VCs and LPs Made Over the Last 24 Months, Why LP Churn is C** (2022-11-21)

@@ -1,0 +1,33 @@
+---
+type: Entity
+id: daniel-gross-bought
+name: Daniel Gross Bought
+source: 20vc
+appearances: 1
+first_episode: 2025-06-26
+last_episode: 2025-06-26
+tags: ["ai-ml", "enterprise-saas", "hiring-culture", "venture-capital"]
+related_concepts: []
+key_views: ["Agenda: 04:21 - The Meta Acquisition Bombshell: Nat Friedman & Daniel Gross Join Facebook?!"]
+---
+
+# Daniel Gross Bought
+
+**Source:** 20VC Podcast
+**Appearances:** 1 episode
+**First episode:** 2025-06-26
+**Last episode:** 2025-06-26
+**Tags:** ai-ml, enterprise-saas, hiring-culture, venture-capital
+
+## Episodes
+
+- **20VC: Nat Friedman and Daniel Gross Bought with Zuck's $100BN AI Budget | Navan Files to Go Public a** (2025-06-26)
+
+## Key Views
+
+- Agenda: 04:21 - The Meta Acquisition Bombshell: Nat Friedman & Daniel Gross Join Facebook?!
+
+## Research Context
+
+From **20VC: Nat Friedman and Daniel Gross Bought with Zuck's $100BN AI Budget | Navan Files to Go Public a**:
+Agenda: 04:21 - The Meta Acquisition Bombshell: Nat Friedman & Daniel Gross Join Facebook?! 06:00 - Facebook's $100 Billion Gamble: Can Zuck Buy the Future? 09:27 - The "Magic Room" Theory: Why Only Insiders Get Billion-Dollar Paydays 11:27 - Is Loyalty Dead in Silicon Valley? The Great Talent Exodus 16:00 - Harvey's $5 Billion Valuation: Genius or Bubble? 19:00 - The AI Gold Rush: Can Software Really Eat Human Labor? 22:00 - The B2B Unicorn Dilemma: Are There Enough $100B Companies? 25:00 - IPO

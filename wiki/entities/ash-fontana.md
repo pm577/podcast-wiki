@@ -24,3 +24,8 @@ confidence: medium
 - [[enterprise-saas]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Ash Fontana on The 5 Core Characteristics That Make Data Valuable, What VCs Can Learn From Ita** (2019-11-18)

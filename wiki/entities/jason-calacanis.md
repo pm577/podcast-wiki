@@ -22,3 +22,8 @@ confidence: medium
 
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Jason Calacanis on The 4 Questions Investors Must Ask Founders, Whether YC Have Scaled Their P** (2017-08-14)

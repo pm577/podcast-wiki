@@ -55,3 +55,8 @@ Fadell shares how the best product teams conduct post-mortems and product review
 - [[climate-tech]]
 - [[leadership]]
 - [[apple]]
+
+
+## Episodes
+
+- **20VC: Tony Fadell on The 3 Hats of Being a CEO, How the Best Leaders Inspire, How to Create Your Own** (2022-07-25)

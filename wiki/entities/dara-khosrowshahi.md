@@ -23,3 +23,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Uber CEO, Dara Khosrowshahi on Why Uber Eats is Not Losing the Fight to Doordash | Uber's M&A ** (2023-03-27)

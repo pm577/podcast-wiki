@@ -25,3 +25,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Eugene Wei on "Status as a Service", Why Networks Grow and Stop Growing, The Worst Design Choi** (2021-11-22)

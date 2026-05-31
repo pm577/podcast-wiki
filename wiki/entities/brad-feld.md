@@ -22,3 +22,8 @@ confidence: medium
 
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Brad Feld on Why Market Size At Early Stage Is Not Helpful, His Biggest Learnings From The Boo** (2019-09-30)

@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[fintech]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 030: VC Funds, Angels and IPOs with John Taylor, Head of Research @ NVCA** (2015-04-23)

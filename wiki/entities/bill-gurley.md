@@ -25,3 +25,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[go-to-market]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Most Downloaded Episode of 2019 with Bill Gurley, General Partner @ Benchmark Capital** (2019-12-23)

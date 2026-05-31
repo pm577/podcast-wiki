@@ -25,3 +25,8 @@ confidence: medium
 - [[go-to-market]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Carta Founder Henry Ward on Why The Best Companies Are Not Product Led But Distribution Led, 3** (2019-04-12)

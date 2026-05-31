@@ -23,3 +23,8 @@ confidence: medium
 - [[go-to-market]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 045: From Idea to Pitch with Alan Jones, Founding Investor @ Startmate** (2015-06-15)

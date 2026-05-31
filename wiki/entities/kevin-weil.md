@@ -60,3 +60,8 @@ Kevin's perspective on where startups can compete: the foundational model compan
 - [[startup-advice]]
 - [[leadership]]
 - [[user-experience]]
+
+
+## Episodes
+
+- **20VC: Kevin Weil on The Biggest Lessons from Leading Product at Instagram and Twitter | How Working ** (2022-10-07)

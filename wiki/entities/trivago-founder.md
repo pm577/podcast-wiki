@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Trivago Founder on Why Incumbents Have Lost Their Main Business Model, Why You Have To Destroy** (2017-06-02)

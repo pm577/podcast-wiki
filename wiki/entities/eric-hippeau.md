@@ -24,3 +24,8 @@ confidence: medium
 - [[consumer]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC: Running Lerer Hippeau Ventures Like A Startup with Eric Hippeau, Managing Partner @ Lerer Hip** (2015-12-21)

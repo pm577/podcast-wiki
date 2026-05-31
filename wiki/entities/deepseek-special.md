@@ -25,3 +25,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Deepseek Special: Is Deepseek a Weapon of the CCP | How Should OpenAI and the US Government Re** (2025-01-30)

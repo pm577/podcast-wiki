@@ -25,3 +25,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[go-to-market]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Andrew NG on The Biggest Bottlenecks in AI | How LLMs Can Be Used as a Geopolitical Weapon | D** (2025-11-17)

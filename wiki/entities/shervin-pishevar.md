@@ -22,3 +22,8 @@ confidence: medium
 
 - [[ai-ml]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Shervin Pishevar on The Epic Uber War and What Really Happened in the Firing of Travis Kalanic** (2025-01-13)

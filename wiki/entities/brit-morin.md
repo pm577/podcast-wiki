@@ -25,3 +25,8 @@ confidence: medium
 - [[marketplaces]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Why The Evolution of Digital Media Presents A Multi $Bn Opportunity with Brit Morin, Founder &** (2016-09-30)

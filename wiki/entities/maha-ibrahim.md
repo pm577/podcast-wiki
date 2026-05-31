@@ -22,3 +22,8 @@ confidence: medium
 
 - [[consumer]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 031: Investing in Gaming, Luxury Goods and Disruption with Maha Ibrahim, General Partner @ Can** (2015-04-27)

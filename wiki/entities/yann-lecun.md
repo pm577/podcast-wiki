@@ -22,3 +22,8 @@ confidence: medium
 
 - [[ai-ml]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Yann LeCun on Why Artificial Intelligence Will Not Dominate Humanity, Why No Economists Believ** (2023-05-15)

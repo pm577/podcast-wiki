@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: David Friedberg on The Framework for Business Value Creation, The Bifurcation in Venture Today** (2022-03-14)

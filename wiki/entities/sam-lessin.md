@@ -43,3 +43,8 @@ Sam's practical rules for founders are disarmingly simple but widely ignored: sh
 - [[social-skills]]
 - [[trust-building]]
 - [[founder-advice]]
+
+
+## Episodes
+
+- **20VC: Sam Lessin on Why Bots Will Change Business & The Internet Has Mostly Failed** (2016-05-25)

@@ -22,3 +22,8 @@ confidence: medium
 
 - [[ai-ml]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 033: The Pros and Cons of Venture Capital, Atomico and Entrepreneurship with Chris Dark, Presi** (2015-05-04)

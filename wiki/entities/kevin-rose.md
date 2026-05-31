@@ -22,3 +22,8 @@ confidence: medium
 
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Kevin Rose on Putting The Entire Fund Into Uber, The Future For Mobile & Whether Angels Should** (2017-06-12)

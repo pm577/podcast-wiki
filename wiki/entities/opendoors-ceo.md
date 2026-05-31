@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[go-to-market]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Opendoor's CEO on The Greatest Turnaround in Tech | OpenAI and Oracle: How Can Either Afford t** (2025-09-18)

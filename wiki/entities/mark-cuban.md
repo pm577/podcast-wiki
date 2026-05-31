@@ -24,3 +24,9 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Mark Cuban on His Relationship To Wealth and Risk, Why Coming Out of The Pandemic Will Be The ** (2020-05-04)
+- **20VC: Mark Cuban on Reshaping the Pharmaceuticals Industry, How To Hire and Build Truly Great Teams ** (2022-02-04)

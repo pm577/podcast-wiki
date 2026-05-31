@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Carvana CEO on Buiding a $50B Company, Losing 99% and Coming Back | Ernest Garcia: Inside the ** (2025-04-07)

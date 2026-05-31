@@ -21,3 +21,8 @@ confidence: medium
 ## Related Concepts
 
 - [[founder-psychology]]
+
+
+## Episodes
+
+- **FF 009: How To Leverage Your Connections To Grow Your Business with Sarah Schupp, Founder & CEO @ Un** (2015-08-21)

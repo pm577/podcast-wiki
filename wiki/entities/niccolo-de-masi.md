@@ -22,3 +22,8 @@ confidence: medium
 
 - [[ai-ml]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Niccolo De Masi on The Bursting Of The Tech Bubble and What It Takes To Be A Celebrity Partner** (2016-03-11)

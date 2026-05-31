@@ -24,3 +24,9 @@ confidence: medium
 - [[founder-psychology]]
 - [[go-to-market]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Marcelo Claure, CEO of Softbank Group International on Lessons From Investing $1BN Per Week wi** (2021-08-30)
+- **20VC: Marcelo Claure & Shu Nyatta on Lessons from Investing $7.5BN at Softbank & Why Dumb Money has ** (2023-07-31)

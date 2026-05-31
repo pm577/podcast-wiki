@@ -25,3 +25,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Gil Penchina on Building The World's Largest AngelList Syndicate with Flight.vc** (2016-02-08)

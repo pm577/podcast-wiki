@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 094: Kanyi Maqubela @ Collaborative Fund on Rocketships, Feedback Loops and Turning Lemons Int** (2015-12-07)

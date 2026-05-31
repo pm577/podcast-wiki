@@ -25,3 +25,8 @@ confidence: medium
 - [[go-to-market]]
 - [[marketplaces]]
 - [[product-strategy]]
+
+
+## Episodes
+
+- **FF 010: Becoming Europe's Hottest Startup with Carl Waldekranz, Co-Founder and CEO @ Tictail** (2015-08-28)

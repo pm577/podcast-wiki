@@ -25,3 +25,8 @@ confidence: medium
 - [[enterprise-saas]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: The Future For Autonomous Vehicles & How Software Is Eating Cars with Nikhil Basu Trivedi, Inv** (2016-06-01)

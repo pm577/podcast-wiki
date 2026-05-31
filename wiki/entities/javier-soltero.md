@@ -22,3 +22,8 @@ confidence: medium
 
 - [[enterprise-saas]]
 - [[go-to-market]]
+
+
+## Episodes
+
+- **FF 012: Acquired by Microsoft for $200m with Javier Soltero @ Microsoft** (2015-09-06)

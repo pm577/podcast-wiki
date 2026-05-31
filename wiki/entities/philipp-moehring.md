@@ -21,3 +21,8 @@ confidence: medium
 ## Related Concepts
 
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC: Philipp Moehring, Head of AngelList Europe on Scaling Seed Stage Funding and Why 500 Is Not Y** (2016-01-06)

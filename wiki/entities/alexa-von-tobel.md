@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Alexa Von Tobel on Raising NYC's Largest Ever Female Led Fund , Portfolio Construction, Compre** (2020-01-31)

@@ -25,3 +25,8 @@ confidence: medium
 - [[go-to-market]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Chamath Palihapitiya on Why IPOs and Direct Listings Are Broken, Turning Social Capital Into A** (2020-07-13)

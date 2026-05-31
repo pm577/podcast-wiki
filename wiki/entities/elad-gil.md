@@ -24,3 +24,10 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Elad Gil on Becoming One of Silicon Valleys Top Angels, Why Most People Get Market Sizing Wron** (2017-06-21)
+- **20VC: Elad Gil's High Growth Handbook on The Commonalities of The Truly Great CEOs, How To Hire The ** (2018-07-17)
+- **20VC: Elad Gil on Startup Offense and Defence in a Recession, How The Venture Landscape Has Shifted ** (2020-05-26)

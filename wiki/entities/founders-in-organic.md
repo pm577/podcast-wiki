@@ -23,3 +23,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: How Investors Can Build Relationships with Founders In Organic, Non-Transactional Ways & How V** (2017-03-27)

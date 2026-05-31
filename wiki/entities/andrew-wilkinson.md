@@ -64,3 +64,8 @@ Andrew has automated his entire workflow using Lindy.ai (no personal connection 
 - [[ai-automation]]
 - [[lazy-leadership]]
 - [[berkshire-hathaway]]
+
+
+## Episodes
+
+- **20VC: Andrew Wilkinson on Building The Berkshire Hathway of Tech, Sustainable vs Unsustainable Growt** (2020-06-22)

@@ -38,3 +38,8 @@ Marc Andreessen appeared on Lenny's Podcast to discuss the real ai boom hasn't e
 - [[nikhyl-singhal]]
 - [[simon-willison]]
 - [[stewart-butterfield]]
+
+
+## Episodes
+
+- **20VC: Marc Andreessen on The Future of Venture Capital: Will a16z Go Public | Why Labour Displacemen** (2026-03-30)

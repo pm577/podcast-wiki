@@ -1,25 +1,33 @@
 ---
-title: David Tisch
-created: 2026-05-31
-updated: 2026-05-31
-type: entity
-tags: [person, venture-capital, founder-psychology, ai-ml]
-sources:
-  - raw/transcripts/20vc/20vc-2024-02-05-20vc-the-biggest-misconceptio.md
-confidence: medium
+type: Entity
+id: david-tisch
+name: David Tisch
+source: 20vc
+appearances: 1
+first_episode: 2021-05-04
+last_episode: 2021-05-04
+tags: ["ai-ml", "founder-psychology", "venture-capital"]
+related_concepts: []
+key_views: ["David Tisch is the Founder and Managing Partner @ Box Group, one of the leading seed focused firms of the last decade with a portfolio including Airtable, Glossier, PillPack, Plaid and many more."]
 ---
-
 
 # David Tisch
 
-*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+**Source:** 20VC Podcast
+**Appearances:** 1 episode
+**First episode:** 2021-05-04
+**Last episode:** 2021-05-04
+**Tags:** ai-ml, founder-psychology, venture-capital
 
-## Episode Appearances
+## Episodes
 
-- [[20vc-2024-02-05-20vc-the-biggest-misconceptio]] — *to be summarized*
+- **20VC: David Tisch on Why Ownership in Venture Does Not Matter, His Biggest Investing Misses and Hits** (2021-05-04)
 
-## Related Concepts
+## Key Views
 
-- [[ai-ml]]
-- [[founder-psychology]]
-- [[venture-capital]]
+- David Tisch is the Founder and Managing Partner @ Box Group, one of the leading seed focused firms of the last decade with a portfolio including Airtable, Glossier, PillPack, Plaid and many more.
+
+## Research Context
+
+From **20VC: David Tisch on Why Ownership in Venture Does Not Matter, His Biggest Investing Misses and Hits**:
+David Tisch is the Founder and Managing Partner @ Box Group, one of the leading seed focused firms of the last decade with a portfolio including Airtable, Glossier, PillPack, Plaid and many more. Prior to founding Box, David was Managing Director of Techstars New York and was a prolific angel investor making early angel investments in the likes of Vine and Warby Parker to name a few.    In Today's Episode with David Tisch You Will Learn:   1.) How David made his way into the world of tech and s

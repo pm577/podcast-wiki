@@ -25,3 +25,8 @@ confidence: medium
 - [[consumer]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Zach Weinberg on Whether A Company is a Democracy, The Importance of Ownership, The Rise of Pr** (2020-11-06)

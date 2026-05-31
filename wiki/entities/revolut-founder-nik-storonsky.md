@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[go-to-market]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Revolut Founder Nik Storonsky on When and Where Revolut Will IPO & What Revolut Need to Do to ** (2024-12-04)

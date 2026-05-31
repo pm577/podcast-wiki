@@ -25,3 +25,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Revolut Founder Nikolay Storonsky on His Leadership Style and Relationship To Ambition, His Bi** (2021-04-12)

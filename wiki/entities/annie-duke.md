@@ -61,3 +61,8 @@ Annie's personal reflection on Daniel Kahneman: his defining trait was not his g
 - [[hiring-rubrics]]
 - [[quitting]]
 - [[meeting-facilitation]]
+
+
+## Episodes
+
+- **20VC: Annie Duke on Reversible vs Irreversible Decisions, How To Evaluate Risk, The Theory of Sunk C** (2021-01-11)

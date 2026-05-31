@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Tyler Willis on How To Be Innovative With Customer Acquisition and The Future Of Innovation** (2016-02-17)

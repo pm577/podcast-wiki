@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Tim Draper on Investing In Tesla, The Best Pitch He Has Ever Seen & The Evolution of Venture a** (2016-02-22)

@@ -25,3 +25,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **Founder's Friday 001: How to Create Great Company Culture with Anand Sanwal, Founder @ CB Insights** (2015-06-26)

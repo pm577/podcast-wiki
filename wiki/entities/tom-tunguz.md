@@ -23,3 +23,8 @@ confidence: medium
 - [[consumer]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Tom Tunguz on Why Now Is The Best Time To Be Investing and The Effect of Late Stage Valuations** (2016-03-07)

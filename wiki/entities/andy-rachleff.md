@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Andy Rachleff, Founder @ Benchmark & Wealthfront on What Makes The Best CEO & Board Member & W** (2016-06-20)

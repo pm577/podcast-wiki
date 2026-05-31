@@ -24,3 +24,8 @@ confidence: medium
 - [[consumer]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Gary Vaynerchuk on The Most Painful Lessons Learned but Why it was Good to Learn Them, Why You** (2022-06-20)

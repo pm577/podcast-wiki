@@ -25,3 +25,8 @@ confidence: medium
 - [[marketplaces]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Ryan Caldbeck on Why The Business Model of VC is Broken, Who is To Blame, How The Best Funds W** (2018-11-02)

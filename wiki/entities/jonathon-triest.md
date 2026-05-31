@@ -23,3 +23,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 055: VC Done Right with Jonathon Triest @ Ludlow Ventures** (2015-07-20)

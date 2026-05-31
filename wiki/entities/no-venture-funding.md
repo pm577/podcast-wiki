@@ -25,3 +25,8 @@ confidence: medium
 - [[go-to-market]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: The Memo: Scaling to $600M Revenues with No Venture Funding, The Most In Detail Breakdown of C** (2023-04-05)

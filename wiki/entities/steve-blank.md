@@ -22,3 +22,8 @@ confidence: medium
 
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Steve Blank on Why The Startup Ecosystem is Partially A Ponzi Scheme, 3 Things That Determine ** (2020-07-20)

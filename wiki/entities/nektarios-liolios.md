@@ -23,3 +23,8 @@ confidence: medium
 - [[fintech]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 017: Nektarios Liolios of Startupbootcamp on Fintech, Pitching and London's Tech Scene** (2015-03-05)

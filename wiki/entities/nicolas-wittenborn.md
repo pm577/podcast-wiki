@@ -23,3 +23,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 057: The Investor Checklist with Nicolas Wittenborn, VC @ Point Nine Capital** (2015-07-27)

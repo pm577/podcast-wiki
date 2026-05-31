@@ -24,3 +24,8 @@ confidence: medium
 - [[consumer]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Justin Kan on Why We Have To Normalize Vulnerability in Startups Today, Why Attaching Happines** (2019-06-21)

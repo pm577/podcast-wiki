@@ -21,3 +21,8 @@ confidence: medium
 ## Related Concepts
 
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Will LPs Replace GPs with Chris Douvos, Managing Director @ VIA** (2016-06-15)

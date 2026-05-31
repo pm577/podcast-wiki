@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Segment Founder Peter Reinhardt on His Learning Process, How Great Leaders Listen and Encourag** (2021-04-22)

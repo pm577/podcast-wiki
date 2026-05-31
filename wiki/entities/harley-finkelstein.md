@@ -25,3 +25,8 @@ confidence: medium
 - [[marketplaces]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Shopify President, Harley Finkelstein on What is Being a Good Husband, What is Being a Good Fa** (2022-03-07)

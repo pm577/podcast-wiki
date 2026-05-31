@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Sarah Kunst on Why There Is Plenty Of Investor Money Still Available, The Megan Markle Effect ** (2020-05-15)

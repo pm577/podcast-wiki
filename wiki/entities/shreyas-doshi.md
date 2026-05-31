@@ -32,3 +32,8 @@ Shreyas Doshi appeared on Lenny's Podcast to discuss product management framewor
 - [[product-management]]
 - [[startups]]
 - [[leadership]]
+
+
+## Episodes
+
+- **20 Product: Shreyas Doshi on The Three Different Types of Product Leaders and How To Hire Them, The ** (2022-08-03)

@@ -21,3 +21,8 @@ confidence: medium
 ## Related Concepts
 
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Grammy Nominee Aloe Blacc on Working with Avicii on "Wake Me Up", The Art of Great Storytellin** (2023-02-17)

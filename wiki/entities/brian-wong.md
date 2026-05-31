@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC FF 018: Brian Wong, Founder @ Kiip on Raising $30m in VC Funding by 24** (2015-10-23)

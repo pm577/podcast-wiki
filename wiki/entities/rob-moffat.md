@@ -24,3 +24,8 @@ confidence: medium
 - [[marketplaces]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 047: 4 Ways Investors Find Great Startups with Rob Moffat, Principal @ Balderton Capital** (2015-06-22)

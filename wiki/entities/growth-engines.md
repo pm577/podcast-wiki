@@ -24,3 +24,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC The Memo: Inside the Growth Engines of Facebook, Twitter, Instagram and Instacart with the Grow** (2022-03-25)

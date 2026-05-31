@@ -25,3 +25,8 @@ confidence: medium
 - [[go-to-market]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC FF 024: Raising $33m in VC Funding with Nikos Moraitakis, Founder & CEO @ Workable** (2015-11-27)

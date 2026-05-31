@@ -25,3 +25,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Ashton Kutcher on Early Lessons From Investing in Airbnb and Spotify, Why VC Ownership Require** (2020-02-17)

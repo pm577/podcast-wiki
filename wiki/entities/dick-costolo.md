@@ -25,3 +25,8 @@ confidence: medium
 - [[go-to-market]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Dick Costolo on The Balance of Vision and Realism in Startups, The Biggest Challenge in Scalin** (2018-02-12)

@@ -24,3 +24,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 056: The Life Cycle of Startups with Guy Turner, Partner @ Hyde Park Venture Partners** (2015-07-22)

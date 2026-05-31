@@ -22,3 +22,8 @@ confidence: medium
 
 - [[deeptech-hardware]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC: Investing in Hardware and The Future of IOT with Kate Shillo, Director @ Galvanize Ventures** (2016-01-13)

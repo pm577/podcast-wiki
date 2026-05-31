@@ -25,3 +25,8 @@ confidence: medium
 - [[go-to-market]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Mark Suster on The Biggest Fundraising Lessons for VCs, Why the Correction in Venture is Still** (2024-05-01)

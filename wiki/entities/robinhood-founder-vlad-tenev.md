@@ -24,3 +24,9 @@ confidence: medium
 - [[fintech]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Robinhood Founder Vlad Tenev on The Single Most Important Thing Leadership is Responsible For,** (2020-11-30)
+- **20VC: Robinhood Founder Vlad Tenev on His Biggest Lessons Managing Through A Crisis, The Events of T** (2021-03-04)

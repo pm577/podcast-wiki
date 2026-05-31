@@ -25,3 +25,8 @@ confidence: medium
 - [[go-to-market]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC FF 022: Crowdfunding Is Here To Stay with Ayan Mitra, Founder & CEO @ Crowdbnk** (2015-11-20)

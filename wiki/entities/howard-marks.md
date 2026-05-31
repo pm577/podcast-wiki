@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Howard Marks on How COVID-19 Impacts Our Economy, Liquidity and National Debt, Why The Theory ** (2020-03-30)

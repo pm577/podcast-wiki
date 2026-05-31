@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Investing In The Next Frontiers Of Tech & Harry Potter with Adam Draper, Founder & CEO @ Boost** (2016-02-24)

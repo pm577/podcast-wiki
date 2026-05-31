@@ -25,3 +25,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Loom Founder Joe Thomas on Whether To Take Multi-Stage Money at Seed, How Early Stage Founders** (2020-08-07)

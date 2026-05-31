@@ -26,3 +26,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Casper Founder Philip Krim on The Right Way To Think About Marketing Channel Diversification, ** (2018-08-31)

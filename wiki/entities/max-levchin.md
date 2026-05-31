@@ -54,3 +54,8 @@ Levchin discusses the unexpected challenges of scaling Affirm: the complexity of
 - [[paypal-mafia]]
 - [[organizational-culture]]
 - [[consumer-finance]]
+
+
+## Episodes
+
+- **20VC: Max Levchin on What Makes A Truly Great CEO, Why Self-Awareness Is The Most Important Trait Fo** (2017-07-14)

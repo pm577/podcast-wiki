@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Sam Altman on The Trajectory of Model Capability Improvements: Will Scaling Laws Continue | Se** (2024-11-04)

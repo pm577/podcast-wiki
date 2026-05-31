@@ -23,3 +23,8 @@ confidence: medium
 - [[enterprise-saas]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 059: How To Approach VCs with Arteen Arabshahi, VC @ Karlin Ventures** (2015-08-03)

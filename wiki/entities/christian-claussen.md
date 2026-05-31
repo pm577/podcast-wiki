@@ -22,3 +22,8 @@ confidence: medium
 
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 048: What Do VC's Really Add To Startups with Christian Claussen, Managing Partner @ Ventech** (2015-06-24)

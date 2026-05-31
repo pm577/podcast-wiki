@@ -25,3 +25,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Turning Down Apple & Getting Funded By Chamath @ Social Capital with Dhananja Jayalath, Co-Fou** (2016-08-05)

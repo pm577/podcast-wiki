@@ -1,25 +1,33 @@
 ---
-title: Michael Eisenberg
-created: 2026-05-31
-updated: 2026-05-31
-type: entity
-tags: [person, venture-capital, founder-psychology, ai-ml]
-sources:
-  - raw/transcripts/20vc/20vc-2024-06-19-20vc-foundation-models-are-th.md
-confidence: medium
+type: Entity
+id: michael-eisenberg
+name: Michael Eisenberg
+source: 20vc
+appearances: 1
+first_episode: 2021-12-06
+last_episode: 2021-12-06
+tags: ["venture-capital"]
+related_concepts: []
+key_views: ["Bill Gurley is a General Partner @ Benchmark, one of the most successful funds of the last decade with a portfolio including Uber, Twitter, Dropbox, Modern Treasury, Snapchat, StitchFix, and many more"]
 ---
-
 
 # Michael Eisenberg
 
-*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+**Source:** 20VC Podcast
+**Appearances:** 1 episode
+**First episode:** 2021-12-06
+**Last episode:** 2021-12-06
+**Tags:** venture-capital
 
-## Episode Appearances
+## Episodes
 
-- [[20vc-2024-06-19-20vc-foundation-models-are-th]] — *to be summarized*
+- **20VC: Bill Gurley and Michael Eisenberg on The First Signs of an Impending Bust, What Happens with a** (2021-12-06)
 
-## Related Concepts
+## Key Views
 
-- [[ai-ml]]
-- [[founder-psychology]]
-- [[venture-capital]]
+- Bill Gurley is a General Partner @ Benchmark, one of the most successful funds of the last decade with a portfolio including Uber, Twitter, Dropbox, Modern Treasury, Snapchat, StitchFix, and many more
+
+## Research Context
+
+From **20VC: Bill Gurley and Michael Eisenberg on The First Signs of an Impending Bust, What Happens with a**:
+Bill Gurley is a General Partner @ Benchmark, one of the most successful funds of the last decade with a portfolio including Uber, Twitter, Dropbox, Modern Treasury, Snapchat, StitchFix, and many more. As for Bill, widely recognized as one of the greats in venture having worked with GrubHub, NextDoor, Uber, OpenTable, Stitch Fix, and Zillow. Prior to Benchmark, Bill was a partner with Hummer Winblad Venture Partners.   Michael Eisenberg spent 15 years as a General Partner @ Benchmark working al

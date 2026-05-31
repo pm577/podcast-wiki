@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Affirm Max Levchin on Why Grading Talent by Letter (A or B) is Total BS | How to Create a Cult** (2025-02-05)

@@ -25,3 +25,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[product-strategy]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Why Machine Intelligence Will Eat The World Of Software with Roy Bahat, Head of Bloomberg Beta** (2016-04-13)

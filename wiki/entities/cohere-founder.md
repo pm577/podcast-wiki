@@ -24,3 +24,8 @@ confidence: medium
 - [[enterprise-saas]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Cohere Founder on How Cohere Compete with OpenAI and Anthropic $BNs | Why Counties Should Fund** (2025-09-01)

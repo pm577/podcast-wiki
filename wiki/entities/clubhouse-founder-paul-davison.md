@@ -25,3 +25,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Clubhouse Founder Paul Davison on What Went Right and What Went Wrong | What Does Clubhouse Do** (2022-09-26)

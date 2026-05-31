@@ -23,3 +23,8 @@ confidence: medium
 - [[ai-ml]]
 - [[founder-psychology]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Lessons From Working with Bill Gates, How To Lead Without Authority and The Difference Between** (2020-12-28)

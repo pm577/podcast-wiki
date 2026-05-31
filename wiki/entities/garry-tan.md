@@ -83,3 +83,8 @@ Counter to the prevailing narrative, Garry believes the expansion of early-stage
 - [[ai-native-org]]
 - [[software-factory]]
 - [[closed-loop-system]]
+
+
+## Episodes
+
+- **20VC: Garry Tan on The Biggest Takeaways From Advising 700 Companies @ Y Combinator & Why Now Is The** (2016-12-14)

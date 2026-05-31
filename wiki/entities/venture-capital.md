@@ -22,3 +22,8 @@ confidence: medium
 
 - [[deeptech-hardware]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: How to Fix the UK Tech Ecosystem | Why We Need to Flood the UK with Venture Capital | What the** (2025-04-10)

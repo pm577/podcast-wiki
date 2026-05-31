@@ -22,3 +22,8 @@ confidence: medium
 
 - [[founder-psychology]]
 - [[product-strategy]]
+
+
+## Episodes
+
+- **Founders Friday 004: Life As A Non-Technical Co-Founder with Will Sacks, The Fertility King @ Kindar** (2015-07-17)

@@ -24,3 +24,10 @@ confidence: medium
 - [[founder-psychology]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Reid Hoffman on Investing in Airbnb and Passing on Stripe, The Different Styles of Truly Great** (2020-12-07)
+- **20VC: Reid Hoffman on Foundation Models: Who Wins & How Do Incumbents Respond | The Inflection AI De** (2024-06-10)
+- **20VC: Reid Hoffman on The Trump Administration | Elon Musk and DOGE | The US Defence Budget, NATO an** (2024-12-16)

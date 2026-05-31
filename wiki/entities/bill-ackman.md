@@ -22,3 +22,8 @@ confidence: medium
 
 - [[fintech]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Bill Ackman on The Banking Crisis, What the Fed Should Do, The Three-Tiered Banking System, Wh** (2023-03-20)

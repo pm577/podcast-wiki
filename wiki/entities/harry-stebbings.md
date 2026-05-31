@@ -1,26 +1,33 @@
 ---
-title: Harry Stebbings
-created: 2026-05-31
-updated: 2026-05-31
-type: entity
-tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml]
-sources:
-  - raw/transcripts/20vc/20vc-2026-01-24-20vc-raising-400m-for-20vc.md
-confidence: medium
+type: Entity
+id: harry-stebbings
+name: Harry Stebbings
+source: 20vc
+appearances: 1
+first_episode: 2017-05-08
+last_episode: 2017-05-08
+tags: ["founder-psychology", "venture-capital"]
+related_concepts: []
+key_views: ["Mattias Ljungman is a Co-Founder and General Partner @ Atomico, one of Europe's leading VC funds which Mattias launched in 2006 alongside Niklas Zennstrom."]
 ---
-
 
 # Harry Stebbings
 
-*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+**Source:** 20VC Podcast
+**Appearances:** 1 episode
+**First episode:** 2017-05-08
+**Last episode:** 2017-05-08
+**Tags:** founder-psychology, venture-capital
 
-## Episode Appearances
+## Episodes
 
-- [[20vc-2026-01-24-20vc-raising-400m-for-20vc]] — *to be summarized*
+- **20VC: Harry Stebbings on The Biggest Takeaways From Interviewing The World's Best Investors, What Ma** (2017-05-08)
 
-## Related Concepts
+## Key Views
 
-- [[ai-ml]]
-- [[founder-psychology]]
-- [[product-strategy]]
-- [[venture-capital]]
+- Mattias Ljungman is a Co-Founder and General Partner @ Atomico, one of Europe's leading VC funds which Mattias launched in 2006 alongside Niklas Zennstrom.
+
+## Research Context
+
+From **20VC: Harry Stebbings on The Biggest Takeaways From Interviewing The World's Best Investors, What Ma**:
+Mattias Ljungman is a Co-Founder and General Partner @ Atomico, one of Europe's leading VC funds which Mattias launched in 2006 alongside Niklas Zennstrom. Whilst at Atomico Mattias has been involved in significant exits and transcations including SUpercell (acquired by Softbank), Climate Corporation (acquired by Monsanto and 6Wunderkinder (acquired by Microsoft), just to name a few. As for Harry, Harry Stebbings is the founder of The Twenty Minute VC, the world's largest independent VC podcast

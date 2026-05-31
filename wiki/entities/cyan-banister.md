@@ -23,3 +23,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[hiring-culture]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Cyan Banister on Her Relationship To Money, Risk, Her Investment Decision-Making Process, Why ** (2020-10-19)

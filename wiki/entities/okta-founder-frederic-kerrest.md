@@ -25,3 +25,8 @@ confidence: medium
 - [[hiring-culture]]
 - [[marketplaces]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Okta Founder Frederic Kerrest on Why You Want To Be A Monopolist In A Small Market, The Bigges** (2019-05-03)

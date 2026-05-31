@@ -22,3 +22,8 @@ confidence: medium
 
 - [[consumer]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 080: How VCs Can Differentiate Themselves with Patricia Nakache, General Partner @ Trinity Ven** (2015-10-19)

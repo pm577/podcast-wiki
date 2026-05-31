@@ -24,3 +24,8 @@ confidence: medium
 - [[founder-psychology]]
 - [[go-to-market]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20VC: Mike Lazerow on Why How You Operate As a VC Is More Important Than Who You Are and What You Ha** (2021-08-02)

@@ -37,3 +37,8 @@ Melanie Perkins is CEO and co-founder of Canva, currently valued at over $42 bil
 - [[lenny-rachitsky]]
 - [[matt-mullenweg]]
 - [[marc-benioff]]
+
+
+## Episodes
+
+- **20VC: Start Niche, Move Broader & Become Profitable Quickly with Melanie Perkins, Founder & CEO @ Ca** (2016-06-10)

@@ -22,3 +22,8 @@ confidence: medium
 
 - [[biotech-health]]
 - [[venture-capital]]
+
+
+## Episodes
+
+- **20 VC 074: The Future of Healthcare with Bob Kocher, Partner @ Venrock** (2015-09-23)

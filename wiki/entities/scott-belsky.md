@@ -46,3 +46,9 @@ Belsky sees AI as the biggest transformation in creative tools since the shift t
 - [[adobe]]
 - [[ai-and-creativity]]
 - [[entrepreneurship]]
+
+
+## Episodes
+
+- **20VC: Scott Belsky on Why We Must Challenge Our Faith In The Strength of Resources, Why We Must Reth** (2019-01-07)
+- **20 Product: Scott Belsky on How to Hire Your Product Leader and Team, 3 Questions All Great Product ** (2022-02-09)
