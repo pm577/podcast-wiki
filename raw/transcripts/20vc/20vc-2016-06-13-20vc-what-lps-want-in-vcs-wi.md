@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-06-13",
   "title": "20VC: What LP's Want In VCs with Beezer Clarkson, Managing Director @ Sapphire Ventures",
-  "guest": "beezer-clarkson",
+  "guest": "beezer-clarkson-managing-director-sapphire-ventures",
   "tags": [
     "venture-capital",
     "founder-psychology"

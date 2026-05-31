@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-12-17",
   "title": "20VC: Retool Founder, David Hsu on Why YC Is Helpful Pre Product-Market Fit but Not Post and Why VCs",
-  "guest": "unknown-guest",
+  "guest": "20vc-retool-founder-david-hsu",
   "tags": [
     "venture-capital",
     "founder-psychology",

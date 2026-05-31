@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-11-16",
   "title": "20 VC 088: David Frankel @ Founder Collective: The Most Founder Friendly VC in Existence",
-  "guest": "unknown-guest",
+  "guest": "david-frankel-founder-collective-the",
   "tags": [
     "venture-capital",
     "founder-psychology"

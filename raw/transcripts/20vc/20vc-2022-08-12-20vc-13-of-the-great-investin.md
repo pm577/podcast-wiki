@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-08-12",
   "title": "20VC: 13 of the Great Investing Minds on When to Pay Up vs When To Remain Disciplined and Walk Becau",
-  "guest": "unknown-guest",
+  "guest": "20vc-13-of-the-great-investing-minds",
   "tags": [
     "venture-capital",
     "ai-ml"

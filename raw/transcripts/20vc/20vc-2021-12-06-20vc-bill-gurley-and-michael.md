@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-12-06",
   "title": "20VC: Bill Gurley and Michael Eisenberg on The First Signs of an Impending Bust, What Happens with a",
-  "guest": "unknown-guest",
+  "guest": "20vc-bill-gurley-and-michael-eisenberg",
   "tags": [
     "venture-capital"
   ],

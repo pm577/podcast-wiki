@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-05-18",
   "title": "20VC: 3 Questions Founders Must Stress Test VCs with, What Separates the Good From The Great VCs & W",
-  "guest": "seth-sternberg",
+  "guest": "20vc-3-questions-founders-must-stress-test-vcs-with",
   "tags": [
     "venture-capital",
     "founder-psychology",

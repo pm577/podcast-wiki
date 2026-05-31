@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-07-27",
   "title": "20VC: Mythbuster: Is Mobile Dying? Is AR/VR Overhyped? Is The Excitement Around Bots Justified with ",
-  "guest": "sean-flynn",
+  "guest": "20vc-mythbuster-is-mobile-dying-is-ar",
   "tags": [
     "venture-capital",
     "product-strategy",

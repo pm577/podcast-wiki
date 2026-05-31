@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-07-03",
   "title": "Founders Friday 002: Balderton's James Wise interviews 20VC Founder, Harry Stebbings",
-  "guest": "unknown-guest",
+  "guest": "founders-friday-002-baldertons-james-w",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-11-02",
   "title": "20VC: The Implications of a Biden vs a Trump Administration on Venture and Startups, How The Rise of",
-  "guest": "barry-eggers",
+  "guest": "20vc-the-implications-of-a-biden-vs-a-trump-administration",
   "tags": [
     "venture-capital",
     "ai-ml"

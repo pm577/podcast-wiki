@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-26",
   "title": "20Product: How Linkedin Does Product Reviews, A Post-Mortem on Stories, Linkedin Messenger and Spam ",
-  "guest": "tomer-cohen",
+  "guest": "20product-how-linkedin-does-product-reviews-a-post-mortem",
   "tags": [
     "founder-psychology",
     "go-to-market",

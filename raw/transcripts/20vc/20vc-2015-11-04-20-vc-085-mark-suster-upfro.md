@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-11-04",
   "title": "20 VC 085: Mark Suster @ Upfront Ventures on Being A Super Entrepreneur Driven VC",
-  "guest": "unknown-guest",
+  "guest": "mark-suster-upfront-ventures",
   "tags": [
     "venture-capital",
     "founder-psychology",

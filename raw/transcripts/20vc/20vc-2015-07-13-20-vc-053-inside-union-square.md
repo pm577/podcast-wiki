@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-07-13",
   "title": "20 VC 053: Inside Union Square Ventures with Jonathan Libov @ Union Square Ventures",
-  "guest": "jonathan-libov",
+  "guest": "jonathan-libov-union-square-ventures",
   "tags": [
     "venture-capital",
     "product-strategy",

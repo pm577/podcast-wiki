@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-03-01",
   "title": "20VC: Klarna Founder Sebastian Siemiatkowski on Scaling Europe's Most Valuable Private Tech Company,",
-  "guest": "mike-moritz",
+  "guest": "20vc-klarna-founder-sebastian-siemiatkowski",
   "tags": [
     "venture-capital",
     "founder-psychology",

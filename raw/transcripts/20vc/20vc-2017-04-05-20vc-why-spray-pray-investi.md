@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-04-05",
   "title": "20VC: Why Spray & Pray Investing Is Wrong, Why Data-Informed VC Beats Data Driven VC & What To Look ",
-  "guest": "josh-breinlinger",
+  "guest": "20vc-why-spray-pray-investing-is-wrong-why-data",
   "tags": [
     "venture-capital",
     "founder-psychology",

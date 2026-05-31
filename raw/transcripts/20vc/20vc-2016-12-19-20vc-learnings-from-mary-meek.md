@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-12-19",
   "title": "20VC: Learnings From Mary Meeker & Larry Summers, Missing Out On Uber & The Changing World of VC wit",
-  "guest": "canvas-partner",
+  "guest": "20vc-learnings-from-mary-meeker-larry-summers",
   "tags": [
     "venture-capital",
     "go-to-market",

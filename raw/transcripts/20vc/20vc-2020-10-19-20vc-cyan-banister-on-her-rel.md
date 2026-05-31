@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-10-19",
   "title": "20VC: Cyan Banister on Her Relationship To Money, Risk, Her Investment Decision-Making Process, Why ",
-  "guest": "unknown-guest",
+  "guest": "20vc-cyan-banister",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-06-12",
   "title": "20VC: Substack Founder Chris Best on The Future of Public Journalism, Why The Economics Of Attention",
-  "guest": "unknown-guest",
+  "guest": "20vc-substack-founder-chris-best",
   "tags": [
     "venture-capital",
     "founder-psychology",

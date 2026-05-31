@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-10-07",
   "title": "20 VC 077: Part 2: Kamal Ravikant: The Future Of Venture Capital",
-  "guest": "unknown-guest",
+  "guest": "part-2-kamal-ravikant-the-future-of-ve",
   "tags": [
     "venture-capital",
     "hiring-culture"

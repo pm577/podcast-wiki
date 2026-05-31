@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-01-11",
   "title": "20VC: Annie Duke on Reversible vs Irreversible Decisions, How To Evaluate Risk, The Theory of Sunk C",
-  "guest": "unknown-guest",
+  "guest": "20vc-annie-duke",
   "tags": [
     "venture-capital",
     "founder-psychology"

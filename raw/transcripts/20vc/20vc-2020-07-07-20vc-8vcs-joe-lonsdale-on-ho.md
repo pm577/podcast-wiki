@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-07-07",
   "title": "20VC: 8VC's Joe Lonsdale on How To Foster Contrarian Thinking Within Venture Partnerships, Why The B",
-  "guest": "unknown-guest",
+  "guest": "20vc-8vcs-joe-lonsdale",
   "tags": [
     "venture-capital",
     "product-strategy",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-09-17",
   "title": "20VC: Lessons Learned Scaling PillPack from Seed to Amazon Acquisition, Why Investors Should Spend M",
-  "guest": "david-frankel",
+  "guest": "20vc-lessons-learned-scaling-pillpack",
   "tags": [
     "venture-capital",
     "founder-psychology"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-10-06",
   "title": "20VC: Why CEOs Must Read Less & Listen Less, What VC Funding, Shelf Space & Time Have In Common & Wh",
-  "guest": "sami-inkinen",
+  "guest": "20vc-why-ceos-must-read-less-listen-less",
   "tags": [
     "venture-capital",
     "founder-psychology",

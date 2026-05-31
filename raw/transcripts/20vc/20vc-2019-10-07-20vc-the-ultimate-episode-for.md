@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-10-07",
   "title": "20VC: The Ultimate Episode For Emerging Managers: How To Determine How Big A Fund To Raise, What Is ",
-  "guest": "john-fein",
+  "guest": "20vc-the-ultimate-episode-for-emerging",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-05-11",
   "title": "20 Product: iPhone Creator, Tony Fadell on Marketing Lessons Learned from Steve Jobs, What is Truly ",
-  "guest": "unknown-guest",
+  "guest": "20-product-iphone-creator-tony-fadell",
   "tags": [
     "product-strategy",
     "hiring-culture"

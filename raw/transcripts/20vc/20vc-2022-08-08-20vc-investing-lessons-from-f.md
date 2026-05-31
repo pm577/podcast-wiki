@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-08-08",
   "title": "20VC: Investing Lessons from Fred Wilson and Why Small Funds Outperform Large Funds | Why the Secret",
-  "guest": "mo",
+  "guest": "20vc-investing-lessons",
   "tags": [
     "venture-capital",
     "founder-psychology",

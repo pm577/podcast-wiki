@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-09-25",
   "title": "20VC: The 4 Phases of Effective Decision-Making, The No 1 Quality of Good Decisions, How To Approach",
-  "guest": "shishir-mehrotra",
+  "guest": "20vc-the-4-phases-of-effective-decision",
   "tags": [
     "venture-capital",
     "founder-psychology",

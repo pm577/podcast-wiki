@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-10-16",
   "title": "20VC: How To Determine The Risks To Take vs To Pass On, Should Founders Meet Investors When Not Rais",
-  "guest": "spike-lipkin",
+  "guest": "20vc-how-to-determine-the-risks-to-take-vs-to-pass-on",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-07-22",
   "title": "20VC: Unity 3D's David Helgason on Building a $bn Business, Getting Funded By Sequoia and Powering T",
-  "guest": "unknown-guest",
+  "guest": "20vc-unity-3ds-david-helgason",
   "tags": [
     "venture-capital",
     "founder-psychology",

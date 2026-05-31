@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-10-14",
   "title": "20VC: Why The CEO Should Make As Few Decisions As Possible, The Trade-Off Between Freedom and Raisin",
-  "guest": "tristan-handy",
+  "guest": "20vc-why-the-ceo-should-make-as-few-decisions-as-possible-th",
   "tags": [
     "venture-capital",
     "founder-psychology",

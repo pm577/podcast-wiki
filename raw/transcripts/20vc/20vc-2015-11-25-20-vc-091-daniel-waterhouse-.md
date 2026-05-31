@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-11-25",
   "title": "20 VC 091: Daniel Waterhouse @ Balderton Capital on Investing Styles, Venture Landscapes and The Fut",
-  "guest": "unknown-guest",
+  "guest": "daniel-waterhouse-balderton-capital",
   "tags": [
     "venture-capital",
     "ai-ml"

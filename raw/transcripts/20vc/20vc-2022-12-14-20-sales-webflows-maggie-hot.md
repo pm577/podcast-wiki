@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-12-14",
   "title": "20 Sales: Webflow's Maggie Hott on When to Start and How to Scale the Best Outbound Sales Team, Why ",
-  "guest": "unknown-guest",
+  "guest": "20-sales-webflows-maggie-hott",
   "tags": [
     "venture-capital",
     "founder-psychology",

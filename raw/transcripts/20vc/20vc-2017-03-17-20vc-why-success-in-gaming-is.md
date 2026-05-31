@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-17",
   "title": "20VC: Why Success in Gaming is Like Success in VC, The Key To Building An Enduring Game & Why Few Me",
-  "guest": "kevin-chou",
+  "guest": "20vc-why-success-in-gaming-is-like-success-in-vc",
   "tags": [
     "venture-capital",
     "founder-psychology",

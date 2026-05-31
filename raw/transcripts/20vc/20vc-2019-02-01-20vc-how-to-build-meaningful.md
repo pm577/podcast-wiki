@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-02-01",
   "title": "20VC: How To Build Meaningful Relationships With Your Investors, 4 Key Elements CEOs Must Focus On I",
-  "guest": "joel-flory",
+  "guest": "20vc-how-to-build-meaningful-relationsh",
   "tags": [
     "venture-capital",
     "founder-psychology",

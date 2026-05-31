@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-06-01",
   "title": "20VC: Why Every Startup Will Either Fail or Rebrand, How To Do OKRs The Right Way & How To Know The ",
-  "guest": "jack-groetzinger",
+  "guest": "20vc-why-every-startup-will-either-fail-or-rebrand",
   "tags": [
     "venture-capital",
     "founder-psychology",

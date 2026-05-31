@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-02-08",
   "title": "20VC: Gil Penchina on Building The World's Largest AngelList Syndicate with Flight.vc",
-  "guest": "flight",
+  "guest": "20vc-gil-penchina",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-03-19",
   "title": "20 VC 021: Gender Equality, Startup Valuations and 'Friend Raising before Fund Raising with Sharon W",
-  "guest": "sharon-wienbar",
+  "guest": "sharon-w",
   "tags": [
     "venture-capital",
     "ai-ml",

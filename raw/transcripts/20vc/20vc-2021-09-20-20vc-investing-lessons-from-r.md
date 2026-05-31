@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-09-20",
   "title": "20VC: Investing Lessons From Rounds In Peloton and Square, Why Great Investing is Stock-Picking and ",
-  "guest": "hans-tung",
+  "guest": "20vc-investing-lessons-from-rounds-in-peloton-and-square-why",
   "tags": [
     "venture-capital",
     "ai-ml"

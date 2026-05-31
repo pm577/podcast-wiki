@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-09-27",
   "title": "20VC: Why VCs Have Forgotten Their Job To Invest In Entrepreneurs not Technologists, How To Know Whe",
-  "guest": "unknown-guest",
+  "guest": "20vc-why-vcs-have-forgotten-their-job-t",
   "tags": [
     "venture-capital",
     "go-to-market",

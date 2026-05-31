@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-03-13",
   "title": "20VC: 3 Addictions Of Early-Stage Startup Founders, How Founders Should Strategically Think Through ",
-  "guest": "adena-hefets",
+  "guest": "20vc-3-addictions-of-early",
   "tags": [
     "venture-capital",
     "founder-psychology",

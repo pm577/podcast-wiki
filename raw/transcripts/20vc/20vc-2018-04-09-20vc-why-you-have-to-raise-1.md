@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-04-09",
   "title": "20VC: Why You Have To Raise $100m+ If You Want To Go Big Today, The 5 Fundamentals To Starting and S",
-  "guest": "paul-hsiao",
+  "guest": "20vc-why-you-have-to-raise-100m-if-yo",
   "tags": [
     "venture-capital",
     "founder-psychology",

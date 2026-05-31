@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-10-12",
   "title": "20 VC 078: BETAWORKS WEEK: Matt Hartman, Director of Seed Investments @ Betaworks",
-  "guest": "unknown-guest",
+  "guest": "betaworks-week-matt-hartman",
   "tags": [
     "venture-capital",
     "founder-psychology",

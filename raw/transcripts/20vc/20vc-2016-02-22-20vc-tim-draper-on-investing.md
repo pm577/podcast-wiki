@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-02-22",
   "title": "20VC: Tim Draper on Investing In Tesla, The Best Pitch He Has Ever Seen & The Evolution of Venture a",
-  "guest": "unknown-guest",
+  "guest": "20vc-tim-draper",
   "tags": [
     "venture-capital",
     "product-strategy",

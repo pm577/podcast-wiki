@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-05-27",
   "title": "20VC: Y Combinator's New President, Geoff Ralston on The Single Most Important Perspective An Invest",
-  "guest": "unknown-guest",
+  "guest": "20vc-y-combinators-new-president-geoff-ralston",
   "tags": [
     "venture-capital",
     "founder-psychology",

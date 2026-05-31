@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-10-11",
   "title": "20VC: Chris Sacca on Coming Out of Retirement To Unf**k The Planet with Lowercarbon, How Chris Evalu",
-  "guest": "lowercarbon",
+  "guest": "20vc-chris-sacca",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-09-28",
   "title": "20VC: Dave Morin on Why Building A Fund Is Like A Company, Why Venture Is A Craft & The Journey To E",
-  "guest": "unknown-guest",
+  "guest": "20vc-dave-morin",
   "tags": [
     "venture-capital",
     "founder-psychology",

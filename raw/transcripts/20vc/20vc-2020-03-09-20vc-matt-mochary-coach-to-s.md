@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-03-09",
   "title": "20VC: Matt Mochary, Coach To Silicon Valley's Leading VCs & Founders on How To Deal with Imposter Sy",
-  "guest": "imposter-syndrome",
+  "guest": "20vc-matt-mochary-coach-to-silicon-valleys-leading-vcs-found",
   "tags": [
     "venture-capital",
     "founder-psychology",

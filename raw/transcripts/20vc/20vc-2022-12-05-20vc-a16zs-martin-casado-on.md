@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-12-05",
   "title": "20VC: a16z's Martin Casado on How the Venture Model is Broken, Why VCs Should Be Running Wall St, Wh",
-  "guest": "unknown-guest",
+  "guest": "20vc-a16zs-martin-casado",
   "tags": [
     "venture-capital",
     "founder-psychology",

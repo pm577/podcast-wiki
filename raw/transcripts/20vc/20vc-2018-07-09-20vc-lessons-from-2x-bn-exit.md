@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-07-09",
   "title": "20VC: Lessons From 2x $Bn Exits in Trulia and lastminute.com, 3 Leading Indicators That Suggest Pote",
-  "guest": "pete-flint",
+  "guest": "20vc-lessons-from-2x-bn-exits-in-truli",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-02-04",
   "title": "20VC: Mark Cuban on Reshaping the Pharmaceuticals Industry, How To Hire and Build Truly Great Teams ",
-  "guest": "unknown-guest",
+  "guest": "20vc-mark-cuban",
   "tags": [
     "venture-capital",
     "product-strategy",

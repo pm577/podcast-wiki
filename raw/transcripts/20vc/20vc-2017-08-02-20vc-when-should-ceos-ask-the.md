@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-08-02",
   "title": "20VC: When Should CEOs Ask Their VC For Help, When Do Companies Really Need A Board & What The Serie",
-  "guest": "max-gazor",
+  "guest": "20vc-when-should-ceos-ask-their-vc-for-help",
   "tags": [
     "venture-capital",
     "hiring-culture",

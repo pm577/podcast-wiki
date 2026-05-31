@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-02-14",
   "title": "20VC: How  Founders Should Think Through Distribution and Customer Acquisition Today, The Challenges",
-  "guest": "gabriel-weinberg",
+  "guest": "20vc-how-founders-should-think-through",
   "tags": [
     "venture-capital",
     "founder-psychology",

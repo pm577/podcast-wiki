@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-04-09",
   "title": "20 VC 026: Chris Redlitz on The Importance of People, Pivoting and The Last Mile",
-  "guest": "unknown-guest",
+  "guest": "chris-redlitz",
   "tags": [
     "venture-capital",
     "hiring-culture",

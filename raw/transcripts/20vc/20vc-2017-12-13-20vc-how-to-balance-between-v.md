@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-12-13",
   "title": "20VC: How To Balance Between Vision and Stubbornness, Why Speed Is The Most Important Startup Superp",
-  "guest": "james-currier",
+  "guest": "20vc-how-to-balance-between-vision-and-stubbornness",
   "tags": [
     "venture-capital",
     "founder-psychology",

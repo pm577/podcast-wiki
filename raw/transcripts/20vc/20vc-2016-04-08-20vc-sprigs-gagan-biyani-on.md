@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-04-08",
   "title": "20VC: Sprig's Gagan Biyani on The 3 Principles Of Fundraising and Building The World's Largest Resta",
-  "guest": "unknown-guest",
+  "guest": "20vc-sprigs-gagan-biyani",
   "tags": [
     "venture-capital",
     "founder-psychology",

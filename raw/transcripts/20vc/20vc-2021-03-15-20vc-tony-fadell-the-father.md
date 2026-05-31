@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-03-15",
   "title": "20VC: Tony Fadell \"The Father of The iPod\" on Mentors, Self-Doubt, Vulnerability, His Relationship T",
-  "guest": "unknown-guest",
+  "guest": "20vc-tony-fadell-the-father-of-the-ipod",
   "tags": [
     "venture-capital",
     "founder-psychology",

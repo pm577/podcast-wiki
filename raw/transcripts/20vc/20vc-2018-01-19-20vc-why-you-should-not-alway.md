@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-01-19",
   "title": "20VC: Why You Should Not Always Listen To Your Investors, The Pros and Cons of Strategic Investors &",
-  "guest": "scaling",
+  "guest": "20vc-why-you-should-not-always-listen-to-your-investors",
   "tags": [
     "venture-capital",
     "founder-psychology",

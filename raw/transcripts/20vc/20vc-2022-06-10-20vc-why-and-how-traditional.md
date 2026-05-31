@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-06-10",
   "title": "20VC: Why and How Traditional Venture Firms Need to Innovate, Building Spreadsheets To Figure Out Re",
-  "guest": "success",
+  "guest": "20vc-why-and-how-traditional-venture-fi",
   "tags": [
     "venture-capital",
     "founder-psychology",

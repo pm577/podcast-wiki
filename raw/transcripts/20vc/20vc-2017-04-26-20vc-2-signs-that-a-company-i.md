@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-04-26",
   "title": "20VC: 2 Signs That A Company Is Ready For IPO, Why Fund Cycles Are Too Short & Why Management Teams ",
-  "guest": "gene-frantz",
+  "guest": "20vc-2-signs-that-a-company-is-ready-for-ipo",
   "tags": [
     "venture-capital",
     "go-to-market",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-04-30",
   "title": "20VC: Why Follow-On Investments Are Always A Better Investment, Why Spray and Pray Investing Is Like",
-  "guest": "jerry-neumann",
+  "guest": "20vc-why-follow",
   "tags": [
     "venture-capital",
     "product-strategy",

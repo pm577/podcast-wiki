@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-11-19",
   "title": "20VC: Alexis Ohanian on Why Now Was The Right Time To Start Seven Seven Six, The 2 Very Distinct Typ",
-  "guest": "unknown-guest",
+  "guest": "20vc-alexis-ohanian",
   "tags": [
     "venture-capital",
     "founder-psychology",

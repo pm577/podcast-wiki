@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-11-10",
   "title": "20VC: Why Self-Awareness Is The Most Important Characteristic For Founders, When Is The Right Time F",
-  "guest": "lloyd-tabb",
+  "guest": "20vc-why-self",
   "tags": [
     "venture-capital",
     "founder-psychology",

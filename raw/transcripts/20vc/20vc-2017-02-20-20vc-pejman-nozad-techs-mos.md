@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-02-20",
   "title": "20VC: Pejman Nozad: Tech's Most Unlikely VC: From Yoghurt Shop To Investing In Startups Now Worth $2",
-  "guest": "unknown-guest",
+  "guest": "20vc-pejman-nozad-techs-most-unlikely",
   "tags": [
     "venture-capital",
     "hiring-culture"

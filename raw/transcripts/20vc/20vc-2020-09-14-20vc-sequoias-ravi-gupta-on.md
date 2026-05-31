@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-09-14",
   "title": "20VC: Sequoia's Ravi Gupta on His Lessons From The Hyper-Growth of Instacart, The Key Question To As",
-  "guest": "unknown-guest",
+  "guest": "20vc-sequoias-ravi-gupta",
   "tags": [
     "venture-capital",
     "go-to-market",

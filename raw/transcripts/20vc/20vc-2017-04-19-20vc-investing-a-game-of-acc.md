@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-04-19",
   "title": "20VC: Investing; A Game Of Access Or Picking, Why Technical DD At Seed Is Irrelevant & Why A Contrar",
-  "guest": "leo-polovets",
+  "guest": "20vc-investing-a-game-of-access-or-picking",
   "tags": [
     "venture-capital",
     "founder-psychology"

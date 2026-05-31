@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-05-30",
   "title": "20VC: Keith Rabois on Why Buy Low, Sell High Does Not Work in Venture, Keith's Biggest Lessons from ",
-  "guest": "unknown-guest",
+  "guest": "20vc-keith-rabois",
   "tags": [
     "venture-capital",
     "founder-psychology",

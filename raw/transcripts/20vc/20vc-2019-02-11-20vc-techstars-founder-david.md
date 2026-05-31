@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-02-11",
   "title": "20VC: Techstars Founder David Cohen on Why Seed Investing Is A Different Asset Class To Venture, Wha",
-  "guest": "unknown-guest",
+  "guest": "20vc-techstars-founder-david-cohen",
   "tags": [
     "venture-capital",
     "founder-psychology"

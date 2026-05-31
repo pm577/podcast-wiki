@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-10-23",
   "title": "20 VC FF 018: Brian Wong, Founder @ Kiip on Raising $30m in VC Funding by 24",
-  "guest": "unknown-guest",
+  "guest": "20-vc-ff-018-brian-wong-founder-kiip",
   "tags": [
     "venture-capital",
     "founder-psychology",

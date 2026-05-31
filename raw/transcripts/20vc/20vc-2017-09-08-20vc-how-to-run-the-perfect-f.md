@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-09-08",
   "title": "20VC: How To Run The Perfect Fundraising Process, Why Time Kills All Deals & Why You Have To Get VCs",
-  "guest": "wayne-chang",
+  "guest": "20vc-how-to-run-the-perfect-fundraising-process",
   "tags": [
     "venture-capital",
     "ai-ml"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-10-23",
   "title": "20VC: Semil Shah on How To Raise An Institutional Venture Fund, Why LPs Mostly Have Reserve Allocati",
-  "guest": "unknown-guest",
+  "guest": "20vc-semil-shah",
   "tags": [
     "venture-capital",
     "founder-psychology",

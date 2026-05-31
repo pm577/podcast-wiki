@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-04-18",
   "title": "20VC: The Best Determinant Of Product Market Fit & Why Prior Experience Is Not Required For Founder ",
-  "guest": "neeraj-agrawal",
+  "guest": "20vc-the-best-determinant-of-product-ma",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-07-01",
   "title": "20VC: Hiring 101; The Biggest Mistakes Founders Make in the Hiring Process | Fundraising; What to Op",
-  "guest": "daniel-yan",
+  "guest": "20vc-hiring-101-the-biggest-mistakes-f",
   "tags": [
     "venture-capital",
     "founder-psychology",

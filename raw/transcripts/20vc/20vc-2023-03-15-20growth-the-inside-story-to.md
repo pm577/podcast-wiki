@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-15",
   "title": "20Growth: The Inside Story to Uber's Hypergrowth Scaling; What Worked, What Did Not? | Spending a $1",
-  "guest": "adam-grenier",
+  "guest": "20growth-the-inside-story-to-ubers-hyp",
   "tags": [
     "go-to-market",
     "product-strategy",

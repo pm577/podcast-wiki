@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-07-20",
   "title": "20VC: Steve Blank on Why The Startup Ecosystem is Partially A Ponzi Scheme, 3 Things That Determine ",
-  "guest": "unknown-guest",
+  "guest": "20vc-steve-blank",
   "tags": [
     "venture-capital",
     "marketplaces"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-06-26",
   "title": "20VC: Bessemer's Jeremy Levine on Why We Are In A Fallow Period For Consumer, Why It Is Bogus That O",
-  "guest": "unknown-guest",
+  "guest": "20vc-bessemers-jeremy-levine",
   "tags": [
     "venture-capital",
     "consumer"

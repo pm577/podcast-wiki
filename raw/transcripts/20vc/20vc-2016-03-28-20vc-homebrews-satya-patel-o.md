@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-03-28",
   "title": "20VC: Homebrew's Satya Patel on The Key Components of Being A Great VC & The 3 Main Reasons Startups",
-  "guest": "unknown-guest",
+  "guest": "20vc-homebrews-satya-patel",
   "tags": [
     "venture-capital",
     "product-strategy",

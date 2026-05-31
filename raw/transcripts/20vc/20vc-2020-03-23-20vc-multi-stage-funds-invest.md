@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-03-23",
   "title": "20VC: Multi-Stage Funds Investing At Seed Are Option Value Investing, Why The Biggest Enemy For Vent",
-  "guest": "manu-kumar",
+  "guest": "20vc-multi",
   "tags": [
     "venture-capital",
     "founder-psychology",

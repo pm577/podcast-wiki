@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-02-17",
   "title": "20VC: Grammy Nominee Aloe Blacc on Working with Avicii on \"Wake Me Up\", The Art of Great Storytellin",
-  "guest": "avicii",
+  "guest": "20vc-grammy-nominee-aloe-blacc",
   "tags": [
     "venture-capital"
   ],

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-11-04",
   "title": "20VC: CEO Whisperer Jerry Colonna on How Investors Mimic Aggressive Behaviour To Cover Insecurity an",
-  "guest": "unknown-guest",
+  "guest": "20vc-ceo-whisperer-jerry-colonna",
   "tags": [
     "venture-capital",
     "founder-psychology",

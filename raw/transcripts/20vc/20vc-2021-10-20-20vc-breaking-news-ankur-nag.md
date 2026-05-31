@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-10-20",
   "title": "20VC: Breaking News: Ankur Nagpal Raises $70M for Vibe Capital, What The Next Decade For Venture Wil",
-  "guest": "unknown-guest",
+  "guest": "20vc-breaking-news-ankur-nagpal-raises",
   "tags": [
     "venture-capital",
     "founder-psychology",

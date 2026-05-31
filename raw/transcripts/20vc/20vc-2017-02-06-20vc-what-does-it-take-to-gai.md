@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-02-06",
   "title": "20VC: What Does It Take To Gain A Late Stage Cheque Today? The Fundamental Mistakes CEOs Make In The",
-  "guest": "jules-maltz",
+  "guest": "20vc-what-does-it-take-to-gain-a-late-s",
   "tags": [
     "venture-capital",
     "founder-psychology",

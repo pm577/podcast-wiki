@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-04-01",
   "title": "20VC: The Biggest Mistakes Startups Make Hiring, The 2 Reasons Startups Fail and How to Avoid Them, ",
-  "guest": "eddie-vivas",
+  "guest": "20vc-the-biggest-mistakes-startups-make-hiring",
   "tags": [
     "venture-capital",
     "founder-psychology",

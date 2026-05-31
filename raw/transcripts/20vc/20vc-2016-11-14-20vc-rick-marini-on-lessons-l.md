@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-11-14",
   "title": "20VC: Rick Marini on Lessons Leant From Naval Ravikant, Why You Need To Make 30 Investments Before Y",
-  "guest": "unknown-guest",
+  "guest": "20vc-rick-marini",
   "tags": [
     "venture-capital",
     "founder-psychology",

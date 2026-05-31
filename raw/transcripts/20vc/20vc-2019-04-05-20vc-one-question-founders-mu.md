@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-04-05",
   "title": "20VC: One Question Founders Must Ask Themselves When Approaching Investor Selection, Why Series B Is",
-  "guest": "jeff-russakow",
+  "guest": "20vc-one-question-founders-must-ask-the",
   "tags": [
     "venture-capital",
     "founder-psychology",

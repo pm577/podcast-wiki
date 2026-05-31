@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-10-26",
   "title": "20Growth: Biggest Growth Lessons from Reddit and Zynga on Scaling to Millions of Users | Why, When a",
-  "guest": "vaibhav-sahgal",
+  "guest": "20growth-biggest-growth-lessons-from-reddit-and-zynga",
   "tags": [
     "founder-psychology",
     "go-to-market",

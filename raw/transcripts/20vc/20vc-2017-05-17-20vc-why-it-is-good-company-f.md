@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-17",
   "title": "20VC: Why It Is Good Company Funding Has Been Down 6 Quarters In A Row, Why Unanimity Does Not Work ",
-  "guest": "scott-raney",
+  "guest": "20vc-why-it-is-good-company-funding-has",
   "tags": [
     "venture-capital",
     "product-strategy",

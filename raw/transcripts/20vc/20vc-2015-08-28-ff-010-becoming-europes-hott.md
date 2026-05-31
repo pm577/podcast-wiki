@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-08-28",
   "title": "FF 010: Becoming Europe's Hottest Startup with Carl Waldekranz, Co-Founder and CEO @ Tictail",
-  "guest": "carl-waldekranz",
+  "guest": "carl-waldekranz-co-founder-and-ceo-tictail",
   "tags": [
     "founder-psychology",
     "go-to-market",

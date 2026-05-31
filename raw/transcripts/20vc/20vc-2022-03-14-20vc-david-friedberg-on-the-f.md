@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-03-14",
   "title": "20VC: David Friedberg on The Framework for Business Value Creation, The Bifurcation in Venture Today",
-  "guest": "unknown-guest",
+  "guest": "20vc-david-friedberg",
   "tags": [
     "venture-capital",
     "founder-psychology",

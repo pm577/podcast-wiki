@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-02-11",
   "title": "20VC: Box's Aaron Levie on Why Founders Cannot Hedge Their Bets, The 2 Categories of Wrong Decision ",
-  "guest": "unknown-guest",
+  "guest": "20vc-boxs-aaron-levie",
   "tags": [
     "venture-capital",
     "founder-psychology",

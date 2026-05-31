@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-07-26",
   "title": "20VC: Why YC Is The Exact Opposite of Proprietary Deal Flow, Why Having No Follow On Dramatically Al",
-  "guest": "michael-ma",
+  "guest": "20vc-why-yc-is-the-exact-opposite",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-07-06",
   "title": "20VC: What It Takes To Raise A VC Fund & Investing in First Time Fund Managers with Michael Kim @ Ce",
-  "guest": "michael-kim",
+  "guest": "michael-kim-ce",
   "tags": [
     "venture-capital",
     "founder-psychology",

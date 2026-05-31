@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-04-07",
   "title": "20VC: How To Create FOMO For Investors, How To Manage VC Conversations & A Repeatable Process For Le",
-  "guest": "anna-shedletsky",
+  "guest": "20vc-how-to-create-fomo-for-investors",
   "tags": [
     "venture-capital",
     "founder-psychology",

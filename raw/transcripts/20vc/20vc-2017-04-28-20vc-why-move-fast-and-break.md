@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-04-28",
   "title": "20VC: Why Move Fast and Break Things Is Not Right, How To Instil Radical Candor In Your Organisation",
-  "guest": "jason-brown",
+  "guest": "20vc-why-move-fast-and-break-things-is-not-right",
   "tags": [
     "venture-capital",
     "founder-psychology",

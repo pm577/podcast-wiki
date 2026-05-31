@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-11-09",
   "title": "20VC: Lessons from Investing in Uber and Airbnb, How To Think Through Bundling vs Unbundling, Late S",
-  "guest": "derek-zanutto",
+  "guest": "20vc-lessons",
   "tags": [
     "venture-capital",
     "founder-psychology",

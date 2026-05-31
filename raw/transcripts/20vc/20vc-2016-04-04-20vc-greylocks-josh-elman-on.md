@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-04-04",
   "title": "20VC: Greylock's Josh Elman on Why We Are Not In A Consumer Downturn, The Next Wave Of Social and Wh",
-  "guest": "unknown-guest",
+  "guest": "20vc-greylocks-josh-elman",
   "tags": [
     "venture-capital",
     "go-to-market",

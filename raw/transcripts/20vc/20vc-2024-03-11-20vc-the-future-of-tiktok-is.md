@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2024-03-11",
   "title": "20VC: The Future of TikTok; Is it a Danger to US National Security| Why the \"Woke Mind Virus\" is a \"",
-  "guest": "joe-lonsda",
+  "guest": "20vc-the-future",
   "tags": [
     "venture-capital",
     "founder-psychology",

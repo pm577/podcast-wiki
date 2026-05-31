@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-10-12",
   "title": "20VC: CRV's George Zachary on His Relationship To Money and How it has Changed Over Time, Why The Be",
-  "guest": "unknown-guest",
+  "guest": "20vc-crvs-george-zachary",
   "tags": [
     "venture-capital",
     "founder-psychology",

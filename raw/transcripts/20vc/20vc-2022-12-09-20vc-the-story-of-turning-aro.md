@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-12-09",
   "title": "20VC: The Story of Turning Around MTV, AOL and Time Warner | How To Be Effective When Making Hard De",
-  "guest": "bob-pittman",
+  "guest": "20vc-the-story",
   "tags": [
     "venture-capital",
     "founder-psychology",

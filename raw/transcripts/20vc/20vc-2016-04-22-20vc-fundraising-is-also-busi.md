@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-04-22",
   "title": "20VC: Fundraising Is Also Business Development with Nicolas Dessaigne, Co-Founder & CEO @ Algolia",
-  "guest": "nicolas-dessaigne",
+  "guest": "nicolas-dessaigne-co-founder-ceo-algolia",
   "tags": [
     "venture-capital",
     "founder-psychology",

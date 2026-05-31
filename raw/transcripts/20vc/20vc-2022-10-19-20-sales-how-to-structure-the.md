@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-10-19",
   "title": "20 Sales: How To Structure The Interview Process for All Sales Reps, The Must-Ask Questions When Ide",
-  "guest": "lauren-schwartz",
+  "guest": "20-sales-how-to-structure-the-interview-process-for-all-sale",
   "tags": [
     "founder-psychology",
     "go-to-market",

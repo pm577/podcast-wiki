@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-02-19",
   "title": "20 VC: Niccolo De Masi @ Glu Mobile on Private Market Valuations, Being A Public Market CEO & The Tr",
-  "guest": "unknown-guest",
+  "guest": "20-vc-niccolo-de-masi-glu-mobile",
   "tags": [
     "venture-capital",
     "ai-ml"

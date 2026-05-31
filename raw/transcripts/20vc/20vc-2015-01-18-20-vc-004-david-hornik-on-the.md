@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-01-18",
   "title": "20 VC 004: David Hornik on the Magic of Stanford and Startups",
-  "guest": "unknown-guest",
+  "guest": "david-hornik",
   "tags": [
     "venture-capital"
   ],

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-02-26",
   "title": "20VC: Why The Current Crop Of VC Does Not Understand Design, Why Product Market Fit Is A Liquid Not ",
-  "guest": "steve-vassallo",
+  "guest": "20vc-why-the-current-crop-of-vc-does-not-understand-design",
   "tags": [
     "venture-capital",
     "product-strategy",

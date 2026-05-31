@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-07-08",
   "title": "20VC: When To Transition From Growth to Profitability & The KPI's of The On Demand Economy with Fran",
-  "guest": "frank-mycroft",
+  "guest": "fran",
   "tags": [
     "venture-capital",
     "founder-psychology",

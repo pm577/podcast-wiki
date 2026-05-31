@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-03-27",
   "title": "20VC: How To Solve The Chicken and Egg Problem in Marketplaces? How Important Is Differentiated Supp",
-  "guest": "alyssa-ravasio",
+  "guest": "20vc-how-to-solve-the-chicken-and-egg-p",
   "tags": [
     "venture-capital",
     "founder-psychology",

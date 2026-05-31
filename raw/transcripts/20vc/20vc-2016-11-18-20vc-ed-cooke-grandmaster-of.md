@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-11-18",
   "title": "20VC: Ed Cooke, Grandmaster of Memory on What Is Missing In EdTech? What Does The Integration Of AI ",
-  "guest": "unknown-guest",
+  "guest": "20vc-ed-cooke-grandmaster-of-memory",
   "tags": [
     "venture-capital",
     "founder-psychology",

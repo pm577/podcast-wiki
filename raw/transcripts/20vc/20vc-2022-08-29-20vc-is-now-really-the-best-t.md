@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-08-29",
   "title": "20VC: Is Now Really the Best Time to Be Investing? WTF is Happening at Growth Stage Investing? Why V",
-  "guest": "braze",
+  "guest": "20vc-is-now-really-the-best-time-to-be",
   "tags": [
     "venture-capital",
     "go-to-market",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-02-07",
   "title": "20VC: Why You Never Want To Fight A Fair Fit For Distribution, Why No Great Company Is Built with 1 ",
-  "guest": "shoaib-makani",
+  "guest": "1",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-02-01",
   "title": "20VC: Supercell Founder Ilkka Paananen on What it Means To Be \"The Least Powerful CEO\", His Relation",
-  "guest": "unknown-guest",
+  "guest": "20vc-supercell-founder-ilkka-paananen",
   "tags": [
     "venture-capital",
     "founder-psychology",

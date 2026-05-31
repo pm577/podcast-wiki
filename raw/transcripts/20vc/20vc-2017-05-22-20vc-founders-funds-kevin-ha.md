@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-22",
   "title": "20VC: Founders Fund's Kevin Hartz on Why Investing In Silicon Valley Is Broken & Why Fearlessness Is",
-  "guest": "unknown-guest",
+  "guest": "20vc-founders-funds-kevin-hartz",
   "tags": [
     "venture-capital",
     "founder-psychology",

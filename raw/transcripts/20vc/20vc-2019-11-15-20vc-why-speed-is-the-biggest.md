@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-11-15",
   "title": "20VC: Why Speed Is The Biggest Differentiator a Founder Can Have, How To Hire Seasoned Tier 1 Talent",
-  "guest": "domm-holland",
+  "guest": "20vc-why-speed-is-the-biggest-different",
   "tags": [
     "venture-capital",
     "founder-psychology",

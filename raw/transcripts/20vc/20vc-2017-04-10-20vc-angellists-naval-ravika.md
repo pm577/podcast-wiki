@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-04-10",
   "title": "20VC: AngelList's Naval Ravikant on The Secrets To Success At Seed, Why Micro VC Is The Return of Tr",
-  "guest": "unknown-guest",
+  "guest": "20vc-angellists-naval-ravikant",
   "tags": [
     "venture-capital",
     "founder-psychology",

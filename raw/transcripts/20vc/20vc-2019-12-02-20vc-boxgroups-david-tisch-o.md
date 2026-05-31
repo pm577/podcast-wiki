@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-12-02",
   "title": "20VC: BoxGroup's David Tisch on Whether Concentrated Investing At Seed Works, Do Founders Really Wan",
-  "guest": "unknown-guest",
+  "guest": "20vc-boxgroups-david-tisch",
   "tags": [
     "venture-capital",
     "founder-psychology",

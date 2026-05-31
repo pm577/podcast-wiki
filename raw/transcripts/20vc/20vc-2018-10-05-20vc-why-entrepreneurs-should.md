@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-10-05",
   "title": "20VC: Why Entrepreneurs Should Let Everyone Rip Apart Their Business Idea, How To Construct Framewor",
-  "guest": "afton-vechery",
+  "guest": "20vc-why-entrepreneurs-should-let-every",
   "tags": [
     "venture-capital",
     "founder-psychology",

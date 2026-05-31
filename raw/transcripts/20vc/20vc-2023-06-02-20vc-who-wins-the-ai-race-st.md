@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-06-02",
   "title": "20VC: Who Wins the AI Race; Startups or Incumbents & Does Having Proprietary Data Really Matter For ",
-  "guest": "unknown-guest",
+  "guest": "20vc-who-wins-the-ai-race-startups-or",
   "tags": [
     "venture-capital",
     "founder-psychology",

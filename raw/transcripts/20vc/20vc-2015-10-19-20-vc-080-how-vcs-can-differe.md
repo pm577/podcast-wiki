@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-10-19",
   "title": "20 VC 080: How VCs Can Differentiate Themselves with Patricia Nakache, General Partner @ Trinity Ven",
-  "guest": "patricia-nakache",
+  "guest": "patricia-nakache-general-partner-trinity-ven",
   "tags": [
     "venture-capital",
     "consumer"

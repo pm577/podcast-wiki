@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-04-08",
   "title": "20VC: NEA Partner, Dayna Grayson on Sourcing, Picking, Winning, Gut vs Data in Investment Decision-M",
-  "guest": "unknown-guest",
+  "guest": "20vc-nea-partner-dayna-grayson",
   "tags": [
     "venture-capital",
     "ai-ml"

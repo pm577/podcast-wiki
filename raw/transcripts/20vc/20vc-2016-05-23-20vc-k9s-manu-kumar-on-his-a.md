@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-05-23",
   "title": "20VC: K9's Manu Kumar on His Approach To Risk, Valuation & Believing What Other People Don't",
-  "guest": "unknown-guest",
+  "guest": "20vc-k9s-manu-kumar",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-08-12",
   "title": "20VC: The Lyft Memo: Floodgate's Ann Miura Ko on Why Successful Seed Investing Is Not Investing In a",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-lyft-memo-floodgates-ann-miura-ko",
   "tags": [
     "venture-capital"
   ],

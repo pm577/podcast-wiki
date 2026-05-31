@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-02-16",
   "title": "20VC: How To Think About Founder-Category Fit, Why The Biggest Opportunities Are In Category Re-Arch",
-  "guest": "nadia-boujarwah",
+  "guest": "20vc-how-to-think-about-founder-category-fit-why-the-biggest",
   "tags": [
     "venture-capital",
     "founder-psychology",

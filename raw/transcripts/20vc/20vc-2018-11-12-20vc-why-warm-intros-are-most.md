@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-11-12",
   "title": "20VC: Why Warm Intros Are Mostly Dumb, Why Ownership is Built On First Check and 4 Crucial Elements ",
-  "guest": "leo-polovets",
+  "guest": "20vc-why-warm-intros-are-mostly-dumb",
   "tags": [
     "venture-capital"
   ],

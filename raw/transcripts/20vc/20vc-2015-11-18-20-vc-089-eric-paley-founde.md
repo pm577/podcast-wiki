@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-11-18",
   "title": "20 VC 089: Eric Paley @ Founder Collective on Outliers, Inspirational Founders and Pro Rata",
-  "guest": "unknown-guest",
+  "guest": "eric-paley-founder-collective",
   "tags": [
     "venture-capital",
     "founder-psychology"

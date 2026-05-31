@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-05-08",
   "title": "20VC: Andy McLoughlin on The Benefits of Backing Unsexy Businesses with Non-Obvious Founders, How To",
-  "guest": "non",
+  "guest": "20vc-andy-mcloughlin",
   "tags": [
     "venture-capital",
     "founder-psychology",

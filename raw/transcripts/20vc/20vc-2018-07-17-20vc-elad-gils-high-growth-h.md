@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-07-17",
   "title": "20VC: Elad Gil's High Growth Handbook on The Commonalities of The Truly Great CEOs, How To Hire The ",
-  "guest": "unknown-guest",
+  "guest": "20vc-elad-gils-high-growth-handbook",
   "tags": [
     "venture-capital",
     "founder-psychology",

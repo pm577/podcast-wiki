@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-05-14",
   "title": "20 VC 036: The Pitching Process: From Email to Term Sheet with Stephan von Perger @ Wellington Partn",
-  "guest": "stephan",
+  "guest": "stephan-von-perger-wellington-partn",
   "tags": [
     "venture-capital",
     "product-strategy",

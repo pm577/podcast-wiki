@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-09-16",
   "title": "20VC: Getir Founder, Nazim Salur on The Future of Last Mile Convenience, Who Will Win? Lessons on Dr",
-  "guest": "unknown-guest",
+  "guest": "20vc-getir-founder-nazim-salur",
   "tags": [
     "venture-capital",
     "founder-psychology",

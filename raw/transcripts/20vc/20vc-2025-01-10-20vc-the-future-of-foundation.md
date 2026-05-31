@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2025-01-10",
   "title": "20VC: The Future of Foundation Models | The Future of AI Consumer Apps and Why OpenAI Did a Disservi",
-  "guest": "mikey-shulman",
+  "guest": "20vc-the-future",
   "tags": [
     "venture-capital",
     "founder-psychology",

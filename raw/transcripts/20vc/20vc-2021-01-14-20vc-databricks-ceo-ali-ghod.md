@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-01-14",
   "title": "20VC: Databricks CEO, Ali Ghodsi on The 3 Phases of Startup Growth, How to Evaluate Risk and Downsid",
-  "guest": "unknown-guest",
+  "guest": "20vc-databricks-ceo-ali-ghodsi",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-05-18",
   "title": "20Growth: Five Signs of Top Growth Talent and How to Detect Them, How to Structure and Conduct the M",
-  "guest": "darius-contractor",
+  "guest": "20growth-five-signs",
   "tags": [
     "go-to-market",
     "product-strategy",

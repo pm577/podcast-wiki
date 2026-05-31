@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-08-03",
   "title": "20 Product: Shreyas Doshi on The Three Different Types of Product Leaders and How To Hire Them, The ",
-  "guest": "unknown-guest",
+  "guest": "20-product-shreyas-doshi",
   "tags": [
     "venture-capital",
     "product-strategy",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-01-13",
   "title": "20VC: Khosla Ventures Founding Partner, Samir Kaul on Why Pro Rata Is A Cop Out, Why He Likes Techni",
-  "guest": "unknown-guest",
+  "guest": "20vc-khosla-ventures-founding-partner-samir-kaul",
   "tags": [
     "venture-capital",
     "biotech-health"

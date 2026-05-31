@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-10-21",
   "title": "20VC: Why 75% of Active Investors Will Disappear in the Next Few Years, The Death of \"So So\" Venture",
-  "guest": "kyle-harrison",
+  "guest": "20vc-why-75",
   "tags": [
     "venture-capital"
   ],

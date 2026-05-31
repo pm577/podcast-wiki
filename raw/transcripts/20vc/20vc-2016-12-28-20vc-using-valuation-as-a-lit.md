@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-12-28",
   "title": "20VC: Using Valuation As A Litmus Test, Why Valuation Does Not Matter At Seed Stage & How Seed Funds",
-  "guest": "kent-goldman",
+  "guest": "20vc-using-valuation-as-a-litmus-test",
   "tags": [
     "venture-capital",
     "founder-psychology",

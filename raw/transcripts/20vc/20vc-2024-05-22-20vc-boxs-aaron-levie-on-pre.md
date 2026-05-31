@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2024-05-22",
   "title": "20VC: Box's Aaron Levie on Predictions for the Next Wave of AI: Will Foundation Models Be Commoditis",
-  "guest": "unknown-guest",
+  "guest": "20vc-boxs-aaron-levie",
   "tags": [
     "venture-capital",
     "founder-psychology",

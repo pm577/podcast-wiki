@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-19",
   "title": "20VC: The Future Business Model For Drones & Why Enterprise Drones Need To Be As Boring As Possible ",
-  "guest": "jonathan-downey",
+  "guest": "20vc-the-future-business-model-for-dron",
   "tags": [
     "venture-capital",
     "founder-psychology",

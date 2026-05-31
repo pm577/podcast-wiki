@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-04-16",
   "title": "20VC: How a16z Uses NPS To Create Better Founder Experiences, Why Intellectual Curiosity Is The Most",
-  "guest": "zal-bilimoria",
+  "guest": "20vc-how-a16z-uses-nps-to-create-better",
   "tags": [
     "venture-capital",
     "founder-psychology",

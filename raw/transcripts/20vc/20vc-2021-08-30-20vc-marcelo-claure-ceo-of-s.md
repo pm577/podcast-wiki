@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-08-30",
   "title": "20VC: Marcelo Claure, CEO of Softbank Group International on Lessons From Investing $1BN Per Week wi",
-  "guest": "masa-son",
+  "guest": "20vc-marcelo-claure-ceo-of-softbank-group-international",
   "tags": [
     "venture-capital",
     "go-to-market"

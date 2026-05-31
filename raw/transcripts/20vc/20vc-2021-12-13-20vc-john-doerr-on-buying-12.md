@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-12-13",
   "title": "20VC: John Doerr on Buying 12% of Google for $12M, His Biggest Investing Lesson from 30 Years in Ven",
-  "guest": "unknown-guest",
+  "guest": "20vc-john-doerr",
   "tags": [
     "venture-capital",
     "product-strategy",

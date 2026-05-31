@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-01-21",
   "title": "20VC: Hims Founder Andrew Dudum on Hims Going Public, The Reasoning and Benefits of SPACs, The Bigge",
-  "guest": "unknown-guest",
+  "guest": "20vc-hims-founder-andrew-dudum",
   "tags": [
     "venture-capital",
     "founder-psychology",

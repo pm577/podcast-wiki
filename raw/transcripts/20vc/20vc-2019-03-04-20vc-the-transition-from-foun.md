@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-03-04",
   "title": "20VC: The Transition From Founder To CEO, How To Determine When To Stretch On Price in Venture & The",
-  "guest": "jeff-richards",
+  "guest": "20vc-the-transition-from-founder-to-ceo",
   "tags": [
     "venture-capital",
     "founder-psychology",

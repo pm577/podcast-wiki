@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-09-21",
   "title": "20 Product: The No 1 Metric You Need To Look at When Building Product | Why the Best in Product Have",
-  "guest": "david-lieb",
+  "guest": "20-product-the-no-1-metric-you-need-to-look",
   "tags": [
     "founder-psychology",
     "product-strategy",

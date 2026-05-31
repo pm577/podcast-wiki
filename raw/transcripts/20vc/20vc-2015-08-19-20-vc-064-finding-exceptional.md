@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-08-19",
   "title": "20 VC 064: Finding Exceptional People with Big Ideas with Nick Beim, Partner @ Venrock",
-  "guest": "big-ideas",
+  "guest": "big-ideas-with-nick-beim-partner-venrock",
   "tags": [
     "venture-capital",
     "hiring-culture",

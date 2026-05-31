@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-09-04",
   "title": "20VC: True Ventures Founder, Phil Black on 4 Major Risk Categories for Startups, Why The Funding Gap",
-  "guest": "unknown-guest",
+  "guest": "20vc-true-ventures-founder-phil-black",
   "tags": [
     "venture-capital",
     "founder-psychology"

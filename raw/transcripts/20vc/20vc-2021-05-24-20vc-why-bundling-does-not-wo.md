@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-05-24",
   "title": "20VC: Why Bundling Does Not Work, How The Best Founders Analyse Unit Economics, Why The Way We Appro",
-  "guest": "nigel-morris",
+  "guest": "20vc-why-bundling-does-not-work",
   "tags": [
     "venture-capital",
     "founder-psychology",

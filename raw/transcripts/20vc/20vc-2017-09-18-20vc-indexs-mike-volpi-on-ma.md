@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-09-18",
   "title": "20VC: Index's Mike Volpi on Making The Move From Player To Coach, What It Takes To Build Generation ",
-  "guest": "unknown-guest",
+  "guest": "20vc-indexs-mike-volpi",
   "tags": [
     "venture-capital",
     "product-strategy",

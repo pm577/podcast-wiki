@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-04-06",
   "title": "20VC: Why Facebook Will Be The Company To Succeed in Crypto, Why Founders Should Be Actively Angel I",
-  "guest": "darian-shirazi",
+  "guest": "20vc-why-facebook-will-be-the-company-to-succeed-in-crypto",
   "tags": [
     "venture-capital",
     "founder-psychology",

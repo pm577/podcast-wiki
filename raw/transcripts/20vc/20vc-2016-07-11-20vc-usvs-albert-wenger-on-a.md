@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-07-11",
   "title": "20VC: USV's Albert Wenger on Automation Replacing Humans, The Universal Basic Income and The Instalm",
-  "guest": "unknown-guest",
+  "guest": "20vc-usvs-albert-wenger",
   "tags": [
     "venture-capital",
     "enterprise-saas"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-05-13",
   "title": "20VC: Creating A Competitive Process Between VCs & Having Bill Gurley As A Board Member with Aaron H",
-  "guest": "aaron-hirschhorn",
+  "guest": "aaron-h",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-06-24",
   "title": "20VC: Benchmark's Bill Gurley on 5 Traits Benchmark Look For When Adding To The Partnership, Why The",
-  "guest": "unknown-guest",
+  "guest": "20vc-benchmarks-bill-gurley",
   "tags": [
     "venture-capital",
     "ai-ml"

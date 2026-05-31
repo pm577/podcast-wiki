@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-01-18",
   "title": "20VC: How To Test The Strength Of Co-Founder Relations, The Dangers Of Raising A Large Series A & Wh",
-  "guest": "rishi-garg",
+  "guest": "20vc-how-to-test-the-strength-of-co",
   "tags": [
     "venture-capital",
     "founder-psychology",

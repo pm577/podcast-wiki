@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-02-24",
   "title": "20VC: The Snapchat Memo: Lightspeed's Jeremy Liew on The 4 Key Elements To Consider When Evaluating ",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-snapchat-memo-lightspeeds-jeremy-liew",
   "tags": [
     "venture-capital",
     "product-strategy",

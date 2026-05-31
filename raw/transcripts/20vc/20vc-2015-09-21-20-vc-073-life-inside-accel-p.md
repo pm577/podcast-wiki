@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-09-21",
   "title": "20 VC 073: Life Inside Accel Partners with Michael Treskow @ Accel",
-  "guest": "michael-treskow",
+  "guest": "michael-treskow-accel",
   "tags": [
     "venture-capital"
   ],

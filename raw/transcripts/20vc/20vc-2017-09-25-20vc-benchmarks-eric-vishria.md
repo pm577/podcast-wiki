@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-09-25",
   "title": "20VC: Benchmark's Eric Vishria on Why Career VCs Have Advantages Most Under Appreciate, Why We Are I",
-  "guest": "unknown-guest",
+  "guest": "20vc-benchmarks-eric-vishria",
   "tags": [
     "venture-capital",
     "founder-psychology",

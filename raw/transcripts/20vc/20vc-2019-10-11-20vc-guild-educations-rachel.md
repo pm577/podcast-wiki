@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-10-11",
   "title": "20VC: Guild Education's Rachel Carlson on The Benefits of Scaling Startups Outside of Silicon Valley",
-  "guest": "unknown-guest",
+  "guest": "20vc-guild-educations-rachel-carlson",
   "tags": [
     "venture-capital",
     "founder-psychology",

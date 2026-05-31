@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-05-04",
   "title": "20VC: The Memo: Chris Sacca on Why We Are Breeding a Generation of Entitled Assholes, Harley Finkels",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-memo-chris-sacca",
   "tags": [
     "venture-capital",
     "founder-psychology",

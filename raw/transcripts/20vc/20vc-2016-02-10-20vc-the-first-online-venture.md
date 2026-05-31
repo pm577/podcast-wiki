@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-02-10",
   "title": "20VC: The First Online Venture Fund Built On AngelList with Dustin Dolginow @ Maiden Lane",
-  "guest": "dustin-dolginow",
+  "guest": "dustin-dolginow-maiden-lane",
   "tags": [
     "venture-capital",
     "ai-ml"

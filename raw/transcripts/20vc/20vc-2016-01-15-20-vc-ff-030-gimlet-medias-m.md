@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-01-15",
   "title": "20 VC FF 030: Gimlet Media's Matt Lieber on The Future of Podcasting and Life @ Gimlet",
-  "guest": "unknown-guest",
+  "guest": "20-vc-ff-030-gimlet-medias-matt-lieber",
   "tags": [
     "venture-capital",
     "founder-psychology",

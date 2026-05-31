@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-03-06",
   "title": "20VC: Why Most Founders Do Not Structure Their Fundraise Correctly, The Pros Of Having An MBA As A S",
-  "guest": "iman-abuzeid",
+  "guest": "20vc-why-most-founders-do-not-structure",
   "tags": [
     "venture-capital",
     "founder-psychology",

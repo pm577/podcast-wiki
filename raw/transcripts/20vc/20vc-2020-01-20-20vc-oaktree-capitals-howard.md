@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-01-20",
   "title": "20VC: Oaktree Capital's Howard Marks on The Most Important Skill An Investor Can Have, The Right Way",
-  "guest": "unknown-guest",
+  "guest": "20vc-oaktree-capitals-howard-marks",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-01-21",
   "title": "20VC: How I Lost a $125M Deal with Yahoo by Being Too Honest, The M&A Meeting with Steve Jobs That D",
-  "guest": "yahoo",
+  "guest": "yahoo-by-being-too-honest-the-ma-meeting-with-steve-jobs-tha",
   "tags": [
     "venture-capital",
     "ai-ml"

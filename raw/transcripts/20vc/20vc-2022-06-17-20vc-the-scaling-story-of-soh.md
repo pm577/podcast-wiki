@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-06-17",
   "title": "20VC: The Scaling Story of Soho House: Overcoming Dyslexia, Building a Global Brand, Scaling into Th",
-  "guest": "scale",
+  "guest": "20vc-the-scaling-story",
   "tags": [
     "venture-capital",
     "founder-psychology",

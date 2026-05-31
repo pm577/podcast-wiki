@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-31",
   "title": "20VC: Why Every Founder Should Bootstrap Their Startup, How To Solve Information Asymmetry Between F",
-  "guest": "melody-mc",
+  "guest": "20vc-why-every-founder-should-bootstrap-their-startup",
   "tags": [
     "venture-capital",
     "founder-psychology",

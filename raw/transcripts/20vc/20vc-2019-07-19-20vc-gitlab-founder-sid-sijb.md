@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-07-19",
   "title": "20VC: Gitlab Founder, Sid Sijbrandji on Lessons From Scaling from 400 to 1,000 People in 1 Year, Why",
-  "guest": "unknown-guest",
+  "guest": "20vc-gitlab-founder-sid-sijbrandji",
   "tags": [
     "venture-capital",
     "founder-psychology",

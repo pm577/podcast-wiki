@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-22",
   "title": "20VC: Why Your Fund Model Should Not Rely on $10BN+ Outcomes, Why the Large Funds Got Too Large, The",
-  "guest": "nico-wittenborn",
+  "guest": "20vc-why-your-fund-model-should-not-rely",
   "tags": [
     "venture-capital",
     "founder-psychology",

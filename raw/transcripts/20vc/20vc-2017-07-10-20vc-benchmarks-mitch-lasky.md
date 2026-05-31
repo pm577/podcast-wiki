@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-07-10",
   "title": "20VC: Benchmark's Mitch Lasky on The Snapchat Journey From Series A to IPO, Why Small Is Beautiful I",
-  "guest": "unknown-guest",
+  "guest": "20vc-benchmarks-mitch-lasky",
   "tags": [
     "venture-capital"
   ],

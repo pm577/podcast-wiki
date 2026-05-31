@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-24",
   "title": "20VC: How To Raise $200m In Any Economic Climate, Scale From Garage To Global In Record Time & The B",
-  "guest": "christian-lanng",
+  "guest": "20vc-how-to-raise-200m-in-any-economic-climate",
   "tags": [
     "venture-capital",
     "founder-psychology",

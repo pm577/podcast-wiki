@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-09-23",
   "title": "20VC: Why Greed is the #1 Enemy of Venture Returns, Why Not Enough VCs Play to Win and Lessons from ",
-  "guest": "julio-vasconcellos",
+  "guest": "20vc-why-greed-is-the-1-enemy",
   "tags": [
     "venture-capital",
     "founder-psychology",

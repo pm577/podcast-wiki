@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-22",
   "title": "20VC: How Every VC Firm Is A Marketplace, Why A Large Amount of Promise in AI Today Is Impossible & ",
-  "guest": "alex-mittal",
+  "guest": "20vc-how-every-vc-firm-is-a-marketplace",
   "tags": [
     "venture-capital",
     "founder-psychology",

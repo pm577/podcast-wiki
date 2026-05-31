@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-07-20",
   "title": "20 VC 055: VC Done Right with Jonathon Triest @ Ludlow Ventures",
-  "guest": "jonathon-triest",
+  "guest": "jonathon-triest-ludlow-ventures",
   "tags": [
     "venture-capital",
     "founder-psychology",

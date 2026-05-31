@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-04-06",
   "title": "20 Growth: Why Retention Defines Product Market Fit, What is Good Retention Levels Today, The Most C",
-  "guest": "brian-hale",
+  "guest": "20-growth-why-retention-defines-product-market-fit",
   "tags": [
     "go-to-market",
     "product-strategy",

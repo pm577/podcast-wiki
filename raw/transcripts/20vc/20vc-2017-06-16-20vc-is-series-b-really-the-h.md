@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-06-16",
   "title": "20VC: Is Series B Really The Hardest To Raise? Should The Only Limiting Factor Post Series B Be Cash",
-  "guest": "nicolas-dessaigne",
+  "guest": "20vc-is-series-b-really-the-hardest-to",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-08",
   "title": "20VC: Harry Stebbings on The Biggest Takeaways From Interviewing The World's Best Investors, What Ma",
-  "guest": "mattias-ljungman",
+  "guest": "20vc-harry-stebbings",
   "tags": [
     "venture-capital",
     "founder-psychology"

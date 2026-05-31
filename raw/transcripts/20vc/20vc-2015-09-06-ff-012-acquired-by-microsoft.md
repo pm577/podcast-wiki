@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-09-06",
   "title": "FF 012: Acquired by Microsoft for $200m with Javier Soltero @ Microsoft",
-  "guest": "javier-soltero",
+  "guest": "javier-soltero-microsoft",
   "tags": [
     "go-to-market",
     "enterprise-saas"

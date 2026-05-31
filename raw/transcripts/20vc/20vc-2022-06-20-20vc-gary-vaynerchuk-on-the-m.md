@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-06-20",
   "title": "20VC: Gary Vaynerchuk on The Most Painful Lessons Learned but Why it was Good to Learn Them, Why You",
-  "guest": "unknown-guest",
+  "guest": "20vc-gary-vaynerchuk",
   "tags": [
     "venture-capital",
     "marketplaces",

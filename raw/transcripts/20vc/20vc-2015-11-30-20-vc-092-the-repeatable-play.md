@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-11-30",
   "title": "20 VC 092: The Repeatable Playbook of SaaS with Ed Sim, Founding Partner @ BoldStart Ventures",
-  "guest": "ed-sim",
+  "guest": "ed-sim-founding-partner-boldstart-ventures",
   "tags": [
     "venture-capital",
     "go-to-market",

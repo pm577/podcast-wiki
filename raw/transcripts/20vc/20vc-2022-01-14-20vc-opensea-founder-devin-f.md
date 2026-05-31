@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-01-14",
   "title": "20VC: Opensea Founder, Devin Finzer on Scaling GMV from $150M to $3BN in 18 Months, How Brands and C",
-  "guest": "unknown-guest",
+  "guest": "20vc-opensea-founder-devin-finzer",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-03-19",
   "title": "20VC: Finding VC Partners That Look Beyond The Numbers, The Black Box of VC Secrets That Needs To Be",
-  "guest": "leah-busque",
+  "guest": "20vc-finding-vc-partners-that-look-beyond-the-numbers",
   "tags": [
     "venture-capital",
     "marketplaces",

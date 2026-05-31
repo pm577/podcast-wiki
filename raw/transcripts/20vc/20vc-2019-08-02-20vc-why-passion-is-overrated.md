@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-08-02",
   "title": "20VC: Why Passion Is Overrated When It Comes To Starting Companies, Why VC Is Overrated As A Financi",
-  "guest": "waseem-daher",
+  "guest": "20vc-why-passion-is-overrated-when-it-c",
   "tags": [
     "venture-capital",
     "founder-psychology",

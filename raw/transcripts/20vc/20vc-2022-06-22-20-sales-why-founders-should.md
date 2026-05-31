@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-06-22",
   "title": "20 Sales: Why Founders Should Not Be The One To Create The Sales Playbook, How To Structure Each Int",
-  "guest": "zhenya-loginov",
+  "guest": "20-sales-why-founders-should-not-be-the",
   "tags": [
     "founder-psychology",
     "go-to-market",

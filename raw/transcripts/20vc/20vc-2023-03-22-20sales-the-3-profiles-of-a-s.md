@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-22",
   "title": "20Sales: The 3 Profiles of a Sales Rep, How to Negotiate in a Sales Process, How to Sell to a CFO & ",
-  "guest": "frank-fillmann",
+  "guest": "20sales-the-3-profiles",
   "tags": [
     "go-to-market",
     "product-strategy",

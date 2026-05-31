@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-07-17",
   "title": "Founders Friday 004: Life As A Non-Technical Co-Founder with Will Sacks, The Fertility King @ Kindar",
-  "guest": "will-sacks",
+  "guest": "will-sacks-the-fertility-king-kindar",
   "tags": [
     "founder-psychology",
     "product-strategy"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-19",
   "title": "20VC: How Entrepreneurs Should Manage Their Board & Why Time Constraints Are Always The Key To Progr",
-  "guest": "paul-berberian",
+  "guest": "20vc-how-entrepreneurs-should-manage-th",
   "tags": [
     "venture-capital",
     "founder-psychology",

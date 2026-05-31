@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-10-26",
   "title": "20VC: Phil Libin on Why The Concept of A Silicon Valley Style Startup Is Made To Benefit VCs, Why Th",
-  "guest": "unknown-guest",
+  "guest": "20vc-phil-libin",
   "tags": [
     "venture-capital",
     "founder-psychology",

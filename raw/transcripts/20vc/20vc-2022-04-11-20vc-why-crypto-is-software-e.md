@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-04-11",
   "title": "20VC: Why Crypto is Software Eating Money, Why Crypto Firms Will Outcompete Traditional Venture Firm",
-  "guest": "avichal-garg",
+  "guest": "20vc-why-crypto-is-software-eating-money",
   "tags": [
     "venture-capital",
     "founder-psychology",

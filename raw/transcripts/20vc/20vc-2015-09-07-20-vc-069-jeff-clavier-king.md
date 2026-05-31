@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-09-07",
   "title": "20 VC 069: Jeff Clavier, King of Seed Funding @ SoftTech VC on Brad Feld, Fitbit and Standout Startu",
-  "guest": "unknown-guest",
+  "guest": "jeff-clavier-king-of-seed-funding-softtech-vc",
   "tags": [
     "venture-capital",
     "founder-psychology",

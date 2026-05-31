@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-10-02",
   "title": "FF 015: Y COMBINATOR WEEK: Eric Glyman, Co-Founder & CEO @ Paribus",
-  "guest": "unknown-guest",
+  "guest": "ff-015-y-combinator-week-eric-glyman-co",
   "tags": [
     "founder-psychology"
   ],

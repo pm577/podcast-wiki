@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-03-01",
   "title": "20VC: How To Optimise Decision-Making Frameworks, How To Really Get The Most Out Of Your Board and W",
-  "guest": "family",
+  "guest": "20vc-how-to-optimise-decision",
   "tags": [
     "venture-capital",
     "founder-psychology",

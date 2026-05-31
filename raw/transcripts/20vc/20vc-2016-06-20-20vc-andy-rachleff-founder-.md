@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-06-20",
   "title": "20VC: Andy Rachleff, Founder @ Benchmark & Wealthfront on What Makes The Best CEO & Board Member & W",
-  "guest": "unknown-guest",
+  "guest": "20vc-andy-rachleff-founder-benchmark-wealthfront",
   "tags": [
     "venture-capital",
     "founder-psychology",

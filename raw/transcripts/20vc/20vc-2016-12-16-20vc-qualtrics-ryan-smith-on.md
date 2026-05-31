@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-12-16",
   "title": "20VC: Qualtrics' Ryan Smith on Building A $Bn Company & Raising The Largest Series A Since 2008 From",
-  "guest": "unknown-guest",
+  "guest": "20vc-qualtrics-ryan-smith",
   "tags": [
     "venture-capital",
     "founder-psychology",

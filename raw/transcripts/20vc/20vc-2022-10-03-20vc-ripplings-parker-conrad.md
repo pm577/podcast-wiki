@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-10-03",
   "title": "20VC: Rippling's Parker Conrad on The Four Main Benefits From Building a Compound Startup | Why Ther",
-  "guest": "unknown-guest",
+  "guest": "20vc-ripplings-parker-conrad",
   "tags": [
     "venture-capital",
     "founder-psychology",

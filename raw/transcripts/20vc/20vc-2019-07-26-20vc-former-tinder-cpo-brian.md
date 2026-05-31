@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-07-26",
   "title": "20VC: Former Tinder CPO Brian Norgard on His Biggest Product Takeaways from Launching the Top Grossi",
-  "guest": "unknown-guest",
+  "guest": "20vc-former-tinder-cpo-brian-norgard",
   "tags": [
     "venture-capital",
     "founder-psychology",

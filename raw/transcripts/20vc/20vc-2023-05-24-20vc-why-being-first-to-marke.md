@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-24",
   "title": "20VC: Why Being First To Market Does Not Matter, Why You Do Not Have Defensibility on Day 1, How to ",
-  "guest": "guy-podjarny",
+  "guest": "20vc-why-being-first-to-market-does-not-matter-why-you-do-no",
   "tags": [
     "venture-capital",
     "founder-psychology",

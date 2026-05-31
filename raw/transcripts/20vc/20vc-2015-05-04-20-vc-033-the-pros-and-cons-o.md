@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-05-04",
   "title": "20 VC 033: The Pros and Cons of Venture Capital, Atomico and Entrepreneurship with Chris Dark, Presi",
-  "guest": "chris-dark",
+  "guest": "chris-dark-presi",
   "tags": [
     "venture-capital",
     "ai-ml"

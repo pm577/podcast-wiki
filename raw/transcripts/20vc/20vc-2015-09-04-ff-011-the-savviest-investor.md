@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-09-04",
   "title": "FF 011: 'The Savviest Investors Don't Ask What If' with Ben Nader, CEO & Founder @ Butterfleye",
-  "guest": "ben-nader",
+  "guest": "ben-nader-ceo-founder-butterfleye",
   "tags": [
     "venture-capital",
     "founder-psychology",

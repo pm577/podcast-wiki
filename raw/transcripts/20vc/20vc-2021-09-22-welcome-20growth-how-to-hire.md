@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-09-22",
   "title": "Welcome 20Growth: How To Hire a Head of Growth? What are Signs of World-Class Talent? How To Structu",
-  "guest": "casey-winters",
+  "guest": "welcome-20growth-how-to-hire-a-head-of-growth-what-are-signs",
   "tags": [
     "go-to-market",
     "product-strategy",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-01-29",
   "title": "20VC: Why \"Founder Insight\" is Overrated, Why Big and Bold Product Visions Can Be Dangerous & Why Ge",
-  "guest": "hubert-palan",
+  "guest": "20vc-why-founder-insight-is-overrated",
   "tags": [
     "venture-capital",
     "founder-psychology",

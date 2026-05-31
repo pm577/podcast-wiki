@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-02-22",
   "title": "20VC: Superhuman's Rahul Vohra on How To Measure Product Market Fit, How To Construct A Process To I",
-  "guest": "unknown-guest",
+  "guest": "20vc-superhumans-rahul-vohra",
   "tags": [
     "venture-capital",
     "founder-psychology",

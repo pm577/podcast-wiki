@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-02-22",
   "title": "20VC: Okta CEO Todd McKinnon on How To Approach Effective Decision-Making in Leadership, When Is The",
-  "guest": "long-term-vision",
+  "guest": "20vc-okta-ceo-todd-mckinnon",
   "tags": [
     "venture-capital",
     "founder-psychology",

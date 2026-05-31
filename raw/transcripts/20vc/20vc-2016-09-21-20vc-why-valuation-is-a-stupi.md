@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-09-21",
   "title": "20VC: Why Valuation Is A Stupid Concept, VC Is Ripe For Disruption & Not All LPs Are Made Equal with",
-  "guest": "michael-skok",
+  "guest": "20vc-why-valuation-is-a-stupid-concept",
   "tags": [
     "venture-capital",
     "hiring-culture",

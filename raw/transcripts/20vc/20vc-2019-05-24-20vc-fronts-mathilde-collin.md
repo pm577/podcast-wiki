@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-05-24",
   "title": "20VC: Front's Mathilde Collin on Why Discipline Is More Important Than Vision, The Right Way To Appr",
-  "guest": "unknown-guest",
+  "guest": "20vc-fronts-mathilde-collin",
   "tags": [
     "venture-capital",
     "founder-psychology",

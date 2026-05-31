@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-06-21",
   "title": "20VC: Elad Gil on Becoming One of Silicon Valleys Top Angels, Why Most People Get Market Sizing Wron",
-  "guest": "unknown-guest",
+  "guest": "20vc-elad-gil",
   "tags": [
     "venture-capital",
     "founder-psychology",

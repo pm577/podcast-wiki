@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-12",
   "title": "20VC: Building Shopify From $5m To IPO, Why The Future Of Retail Is Not Online vs Offline & Why Law ",
-  "guest": "harley-finkelstein",
+  "guest": "20vc-building-shopify-from-5m-to-ipo",
   "tags": [
     "venture-capital",
     "go-to-market",

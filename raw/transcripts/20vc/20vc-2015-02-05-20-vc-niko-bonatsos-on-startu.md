@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-02-05",
   "title": "20 VC: Niko Bonatsos on Startup Valuations",
-  "guest": "unknown-guest",
+  "guest": "20-vc-niko-bonatsos",
   "tags": [
     "venture-capital",
     "biotech-health",

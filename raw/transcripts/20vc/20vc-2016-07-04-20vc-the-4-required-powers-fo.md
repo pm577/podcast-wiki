@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-07-04",
   "title": "20VC: The 4 Required Powers For A Startup To Be A $500m Business with \"The Most Powerful Woman in St",
-  "guest": "unknown-guest",
+  "guest": "the-most-powerful-woman-in-st",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-01",
   "title": "20VC: Explosion of First Time Funds, Only 1 Mega Fund Raised: What The Heck Happened in Q1 Venture M",
-  "guest": "beezer-clarkson",
+  "guest": "20vc-explosion",
   "tags": [
     "venture-capital",
     "founder-psychology",

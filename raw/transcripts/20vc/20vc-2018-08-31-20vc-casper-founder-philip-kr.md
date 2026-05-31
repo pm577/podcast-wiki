@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-08-31",
   "title": "20VC: Casper Founder Philip Krim on The Right Way To Think About Marketing Channel Diversification, ",
-  "guest": "unknown-guest",
+  "guest": "20vc-casper-founder-philip-krim",
   "tags": [
     "venture-capital",
     "founder-psychology",

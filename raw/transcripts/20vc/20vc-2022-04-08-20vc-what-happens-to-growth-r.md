@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-04-08",
   "title": "20VC: What Happens To Growth Rounds in this New Environment? Where is the Funding Crunch? How Does T",
-  "guest": "eric-liaw",
+  "guest": "20vc-what-happens-to-growth-rounds-in-t",
   "tags": [
     "venture-capital",
     "go-to-market"

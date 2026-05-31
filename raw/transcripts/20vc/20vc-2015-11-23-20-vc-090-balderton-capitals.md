@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-11-23",
   "title": "20 VC 090: Balderton Capital's General Partner, Suranga Chandratillake on What It Takes To Be A Grea",
-  "guest": "unknown-guest",
+  "guest": "balderton-capitals-general-partner-suranga-chandratillake",
   "tags": [
     "venture-capital",
     "product-strategy",

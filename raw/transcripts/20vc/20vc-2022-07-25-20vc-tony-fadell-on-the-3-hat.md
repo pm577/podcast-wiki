@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-07-25",
   "title": "20VC: Tony Fadell on The 3 Hats of Being a CEO, How the Best Leaders Inspire, How to Create Your Own",
-  "guest": "unknown-guest",
+  "guest": "20vc-tony-fadell",
   "tags": [
     "venture-capital",
     "product-strategy"

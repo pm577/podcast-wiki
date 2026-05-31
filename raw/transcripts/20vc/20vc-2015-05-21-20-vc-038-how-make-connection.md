@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-05-21",
   "title": "20 VC 038: How Make Connections with VCs and Maximise Employability with Angela Tran Kingyens @ Vers",
-  "guest": "angela-tran-kingyens",
+  "guest": "vcs-and-maximise-employability-with-angela-tran-kingyens-ver",
   "tags": [
     "venture-capital",
     "product-strategy"

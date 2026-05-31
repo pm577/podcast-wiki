@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-08-31",
   "title": "20Product: Calendly CPO Annie Pearl on Why All PLG Companies Eventually Need to Embrace Enterprise, ",
-  "guest": "unknown-guest",
+  "guest": "20product-calendly-cpo-annie-pearl",
   "tags": [
     "product-strategy",
     "hiring-culture",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-05-25",
   "title": "How to Pitch a Top VC with Simon Menashy @ MMC Ventures",
-  "guest": "simon-menashy",
+  "guest": "simon-menashy-mmc-ventures",
   "tags": [
     "venture-capital",
     "go-to-market",

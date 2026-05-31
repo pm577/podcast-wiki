@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-09-01",
   "title": "20VC: What Is The Big Lie To Silicon Valley, Why Silicon Valley Is No Longer Optimised For Deep Tech",
-  "guest": "tim-harris",
+  "guest": "20vc-what-is-the-big-lie-to-silicon-valley",
   "tags": [
     "venture-capital",
     "founder-psychology",

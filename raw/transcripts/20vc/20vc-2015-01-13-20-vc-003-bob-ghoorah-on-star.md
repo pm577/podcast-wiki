@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-01-13",
   "title": "20 VC 003: Bob Ghoorah on Startups, The Pitch and Uber",
-  "guest": "unknown-guest",
+  "guest": "bob-ghoorah",
   "tags": [
     "venture-capital",
     "marketplaces",

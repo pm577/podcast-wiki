@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-10-07",
   "title": "20VC: What Makes A Great marketplace Founder, The Key Metrics Marketplace Success Is Centred On & 3 ",
-  "guest": "karthik-sridharan",
+  "guest": "20vc-what-makes-a-great-marketplace-founder",
   "tags": [
     "venture-capital",
     "founder-psychology",

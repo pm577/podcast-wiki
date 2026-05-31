@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-02-15",
   "title": "20VC: Brex Founder Henrique Dubugras on Why Being Mission Driven Is Not The Only Way To Build A Mass",
-  "guest": "the-cash-needs",
+  "guest": "20vc-brex-founder-henrique-dubugras",
   "tags": [
     "venture-capital",
     "founder-psychology",

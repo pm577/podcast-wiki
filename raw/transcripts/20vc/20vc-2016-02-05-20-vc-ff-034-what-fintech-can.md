@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-02-05",
   "title": "20 VC FF 034: What Fintech Can Learn From Uber and The Shift From Financial Organisation To Financia",
-  "guest": "kelly-peeler",
+  "guest": "20-vc-ff-034-what-fintech-can-learn-fro",
   "tags": [
     "venture-capital",
     "founder-psychology",

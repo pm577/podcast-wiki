@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-10-01",
   "title": "20VC: What Is Founder Narrative Fit and How to Detect and Invest In It, How To Avoid Consensus Think",
-  "guest": "unknown-guest",
+  "guest": "20vc-what-is-founder-narrative-fit-and",
   "tags": [
     "venture-capital",
     "founder-psychology",

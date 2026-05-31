@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-02-11",
   "title": "20VC: Scaling to a $1.3Bn Valuation While in Stealth, The Power of Different Network Effects Within ",
-  "guest": "matan-bar",
+  "guest": "20vc-scaling-to-a-13bn-valuation-while-in-stealth",
   "tags": [
     "venture-capital",
     "founder-psychology",

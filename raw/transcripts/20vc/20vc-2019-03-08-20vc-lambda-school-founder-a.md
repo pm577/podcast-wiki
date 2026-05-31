@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-03-08",
   "title": "20VC: Lambda School Founder, Austen Allred on Why Unemployment Is An Optimisation Problem That Will ",
-  "guest": "unknown-guest",
+  "guest": "20vc-lambda-school-founder-austen-allred",
   "tags": [
     "venture-capital",
     "founder-psychology",

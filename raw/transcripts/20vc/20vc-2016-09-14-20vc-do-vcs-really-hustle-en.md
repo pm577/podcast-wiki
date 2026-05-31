@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-09-14",
   "title": "20VC: Do VC's Really Hustle Enough? The Takeaways From Watching Twitter Scale From 30 to 2,500 & Why",
-  "guest": "ryan-sarver",
+  "guest": "20vc-do-vcs-really-hustle-enough-the",
   "tags": [
     "venture-capital",
     "product-strategy",

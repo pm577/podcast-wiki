@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-02-15",
   "title": "20Growth: Top Five Growth Lessons Scaling Stitchfix to IPO, How to Master the Art of Paid Marketing,",
-  "guest": "mike-duboe",
+  "guest": "20growth-top-five-growth-lessons-scaling-stitchfix-to-ipo",
   "tags": [
     "go-to-market",
     "product-strategy",

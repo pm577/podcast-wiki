@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-12-02",
   "title": "20VC: Flexport's Ryan Petersen on Why Investor Relations Are Overrated, Why Boards Have To Be Rethou",
-  "guest": "unknown-guest",
+  "guest": "20vc-flexports-ryan-petersen",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-11-29",
   "title": "20VC: Why Convertible Notes Are Ridiculous, Why Party Rounds Are Bad For Both Founder and Investor &",
-  "guest": "david-waxman",
+  "guest": "20vc-why-convertible-notes-are-ridiculous",
   "tags": [
     "venture-capital",
     "founder-psychology",

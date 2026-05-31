@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-04-25",
   "title": "20VC: Europe's Youngest Series A Venture Partner, James Wise @ Balderton Capital on How To Get Into ",
-  "guest": "unknown-guest",
+  "guest": "20vc-europes-youngest-series-a-venture-partner-james-wise-ba",
   "tags": [
     "venture-capital",
     "biotech-health"

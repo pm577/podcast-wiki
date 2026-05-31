@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-08-23",
   "title": "20VC: Coinbase President & COO Emilie Choi on Building Coinbase Ventures into One of the Best Perfor",
-  "guest": "unknown-guest",
+  "guest": "20vc-coinbase-president-coo-emilie-choi",
   "tags": [
     "venture-capital",
     "product-strategy",

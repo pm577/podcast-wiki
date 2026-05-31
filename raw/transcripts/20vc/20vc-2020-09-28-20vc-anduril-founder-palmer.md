@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-09-28",
   "title": "20VC: Anduril Founder, Palmer Luckey: \"I Am Here To Build a $50Bn Company\", How Palmer Evaluates His",
-  "guest": "unknown-guest",
+  "guest": "20vc-anduril-founder",
   "tags": [
     "venture-capital",
     "founder-psychology",

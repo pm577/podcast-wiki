@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-09-14",
   "title": "20 VC 071: Pre-Seed Investing, Why Now Is The Best Time with Nicholas Chirls @ Notation Capital",
-  "guest": "nicholas-chirls",
+  "guest": "nicholas-chirls-notation-capital",
   "tags": [
     "venture-capital",
     "founder-psychology",

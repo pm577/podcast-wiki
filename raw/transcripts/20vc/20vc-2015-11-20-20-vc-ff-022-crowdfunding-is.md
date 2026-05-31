@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-11-20",
   "title": "20 VC FF 022: Crowdfunding Is Here To Stay with Ayan Mitra, Founder & CEO @ Crowdbnk",
-  "guest": "ayan-mitra",
+  "guest": "ayan-mitra-founder-ceo-crowdbnk",
   "tags": [
     "venture-capital",
     "founder-psychology",

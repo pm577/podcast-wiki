@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-09-07",
   "title": "20VC: What Is Wrong With The VC Industry, Why VC Is A Customer Service Game and Why Car Ownership Wi",
-  "guest": "brett-de",
+  "guest": "20vc-what-is-wrong-with-the-vc-industry",
   "tags": [
     "venture-capital",
     "product-strategy",

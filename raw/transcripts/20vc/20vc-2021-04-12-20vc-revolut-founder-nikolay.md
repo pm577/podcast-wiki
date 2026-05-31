@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-04-12",
   "title": "20VC: Revolut Founder Nikolay Storonsky on His Leadership Style and Relationship To Ambition, His Bi",
-  "guest": "unknown-guest",
+  "guest": "20vc-revolut-founder-nikolay-storonsky",
   "tags": [
     "venture-capital",
     "founder-psychology",

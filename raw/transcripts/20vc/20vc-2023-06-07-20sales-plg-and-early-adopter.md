@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-06-07",
   "title": "20Sales: PLG and Early Adopter Sales are Gone, How to do Sales Forecasting in 2023, Why You Cannot D",
-  "guest": "rich-liu",
+  "guest": "20sales-plg-and-early-adopter-sales-are-gone",
   "tags": [
     "venture-capital",
     "go-to-market",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-08-10",
   "title": "20VC: Why Founding Your First Company Is Like Learning Through A Thousand Paper Cuts, The 3 Core Pha",
-  "guest": "armon-dadgar",
+  "guest": "20vc-why-founding-your-first-company-is",
   "tags": [
     "venture-capital",
     "founder-psychology",

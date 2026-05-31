@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-08-27",
   "title": "20VC: The Commonalities In The Makings Of Truly Great People, How Silicon Valley Will Become The Hom",
-  "guest": "daniel-gross",
+  "guest": "20vc-the-commonalities-in-the-makings-o",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-01-27",
   "title": "20VC: Why You Should Build Your Investor Team Like A Sports Team & How To Leverage The Abilities Of ",
-  "guest": "ted-blosser",
+  "guest": "20vc-why-you-should-build-your-investor",
   "tags": [
     "venture-capital",
     "founder-psychology",

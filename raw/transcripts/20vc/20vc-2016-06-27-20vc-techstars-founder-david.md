@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-06-27",
   "title": "20VC: Techstars Founder, David Cohen on Scaling Techstars Ventures and Investing In Uber, Twilio and",
-  "guest": "unknown-guest",
+  "guest": "20vc-techstars-founder-david-cohen",
   "tags": [
     "venture-capital",
     "founder-psychology",

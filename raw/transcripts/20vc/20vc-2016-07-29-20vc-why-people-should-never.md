@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-07-29",
   "title": "20VC: Why People Should Never Be Surprised If Fired, Subscription E-Commerce Is Hot & People Never G",
-  "guest": "amir-elaguizy",
+  "guest": "20vc-why-people-should-never-be-surprised-if-fired-subscript",
   "tags": [
     "venture-capital",
     "founder-psychology",

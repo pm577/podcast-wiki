@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-08-01",
   "title": "20VC: Forerunner's Kirsten Green on The Biggest Challenges Scaling Both Teams and AUM, What Truly is",
-  "guest": "unknown-guest",
+  "guest": "20vc-forerunners-kirsten-green",
   "tags": [
     "venture-capital",
     "founder-psychology",

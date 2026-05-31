@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-06-24",
   "title": "20 VC 048: What Do VC's Really Add To Startups with Christian Claussen, Managing Partner @ Ventech",
-  "guest": "christian-claussen",
+  "guest": "christian-claussen-managing-partner-ventech",
   "tags": [
     "venture-capital",
     "founder-psychology"

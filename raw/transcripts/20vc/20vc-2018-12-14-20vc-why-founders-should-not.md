@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-12-14",
   "title": "20VC: Why Founders Should Not Always Be Raising, How To Build Relationships with VCs In A Condensed ",
-  "guest": "dave-vasen",
+  "guest": "vcs-in-a-condensed",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-04-06",
   "title": "20 VC 025: Finding the Right VC and The Evolution of Summly with John Henderson of White Star Capita",
-  "guest": "john-henderson",
+  "guest": "john-henderson-of-white-star-capita",
   "tags": [
     "venture-capital",
     "product-strategy"

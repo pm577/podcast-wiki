@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-07-27",
   "title": "20VC: Brad Feld, Jerry Colonna and Tracy Lawrence on Depression and Mental Health, The Dangers of Ty",
-  "guest": "unknown-guest",
+  "guest": "20vc-brad-feld-jerry-colonna-and-tracy-lawrence",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-07-01",
   "title": "20VC: Why Great VCs Know The Opportunity In Hardware, Physical Stores Will Not Disappear and The Imp",
-  "guest": "josh-udashkin",
+  "guest": "20vc-why-great-vcs-know-the-opportunity-in-hardware",
   "tags": [
     "venture-capital",
     "founder-psychology",

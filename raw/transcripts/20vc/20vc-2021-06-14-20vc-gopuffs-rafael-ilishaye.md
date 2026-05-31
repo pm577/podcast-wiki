@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-06-14",
   "title": "20VC: GoPuff's Rafael Ilishayev on How GoPuff Has Been EBITDA Profitable From Day 1; The Unit Econom",
-  "guest": "unknown-guest",
+  "guest": "20vc-gopuffs-rafael-ilishayev",
   "tags": [
     "venture-capital",
     "founder-psychology",

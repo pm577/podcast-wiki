@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-09-21",
   "title": "20VC: The Chainsmokers on Raising Their First $35M Fund and Entering The World of Venture, Dealing w",
-  "guest": "vulnerability",
+  "guest": "20vc-the-chainsmokers",
   "tags": [
     "venture-capital",
     "founder-psychology",

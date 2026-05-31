@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-07-31",
   "title": "20VC: Why The Unbundling of Fintech Will Continue, How VCs Are Propping Up The Neo-Banking Industry ",
-  "guest": "clay-wilkes",
+  "guest": "20vc-why-the-unbundling-of-fintech-will-continue-how-vcs-are",
   "tags": [
     "venture-capital",
     "founder-psychology",

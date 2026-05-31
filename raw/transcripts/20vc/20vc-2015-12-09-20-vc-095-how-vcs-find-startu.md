@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-12-09",
   "title": "20 VC 095: How VCs Find Startups and How To Add Value Once Invested with David Teten @ ff Venture Ca",
-  "guest": "david-teten",
+  "guest": "david-teten-ff-venture-ca",
   "tags": [
     "venture-capital",
     "founder-psychology",

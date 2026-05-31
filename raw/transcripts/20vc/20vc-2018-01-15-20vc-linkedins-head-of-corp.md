@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-01-15",
   "title": "20VC: LinkedIn's Head of Corp Dev on Why and When Startups Should Start Relationship Building With C",
-  "guest": "unknown-guest",
+  "guest": "20vc-linkedins-head-of-corp-dev",
   "tags": [
     "venture-capital",
     "product-strategy"

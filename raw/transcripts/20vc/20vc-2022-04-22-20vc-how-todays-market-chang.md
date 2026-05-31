@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-04-22",
   "title": "20VC: How Today's Market Changes How Companies Should Approach Burn and Runway, Are Financing Market",
-  "guest": "bill-cilluf",
+  "guest": "20vc-how-todays-market-changes-how-com",
   "tags": [
     "venture-capital",
     "fintech"

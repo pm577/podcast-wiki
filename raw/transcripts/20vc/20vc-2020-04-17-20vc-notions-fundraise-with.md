@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-04-17",
   "title": "20VC: Notion's Fundraise with Index: The Most Anticipated Deal in The Valley: How It Came To Be | Th",
-  "guest": "index",
+  "guest": "index-the-most-anticipated-deal-in-the-valley-how-it-came-to",
   "tags": [
     "venture-capital",
     "go-to-market",

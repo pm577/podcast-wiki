@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-11-08",
   "title": "20VC Special: Accel Founders Arthur Patterson and Jim Swartz on Building Accel Into One of the Most ",
-  "guest": "unknown-guest",
+  "guest": "20vc-special-accel-founders-arthur-patterson-and-jim-swartz",
   "tags": [
     "venture-capital",
     "founder-psychology",

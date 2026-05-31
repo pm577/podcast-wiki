@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-06-09",
   "title": "20VC: What are the World's Tech Leaders Running From? Fear? Insecurity? Poverty? What Drives the Bes",
-  "guest": "orlando-bravo",
+  "guest": "20vc-what-are-the-worlds-tech-leaders",
   "tags": [
     "venture-capital",
     "founder-psychology",

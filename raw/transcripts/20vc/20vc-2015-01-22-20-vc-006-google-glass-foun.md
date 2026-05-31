@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-01-22",
   "title": "20 VC 006: Google Glass & Founding Teams",
-  "guest": "unknown-guest",
+  "guest": "google-glass-founding-teams",
   "tags": [
     "venture-capital",
     "hiring-culture",

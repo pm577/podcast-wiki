@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-07-26",
   "title": "20VC: Ribbit Capital's Nick Shalek on How To Think Through Ownership and Price Sensitivity, When Mor",
-  "guest": "unknown-guest",
+  "guest": "20vc-ribbit-capitals-nick-shalek",
   "tags": [
     "venture-capital",
     "fintech"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-03-22",
   "title": "20VC: Basecamp CEO Jason Fried on His Relationship To Risk, Money, Vulnerability and Self-Doubt, Fan",
-  "guest": "unknown-guest",
+  "guest": "20vc-basecamp-ceo-jason-fried",
   "tags": [
     "venture-capital",
     "founder-psychology",

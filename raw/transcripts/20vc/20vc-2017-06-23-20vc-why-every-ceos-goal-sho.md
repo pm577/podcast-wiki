@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-06-23",
   "title": "20VC: Why Every CEO's Goal Should Be To Be The Laziest CEO, The Benefits of Being Both Founder and I",
-  "guest": "bart-lorang",
+  "guest": "20vc-why-every-ceos-goal-should-be-to-be-the-laziest-ceo",
   "tags": [
     "venture-capital",
     "founder-psychology",

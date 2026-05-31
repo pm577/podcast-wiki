@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-04-13",
   "title": "20VC Exclusive: Fast's Domm Holland on What Really Happened at Fast? Were they really Burning $10M p",
-  "guest": "unknown-guest",
+  "guest": "20vc-exclusive-fasts-domm-holland",
   "tags": [
     "venture-capital",
     "founder-psychology"

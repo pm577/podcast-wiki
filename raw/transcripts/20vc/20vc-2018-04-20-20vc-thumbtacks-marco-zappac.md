@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-04-20",
   "title": "20VC: Thumbtack's Marco Zappacosta on The 3 Core Elements To All Board Meetings, Raising $250m from ",
-  "guest": "unknown-guest",
+  "guest": "20vc-thumbtacks-marco-zappacosta",
   "tags": [
     "venture-capital",
     "founder-psychology",

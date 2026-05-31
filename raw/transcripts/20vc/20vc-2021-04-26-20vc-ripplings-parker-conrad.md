@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-04-26",
   "title": "20VC: Rippling's Parker Conrad on Why The VC/Founder Marriage Analogy is Weird, Why The Notion of Fo",
-  "guest": "unknown-guest",
+  "guest": "20vc-ripplings-parker-conrad",
   "tags": [
     "venture-capital",
     "founder-psychology",

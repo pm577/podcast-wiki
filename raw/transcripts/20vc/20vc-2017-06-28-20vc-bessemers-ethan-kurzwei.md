@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-06-28",
   "title": "20VC: Bessemer's Ethan Kurzweil on How To View Pattern Recognition and Deal With The Anti-Portfolio,",
-  "guest": "unknown-guest",
+  "guest": "20vc-bessemers-ethan-kurzweil",
   "tags": [
     "venture-capital",
     "marketplaces",

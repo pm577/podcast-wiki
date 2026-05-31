@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-12-04",
   "title": "20 VC FF 025: Crowdfunding Gimlet Media and Why The Nature Of Startup Equity Is Changing with Erin G",
-  "guest": "erin-glenn",
+  "guest": "erin-g",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-02-22",
   "title": "20VC: Instagram Founders Kevin Systrom and Mike Krieger on Why Social Networks Should Be Less Social",
-  "guest": "unknown-guest",
+  "guest": "20vc-instagram-founders-kevin-systrom-and-mike-krieger",
   "tags": [
     "venture-capital",
     "founder-psychology",

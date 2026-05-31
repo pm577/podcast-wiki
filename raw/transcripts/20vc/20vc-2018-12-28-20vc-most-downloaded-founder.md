@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-12-28",
   "title": "20VC: Most Downloaded Founder Episode of 2018: Andrew Dudum, Founder & CEO @ Hims",
-  "guest": "unknown-guest",
+  "guest": "20vc-most-downloaded-founder-episode",
   "tags": [
     "venture-capital",
     "founder-psychology",

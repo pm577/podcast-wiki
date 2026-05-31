@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-04-20",
   "title": "20 Product: Robinhood CPO on The 3 Stages of Product Management, How to Structure and Execute Great ",
-  "guest": "aparna-chennapragada",
+  "guest": "20-product-robinhood-cpo",
   "tags": [
     "venture-capital",
     "product-strategy",

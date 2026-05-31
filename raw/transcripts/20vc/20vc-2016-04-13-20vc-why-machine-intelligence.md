@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-04-13",
   "title": "20VC: Why Machine Intelligence Will Eat The World Of Software with Roy Bahat, Head of Bloomberg Beta",
-  "guest": "roy-bahat",
+  "guest": "roy-bahat-head-of-bloomberg-beta",
   "tags": [
     "venture-capital",
     "product-strategy",

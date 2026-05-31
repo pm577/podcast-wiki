@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-03-09",
   "title": "20 VC 018: Seed Stage Investing with Stefan Glaenzer of Passion Capital",
-  "guest": "stefan-glaenzer",
+  "guest": "stefan-glaenzer-of-passion-capital",
   "tags": [
     "venture-capital",
     "founder-psychology",

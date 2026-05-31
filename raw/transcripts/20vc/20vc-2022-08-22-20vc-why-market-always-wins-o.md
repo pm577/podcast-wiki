@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-08-22",
   "title": "20VC: Why Market Always Wins Over the Founder & Why I Do Not Do Market Sizing | Why it is not the Be",
-  "guest": "wes-chan",
+  "guest": "20vc-why-market-always-wins-over-the-fo",
   "tags": [
     "venture-capital",
     "founder-psychology",

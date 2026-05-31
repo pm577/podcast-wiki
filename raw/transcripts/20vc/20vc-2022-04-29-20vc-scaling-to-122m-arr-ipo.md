@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-04-29",
   "title": "20VC: Scaling to $122M ARR IPO with $6M in Net Burn, Olo. The Ultimate Journey of Capital Efficiency",
-  "guest": "unknown-guest",
+  "guest": "6m-in-net-burn-olo-the-ultimate-journey-of-capital-efficienc",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-07-13",
   "title": "20VC: Why Fundraising Is Like Dating and How to Play The Game Successfully & How To Increase The Fle",
-  "guest": "rachel-blumenthal",
+  "guest": "20vc-why-fundraising-is-like-dating-and",
   "tags": [
     "venture-capital",
     "founder-psychology",

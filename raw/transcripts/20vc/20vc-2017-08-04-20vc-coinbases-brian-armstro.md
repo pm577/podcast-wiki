@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-08-04",
   "title": "20VC: Coinbase's Brian Armstrong on The Rise & Short Term Correction in ICOs, The Regulatory Framewo",
-  "guest": "unknown-guest",
+  "guest": "20vc-coinbases-brian-armstrong",
   "tags": [
     "venture-capital",
     "founder-psychology",

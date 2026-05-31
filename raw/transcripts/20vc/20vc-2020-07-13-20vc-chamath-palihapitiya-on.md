@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-07-13",
   "title": "20VC: Chamath Palihapitiya on Why IPOs and Direct Listings Are Broken, Turning Social Capital Into A",
-  "guest": "unknown-guest",
+  "guest": "20vc-chamath-palihapitiya",
   "tags": [
     "venture-capital",
     "founder-psychology",

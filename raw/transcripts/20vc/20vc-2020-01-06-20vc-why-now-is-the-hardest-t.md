@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-01-06",
   "title": "20VC: Why Now Is The Hardest Time To Raise an Institutional Pre-Seed in the Last Decade, What To Do ",
-  "guest": "gaurav-jain",
+  "guest": "20vc-why-now-is-the-hardest-time-to-raise-an-institutional-p",
   "tags": [
     "venture-capital",
     "founder-psychology",

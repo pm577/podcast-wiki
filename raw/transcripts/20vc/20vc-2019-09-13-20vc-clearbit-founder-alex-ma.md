@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-09-13",
   "title": "20VC: Clearbit Founder Alex MacCaw on How To Successfully Negotiate with Investors, What Value-Add D",
-  "guest": "investors",
+  "guest": "20vc-clearbit-founder-alex-maccaw",
   "tags": [
     "venture-capital",
     "founder-psychology",

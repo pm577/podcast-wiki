@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-05-31",
   "title": "20VC: Why You Must Have A Customer Acquisition Strategy From Day 1, How To Test and Validate Ideas A",
-  "guest": "kulveer-taggar",
+  "guest": "20vc-why-you-must-have-a-customer-acqui",
   "tags": [
     "venture-capital",
     "founder-psychology",

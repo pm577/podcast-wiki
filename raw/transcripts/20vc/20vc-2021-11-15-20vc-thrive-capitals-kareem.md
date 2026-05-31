@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-11-15",
   "title": "20VC: Thrive Capital's Kareem Zaki on The One Rule That Drives Investment Decision-Making and Focus ",
-  "guest": "unknown-guest",
+  "guest": "20vc-thrive-capitals-kareem-zaki",
   "tags": [
     "venture-capital",
     "founder-psychology",

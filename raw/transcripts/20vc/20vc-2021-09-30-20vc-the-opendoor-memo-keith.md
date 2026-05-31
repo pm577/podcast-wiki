@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-09-30",
   "title": "20VC: The Opendoor Memo: Keith Rabois on The Origins of Opendoor from a Conversation with Peter Thie",
-  "guest": "peter-thiel",
+  "guest": "20vc-the-opendoor-memo-keith-rabois",
   "tags": [
     "venture-capital",
     "founder-psychology",

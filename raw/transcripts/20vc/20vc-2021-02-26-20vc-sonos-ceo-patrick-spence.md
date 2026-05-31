@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-02-26",
   "title": "20VC: Sonos CEO Patrick Spence on His Biggest Lessons Building and Growing Blackberry, The Right Way",
-  "guest": "unknown-guest",
+  "guest": "20vc-sonos-ceo-patrick-spence",
   "tags": [
     "venture-capital",
     "product-strategy",

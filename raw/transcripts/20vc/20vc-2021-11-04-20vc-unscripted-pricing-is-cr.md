@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-11-04",
   "title": "20VC Unscripted: Pricing is Crazy, Pre-Emptive Rounds are Normal, Pricing at 200x Revenue Multiple i",
-  "guest": "ryan-denehy",
+  "guest": "20vc-unscripted-pricing-is-crazy-pre",
   "tags": [
     "venture-capital",
     "founder-psychology",

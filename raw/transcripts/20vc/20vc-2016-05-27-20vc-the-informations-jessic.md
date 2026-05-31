@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-05-27",
   "title": "20VC: The Information's Jessica Lessin on The Future For Online Journalism & The Benefits Of A Subsc",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-informations-jessica-lessin",
   "tags": [
     "venture-capital",
     "founder-psychology",

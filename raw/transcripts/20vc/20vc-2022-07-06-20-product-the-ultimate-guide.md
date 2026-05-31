@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-07-06",
   "title": "20 Product: The Ultimate Guide to Product Reviews: What Makes the Best vs the Worst | How Often Shou",
-  "guest": "unknown-guest",
+  "guest": "20-product-the-ultimate-guide-to-produc",
   "tags": [
     "venture-capital",
     "product-strategy",

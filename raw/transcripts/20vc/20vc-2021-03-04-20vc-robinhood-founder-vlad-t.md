@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-03-04",
   "title": "20VC: Robinhood Founder Vlad Tenev on His Biggest Lessons Managing Through A Crisis, The Events of T",
-  "guest": "unknown-guest",
+  "guest": "20vc-robinhood-founder-vlad-tenev",
   "tags": [
     "venture-capital",
     "founder-psychology",

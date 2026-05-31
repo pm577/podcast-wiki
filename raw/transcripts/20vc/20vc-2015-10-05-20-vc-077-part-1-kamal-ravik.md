@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-10-05",
   "title": "20 VC 077: PART 1: Kamal Ravikant: 'I'm Not Your Traditional VC'",
-  "guest": "unknown-guest",
+  "guest": "part-1-kamal-ravikant-im-not-your-tr",
   "tags": [
     "venture-capital",
     "hiring-culture"

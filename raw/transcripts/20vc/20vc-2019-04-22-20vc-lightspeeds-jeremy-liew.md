@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-04-22",
   "title": "20VC: Lightspeed's Jeremy Liew on Why It Is More Important To Be Right Than Contrarian, The Most Com",
-  "guest": "unknown-guest",
+  "guest": "20vc-lightspeeds-jeremy-liew",
   "tags": [
     "venture-capital",
     "go-to-market"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-10-20",
   "title": "20VC: Eventbrite Founder, Julia Hartz on The Lessons Learned Scaling Eventbrite to Unicorn Valuation",
-  "guest": "unknown-guest",
+  "guest": "20vc-eventbrite-founder-julia-hartz",
   "tags": [
     "venture-capital",
     "founder-psychology",

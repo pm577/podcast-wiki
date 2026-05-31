@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-01-28",
   "title": "20VC: First Round's Josh Kopelman on Why Price Is Both An Art and A Science, Why Ownership Must Be B",
-  "guest": "unknown-guest",
+  "guest": "20vc-first-rounds-josh-kopelman",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-08-10",
   "title": "20VC: MongoDB CEO, Dev Ittycheria on Why Sometimes You Have To Be Inefficient To Be Effective, The 2",
-  "guest": "unknown-guest",
+  "guest": "20vc-mongodb-ceo-dev-ittycheria",
   "tags": [
     "venture-capital",
     "founder-psychology",

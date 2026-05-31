@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-01-12",
   "title": "20VC: Why Risk Is Misunderstood In Entrepreneurship, Why Acquisitions Are Cheap For Incumbents Today",
-  "guest": "henry-davis",
+  "guest": "20vc-why-risk-is-misunderstood-in-entrepreneurship",
   "tags": [
     "venture-capital",
     "hiring-culture",

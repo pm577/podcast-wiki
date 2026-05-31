@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-04-14",
   "title": "20VC: Basecamp Founder David Heinemeier Hansson on Why It Is The Biggest BS To Chase Being A Unicorn",
-  "guest": "unknown-guest",
+  "guest": "20vc-basecamp-founder-david-heinemeier-hansson",
   "tags": [
     "venture-capital",
     "founder-psychology",

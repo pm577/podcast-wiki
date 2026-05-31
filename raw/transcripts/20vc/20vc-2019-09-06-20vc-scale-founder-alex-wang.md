@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-09-06",
   "title": "20VC: Scale Founder Alex Wang on How To Hire Incredible Talent Before You Are A Hot Company, Why Bea",
-  "guest": "unknown-guest",
+  "guest": "20vc-scale-founder-alex-wang",
   "tags": [
     "venture-capital",
     "founder-psychology",

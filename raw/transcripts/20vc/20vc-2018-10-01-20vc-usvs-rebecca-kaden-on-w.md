@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-10-01",
   "title": "20VC: USV's Rebecca Kaden on Whether Venture Returns Can Be Made At Scale In Consumer Today & How To",
-  "guest": "unknown-guest",
+  "guest": "20vc-usvs-rebecca-kaden",
   "tags": [
     "venture-capital",
     "enterprise-saas",

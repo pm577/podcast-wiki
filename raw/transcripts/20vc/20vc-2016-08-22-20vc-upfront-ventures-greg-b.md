@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-22",
   "title": "20VC: Upfront Ventures' Greg Bettinelli on Testing For Founder 'Grit' & What It Takes To Build A Suc",
-  "guest": "unknown-guest",
+  "guest": "20vc-upfront-ventures-greg-bettinelli",
   "tags": [
     "venture-capital",
     "founder-psychology",

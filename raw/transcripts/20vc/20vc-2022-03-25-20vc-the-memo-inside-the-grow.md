@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-03-25",
   "title": "20VC The Memo: Inside the Growth Engines of Facebook, Twitter, Instagram and Instacart with the Grow",
-  "guest": "unknown-guest",
+  "guest": "the-grow",
   "tags": [
     "venture-capital",
     "go-to-market",

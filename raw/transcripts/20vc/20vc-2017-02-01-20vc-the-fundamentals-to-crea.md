@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-02-01",
   "title": "20VC: The Fundamentals To Creating A Successful Venture Partnership & The Optimal Investment Decisio",
-  "guest": "ryan-mc",
+  "guest": "20vc-the-fundamentals-to-creating-a-suc",
   "tags": [
     "venture-capital",
     "founder-psychology",

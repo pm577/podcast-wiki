@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-12-15",
   "title": "20VC: How To Upscale Management Teams Effectively, When Should The CEO Play The Role of \"Lifeguard\" ",
-  "guest": "matt-straz",
+  "guest": "20vc-how-to-upscale-management-teams-effectively",
   "tags": [
     "venture-capital",
     "founder-psychology",

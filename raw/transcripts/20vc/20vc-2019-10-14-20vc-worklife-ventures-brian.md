@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-10-14",
   "title": "20VC: Worklife Ventures' Brianne Kimmel on Why More Operators Should Start Their Own Fund, How To St",
-  "guest": "unknown-guest",
+  "guest": "20vc-worklife-ventures-brianne-kimmel",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-06-10",
   "title": "20VC: a16z's Scott Kupor on The Biggest Learnings From Scaling a16z from $300m to $7Bn AUM, The Bigg",
-  "guest": "unknown-guest",
+  "guest": "20vc-a16zs-scott-kupor",
   "tags": [
     "venture-capital",
     "go-to-market",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-02-18",
   "title": "20VC Special: The Real Estate Fintech OGs on Why This Is Not The End For The Bay Area and What Can B",
-  "guest": "corporate-investors",
+  "guest": "20vc-special-the-real-estate-fintech-ogs",
   "tags": [
     "venture-capital",
     "founder-psychology",

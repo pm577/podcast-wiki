@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-06-19",
   "title": "20VC: Benchmark's Peter Fenton on How To Differentiate Between Good & Great VCs, Why Ownership Is A ",
-  "guest": "unknown-guest",
+  "guest": "20vc-benchmarks-peter-fenton",
   "tags": [
     "venture-capital"
   ],

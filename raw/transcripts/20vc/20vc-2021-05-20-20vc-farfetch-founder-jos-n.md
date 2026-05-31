@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-05-20",
   "title": "20VC: Farfetch Founder, Jos\u00e9 Neves on Zen Buddhism and Its Impact on Leadership Mentality, Why Head ",
-  "guest": "unknown-guest",
+  "guest": "20vc-farfetch-founder-jos-neves",
   "tags": [
     "venture-capital",
     "founder-psychology",

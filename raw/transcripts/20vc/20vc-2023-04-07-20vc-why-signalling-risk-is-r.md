@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-04-07",
   "title": "20VC: Why Signalling Risk is Real, What Founders Need to Know About Taking Multi-Stage Money vs Seed",
-  "guest": "no",
+  "guest": "20vc-why-signalling-risk-is-real-what-founders-need-to-know",
   "tags": [
     "venture-capital",
     "founder-psychology",

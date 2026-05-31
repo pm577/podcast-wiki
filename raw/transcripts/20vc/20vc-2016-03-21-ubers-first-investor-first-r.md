@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-03-21",
   "title": "Uber's First Investor, First Round Capital's Rob Hayes on How The Deal Of The Decade Originated and ",
-  "guest": "unknown-guest",
+  "guest": "ubers-first-investor-first-round-capitals-rob-hayes",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-10-28",
   "title": "20VC: Chris Sacca, Chamath Palihapitiya, Gary Vee, Brad Gerstner and more on Their Relationship To M",
-  "guest": "time",
+  "guest": "20vc-chris-sacca-chamath-palihapitiya-gary-vee-brad-gerstner",
   "tags": [
     "venture-capital",
     "founder-psychology",

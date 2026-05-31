@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-11-23",
   "title": "20VC: Why Operating Experience Becomes Irrelevant Fast and Operators Often Give Bad Advice to Founde",
-  "guest": "unknown-guest",
+  "guest": "20vc-why-operating-experience-becomes-i",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-01-26",
   "title": "20VC: Sweetgreen Founder Jonathan Neman on Leadership Lessons from Managing Through COVID, The Impor",
-  "guest": "unknown-guest",
+  "guest": "20vc-sweetgreen-founder-jonathan-neman",
   "tags": [
     "venture-capital",
     "founder-psychology",

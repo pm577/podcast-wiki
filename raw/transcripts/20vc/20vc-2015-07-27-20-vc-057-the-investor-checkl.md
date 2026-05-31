@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-07-27",
   "title": "20 VC 057: The Investor Checklist with Nicolas Wittenborn, VC @ Point Nine Capital",
-  "guest": "nicolas-wittenborn",
+  "guest": "nicolas-wittenborn-vc-point-nine-capital",
   "tags": [
     "venture-capital",
     "product-strategy",

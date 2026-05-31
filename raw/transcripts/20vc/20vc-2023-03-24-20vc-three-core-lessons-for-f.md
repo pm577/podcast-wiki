@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-24",
   "title": "20VC: Three Core Lessons for Founders From the SVB Crisis From Financial Agility (Banking) to Constr",
-  "guest": "unknown-guest",
+  "guest": "20vc-three-core-lessons-for-founders-fr",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-09-30",
   "title": "20VC: Brad Feld on Why Market Size At Early Stage Is Not Helpful, His Biggest Learnings From The Boo",
-  "guest": "unknown-guest",
+  "guest": "20vc-brad-feld",
   "tags": [
     "venture-capital",
     "founder-psychology"

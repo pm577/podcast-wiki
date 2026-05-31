@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-03-05",
   "title": "20VC: Why, How and When To Think About Growth Teams, The Right Way To Think About Network Effects & ",
-  "guest": "anu-hariharan",
+  "guest": "20vc-why",
   "tags": [
     "venture-capital",
     "go-to-market",

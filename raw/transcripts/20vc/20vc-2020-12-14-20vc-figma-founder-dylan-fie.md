@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-12-14",
   "title": "20VC: Figma Founder, Dylan Field on How Leadership Needs To Evolve with Scale, The Transition from A",
-  "guest": "scale",
+  "guest": "20vc-figma-founder-dylan-field",
   "tags": [
     "venture-capital",
     "founder-psychology",

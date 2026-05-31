@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-07-08",
   "title": "20VC: CapitalG's Laela Sturdy on The Current State of Growth with Crossover, PE and Hedge Funds All ",
-  "guest": "crossover",
+  "guest": "20vc-capitalgs-laela-sturdy",
   "tags": [
     "venture-capital",
     "founder-psychology",

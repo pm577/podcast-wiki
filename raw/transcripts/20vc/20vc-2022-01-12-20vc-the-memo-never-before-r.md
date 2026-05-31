@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-01-12",
   "title": "20VC: The Memo: Never Before Revealed Metrics; A Full Breakdown of Unit Economics Behind JOKR, How D",
-  "guest": "ralf-wenzel",
+  "guest": "20vc-the-memo-never-before-revealed-me",
   "tags": [
     "venture-capital",
     "founder-psychology",

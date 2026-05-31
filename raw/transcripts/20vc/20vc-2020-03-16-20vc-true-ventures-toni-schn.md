@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-03-16",
   "title": "20VC: True Ventures' Toni Schneider on How Being CEO @ Automattic (Wordpress) Made Him A Better Inve",
-  "guest": "unknown-guest",
+  "guest": "20vc-true-ventures-toni-schneider",
   "tags": [
     "venture-capital",
     "founder-psychology",

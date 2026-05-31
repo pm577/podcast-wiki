@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-07-08",
   "title": "20 VC 052: How To Make The Leap From Seed To Series A with Ari Helgason @ Dawn Capital",
-  "guest": "ari-helgason",
+  "guest": "ari-helgason-dawn-capital",
   "tags": [
     "venture-capital",
     "go-to-market",

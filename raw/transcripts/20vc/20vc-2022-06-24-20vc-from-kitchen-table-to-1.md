@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-06-24",
   "title": "20VC: From Kitchen Table to $134M Fund II; Raising Your First Time Fund: Lessons from 400 LP Meeting",
-  "guest": "henri-pierre",
+  "guest": "20vc-from-kitchen-table-to-134m-fund-i",
   "tags": [
     "venture-capital",
     "founder-psychology",

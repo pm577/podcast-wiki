@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-02-08",
   "title": "20VC: Aleph's Michael Eisenberg on Why Generalists Over Specialists, Why Boutique Smaller Firms Over",
-  "guest": "market-cycles",
+  "guest": "20vc-alephs-michael-eisenberg",
   "tags": [
     "venture-capital",
     "founder-psychology"

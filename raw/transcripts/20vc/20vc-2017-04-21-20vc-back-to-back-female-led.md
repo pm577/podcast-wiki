@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-04-21",
   "title": "20VC: Back To Back Female Led IPOs & Why It's Harder To Be A Female CEO Than A Male CEO with Leura F",
-  "guest": "leura-fine",
+  "guest": "leura-f",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-06-02",
   "title": "20VC: Trivago Founder on Why Incumbents Have Lost Their Main Business Model, Why You Have To Destroy",
-  "guest": "unknown-guest",
+  "guest": "20vc-trivago-founder",
   "tags": [
     "venture-capital",
     "founder-psychology",

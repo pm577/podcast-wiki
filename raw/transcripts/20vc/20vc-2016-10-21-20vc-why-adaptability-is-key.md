@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-10-21",
   "title": "20VC: Why Adaptability Is Key To Fundraising, Why Supply Is Always The First Priority In Marketplace",
-  "guest": "nav-athwal",
+  "guest": "20vc-why-adaptability-is-key-to-fundraising",
   "tags": [
     "venture-capital",
     "founder-psychology",

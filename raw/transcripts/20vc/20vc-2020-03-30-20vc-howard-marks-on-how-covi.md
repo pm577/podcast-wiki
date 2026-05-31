@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-03-30",
   "title": "20VC: Howard Marks on How COVID-19 Impacts Our Economy, Liquidity and National Debt, Why The Theory ",
-  "guest": "unknown-guest",
+  "guest": "20vc-howard-marks",
   "tags": [
     "venture-capital",
     "founder-psychology",

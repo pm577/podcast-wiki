@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-12-01",
   "title": "20VC: Overcoming The Engineer Boys Club, Disrupting The \"Pink Aisle\" & Why VCs Are Missing A Trick N",
-  "guest": "debbie-sterling",
+  "guest": "20vc-overcoming-the-engineer-boys-club",
   "tags": [
     "venture-capital",
     "founder-psychology",

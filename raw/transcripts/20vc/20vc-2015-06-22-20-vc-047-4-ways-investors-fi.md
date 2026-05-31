@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-06-22",
   "title": "20 VC 047: 4 Ways Investors Find Great Startups with Rob Moffat, Principal @ Balderton Capital",
-  "guest": "rob-moffat",
+  "guest": "rob-moffat-principal-balderton-capital",
   "tags": [
     "venture-capital",
     "product-strategy",

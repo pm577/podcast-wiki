@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-07-23",
   "title": "20VC: The Metrics That Matter In Early-Stage Consumer, Why Moats Matter More Than Brand Today and Ho",
-  "guest": "jason-stoffer",
+  "guest": "20vc-the-metrics-that-matter-in-early",
   "tags": [
     "venture-capital",
     "marketplaces",

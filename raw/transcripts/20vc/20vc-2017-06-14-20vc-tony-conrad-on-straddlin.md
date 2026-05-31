@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-06-14",
   "title": "20VC: Tony Conrad on Straddling The Role Of Founder & Investor, What True Founder/Product Fit Looks ",
-  "guest": "unknown-guest",
+  "guest": "20vc-tony-conrad",
   "tags": [
     "venture-capital",
     "founder-psychology",

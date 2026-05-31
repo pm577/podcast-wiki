@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-06-07",
   "title": "20VC: Plaid's Zach Perret on Why You Have To Hire For Spikes and What That Really Means, Fintech Pre",
-  "guest": "unknown-guest",
+  "guest": "20vc-plaids-zach-perret",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-09-08",
   "title": "20VC: a16z's Angela Strange on Why Every Company Will Be A Fintech Company, How Founders Should Thin",
-  "guest": "unknown-guest",
+  "guest": "20vc-a16zs-angela-strange",
   "tags": [
     "venture-capital",
     "founder-psychology",

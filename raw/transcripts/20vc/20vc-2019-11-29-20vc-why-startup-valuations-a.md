@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-11-29",
   "title": "20VC: Why Startup Valuations Are Not As Overpriced As You Think, How To Determine Whether An Investo",
-  "guest": "jason-brown",
+  "guest": "20vc-why-startup-valuations-are-not-as",
   "tags": [
     "venture-capital",
     "founder-psychology",

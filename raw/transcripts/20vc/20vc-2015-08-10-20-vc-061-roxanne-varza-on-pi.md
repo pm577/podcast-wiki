@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-08-10",
   "title": "20 VC 061: Roxanne Varza on Pitching A VC in 10 Minutes and Maximising Media Exposure For Your Start",
-  "guest": "unknown-guest",
+  "guest": "roxanne-varza",
   "tags": [
     "venture-capital",
     "founder-psychology",

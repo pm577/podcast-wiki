@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-07-20",
   "title": "20VC: Why The Whole Industry Is Backward Looking, The Best Funds Are Entrepreneur Led and Venture Is",
-  "guest": "alex-bangash",
+  "guest": "20vc-why-the-whole-industry-is-backward-looking",
   "tags": [
     "venture-capital",
     "founder-psychology",

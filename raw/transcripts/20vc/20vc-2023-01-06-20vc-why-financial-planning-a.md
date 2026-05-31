@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-01-06",
   "title": "20VC: Why Financial Planning and Goals Do Not Work, The Decision to Ban Politics in the Workplace an",
-  "guest": "jason-fried",
+  "guest": "20vc-why-financial-planning-and-goals-do-not-work",
   "tags": [
     "venture-capital",
     "founder-psychology",

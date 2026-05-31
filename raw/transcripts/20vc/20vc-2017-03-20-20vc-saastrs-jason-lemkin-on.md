@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-20",
   "title": "20VC: SaaStr's Jason Lemkin on The 3 Things You Want From Your LPs, Why Most VCs Do Not Add Value & ",
-  "guest": "unknown-guest",
+  "guest": "20vc-saastrs-jason-lemkin",
   "tags": [
     "venture-capital",
     "founder-psychology",

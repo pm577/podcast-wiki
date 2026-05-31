@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-12-14",
   "title": "20VC: Garry Tan on The Biggest Takeaways From Advising 700 Companies @ Y Combinator & Why Now Is The",
-  "guest": "unknown-guest",
+  "guest": "20vc-garry-tan",
   "tags": [
     "venture-capital",
     "founder-psychology"

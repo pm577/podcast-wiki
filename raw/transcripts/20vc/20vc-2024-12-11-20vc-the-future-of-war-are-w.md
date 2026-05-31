@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2024-12-11",
   "title": "20VC: The Future of War: Are We Ready & What Needs to Be Done | China, Russia and Trump: What Happen",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-future",
   "tags": [
     "venture-capital",
     "founder-psychology",

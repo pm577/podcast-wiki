@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-08-03",
   "title": "20 VC 059: How To Approach VCs with Arteen Arabshahi, VC @ Karlin Ventures",
-  "guest": "arteen-arabshahi",
+  "guest": "arteen-arabshahi-vc-karlin-ventures",
   "tags": [
     "venture-capital",
     "marketplaces",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-01-08",
   "title": "20VC: Twitter Co-Founder Biz Stone on The 3 Stages of Wealth, The Return To Twitter in 2017 and the ",
-  "guest": "unknown-guest",
+  "guest": "20vc-twitter-co-founder-biz-stone",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-05-06",
   "title": "20VC: Why Consumer Brands Must Embrace Physical Retail To Avoid Inflated Online CACs, How To Alter F",
-  "guest": "brendan-wallace",
+  "guest": "20vc-why-consumer-brands-must-embrace-p",
   "tags": [
     "venture-capital",
     "founder-psychology",

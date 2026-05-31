@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-03-30",
   "title": "20VC: Tearing Up Term Sheets and Writing Your Own, Why Founders Must Do \"VC Dating\" Pre-Fundraise & ",
-  "guest": "rachel-drori",
+  "guest": "20vc-tearing-up-term-sheets-and-writing-your-own-why-founder",
   "tags": [
     "venture-capital",
     "founder-psychology",

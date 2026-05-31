@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-07-03",
   "title": "20VC: Kleiner Perkins GP, Eric Feng on How The Best Funds Use Tech and Data To Find Companies, Why E",
-  "guest": "unknown-guest",
+  "guest": "20vc-kleiner-perkins-gp-eric-feng",
   "tags": [
     "venture-capital",
     "product-strategy",

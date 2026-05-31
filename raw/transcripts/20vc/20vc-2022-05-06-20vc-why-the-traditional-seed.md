@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-05-06",
   "title": "20VC: Why the Traditional Seed Fund Model No Longer Works, Why Multi-Stage Funds Investing at Seed B",
-  "guest": "jason-lemki",
+  "guest": "20vc-why-the-traditional-seed-fund-model-no-longer-works-why",
   "tags": [
     "venture-capital",
     "founder-psychology",

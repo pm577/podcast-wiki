@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-05-06",
   "title": "20VC: Why VC Is The Perfect Preparation For Founding A Startup & Changing The World Of Online Fashio",
-  "guest": "chris-morton",
+  "guest": "20vc-why-vc-is-the-perfect-preparation",
   "tags": [
     "venture-capital",
     "founder-psychology",

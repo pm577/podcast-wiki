@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-09-12",
   "title": "20VC: Why 95% of Venture Capital is Not Really \"Venture Capital\" | The Five Core Levers Needed To As",
-  "guest": "will-quist",
+  "guest": "20vc-why-95",
   "tags": [
     "venture-capital",
     "hiring-culture",

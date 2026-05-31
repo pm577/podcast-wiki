@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-06-15",
   "title": "20VC: Craft Ventures' David Sacks on How To Assess Founder Psychology, How To Accurately Evaluate CA",
-  "guest": "unknown-guest",
+  "guest": "20vc-craft-ventures-david-sacks",
   "tags": [
     "venture-capital",
     "founder-psychology",

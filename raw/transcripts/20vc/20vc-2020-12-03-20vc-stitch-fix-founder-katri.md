@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-12-03",
   "title": "20VC: Stitch Fix Founder Katrina Lake on Growth vs Profitability, Her Biggest Lessons From Working w",
-  "guest": "bill-gurley",
+  "guest": "20vc-stitch-fix-founder-katrina-lake",
   "tags": [
     "venture-capital",
     "founder-psychology",

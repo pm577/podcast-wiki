@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-11-04",
   "title": "20VC: Inside The Mind of A Leading LP: How LPs Evaluate New Fund Managers on Everything from First M",
-  "guest": "lisa-edgar",
+  "guest": "20vc-inside-the-mind-of-a-leading-lp-how-lps-evaluate-new-fu",
   "tags": [
     "venture-capital",
     "hiring-culture"

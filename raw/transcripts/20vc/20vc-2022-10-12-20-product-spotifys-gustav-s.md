@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-10-12",
   "title": "20 Product: Spotify's Gustav S\u00f6derstr\u00f6m on Why Product is 100% Science and 0% Art, Why You Should Lo",
-  "guest": "unknown-guest",
+  "guest": "20-product-spotifys-gustav-sderstrm",
   "tags": [
     "venture-capital",
     "product-strategy",

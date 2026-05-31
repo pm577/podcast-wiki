@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-03-30",
   "title": "20VC: 'The Best Seed Investors Hunt' with Paige Craig @ Arena VC",
-  "guest": "paige-craig",
+  "guest": "paige-craig-arena-vc",
   "tags": [
     "venture-capital",
     "founder-psychology",

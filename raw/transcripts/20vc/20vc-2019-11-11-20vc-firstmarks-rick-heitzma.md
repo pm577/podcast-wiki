@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-11-11",
   "title": "20VC: Firstmark's Rick Heitzmann on The Rise of Pre-Emptive Rounds, His Biggest Learnings From The P",
-  "guest": "unknown-guest",
+  "guest": "20vc-firstmarks-rick-heitzmann",
   "tags": [
     "venture-capital",
     "founder-psychology",

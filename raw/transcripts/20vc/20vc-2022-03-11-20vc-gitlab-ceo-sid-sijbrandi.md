@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-03-11",
   "title": "20VC: Gitlab CEO Sid Sijbrandij on Why You Are Not Allowed to Present in Meetings at Gitlab, Why it ",
-  "guest": "unknown-guest",
+  "guest": "20vc-gitlab-ceo-sid-sijbrandij",
   "tags": [
     "venture-capital",
     "founder-psychology",

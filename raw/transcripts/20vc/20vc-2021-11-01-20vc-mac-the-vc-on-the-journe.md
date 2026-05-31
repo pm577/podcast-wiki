@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-11-01",
   "title": "20VC: Mac the VC on the Journey from Homeless To Becoming A VC, What It Takes To Raise a Fund on Twi",
-  "guest": "unknown-guest",
+  "guest": "20vc-mac-the-vc",
   "tags": [
     "venture-capital",
     "founder-psychology",

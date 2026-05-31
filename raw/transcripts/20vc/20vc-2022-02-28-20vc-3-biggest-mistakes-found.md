@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-02-28",
   "title": "20VC: 3 Biggest Mistakes Founders Make When Scaling, Management 101 on Trust Building, Morale Mainte",
-  "guest": "scott-dietzen",
+  "guest": "20vc-3-biggest-mistakes-founders-make-when-scaling-managemen",
   "tags": [
     "venture-capital",
     "founder-psychology",

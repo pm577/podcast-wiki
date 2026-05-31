@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-09-30",
   "title": "20VC: Why The Evolution of Digital Media Presents A Multi $Bn Opportunity with Brit Morin, Founder &",
-  "guest": "brit-morin",
+  "guest": "brit-morin-founder",
   "tags": [
     "venture-capital",
     "founder-psychology",

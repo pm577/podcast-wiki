@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-01",
   "title": "20VC: The Story of Ring: Scaling from an Idea in a Garage to Richard Branson Investing and a Reporte",
-  "guest": "jamie-siminoff",
+  "guest": "20vc-the-story",
   "tags": [
     "venture-capital",
     "founder-psychology",

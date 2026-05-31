@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-04-15",
   "title": "20VC: Scaling Zapier To $140M ARR and a $5Bn Valuation on $1.4M of Funding, What Founders Misunderst",
-  "guest": "wade-foster",
+  "guest": "20vc-scaling-zapier-to-140m-arr-and-a-5bn-valuation",
   "tags": [
     "venture-capital",
     "founder-psychology",

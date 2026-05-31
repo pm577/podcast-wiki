@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-02-04",
   "title": "20VC: Why VCs Should Care More About Cost of Capital and Less About Ownership, Investing Lessons fro",
-  "guest": "peter-thiel",
+  "guest": "20vc-why-vcs-should-care-more-about-cost",
   "tags": [
     "venture-capital",
     "founder-psychology",

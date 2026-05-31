@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2024-03-25",
   "title": "20VC: Lessons from 32 Years of Fund Investing | Why Exits Will Be Larger & Funds Sizes Bigger | Top ",
-  "guest": "david-clark",
+  "guest": "20vc-lessons",
   "tags": [
     "venture-capital"
   ],

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-09-29",
   "title": "20VC: If You Do Not Like VCs, You Have Not Worked With a Good One, How Andreesen Have Added The Same",
-  "guest": "roger-dickey",
+  "guest": "20vc-if-you-do-not-like-vcs",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-09-24",
   "title": "20VC: Benchmark's Sarah Tavel on Why Investing Success Lies In Small Markets Adjacent To Very Large ",
-  "guest": "unknown-guest",
+  "guest": "20vc-benchmarks-sarah-tavel",
   "tags": [
     "venture-capital",
     "fintech",

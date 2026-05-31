@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-19",
   "title": "20Growth: Three Growth Lessons Scaling Whatsapp from 0-100M, Why You Should Hire a Head of Growth So",
-  "guest": "ryan-wiggins",
+  "guest": "20growth-three-growth-lessons-scaling-whatsapp-from-0",
   "tags": [
     "venture-capital",
     "founder-psychology",

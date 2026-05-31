@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-08-24",
   "title": "20VC: Sahil Lavingia on Rolling Funds and Their Impact on The Future of Venture, How To Evaluate Mar",
-  "guest": "unknown-guest",
+  "guest": "20vc-sahil-lavingia",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-10-26",
   "title": "20VC: Sequoia's Roelof Botha on His Biggest Lessons Working Alongside Don Valentine, Mike Moritz and",
-  "guest": "unknown-guest",
+  "guest": "20vc-sequoias-roelof-botha",
   "tags": [
     "venture-capital",
     "go-to-market",

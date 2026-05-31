@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-09-18",
   "title": "FF 013: 'Make Bets And Believe In What You Are Doing' with James Borow @ Shift & Brand Networks",
-  "guest": "james-borow",
+  "guest": "james-borow-shift-brand-networks",
   "tags": [
     "founder-psychology",
     "product-strategy",

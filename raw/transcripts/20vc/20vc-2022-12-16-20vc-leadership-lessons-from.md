@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-12-16",
   "title": "20VC: Leadership Lessons from Bill Gates and Steve Ballmer, The Early Days of TheFacebook Advising M",
-  "guest": "hadi-partovi",
+  "guest": "20vc-leadership-lessons",
   "tags": [
     "venture-capital",
     "founder-psychology",

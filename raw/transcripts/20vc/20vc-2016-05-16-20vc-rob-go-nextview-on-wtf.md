@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-05-16",
   "title": "20VC: Rob Go @ NextView on WTF Is Seed Investing Today and Why Raising Too Much Money Can Harm Your ",
-  "guest": "unknown-guest",
+  "guest": "20vc-rob-go-nextview",
   "tags": [
     "venture-capital",
     "founder-psychology",

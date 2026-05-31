@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-09-14",
   "title": "20 Sales: How To Interview Sales People; The Red Flags and What to Look For, How Sales Leaders Shoul",
-  "guest": "eleanor-dorfman",
+  "guest": "20-sales-how-to-interview-sales-people",
   "tags": [
     "go-to-market",
     "product-strategy",

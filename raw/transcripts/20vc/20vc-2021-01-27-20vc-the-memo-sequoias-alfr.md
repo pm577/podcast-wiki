@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-01-27",
   "title": "20VC: The Memo: Sequoia's Alfred Lin on Why Chasing GMV Leads To Bad Behaviours, How To Approach Com",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-memo-sequoias-alfred-lin",
   "tags": [
     "venture-capital",
     "ai-ml"

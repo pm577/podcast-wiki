@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-10-14",
   "title": "20VC: How You Can Learn To Be A Great Business Leader & Why All Successful Business Must Be Loved or",
-  "guest": "moisey-uretsky",
+  "guest": "20vc-how-you-can-learn-to-be-a-great-bu",
   "tags": [
     "venture-capital",
     "founder-psychology",

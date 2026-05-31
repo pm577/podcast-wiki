@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-07-08",
   "title": "20VC: Bessemer's Byron Deeter On Lessons From Investing in 14 $Bn Companies, What The Heck Is Going ",
-  "guest": "unknown-guest",
+  "guest": "20vc-bessemers-byron-deeter-on-lessons",
   "tags": [
     "venture-capital",
     "founder-psychology",

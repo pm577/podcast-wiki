@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2024-05-13",
   "title": "20VC: Behind the Scenes at Y Combinator: The Interview Process | What the Best & Worst Do in the Pro",
-  "guest": "tom-blomfield",
+  "guest": "20vc-behind-the-scenes",
   "tags": [
     "venture-capital",
     "founder-psychology",

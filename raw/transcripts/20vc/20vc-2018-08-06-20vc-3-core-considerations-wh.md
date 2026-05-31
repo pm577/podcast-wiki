@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-08-06",
   "title": "20VC: 3 Core Considerations When Investing In Physical Product Co's, Are We In A Direct-To-Consumer ",
-  "guest": "nick-brown",
+  "guest": "20vc-3-core-considerations-when-investing-in-physical-produc",
   "tags": [
     "venture-capital",
     "founder-psychology",

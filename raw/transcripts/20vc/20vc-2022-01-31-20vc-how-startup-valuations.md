@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-01-31",
   "title": "20VC: How Startup Valuations, Fund Deployment Cycles, M&A and IPO Markets Will All Change in This Ne",
-  "guest": "roger-ehrenberg",
+  "guest": "20vc-how-startup-valuations",
   "tags": [
     "venture-capital"
   ],

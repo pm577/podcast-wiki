@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-12-04",
   "title": "20VC: Accel GP, Rich Wong on When Is The Right Time To Scale A Startup, Optimising Initial vs Follow",
-  "guest": "unknown-guest",
+  "guest": "20vc-accel-gp-rich-wong",
   "tags": [
     "venture-capital",
     "product-strategy"

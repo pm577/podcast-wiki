@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-26",
   "title": "20VC: Maximising Engagement and Retention on Mobile & Why There Should Always Be Availability To A F",
-  "guest": "sean-brecker",
+  "guest": "20vc-maximising-engagement-and-retention",
   "tags": [
     "venture-capital",
     "go-to-market",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-11-04",
   "title": "20VC: Michael Mauboussin on Good vs Bad Investment Decision-Making Processes, How To Improve Your Pr",
-  "guest": "unknown-guest",
+  "guest": "20vc-michael-mauboussin",
   "tags": [
     "venture-capital",
     "hiring-culture",

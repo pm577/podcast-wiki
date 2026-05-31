@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-05-13",
   "title": "20VC: Kleiner Perkins' Mamoon Hamid on The Strategy Behind The New $600m \"Back To The Future\" Fund, ",
-  "guest": "unknown-guest",
+  "guest": "20vc-kleiner-perkins-mamoon-hamid",
   "tags": [
     "venture-capital",
     "founder-psychology",

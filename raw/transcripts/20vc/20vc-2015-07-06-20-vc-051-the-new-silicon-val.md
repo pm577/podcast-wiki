@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-07-06",
   "title": "20 VC 051: The New Silicon Valley Style VC in London with Alessandra Sollberger @ Mosaic Ventures",
-  "guest": "alessandra-sollberger",
+  "guest": "alessandra-sollberger-mosaic-ventures",
   "tags": [
     "venture-capital",
     "founder-psychology",

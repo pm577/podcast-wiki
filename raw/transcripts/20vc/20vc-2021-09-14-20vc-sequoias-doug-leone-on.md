@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-09-14",
   "title": "20VC: Sequoia's Doug Leone on What Has Been Instrumental To Scaling Sequoia Over Generations, How Se",
-  "guest": "unknown-guest",
+  "guest": "20vc-sequoias-doug-leone",
   "tags": [
     "venture-capital",
     "ai-ml"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-09-21",
   "title": "20VC: How To Build Credibility with Investors, Employees and Customers, How To Determine When A Stre",
-  "guest": "investors",
+  "guest": "investors-employees-and-customers-how-to-determine-when-a-st",
   "tags": [
     "venture-capital",
     "founder-psychology",

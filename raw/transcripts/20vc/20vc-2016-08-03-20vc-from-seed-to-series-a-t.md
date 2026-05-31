@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-03",
   "title": "20VC: From Seed To Series A: The Due Diligence, The Valuations, The Investment Decision Making Proce",
-  "guest": "steve-schlafman",
+  "guest": "20vc-from-seed-to-series-a-the-due-diligence",
   "tags": [
     "venture-capital",
     "marketplaces",

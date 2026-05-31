@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-10",
   "title": "20VC: Why AI Will Lead to Thousands of Billionaires and Elon Musk's, Will TikTok Be Banned and How F",
-  "guest": "amjad-masad",
+  "guest": "20vc-why-ai-will-lead-to-thousands",
   "tags": [
     "venture-capital",
     "founder-psychology",

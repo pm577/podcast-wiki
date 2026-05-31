@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-01-18",
   "title": "20VC: Etsy CEO, Josh Silverman on 2 Defining Traits of Great Leadership, The Danger of Attaching Hap",
-  "guest": "unknown-guest",
+  "guest": "20vc-etsy-ceo-josh-silverman",
   "tags": [
     "venture-capital",
     "founder-psychology",

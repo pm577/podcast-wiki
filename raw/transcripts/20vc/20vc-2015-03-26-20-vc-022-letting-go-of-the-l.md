@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-03-26",
   "title": "20 VC 022: Letting go of the life we planned and the Power of the Female Narrative with Matthew McCa",
-  "guest": "matthew-mc",
+  "guest": "matthew-mcca",
   "tags": [
     "venture-capital",
     "consumer"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-09-04",
   "title": "20VC: What It Takes To Found and Scale A Global Venture Firm Like Lightspeed, 3 Ways Firms Do Not Su",
-  "guest": "barry-eggers",
+  "guest": "20vc-what-it-takes-to-found-and-scale-a",
   "tags": [
     "venture-capital",
     "go-to-market",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-12-21",
   "title": "20VC: AngelList's Parker Thompson on How He Evaluates Startup Founders & Why The Move To Series A Is",
-  "guest": "unknown-guest",
+  "guest": "20vc-angellists-parker-thompson",
   "tags": [
     "venture-capital",
     "founder-psychology"

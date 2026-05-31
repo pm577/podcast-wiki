@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-05-07",
   "title": "20VC: MercadoLibre Founder Marcos Galperin on Optimising Decision-Making, Effective Resource Allocat",
-  "guest": "unknown-guest",
+  "guest": "20vc-mercadolibre-founder-marcos-galperin",
   "tags": [
     "venture-capital",
     "founder-psychology",

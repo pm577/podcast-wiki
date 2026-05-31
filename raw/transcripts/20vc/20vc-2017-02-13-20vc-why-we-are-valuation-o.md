@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-02-13",
   "title": "20VC: Why We Are Valuation & Ownership Insensitive, Why We Do Not Take Board Seats & The Effects Of ",
-  "guest": "topher-conway",
+  "guest": "20vc-why-we-are-valuation-ownership-insensitive",
   "tags": [
     "venture-capital",
     "go-to-market",

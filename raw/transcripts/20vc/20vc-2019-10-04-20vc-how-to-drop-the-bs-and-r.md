@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-10-04",
   "title": "20VC: How To Drop The BS and Relationship Build With Investors, What Investors Can vs Cannot Help Yo",
-  "guest": "unknown-guest",
+  "guest": "20vc-how-to-drop-the-bs-and-relationshi",
   "tags": [
     "venture-capital",
     "founder-psychology",

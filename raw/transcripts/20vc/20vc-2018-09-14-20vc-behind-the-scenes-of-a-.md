@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-09-14",
   "title": "20VC: Behind The Scenes of a $Bn IPO Process, What Startups Can Learn From Teddy Roosevelt's \"Five M",
-  "guest": "howard-lerman",
+  "guest": "20vc-behind-the-scenes",
   "tags": [
     "venture-capital",
     "founder-psychology",

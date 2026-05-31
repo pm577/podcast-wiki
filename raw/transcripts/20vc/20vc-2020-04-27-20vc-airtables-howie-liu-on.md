@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-04-27",
   "title": "20VC: Airtable's Howie Liu on Potential Consolidation In The Collaboration Tools Market, The Transit",
-  "guest": "unknown-guest",
+  "guest": "20vc-airtables-howie-liu",
   "tags": [
     "venture-capital",
     "founder-psychology",

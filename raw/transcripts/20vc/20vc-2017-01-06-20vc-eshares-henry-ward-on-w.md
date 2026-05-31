@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-01-06",
   "title": "20VC: eShares' Henry Ward on Why Portfolio Theory Is Wrong? Why Investors Will Never Take Market Ris",
-  "guest": "unknown-guest",
+  "guest": "20vc-eshares-henry-ward",
   "tags": [
     "venture-capital",
     "founder-psychology",

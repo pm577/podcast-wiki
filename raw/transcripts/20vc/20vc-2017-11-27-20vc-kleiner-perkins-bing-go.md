@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-11-27",
   "title": "20VC: Kleiner Perkins' Bing Gordon on Lessons From Serving On Amazon & Zynga's Board, Why The Best I",
-  "guest": "unknown-guest",
+  "guest": "20vc-kleiner-perkins-bing-gordon",
   "tags": [
     "venture-capital",
     "product-strategy",

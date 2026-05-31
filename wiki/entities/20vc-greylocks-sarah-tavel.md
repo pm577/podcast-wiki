@@ -1,0 +1,63 @@
+---
+type: Entity
+id: 20vc-greylocks-sarah-tavel
+name: "20VC: Greylock's Sarah Tavel"
+source: 20vc
+appearances: 1
+first_episode: 2016-04-06
+last_episode: 2016-04-06
+tags: ["founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
+related_concepts: []
+key_views: ["# 20VC: Greylock's Sarah Tavel on What Founders Need From A Good Investor and Why Products Need To Be 10X Better & Cheaper
+
+**Guest:** Unknown Guest
+**Date:** 2016-04-06
+**Topics:** venture-capital, founder-psychology, go-to-market, product-strategy
+
+## Summary
+
+Sarah Tavel is a Partner at Greylock Partners."]
+---
+
+# 20VC: Greylock's Sarah Tavel
+
+**Source:** 20VC Podcast
+**Appearances:** 1 episode
+**First episode:** 2016-04-06
+**Last episode:** 2016-04-06
+**Tags:** founder-psychology, go-to-market, product-strategy, venture-capital
+
+## Episodes
+
+- **20VC: Greylock's Sarah Tavel on What Founders Need From A Good Investor and Why Products Need To Be ** (2016-04-06)
+
+## Key Views
+
+- # 20VC: Greylock's Sarah Tavel on What Founders Need From A Good Investor and Why Products Need To Be 10X Better & Cheaper
+
+**Guest:** Unknown Guest
+**Date:** 2016-04-06
+**Topics:** venture-capital, founder-psychology, go-to-market, product-strategy
+
+## Summary
+
+Sarah Tavel is a Partner at Greylock Partners.
+
+## Research Context
+
+From **20VC: Greylock's Sarah Tavel on What Founders Need From A Good Investor and Why Products Need To Be **:
+# 20VC: Greylock's Sarah Tavel on What Founders Need From A Good Investor and Why Products Need To Be 10X Better & Cheaper
+
+ Unknown Guest
+ 2016-04-06
+ venture-capital, founder-psychology, go-to-market, product-strategy
+
+
+
+Sarah Tavel is a Partner at Greylock Partners. Prior to Greylock, Sarah was a product lead at Pinterest. As one of the first 35 employees, her first order of business was to launch Pinterest internationally and close the Series C financing. Sarah then moved into product, becoming Pinterest’s founding PM for search and discovery, and launching Pinterest’s first search and recommendations features. She also led three acquisitions as she helped the company scale through a period of hyper-growth. Sa
+
+
+
+- [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-greylocks-sarah-tavel-on-what-founders-need-from-a-good-investor-and-why-products-need-to-be-10x-better-cheaper)
+
+<!-- Full transcript not yet available. Will be added when transcribed. -->

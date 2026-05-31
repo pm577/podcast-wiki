@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-07-12",
   "title": "20VC: Jet.com's Marc Lore on How To Assess Human Potential and \"The Resume Test\", Why Chief People O",
-  "guest": "unknown-guest",
+  "guest": "20vc-jetcoms-marc-lore",
   "tags": [
     "venture-capital",
     "founder-psychology",

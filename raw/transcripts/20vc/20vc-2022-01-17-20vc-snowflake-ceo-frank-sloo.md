@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-01-17",
   "title": "20VC: Snowflake CEO Frank Slootman on How To Narrow The Focus and Increase The Quality, Why Every CE",
-  "guest": "unknown-guest",
+  "guest": "20vc-snowflake-ceo-frank-slootman",
   "tags": [
     "venture-capital",
     "go-to-market",

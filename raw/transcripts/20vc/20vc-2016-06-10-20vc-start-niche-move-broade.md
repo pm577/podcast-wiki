@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-06-10",
   "title": "20VC: Start Niche, Move Broader & Become Profitable Quickly with Melanie Perkins, Founder & CEO @ Ca",
-  "guest": "melanie-perkins",
+  "guest": "melanie-perkins-founder-ceo-ca",
   "tags": [
     "venture-capital",
     "founder-psychology",

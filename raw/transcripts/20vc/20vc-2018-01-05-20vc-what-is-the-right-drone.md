@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-01-05",
   "title": "20VC: What Is The Right Drone Investing Strategy, The Catalyst That Will Take Drones to 100s of Mill",
-  "guest": "ben-marcus",
+  "guest": "20vc-what-is-the-right-drone-investing-strategy",
   "tags": [
     "venture-capital",
     "founder-psychology",

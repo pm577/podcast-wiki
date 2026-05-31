@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-04-17",
   "title": "20VC: Scooter Braun on Being Enough, Insecurity, Wealth, Investing, Fame, Marriage and so much more.",
-  "guest": "unknown-guest",
+  "guest": "20vc-scooter-braun",
   "tags": [
     "venture-capital",
     "founder-psychology",

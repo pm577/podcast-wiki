@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-17",
   "title": "20VC: Why Growth Investors Ruined the Venture Market, Why Marketing in Venture Has No Substance, Why",
-  "guest": "ophelia-brown",
+  "guest": "20vc-why-growth-investors-ruined-the-venture-market",
   "tags": [
     "venture-capital",
     "founder-psychology",

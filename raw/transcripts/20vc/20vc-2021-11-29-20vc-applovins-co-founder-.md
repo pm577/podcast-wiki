@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-11-29",
   "title": "20VC: AppLovin's Co-Founder & CEO, Adam Foroughi on How AppLovin Might Be The Venture Capital Indust",
-  "guest": "very-few-meetings",
+  "guest": "20vc-applovins-co-founder-ceo-adam-foroughi",
   "tags": [
     "venture-capital",
     "founder-psychology",

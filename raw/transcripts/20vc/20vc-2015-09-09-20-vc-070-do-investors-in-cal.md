@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-09-09",
   "title": "20 VC 070: Do Investors in California Outperform The Rest of The World with Eric ver Ploeg @ Recursi",
-  "guest": "eric",
+  "guest": "eric-ver-ploeg-recursi",
   "tags": [
     "venture-capital"
   ],

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-08-25",
   "title": "20VC: Nuzzel's Jonathan Abrams on Why The Top VCs Do Not Have A PlayBook For Startup Success, Why Mo",
-  "guest": "unknown-guest",
+  "guest": "20vc-nuzzels-jonathan-abrams",
   "tags": [
     "venture-capital",
     "founder-psychology",

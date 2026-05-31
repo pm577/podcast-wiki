@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-10-10",
   "title": "20VC: Floodgate's Mike Maples on What Makes Category Kings, What Most Venture Funds Do Wrong When Hi",
-  "guest": "unknown-guest",
+  "guest": "20vc-floodgates-mike-maples",
   "tags": [
     "venture-capital",
     "founder-psychology",

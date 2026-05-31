@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-11-19",
   "title": "20VC: Investing Lessons From Observing Doug Leone and Bill Gurley, Why It Is Easier To Be Contrarian",
-  "guest": "jeff-morris-jr",
+  "guest": "20vc-investing-lessons-from-observing-d",
   "tags": [
     "venture-capital",
     "founder-psychology",

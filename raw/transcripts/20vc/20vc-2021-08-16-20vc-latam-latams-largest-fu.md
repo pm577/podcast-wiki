@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-08-16",
   "title": "20VC LATAM: LATAM's Largest Fund, Kaszek Ventures on Scaling from $100M to $1BN, Why Capital is not ",
-  "guest": "nicolas-szekasy",
+  "guest": "20vc-latam-latams-largest-fund-kaszek-ventures",
   "tags": [
     "venture-capital",
     "founder-psychology",

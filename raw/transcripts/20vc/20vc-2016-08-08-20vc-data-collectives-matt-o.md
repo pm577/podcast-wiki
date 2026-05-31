@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-08",
   "title": "20VC: Data Collective's Matt Ocko on Why \"All Fund Size Models Are Wrong\" and The Lifecycle of Curre",
-  "guest": "unknown-guest",
+  "guest": "20vc-data-collectives-matt-ocko",
   "tags": [
     "venture-capital",
     "founder-psychology",

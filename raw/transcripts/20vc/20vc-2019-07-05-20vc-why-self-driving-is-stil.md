@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-07-05",
   "title": "20VC: Why Self-Driving Is Still Under-Hyped in The Medium To Long Term, What Will The Ownership Mech",
-  "guest": "alex-rodrigues",
+  "guest": "20vc-why-self-driving-is-still-under",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-01-23",
   "title": "20VC: USV's Albert Wenger on What Elon Musk Should Do with Twitter | The State of Crypto Today; The ",
-  "guest": "twitter",
+  "guest": "20vc-usvs-albert-wenger",
   "tags": [
     "venture-capital",
     "fintech"

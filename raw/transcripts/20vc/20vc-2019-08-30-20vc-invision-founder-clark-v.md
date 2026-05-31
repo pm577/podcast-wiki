@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-08-30",
   "title": "20VC: InVision Founder Clark Valberg on Why True Leadership is Like Writing, How To Be Truly Self-Aw",
-  "guest": "unknown-guest",
+  "guest": "20vc-invision-founder-clark-valberg",
   "tags": [
     "venture-capital",
     "founder-psychology",

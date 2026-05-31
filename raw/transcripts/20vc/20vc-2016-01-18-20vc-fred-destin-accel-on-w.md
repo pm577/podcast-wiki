@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-01-18",
   "title": "20VC: Fred Destin @ Accel on Why Startups Fail & Founders Get Fired?",
-  "guest": "unknown-guest",
+  "guest": "20vc-fred-destin-accel",
   "tags": [
     "venture-capital",
     "founder-psychology",

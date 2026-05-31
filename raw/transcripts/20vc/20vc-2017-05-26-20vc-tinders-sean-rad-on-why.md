@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-26",
   "title": "20VC: Tinder's Sean Rad on Why Humility Is The Key Trait For Founders To Have, Why Today's Incumbent",
-  "guest": "unknown-guest",
+  "guest": "20vc-tinders-sean-rad",
   "tags": [
     "venture-capital",
     "founder-psychology",

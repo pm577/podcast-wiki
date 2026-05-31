@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-02-20",
   "title": "20 VC 013: Frank Meehan Series A, Spark Labs and The Future of The Asian Tech Market",
-  "guest": "unknown-guest",
+  "guest": "frank-meehan-series-a",
   "tags": [
     "venture-capital",
     "founder-psychology"

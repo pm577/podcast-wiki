@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-06-18",
   "title": "20 VC 046: How VCs Evaluate Investment Opportunities with Alan Chiu, Partner @ XSeed Capital",
-  "guest": "alan-chiu",
+  "guest": "alan-chiu-partner-xseed-capital",
   "tags": [
     "venture-capital",
     "product-strategy",

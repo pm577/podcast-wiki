@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-05-16",
   "title": "20VC: The Founding of General Catalyst, What it Takes to Build a Firm That Stands the Test of Time, ",
-  "guest": "david-fialkow",
+  "guest": "20vc-the-founding",
   "tags": [
     "venture-capital",
     "founder-psychology",

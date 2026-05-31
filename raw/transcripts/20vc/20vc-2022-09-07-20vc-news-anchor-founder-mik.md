@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-09-07",
   "title": "20VC News: Anchor Founder, Mike Mignano Joins Lightspeed as Partner: The Future of Social Media | Wh",
-  "guest": "unknown-guest",
+  "guest": "20vc-news-anchor-founder",
   "tags": [
     "venture-capital",
     "founder-psychology",

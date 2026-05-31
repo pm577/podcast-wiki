@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-03-02",
   "title": "20VC: Index Ventures Partner, Mark Goldberg on The Questions Founders Must Ask A Multi-Stage Fund Be",
-  "guest": "unknown-guest",
+  "guest": "20vc-index-ventures-partner-mark-goldberg",
   "tags": [
     "venture-capital",
     "founder-psychology",

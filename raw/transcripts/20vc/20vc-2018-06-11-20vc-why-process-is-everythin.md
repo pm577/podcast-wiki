@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-06-11",
   "title": "20VC: Why Process is Everything In Good Venture Firms, Why GPs Should Have More Empathy For LPs and ",
-  "guest": "peter-parker",
+  "guest": "20vc-why-process-is-everything-in-good-venture-firms",
   "tags": [
     "venture-capital",
     "marketplaces",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-04-23",
   "title": "20VC: The Biggest Trend Of Our Lifetime Is The Decentralisation of Entrepreneurship Away From The Va",
-  "guest": "chris-olsen",
+  "guest": "20vc-the-biggest-trend-of-our-lifetime",
   "tags": [
     "venture-capital",
     "go-to-market",

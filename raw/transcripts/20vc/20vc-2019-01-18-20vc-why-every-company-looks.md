@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-01-18",
   "title": "20VC: Why Every Company Looks One Round Earlier Than It Should Be, Why Investors Don't Understand Te",
-  "guest": "assaf-wand",
+  "guest": "20vc-why-every-company-looks-one-round",
   "tags": [
     "venture-capital",
     "founder-psychology",

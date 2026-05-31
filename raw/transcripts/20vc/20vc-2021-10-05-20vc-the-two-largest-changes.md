@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-10-05",
   "title": "20VC: The Two Largest Changes in the Investing Market Today, Why The Scarce Resource in Venture is A",
-  "guest": "anton-levy",
+  "guest": "20vc-the-two-largest-changes-in-the-investing-market-today",
   "tags": [
     "venture-capital"
   ],

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-10-05",
   "title": "20VC: The Rippling Memo: Bedrock's Geoff Lewis on The Conviction Building Process to Write a $200M C",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-rippling-memo-bedrocks-geoff-lewis",
   "tags": [
     "venture-capital",
     "founder-psychology",

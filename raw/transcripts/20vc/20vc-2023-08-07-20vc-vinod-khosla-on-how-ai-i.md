@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-08-07",
   "title": "20VC: Vinod Khosla on How AI Impacts The Future of Healthcare, Education, Income Equality, Geo-Polit",
-  "guest": "unknown-guest",
+  "guest": "20vc-vinod-khosla",
   "tags": [
     "venture-capital",
     "founder-psychology",

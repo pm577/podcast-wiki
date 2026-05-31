@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-03-16",
   "title": "20VC: The Three Fundamental Forces in Society with Ciaran O'Leary, Partner @ BlueYard",
-  "guest": "ciaran",
+  "guest": "ciaran-oleary-partner-blueyard",
   "tags": [
     "venture-capital",
     "product-strategy",

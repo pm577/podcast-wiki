@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-07-31",
   "title": "20VC: What Metrics LPs Really Use To Measure Manager Success, Why 10 Year Fund Structures Really Do ",
-  "guest": "will-porteous",
+  "guest": "20vc-what-metrics-lps-really-use-to-mea",
   "tags": [
     "venture-capital",
     "deeptech-hardware",

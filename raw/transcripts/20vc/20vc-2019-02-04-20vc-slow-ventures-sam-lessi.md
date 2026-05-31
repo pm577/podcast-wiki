@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-02-04",
   "title": "20VC: Slow Ventures' Sam Lessin on How VC Forces Certain Companies To Exist and Makes It Difficult T",
-  "guest": "unknown-guest",
+  "guest": "20vc-slow-ventures-sam-lessin",
   "tags": [
     "venture-capital",
     "founder-psychology",

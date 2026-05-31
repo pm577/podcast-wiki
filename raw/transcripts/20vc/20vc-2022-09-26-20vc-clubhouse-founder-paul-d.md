@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-09-26",
   "title": "20VC: Clubhouse Founder Paul Davison on What Went Right and What Went Wrong | What Does Clubhouse Do",
-  "guest": "unknown-guest",
+  "guest": "20vc-clubhouse-founder-paul-davison",
   "tags": [
     "venture-capital",
     "founder-psychology",

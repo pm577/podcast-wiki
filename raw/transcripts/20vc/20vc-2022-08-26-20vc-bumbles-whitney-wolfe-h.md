@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-08-26",
   "title": "20VC: Bumble's Whitney Wolfe Herd on How The Best Leaders Manage Intense Pressure, How To Think Thro",
-  "guest": "unknown-guest",
+  "guest": "20vc-bumbles-whitney-wolfe-herd",
   "tags": [
     "venture-capital",
     "founder-psychology",

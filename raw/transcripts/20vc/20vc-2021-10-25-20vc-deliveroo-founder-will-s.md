@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-10-25",
   "title": "20VC: Deliveroo Founder Will Shu on The IPO This Year, The Rise of Quick Commerce and The Fierce Com",
-  "guest": "uber-eats",
+  "guest": "20vc-deliveroo-founder-will-shu",
   "tags": [
     "venture-capital",
     "founder-psychology",

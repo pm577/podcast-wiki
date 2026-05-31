@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-12-10",
   "title": "20VC: Top 3 Considerations When Evaluating Consumer Businesses Today | 700 Meetings, 70 LPs, 2 Years",
-  "guest": "anu-duggal",
+  "guest": "20vc-top-3-considerations-when-evaluati",
   "tags": [
     "venture-capital",
     "founder-psychology",

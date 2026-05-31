@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-08-07",
   "title": "20VC: Why We Will Continue To See An Explosion In Deep Tech Financing, Why Much of Silicon Valley's ",
-  "guest": "seth-bannon",
+  "guest": "20vc-why-we-will-continue-to-see-an-exp",
   "tags": [
     "venture-capital",
     "product-strategy",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-04-27",
   "title": "20VC: Why Your Board Are Right 50% of The Time, Biggest Lessons From Being Mentored By Reed Hastings",
-  "guest": "james-reinhart",
+  "guest": "20vc-why-your-board-are-right-50",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-03-24",
   "title": "20VC: The Pinterest Memo: Bessemer's Jeremy Levine on The Secret To Success within User Generated Co",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-pinterest-memo-bessemers-jeremy-levine",
   "tags": [
     "venture-capital",
     "consumer"

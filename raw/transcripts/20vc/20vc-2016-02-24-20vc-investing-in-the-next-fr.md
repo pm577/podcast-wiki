@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-02-24",
   "title": "20VC: Investing In The Next Frontiers Of Tech & Harry Potter with Adam Draper, Founder & CEO @ Boost",
-  "guest": "adam-draper",
+  "guest": "adam-draper-founder-ceo-boost",
   "tags": [
     "venture-capital",
     "founder-psychology",

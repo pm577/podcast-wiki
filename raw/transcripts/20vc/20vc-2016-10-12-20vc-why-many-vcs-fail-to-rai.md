@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-10-12",
   "title": "20VC: Why Many VCs Fail To Raise, Why LP Compensation Is A Massive Problem & Why Fund of Funds Will ",
-  "guest": "lindel-eakman",
+  "guest": "20vc-why-many-vcs-fail-to-raise",
   "tags": [
     "venture-capital",
     "ai-ml"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-10-25",
   "title": "20VC: Lightspeed's Nicole Quinn on Why We Are Not In A Consumer Downturn, Why M&A Has Not Been This ",
-  "guest": "unknown-guest",
+  "guest": "20vc-lightspeeds-nicole-quinn",
   "tags": [
     "venture-capital",
     "fintech",

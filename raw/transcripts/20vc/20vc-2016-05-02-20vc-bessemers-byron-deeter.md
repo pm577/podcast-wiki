@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-05-02",
   "title": "20VC: Bessemer's Byron Deeter on The Commonalities Of Truly Great Founders and Learnings From Invest",
-  "guest": "unknown-guest",
+  "guest": "20vc-bessemers-byron-deeter",
   "tags": [
     "venture-capital",
     "founder-psychology",

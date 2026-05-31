@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-02-07",
   "title": "20VC: Biggest Lessons and Challenges Building One of the Most Successful Seed Funds, How To Manage I",
-  "guest": "david-frankel",
+  "guest": "20vc-biggest-lessons-and-challenges-building-one",
   "tags": [
     "venture-capital",
     "founder-psychology",

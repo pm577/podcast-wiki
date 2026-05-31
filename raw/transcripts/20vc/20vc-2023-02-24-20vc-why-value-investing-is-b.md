@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-02-24",
   "title": "20VC: Why Value Investing is BS, The Most Insane Elements of SPACs, Why Simplification is the Secret",
-  "guest": "joey-levin",
+  "guest": "20vc-why-value-investing-is-bs",
   "tags": [
     "venture-capital"
   ],

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-11-28",
   "title": "20VC: Wolt CEO, Miki Kuusi on Leadership Lessons Scaling to a Reported $8.1BN Exit to Doordash, Buil",
-  "guest": "unknown-guest",
+  "guest": "20vc-wolt-ceo-miki-kuusi",
   "tags": [
     "venture-capital",
     "founder-psychology",

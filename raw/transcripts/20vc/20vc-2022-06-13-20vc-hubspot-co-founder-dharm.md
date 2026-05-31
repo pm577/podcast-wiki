@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-06-13",
   "title": "20VC: Hubspot Co-Founder Dharmesh Shah on The 3 Risks All Startups Face, Angel Investing Rules; No F",
-  "guest": "unknown-guest",
+  "guest": "20vc-hubspot-co-founder-dharmesh-shah",
   "tags": [
     "venture-capital",
     "founder-psychology",

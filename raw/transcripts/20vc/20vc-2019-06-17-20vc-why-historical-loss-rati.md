@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-06-17",
   "title": "20VC: Why Historical Loss Ratios Are Simply Too High, Why Data Is The #1 Most Important Piece When E",
-  "guest": "jonathan-hsu",
+  "guest": "20vc-why-historical-loss-ratios-are-simply-too-high",
   "tags": [
     "venture-capital",
     "founder-psychology",

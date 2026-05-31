@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-03-12",
   "title": "20VC: Lightspeed's Alex Taussig on VC Risk Mentality, The Current State of Retail & The Mechanics of",
-  "guest": "unknown-guest",
+  "guest": "20vc-lightspeeds-alex-taussig",
   "tags": [
     "venture-capital",
     "ai-ml"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-06-07",
   "title": "20VC: Why Cheque Size & Follow On Decision-Making Does Not Matter, Why Intelligence Is Overrated & W",
-  "guest": "anthony-pompliano",
+  "guest": "20vc-why-cheque-size-follow-on-decision",
   "tags": [
     "venture-capital",
     "founder-psychology",

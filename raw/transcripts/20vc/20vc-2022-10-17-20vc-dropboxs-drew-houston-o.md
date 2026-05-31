@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-10-17",
   "title": "20VC: Dropbox's Drew Houston on Leadership; Hiring, Firing, Breakpoints in Company Scaling, The Stor",
-  "guest": "unknown-guest",
+  "guest": "20vc-dropboxs-drew-houston",
   "tags": [
     "venture-capital",
     "founder-psychology",

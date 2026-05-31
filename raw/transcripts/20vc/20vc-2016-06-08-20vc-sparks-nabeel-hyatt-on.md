@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-06-08",
   "title": "20VC: Spark's Nabeel Hyatt on Investing in Oculus and Cruise & What It Takes To Invest Ahead Of The ",
-  "guest": "unknown-guest",
+  "guest": "20vc-sparks-nabeel-hyatt",
   "tags": [
     "venture-capital",
     "founder-psychology"

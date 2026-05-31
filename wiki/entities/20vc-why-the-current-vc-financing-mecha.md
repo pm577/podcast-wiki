@@ -1,0 +1,63 @@
+---
+type: Entity
+id: 20vc-why-the-current-vc-financing-mecha
+name: "20VC: Why The Current VC Financing Mecha"
+source: 20vc
+appearances: 1
+first_episode: 2019-03-15
+last_episode: 2019-03-15
+tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
+related_concepts: []
+key_views: ["# 20VC: Why The Current VC Financing Mechanism For Consumer Brands Is Broken, Why The Infrastructure To Power Emerging Brands Is Broken and What The Re-Platforming of Retail Means For The Next Decade in Consumer with Adam Pritzker, Chairman & CEO @ Assemble
+
+**Guest:** Adam Pritzker
+**Date:** 2019-03-15
+**Topics:** venture-capital, founder-psychology, product-strategy, marketplaces, ai-ml
+
+## Summary
+
+Adam Pritzker is the Chairman & CEO @ Assembled Brands, a holding company providing working capital and financial services to emerging brands."]
+---
+
+# 20VC: Why The Current VC Financing Mecha
+
+**Source:** 20VC Podcast
+**Appearances:** 1 episode
+**First episode:** 2019-03-15
+**Last episode:** 2019-03-15
+**Tags:** ai-ml, founder-psychology, marketplaces, product-strategy, venture-capital
+
+## Episodes
+
+- **20VC: Why The Current VC Financing Mechanism For Consumer Brands Is Broken, Why The Infrastructure T** (2019-03-15)
+
+## Key Views
+
+- # 20VC: Why The Current VC Financing Mechanism For Consumer Brands Is Broken, Why The Infrastructure To Power Emerging Brands Is Broken and What The Re-Platforming of Retail Means For The Next Decade in Consumer with Adam Pritzker, Chairman & CEO @ Assemble
+
+**Guest:** Adam Pritzker
+**Date:** 2019-03-15
+**Topics:** venture-capital, founder-psychology, product-strategy, marketplaces, ai-ml
+
+## Summary
+
+Adam Pritzker is the Chairman & CEO @ Assembled Brands, a holding company providing working capital and financial services to emerging brands.
+
+## Research Context
+
+From **20VC: Why The Current VC Financing Mechanism For Consumer Brands Is Broken, Why The Infrastructure T**:
+# 20VC: Why The Current VC Financing Mechanism For Consumer Brands Is Broken, Why The Infrastructure To Power Emerging Brands Is Broken and What The Re-Platforming of Retail Means For The Next Decade in Consumer with Adam Pritzker, Chairman & CEO @ Assemble
+
+ Adam Pritzker
+ 2019-03-15
+ venture-capital, founder-psychology, product-strategy, marketplaces, ai-ml
+
+
+
+Adam Pritzker is the Chairman & CEO @ Assembled Brands, a holding company providing working capital and financial services to emerging brands. In October 2018, they raised $100m in development capital from the prestigious Oaktree Capital Management. As for Adam, he is also a co-founder of General Assembly where during his tenure, prior to its acquisition by Addecco Group, he served as Chief Creative Officer, Chief Product Officer, and Chairman. For his entrepreneurial endeavors, Adam was feature
+
+
+
+- [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-why-the-current-vc-financing-mechanism-for-consumer-brands-is-broken-why-the-infrastructure-to-power-emerging-brands-is-broken-and-what-the-re-platforming-of-retail-means-for-the-next-decade-in-consumer-with-adam-pritzker-chairman-ceo-assembled-brand)
+
+<!-- Full transcript not yet available. Will be added when transcribed. -->

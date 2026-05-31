@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-11-08",
   "title": "20VC: The Lean Startup's Eric Ries on The Missing Function of Entrepreneurship in Most Companies, Cr",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-lean-startups-eric-ries",
   "tags": [
     "venture-capital",
     "ai-ml"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-08-11",
   "title": "20VC: Why Not Every Element of A Scalable Business Has To Scale, Why You Should Be Bearish on Retail",
-  "guest": "brad-hargreaves",
+  "guest": "20vc-why-not-every-element-of-a-scalable-business-has-to-sca",
   "tags": [
     "venture-capital",
     "founder-psychology",

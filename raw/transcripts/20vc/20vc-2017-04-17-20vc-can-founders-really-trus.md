@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-04-17",
   "title": "20VC: Can Founders Really Trust Their VC & How To Navigate The Acquisition Process Successfully with",
-  "guest": "josh-felser",
+  "guest": "20vc-can-founders-really-trust-their-vc",
   "tags": [
     "venture-capital",
     "founder-psychology",

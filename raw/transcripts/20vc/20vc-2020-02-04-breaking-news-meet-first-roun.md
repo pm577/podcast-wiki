@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-02-04",
   "title": "Breaking News: Meet First Round Capital's Newest Partner, How To Approach Generational Transition as",
-  "guest": "breaking-news",
+  "guest": "breaking-news-meet-first-round-capitals-newest-partner",
   "tags": [
     "founder-psychology",
     "product-strategy"

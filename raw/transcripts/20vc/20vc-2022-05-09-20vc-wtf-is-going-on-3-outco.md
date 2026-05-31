@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-05-09",
   "title": "20VC: WTF Is Going On? 3 Outcomes for What Could Happen From Here; What Needs to Happen To Avoid Rec",
-  "guest": "unknown-guest",
+  "guest": "20vc-wtf-is-going-on-3-outcomes-for-wh",
   "tags": [
     "venture-capital",
     "ai-ml"

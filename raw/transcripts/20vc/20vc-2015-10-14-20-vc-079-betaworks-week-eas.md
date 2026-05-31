@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-10-14",
   "title": "20 VC 079: BETAWORKS WEEK: East vs West Coast Investing with Peter Rojas, EIR @ Betaworks, Co-Founde",
-  "guest": "peter-rojas",
+  "guest": "peter-rojas-eir-betaworks-co-founde",
   "tags": [
     "venture-capital",
     "founder-psychology",

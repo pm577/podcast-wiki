@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-05-04",
   "title": "20VC: Why VCs Are Wrong About Bootstrapped Founders, How Content Can Be Used As A Key Customer Acqui",
-  "guest": "jesse-genet",
+  "guest": "20vc-why-vcs-are-wrong-about-bootstrapped-founders",
   "tags": [
     "venture-capital",
     "founder-psychology",

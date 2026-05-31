@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-11-06",
   "title": "20VC: Oren Zeev on Why Diversification Does Not Work, Thesis Based Investing Is Sceptical & Partners",
-  "guest": "unknown-guest",
+  "guest": "20vc-oren-zeev",
   "tags": [
     "venture-capital",
     "hiring-culture",

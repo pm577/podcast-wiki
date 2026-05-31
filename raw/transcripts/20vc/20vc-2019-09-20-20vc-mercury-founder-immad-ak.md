@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-09-20",
   "title": "20VC: Mercury Founder Immad Akhund on Why Angel Investing Makes Founders Better Operators, The Right",
-  "guest": "unknown-guest",
+  "guest": "20vc-mercury-founder-immad-akhund",
   "tags": [
     "venture-capital",
     "founder-psychology",

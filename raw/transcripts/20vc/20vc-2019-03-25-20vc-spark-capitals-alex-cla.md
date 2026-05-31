@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-03-25",
   "title": "20VC: Spark Capital's Alex Clayton on How The Best Growth Investors Source, Evaluate and Win Deals, ",
-  "guest": "unknown-guest",
+  "guest": "20vc-spark-capitals-alex-clayton",
   "tags": [
     "venture-capital",
     "go-to-market"

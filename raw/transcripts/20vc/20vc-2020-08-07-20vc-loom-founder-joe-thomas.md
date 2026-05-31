@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-08-07",
   "title": "20VC: Loom Founder Joe Thomas on Whether To Take Multi-Stage Money at Seed, How Early Stage Founders",
-  "guest": "unknown-guest",
+  "guest": "20vc-loom-founder-joe-thomas",
   "tags": [
     "venture-capital",
     "founder-psychology",

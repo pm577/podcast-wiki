@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-12-21",
   "title": "20 VC: Running Lerer Hippeau Ventures Like A Startup with Eric Hippeau, Managing Partner @ Lerer Hip",
-  "guest": "eric-hippeau",
+  "guest": "eric-hippeau-managing-partner-lerer-hip",
   "tags": [
     "venture-capital",
     "founder-psychology",

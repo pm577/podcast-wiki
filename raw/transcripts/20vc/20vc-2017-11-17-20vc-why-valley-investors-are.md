@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-11-17",
   "title": "20VC: Why Valley Investors Are Really Gamblers, Why The Business Model of Selling To The Biggest Suc",
-  "guest": "david-barrett",
+  "guest": "20vc-why-valley-investors-are-really-gamblers",
   "tags": [
     "venture-capital",
     "founder-psychology",

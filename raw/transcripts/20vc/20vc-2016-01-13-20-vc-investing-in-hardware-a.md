@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-01-13",
   "title": "20 VC: Investing in Hardware and The Future of IOT with Kate Shillo, Director @ Galvanize Ventures",
-  "guest": "kate-shillo",
+  "guest": "kate-shillo-director-galvanize-ventures",
   "tags": [
     "venture-capital",
     "deeptech-hardware"

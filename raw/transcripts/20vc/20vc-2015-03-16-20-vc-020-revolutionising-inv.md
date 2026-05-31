@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-03-16",
   "title": "20 VC 020: Revolutionising Investing with Luke Lang, Co-Founder of Crowdcube",
-  "guest": "luke-lang",
+  "guest": "luke-lang-co-founder-of-crowdcube",
   "tags": [
     "venture-capital",
     "founder-psychology",

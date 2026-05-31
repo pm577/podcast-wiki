@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-05-11",
   "title": "20VC: Why More People Should Be Entrepreneurs & How Do You Know When You Are Ready with Matt Cliffor",
-  "guest": "matt-clifford",
+  "guest": "matt-cliffor",
   "tags": [
     "venture-capital",
     "founder-psychology",

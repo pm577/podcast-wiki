@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-06-12",
   "title": "20VC: Larry Summers on How to Manage Inflation; Should We Increase Rates Even Higher, Why We Need To",
-  "guest": "unknown-guest",
+  "guest": "20vc-larry-summers",
   "tags": [
     "venture-capital",
     "ai-ml"

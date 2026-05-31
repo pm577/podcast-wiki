@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-10-16",
   "title": "20 VC 017: BETAWORKS WEEK: Kuan Huang, Founder @ Poncho",
-  "guest": "unknown-guest",
+  "guest": "betaworks-week-kuan-huang",
   "tags": [
     "venture-capital",
     "founder-psychology"

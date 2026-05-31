@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-12-30",
   "title": "20VC: How AI Can Enhance Not Replace Humans? What Will Differentiate Between The Winners & The Loser",
-  "guest": "nitesh-banta",
+  "guest": "20vc-how-ai-can-enhance-not-replace-hum",
   "tags": [
     "venture-capital",
     "founder-psychology",

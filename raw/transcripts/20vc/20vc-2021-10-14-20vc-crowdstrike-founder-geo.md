@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-10-14",
   "title": "20VC: Crowdstrike Founder, George Kurtz on Scaling to a $60Bn Market Cap, How to Acquire and Retain ",
-  "guest": "unknown-guest",
+  "guest": "20vc-crowdstrike-founder-george-kurtz",
   "tags": [
     "venture-capital",
     "founder-psychology",

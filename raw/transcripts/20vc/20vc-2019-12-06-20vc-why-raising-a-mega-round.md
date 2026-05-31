@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-12-06",
   "title": "20VC: Why Raising A Mega-Round Makes Your Life Harder Not Easier, Why Your Board Is Not Your Boss an",
-  "guest": "emmanuel-schalit",
+  "guest": "20vc-why-raising-a-mega",
   "tags": [
     "venture-capital",
     "founder-psychology",

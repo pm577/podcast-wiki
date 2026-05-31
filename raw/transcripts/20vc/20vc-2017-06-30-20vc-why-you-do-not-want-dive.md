@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-06-30",
   "title": "20VC: Why You Do Not Want Diversity Of Thought, Why You Have To Build A Sports Team and Not A Family",
-  "guest": "ari-mir",
+  "guest": "20vc-why-you-do-not-want-diversity-of-thought",
   "tags": [
     "venture-capital",
     "founder-psychology",

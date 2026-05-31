@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-03-05",
   "title": "20 VC 017: Nektarios Liolios of Startupbootcamp on Fintech, Pitching and London's Tech Scene",
-  "guest": "unknown-guest",
+  "guest": "nektarios-liolios-of-startupbootcamp",
   "tags": [
     "venture-capital",
     "founder-psychology",

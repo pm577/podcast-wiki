@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-01-27",
   "title": "20VC: Lessons From Working with Chris Sacca, The Rise Of Mobile Commerce and Improving Push Notifica",
-  "guest": "chris-sacca",
+  "guest": "chris-sacca-the-rise-of-mobile-commerce-and-improving-push-n",
   "tags": [
     "venture-capital",
     "ai-ml",

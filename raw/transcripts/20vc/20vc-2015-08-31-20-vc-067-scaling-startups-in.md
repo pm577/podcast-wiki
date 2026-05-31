@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-08-31",
   "title": "20 VC 067: Scaling Startups Into Unicorns with Atomico's Mattias Ljungman and Carolina Brochado",
-  "guest": "atomico",
+  "guest": "atomicos-mattias-ljungman-and-carolina-brochado",
   "tags": [
     "venture-capital",
     "ai-ml"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-04-23",
   "title": "20 VC 030: VC Funds, Angels and IPOs with John Taylor, Head of Research @ NVCA",
-  "guest": "john-taylor",
+  "guest": "john-taylor-head-of-research-nvca",
   "tags": [
     "venture-capital",
     "fintech",

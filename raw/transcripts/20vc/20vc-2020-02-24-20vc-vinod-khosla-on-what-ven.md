@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-02-24",
   "title": "20VC: Vinod Khosla on What Venture Assistance Really Means, Why Many VCs Are Not Qualified To Advise",
-  "guest": "unknown-guest",
+  "guest": "20vc-vinod-khosla",
   "tags": [
     "venture-capital",
     "founder-psychology",

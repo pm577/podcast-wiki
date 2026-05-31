@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-07-27",
   "title": "20VC: GOAT's Eddy Lu on Pivoting From Failing Social Dining App To The World's Largest Sneaker Marke",
-  "guest": "unknown-guest",
+  "guest": "20vc-goats-eddy-lu",
   "tags": [
     "venture-capital",
     "founder-psychology",

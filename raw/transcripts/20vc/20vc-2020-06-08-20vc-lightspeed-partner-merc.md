@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-06-08",
   "title": "20VC: Lightspeed Partner, Merci Victoria Grace on The Future of Collaboration Tools, Bundling vs Unb",
-  "guest": "unknown-guest",
+  "guest": "20vc-lightspeed-partner-merci-victoria-grace",
   "tags": [
     "venture-capital",
     "founder-psychology",

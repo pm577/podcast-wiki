@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-01-07",
   "title": "20VC: Scott Belsky on Why We Must Challenge Our Faith In The Strength of Resources, Why We Must Reth",
-  "guest": "unknown-guest",
+  "guest": "20vc-scott-belsky",
   "tags": [
     "venture-capital",
     "product-strategy",

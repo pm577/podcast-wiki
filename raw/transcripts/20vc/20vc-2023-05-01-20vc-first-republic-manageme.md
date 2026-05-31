@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-01",
   "title": "20VC: First Republic; Management Responsibility or Result of Contagion in the System, The Future of ",
-  "guest": "mark-carney",
+  "guest": "20vc-first-republic-management-responsibility-or-result",
   "tags": [
     "venture-capital",
     "fintech",

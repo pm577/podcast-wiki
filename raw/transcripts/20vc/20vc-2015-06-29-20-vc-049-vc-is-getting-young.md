@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-06-29",
   "title": "20 VC 049: VC is Getting Younger with Spencer Lazar @ General Catalyst Partners",
-  "guest": "spencer-lazar",
+  "guest": "spencer-lazar-general-catalyst-partners",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-03-23",
   "title": "20VC: Maveron's Rebecca Kaden on The Patterns Of Entrepreneurship and Taking A Consumer Product From",
-  "guest": "unknown-guest",
+  "guest": "20vc-maverons-rebecca-kaden",
   "tags": [
     "venture-capital",
     "product-strategy",

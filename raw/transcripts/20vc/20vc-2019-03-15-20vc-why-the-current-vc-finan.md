@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-03-15",
   "title": "20VC: Why The Current VC Financing Mechanism For Consumer Brands Is Broken, Why The Infrastructure T",
-  "guest": "adam-pritzker",
+  "guest": "20vc-why-the-current-vc-financing-mecha",
   "tags": [
     "venture-capital",
     "founder-psychology",

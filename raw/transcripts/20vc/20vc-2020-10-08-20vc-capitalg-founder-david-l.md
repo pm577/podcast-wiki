@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-10-08",
   "title": "20VC: CapitalG Founder David Lawee on Why People Overvalue Diversification in Venture, Why Investmen",
-  "guest": "unknown-guest",
+  "guest": "20vc-capitalg-founder-david-lawee",
   "tags": [
     "venture-capital",
     "founder-psychology",

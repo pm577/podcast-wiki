@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-03-21",
   "title": "20VC Exclusive: Sequoia's Luciana Lixandru Unveils Sequoia's New 8 Week Accelerator, Arc | Biggest T",
-  "guest": "doug-leone",
+  "guest": "20vc-exclusive-sequoias-luciana-lixand",
   "tags": [
     "venture-capital"
   ],

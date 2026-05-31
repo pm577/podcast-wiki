@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-04-28",
   "title": "20VC: In AI Who Wins? Startups or Incumbents? What Happens to Wealth Inequality? Why Will $10BN+ Com",
-  "guest": "sarah-guo",
+  "guest": "20vc-in-ai-who-wins-startups-or-incumb",
   "tags": [
     "venture-capital",
     "hiring-culture",

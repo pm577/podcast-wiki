@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-05",
   "title": "20VC: Why We Are Still In The Very Early Days For Fintech, Why Your Company Has To Have An Opinionat",
-  "guest": "bill-clerico",
+  "guest": "20vc-why-we-are-still-in-the-very-early-days-for-fintech",
   "tags": [
     "venture-capital",
     "founder-psychology",

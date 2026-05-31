@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-03-26",
   "title": "20VC: How Great VCs Handle Themselves In An M&A Process, Why M&A Has Become The Primary Method of Ex",
-  "guest": "james-loftus",
+  "guest": "20vc-how-great-vcs-handle-themselves-in-an-ma-process",
   "tags": [
     "venture-capital",
     "product-strategy",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-08-02",
   "title": "20VC: Mike Lazerow on Why How You Operate As a VC Is More Important Than Who You Are and What You Ha",
-  "guest": "unknown-guest",
+  "guest": "20vc-mike-lazerow",
   "tags": [
     "venture-capital",
     "founder-psychology",

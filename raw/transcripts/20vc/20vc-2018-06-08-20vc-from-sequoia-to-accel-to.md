@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-06-08",
   "title": "20VC: From Sequoia To Accel To General Catalyst: What Makes The Best Board Member & The Hiring Metho",
-  "guest": "unknown-guest",
+  "guest": "20vc-from-sequoia-to-accel-to-general-c",
   "tags": [
     "venture-capital",
     "founder-psychology",

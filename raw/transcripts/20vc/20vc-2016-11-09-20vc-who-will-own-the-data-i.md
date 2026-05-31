@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-11-09",
   "title": "20VC: Who Will Own The Data? Is There An Incumbency Advantage in AI? When Will Artificial Super Inte",
-  "guest": "rudina-seseri",
+  "guest": "20vc-who-will-own-the-data-is-there-an",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-02-27",
   "title": "20VC: Benchmark's Scott Belsky on What Makes Truly The Best VCs? Why Entrepreneurs Must Focus on 'Th",
-  "guest": "unknown-guest",
+  "guest": "20vc-benchmarks-scott-belsky",
   "tags": [
     "venture-capital",
     "product-strategy"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-04-01",
   "title": "20VC: RobinHood's Baiju Bhatt on The Importance Of Design in Fintech and Having A 10X Better Product",
-  "guest": "unknown-guest",
+  "guest": "20vc-robinhoods-baiju-bhatt",
   "tags": [
     "venture-capital",
     "founder-psychology",

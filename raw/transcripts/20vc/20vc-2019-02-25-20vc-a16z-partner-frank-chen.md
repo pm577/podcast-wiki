@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-02-25",
   "title": "20VC: a16z Partner Frank Chen on The Future of Car Ownership, Whether The High Employee Attrition Ra",
-  "guest": "unknown-guest",
+  "guest": "20vc-a16z-partner-frank-chen",
   "tags": [
     "venture-capital",
     "product-strategy",

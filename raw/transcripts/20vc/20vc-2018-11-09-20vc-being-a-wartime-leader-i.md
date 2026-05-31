@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-11-09",
   "title": "20VC: Being A Wartime Leader in a Time of Peace, Why Marketing Channel Diversification Is Like The L",
-  "guest": "ooshma-garg",
+  "guest": "20vc-being-a-wartime-leader-in-a-time",
   "tags": [
     "venture-capital",
     "founder-psychology",

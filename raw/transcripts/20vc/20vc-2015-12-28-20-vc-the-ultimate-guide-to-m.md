@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-12-28",
   "title": "20 VC: The Ultimate Guide To Marketplaces with Boris Wertz, Founding Partner @ Version One Ventures",
-  "guest": "boris-wertz",
+  "guest": "boris-wertz-founding-partner-version-one-ventures",
   "tags": [
     "venture-capital",
     "product-strategy",

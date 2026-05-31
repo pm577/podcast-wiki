@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-15",
   "title": "20VC: Sequoia Partner, Carl Eschenbach on Building and Scaling High Performace Teams and The Common ",
-  "guest": "unknown-guest",
+  "guest": "20vc-sequoia-partner-carl-eschenbach",
   "tags": [
     "venture-capital",
     "go-to-market",

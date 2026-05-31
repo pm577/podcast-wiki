@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-08",
   "title": "20Product: Shopify's VP Product on Why the Founder is Always the Head of Product, What Makes Truly S",
-  "guest": "unknown-guest",
+  "guest": "20product-shopifys-vp-product",
   "tags": [
     "founder-psychology",
     "go-to-market",

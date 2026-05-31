@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-11-20",
   "title": "20VC: Zynga's Mark Pincus on When To Ride Your Winners and Cut Your Losers, Why People With \"Broken ",
-  "guest": "unknown-guest",
+  "guest": "20vc-zyngas-mark-pincus",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-05-15",
   "title": "20VC: Sarah Kunst on Why There Is Plenty Of Investor Money Still Available, The Megan Markle Effect ",
-  "guest": "unknown-guest",
+  "guest": "20vc-sarah-kunst",
   "tags": [
     "venture-capital",
     "founder-psychology",

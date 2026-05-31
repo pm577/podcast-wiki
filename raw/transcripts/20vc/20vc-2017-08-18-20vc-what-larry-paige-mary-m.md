@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-08-18",
   "title": "20VC: What Larry Paige, Mary Meeker and Ben Horowitz All Have In Common, Why You Have To Build A Mov",
-  "guest": "joey-zwillinger",
+  "guest": "20vc-what-larry-paige",
   "tags": [
     "venture-capital",
     "founder-psychology",

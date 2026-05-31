@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-11-30",
   "title": "20VC: Jason Lemkin on Why Founders Do Not Care About Their VCs Anymore, Why Zoom Made Us All Worse I",
-  "guest": "unknown-guest",
+  "guest": "20vc-jason-lemkin",
   "tags": [
     "venture-capital",
     "founder-psychology",

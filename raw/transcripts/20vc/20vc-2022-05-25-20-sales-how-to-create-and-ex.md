@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-05-25",
   "title": "20 Sales: How To Create and Execute a World-Class Sales Playbook, Why You Should Do Both PLG and Ent",
-  "guest": "oliver-jay",
+  "guest": "20-sales-how-to-create-and-execute-a-world",
   "tags": [
     "go-to-market",
     "product-strategy",

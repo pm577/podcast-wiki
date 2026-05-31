@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-11-02",
   "title": "20VC: Why You Have To Be A Good Long Term Actor To Succeed in VC & How Owning An Esports Team Could ",
-  "guest": "clinton-foy",
+  "guest": "20vc-why-you-have-to-be-a-good-long-ter",
   "tags": [
     "venture-capital",
     "go-to-market",

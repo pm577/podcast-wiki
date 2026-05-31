@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-07-02",
   "title": "20VC: Why Most The Value In Crypto Will Accrue in Governance, When Institutional Capital Will Enter ",
-  "guest": "joel-monegro",
+  "guest": "20vc-why-most-the-value-in-crypto-will",
   "tags": [
     "venture-capital",
     "fintech",

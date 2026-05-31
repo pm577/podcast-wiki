@@ -1,23 +1,63 @@
 ---
-title: Kris Jones
-created: 2026-05-31
-updated: 2026-05-31
-type: entity
-tags: [person, venture-capital]
-sources:
-  - raw/transcripts/20vc/20vc-2015-01-13-20-vc-002-how-to-become-a-vc.md
-confidence: medium
----
+type: Entity
+id: kris-jones
+name: Kris Jones
+source: 20vc
+appearances: 1
+first_episode: 2015-01-13
+last_episode: 2015-01-13
+tags: ["venture-capital"]
+related_concepts: []
+key_views: ["# 20 VC 002: How to become a VC with Kris Jones
 
+**Guest:** Kris Jones
+**Date:** 2015-01-13
+**Topics:** venture-capital
+
+## Summary
+
+In this session of The Twenty Minute VC, I'm so excited to have the opportunity to interview Kris Jones."]
+---
 
 # Kris Jones
 
-*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+**Source:** 20VC Podcast
+**Appearances:** 1 episode
+**First episode:** 2015-01-13
+**Last episode:** 2015-01-13
+**Tags:** venture-capital
 
-## Episode Appearances
+## Episodes
 
-- [[20vc-2015-01-13-20-vc-002-how-to-become-a-vc]] — *to be summarized*
+- **20 VC 002: How to become a VC with Kris Jones** (2015-01-13)
 
-## Related Concepts
+## Key Views
 
-- [[venture-capital]]
+- # 20 VC 002: How to become a VC with Kris Jones
+
+**Guest:** Kris Jones
+**Date:** 2015-01-13
+**Topics:** venture-capital
+
+## Summary
+
+In this session of The Twenty Minute VC, I'm so excited to have the opportunity to interview Kris Jones.
+
+## Research Context
+
+From **20 VC 002: How to become a VC with Kris Jones**:
+# 20 VC 002: How to become a VC with Kris Jones
+
+ Kris Jones
+ 2015-01-13
+ venture-capital
+
+
+
+In this session of The Twenty Minute VC, I'm so excited to have the opportunity to interview Kris Jones. Kris has enjoyed an amazing career in the technology industry, founding PepperJam, an internet marketing agency in 1999 and later selling it to Ebay in April of 2010. More recently, Kris has made his transition into the Venture Capital Industry through the founding of an early stage technology investment fund, KBJ Capital, which includes portfolio companies Highlighter.com, French Girls App, 
+
+
+
+- [Episode URL](https://thetwentyminutevc.libsyn.com/20-vc-how-to-become-a-vc-with-kris-jones)
+
+<!-- Full transcript not yet available. Will be added when transcribed. -->

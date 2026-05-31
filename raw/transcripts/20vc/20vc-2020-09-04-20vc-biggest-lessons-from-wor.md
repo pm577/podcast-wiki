@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-09-04",
   "title": "20VC: Biggest Lessons from Working with John Doerr, How Founders Can Have Discussions of Vulnerabili",
-  "guest": "john-doerr",
+  "guest": "john-doerr-how-founders-can-have-discussions-of-vulnerabili",
   "tags": [
     "venture-capital",
     "founder-psychology",

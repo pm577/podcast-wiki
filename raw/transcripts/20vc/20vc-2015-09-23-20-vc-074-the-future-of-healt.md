@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-09-23",
   "title": "20 VC 074: The Future of Healthcare with Bob Kocher, Partner @ Venrock",
-  "guest": "bob-kocher",
+  "guest": "bob-kocher-partner-venrock",
   "tags": [
     "venture-capital",
     "biotech-health"

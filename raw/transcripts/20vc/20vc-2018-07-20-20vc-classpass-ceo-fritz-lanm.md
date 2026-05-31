@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-07-20",
   "title": "20VC: ClassPass CEO Fritz Lanman on Betting His Career Facebook Would Be A $10Bn Company, Lessons Fr",
-  "guest": "unknown-guest",
+  "guest": "20vc-classpass-ceo-fritz-lanman",
   "tags": [
     "venture-capital",
     "founder-psychology",

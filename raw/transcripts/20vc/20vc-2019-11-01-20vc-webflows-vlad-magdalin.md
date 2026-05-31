@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-11-01",
   "title": "20VC: Webflow's Vlad Magdalin on The Journey To Breakeven and Raising A Monster $72m Series A, The S",
-  "guest": "unknown-guest",
+  "guest": "20vc-webflows-vlad-magdalin",
   "tags": [
     "venture-capital",
     "founder-psychology",

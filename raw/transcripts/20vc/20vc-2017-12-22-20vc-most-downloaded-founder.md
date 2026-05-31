@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-12-22",
   "title": "20VC: Most Downloaded Founder Episode of 2017: Brian Armstrong, Founder & CEO @ Coinbase",
-  "guest": "unknown-guest",
+  "guest": "20vc-most-downloaded-founder-episode",
   "tags": [
     "venture-capital",
     "founder-psychology",

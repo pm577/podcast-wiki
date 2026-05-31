@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-08-13",
   "title": "20VC: Why Partners Are There To Save Each Other From Themselves, Why Effective Reserve Allocation Is",
-  "guest": "jeff-fagnan",
+  "guest": "20vc-why-partners-are-there-to-save-eac",
   "tags": [
     "venture-capital",
     "product-strategy",

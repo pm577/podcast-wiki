@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-10-03",
   "title": "20VC: Why The Best CEO's Are The Best Capital Allocators, How You Can Build A Business In A Space Yo",
-  "guest": "josh-hannah",
+  "guest": "20vc-why-the-best-ceos-are-the-best-capital-allocators",
   "tags": [
     "venture-capital",
     "go-to-market",

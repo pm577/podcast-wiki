@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-09-09",
   "title": "20VC: Matrix's Ilya Sukhar on How The Seed Ecosystem Could Be Optimised, Why The Bar For The Break-O",
-  "guest": "unknown-guest",
+  "guest": "20vc-matrixs-ilya-sukhar",
   "tags": [
     "venture-capital",
     "product-strategy"

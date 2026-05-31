@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-01-20",
   "title": "20VC: Biggest Takeaways From Working With Paul Graham and Jessica Livingston, Why You Should Put Off",
-  "guest": "harj-taggar",
+  "guest": "20vc-biggest-takeaways-from-working-wit",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-06-06",
   "title": "20VC: Spark's Bijan Sabet on Investing in Twitter, Tumblr and Foursquare & Why First Time Founders A",
-  "guest": "unknown-guest",
+  "guest": "20vc-sparks-bijan-sabet",
   "tags": [
     "venture-capital",
     "founder-psychology",

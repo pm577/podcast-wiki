@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-05-29",
   "title": "20VC: Lessons From Slack and Opendoor on Price Sensitivity, Why The Best CEOs Are Able To Manage Mom",
-  "guest": "glenn-solomon",
+  "guest": "20vc-lessons-from-slack-and-opendoor",
   "tags": [
     "venture-capital",
     "ai-ml"

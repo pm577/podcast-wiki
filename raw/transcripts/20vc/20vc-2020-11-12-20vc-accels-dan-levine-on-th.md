@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-11-12",
   "title": "20VC: Accel's Dan Levine on The Current State of Seed & Series A, The Rise of Pre-Emptive Rounds, So",
-  "guest": "unknown-guest",
+  "guest": "20vc-accels-dan-levine",
   "tags": [
     "venture-capital",
     "product-strategy",

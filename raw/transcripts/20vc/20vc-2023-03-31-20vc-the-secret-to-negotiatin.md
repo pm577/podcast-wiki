@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-31",
   "title": "20VC: The Secret to Negotiating; Making $50BN for Yahoo on Alibaba | Why Everything You Know About H",
-  "guest": "jackie-reses",
+  "guest": "20vc-the-secret-to-negotiating-making-50bn-for-yahoo",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-07-22",
   "title": "20VC: IA Ventures' Jesse Beyroutey on Game Theory and How It Impacts Investor Mindset, How To Avoid ",
-  "guest": "unknown-guest",
+  "guest": "20vc-ia-ventures-jesse-beyroutey",
   "tags": [
     "venture-capital",
     "founder-psychology",

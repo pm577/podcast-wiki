@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-01-22",
   "title": "20VC: Why Brands Can Have The Same Revenue Multiples As Enterprise Companies & The Right Way To Thin",
-  "guest": "eurie-kim",
+  "guest": "20vc-why-brands-can-have-the-same-reven",
   "tags": [
     "venture-capital",
     "go-to-market",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-04-15",
   "title": "20VC: Brex's Henrique Dubugras on Advice from Evan Spiegel and Eric Schmidt on CEOship, The Biggest ",
-  "guest": "product-messaging",
+  "guest": "20vc-brexs-henrique-dubugras",
   "tags": [
     "venture-capital",
     "founder-psychology",

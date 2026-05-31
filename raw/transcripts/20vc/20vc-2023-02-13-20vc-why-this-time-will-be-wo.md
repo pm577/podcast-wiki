@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-02-13",
   "title": "20VC: Why This Time Will Be Worse Than The Great Financial Crisis,  Why Down-Rounds, Firesales and S",
-  "guest": "unknown-guest",
+  "guest": "20vc-why-this-time-will-be-worse-than-the-great-financial-cr",
   "tags": [
     "venture-capital",
     "go-to-market"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-12-03",
   "title": "20VC: Index's Danny Rimer on His Biggest Lessons On Price, Ownership, Board Dynamics & Building Cons",
-  "guest": "unknown-guest",
+  "guest": "20vc-indexs-danny-rimer",
   "tags": [
     "venture-capital",
     "product-strategy",

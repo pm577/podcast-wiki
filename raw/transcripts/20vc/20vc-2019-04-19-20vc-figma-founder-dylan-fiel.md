@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-04-19",
   "title": "20VC: Figma Founder Dylan Field on The Biggest Mistakes Young Founders Most Often Make, How To Go Sl",
-  "guest": "unknown-guest",
+  "guest": "20vc-figma-founder-dylan-field",
   "tags": [
     "venture-capital",
     "founder-psychology",

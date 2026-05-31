@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-11-07",
   "title": "20VC: Coinbase's Brian Armstrong on Real vs Fake Emergencies, Coinbase's Failed NFT Launch, The Poli",
-  "guest": "unknown-guest",
+  "guest": "20vc-coinbases-brian-armstrong",
   "tags": [
     "venture-capital",
     "founder-psychology",

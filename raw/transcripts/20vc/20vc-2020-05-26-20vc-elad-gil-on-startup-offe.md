@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-05-26",
   "title": "20VC: Elad Gil on Startup Offense and Defence in a Recession, How The Venture Landscape Has Shifted ",
-  "guest": "unknown-guest",
+  "guest": "20vc-elad-gil",
   "tags": [
     "venture-capital",
     "founder-psychology",

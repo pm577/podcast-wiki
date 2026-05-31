@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-01-26",
   "title": "20VC: How To Analyse Platform Shifts Effectively, The Effects Of Not Having Free and Open Distributi",
-  "guest": "neil-young",
+  "guest": "20vc-how-to-analyse-platform-shifts-effectively",
   "tags": [
     "venture-capital",
     "founder-psychology",

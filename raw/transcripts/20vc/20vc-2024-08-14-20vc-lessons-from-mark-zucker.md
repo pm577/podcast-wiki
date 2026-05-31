@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2024-08-14",
   "title": "20VC: Lessons from Mark Zuckerberg, Keith Rabois & Tobi L\u00fctke | Why Remote is a Bad Idea for 90% of ",
-  "guest": "kaz-nejatian",
+  "guest": "20vc-lessons",
   "tags": [
     "venture-capital",
     "product-strategy",

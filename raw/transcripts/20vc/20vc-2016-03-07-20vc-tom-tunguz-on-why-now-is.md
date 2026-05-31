@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-03-07",
   "title": "20VC: Tom Tunguz on Why Now Is The Best Time To Be Investing and The Effect of Late Stage Valuations",
-  "guest": "unknown-guest",
+  "guest": "20vc-tom-tunguz",
   "tags": [
     "venture-capital",
     "product-strategy",

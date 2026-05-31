@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-06-24",
   "title": "20VC: Optimising Investment Decision-Making in Compressed Fundraising Timelines & A Deep Dive on Por",
-  "guest": "mark-mullen",
+  "guest": "20vc-optimising-investment-decision-making-in-compressed-fun",
   "tags": [
     "venture-capital",
     "founder-psychology",

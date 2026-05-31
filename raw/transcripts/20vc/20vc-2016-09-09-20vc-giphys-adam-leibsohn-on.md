@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-09-09",
   "title": "20VC: Giphy's Adam Leibsohn on From Being Homeless To Founding a Multi Hundred Million Dollar Startu",
-  "guest": "unknown-guest",
+  "guest": "20vc-giphys-adam-leibsohn",
   "tags": [
     "venture-capital",
     "founder-psychology",

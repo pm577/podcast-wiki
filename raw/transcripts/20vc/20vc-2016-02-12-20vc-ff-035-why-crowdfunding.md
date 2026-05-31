@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-02-12",
   "title": "20VC FF 035: Why Crowdfunding Is Not Right For Tech Startups with Ryan Caldbeck @ CircleUp",
-  "guest": "ryan-caldbeck",
+  "guest": "ryan-caldbeck-circleup",
   "tags": [
     "venture-capital",
     "founder-psychology",

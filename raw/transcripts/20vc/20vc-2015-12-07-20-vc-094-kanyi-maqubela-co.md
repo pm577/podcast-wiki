@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-12-07",
   "title": "20 VC 094: Kanyi Maqubela @ Collaborative Fund on Rocketships, Feedback Loops and Turning Lemons Int",
-  "guest": "unknown-guest",
+  "guest": "kanyi-maqubela-collaborative-fund",
   "tags": [
     "venture-capital",
     "marketplaces",

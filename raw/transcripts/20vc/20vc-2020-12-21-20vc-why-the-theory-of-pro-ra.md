@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-12-21",
   "title": "20VC: Why the Theory of Pro-Rata is Often False, How Rolling Funds Impact Both Pricing and Competiti",
-  "guest": "jack-dorsey",
+  "guest": "20vc-why-the-theory-of-pro",
   "tags": [
     "venture-capital",
     "ai-ml"

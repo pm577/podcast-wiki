@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-10-31",
   "title": "20VC: Social Capital's Mamoon Hamid on Disrupting The Venture Model & Advancing Humanity By Solving ",
-  "guest": "unknown-guest",
+  "guest": "20vc-social-capitals-mamoon-hamid",
   "tags": [
     "venture-capital",
     "founder-psychology",

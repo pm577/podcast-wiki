@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-04-20",
   "title": "20VC: Upfront's Mark Suster on COVID Redefining What A Great Company Looks Like and What Valuations ",
-  "guest": "unknown-guest",
+  "guest": "20vc-upfronts-mark-suster",
   "tags": [
     "venture-capital",
     "founder-psychology",

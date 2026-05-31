@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-03-02",
   "title": "20VC: The Right Way For Founders To Think About Capital Efficiency, How To Create A Culture of Conti",
-  "guest": "mariam-naficy",
+  "guest": "20vc-the-right-way-for-founders-to-thin",
   "tags": [
     "venture-capital",
     "founder-psychology",

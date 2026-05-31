@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-10-24",
   "title": "20VC: Uber's Journey to Becoming the Most Valuable Private Tech Company in History, Raising $3BN Fro",
-  "guest": "unknown-guest",
+  "guest": "20vc-ubers-journey-to-becoming-the-mos",
   "tags": [
     "venture-capital",
     "product-strategy",

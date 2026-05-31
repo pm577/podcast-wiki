@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-01-19",
   "title": "20Growth: The Biggest Lie in Startup Growth and Marketing, Why You Do Not Need To Diversify Customer",
-  "guest": "rob-schutz",
+  "guest": "20growth-the-biggest-lie-in-startup-growth-and-marketing",
   "tags": [
     "founder-psychology",
     "go-to-market",

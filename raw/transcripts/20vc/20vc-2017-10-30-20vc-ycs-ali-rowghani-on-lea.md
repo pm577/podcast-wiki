@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-10-30",
   "title": "20VC: YC's Ali Rowghani on Leadership Lessons From Steve Jobs, Ed Catmull and Jack Dorsey & The 3 Tr",
-  "guest": "unknown-guest",
+  "guest": "20vc-ycs-ali-rowghani",
   "tags": [
     "venture-capital",
     "founder-psychology",

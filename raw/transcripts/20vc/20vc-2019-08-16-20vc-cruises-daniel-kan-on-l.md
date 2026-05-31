@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-08-16",
   "title": "20VC: Cruise's Daniel Kan on Lessons From Scaling The Team From 40 To 1,500 People, How Daniel Think",
-  "guest": "unknown-guest",
+  "guest": "20vc-cruises-daniel-kan",
   "tags": [
     "venture-capital",
     "product-strategy",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-12-12",
   "title": "20VC: Mailchimp's Ben Chestnut on The Biggest Leadership Lessons Scaling to a $12Bn Acquisition and ",
-  "guest": "unknown-guest",
+  "guest": "20vc-mailchimps-ben-chestnut",
   "tags": [
     "venture-capital",
     "founder-psychology",

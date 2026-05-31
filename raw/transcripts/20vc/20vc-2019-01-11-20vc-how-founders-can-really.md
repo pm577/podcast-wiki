@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-01-11",
   "title": "20VC: How Founders Can Really Get The Most Out of Their Board, Why Culture Fit At The Board Level Is",
-  "guest": "avi-meir",
+  "guest": "20vc-how-founders-can-really-get-the-most-out",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-01-04",
   "title": "20VC: Bill Gurley and Howard Marks: What Happened In 2020? What Can We Expect Looking Forward to 202",
-  "guest": "unknown-guest",
+  "guest": "20vc-bill-gurley-and-howard-marks-what",
   "tags": [
     "venture-capital",
     "founder-psychology",

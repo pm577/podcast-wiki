@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-10-18",
   "title": "20VC Exclusive: Roy Bahat on Bloomberg Beta's New Fund, The Truth About Valuation That Very Few VCs ",
-  "guest": "unknown-guest",
+  "guest": "20vc-exclusive-roy-bahat",
   "tags": [
     "venture-capital",
     "founder-psychology",

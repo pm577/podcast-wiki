@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-29",
   "title": "20VC: How Investors Can Get Into The Best Y Combinator Startups & How YC Startups Should Choose The ",
-  "guest": "jared-friedman",
+  "guest": "20vc-how-investors-can-get-into-the-bes",
   "tags": [
     "venture-capital",
     "founder-psychology",

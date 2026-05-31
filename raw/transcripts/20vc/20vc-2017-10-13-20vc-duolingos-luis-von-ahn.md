@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-10-13",
   "title": "20VC: Duolingo's Luis von Ahn on How CEO's Can Scale With The Company, How VC Herd Mentality In The ",
-  "guest": "unknown-guest",
+  "guest": "20vc-duolingos-luis-von-ahn",
   "tags": [
     "venture-capital",
     "founder-psychology",

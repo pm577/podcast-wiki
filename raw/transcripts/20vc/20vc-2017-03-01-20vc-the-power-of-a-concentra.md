@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-01",
   "title": "20VC: The Power Of A Concentrated Seed Portfolio, Why Operational Value Add Models At Seed Do Not Ma",
-  "guest": "roger-ehrenberg",
+  "guest": "20vc-the-power-of-a-concentrated-seed-portfolio",
   "tags": [
     "venture-capital",
     "founder-psychology",

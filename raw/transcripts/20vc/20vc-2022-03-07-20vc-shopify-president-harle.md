@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-03-07",
   "title": "20VC: Shopify President, Harley Finkelstein on What is Being a Good Husband, What is Being a Good Fa",
-  "guest": "unknown-guest",
+  "guest": "20vc-shopify-president-harley-finkelstein",
   "tags": [
     "venture-capital",
     "founder-psychology",

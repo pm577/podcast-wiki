@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-12-18",
   "title": "20VC: Most Downloaded Episode of 2017: Peter Fenton, General Partner @ Benchmark",
-  "guest": "unknown-guest",
+  "guest": "20vc-most-downloaded-episode",
   "tags": [
     "venture-capital"
   ],

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-03-30",
   "title": "20 Sales: Notion's CRO Olivia Nottebohm on How To Build Great Operations at Your Company, How To Use",
-  "guest": "unknown-guest",
+  "guest": "20-sales-notions-cro-olivia-nottebohm",
   "tags": [
     "go-to-market",
     "product-strategy",

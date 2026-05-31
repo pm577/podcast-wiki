@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-02-22",
   "title": "20VC: Why Venture Is A Service Product? Why There Is No Such Thing As Product Market Fit & Why Start",
-  "guest": "ben-blumenfeld",
+  "guest": "20vc-why-venture-is-a-service-product",
   "tags": [
     "venture-capital",
     "founder-psychology",

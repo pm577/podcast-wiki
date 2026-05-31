@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-01-30",
   "title": "20VC: How 50% Of VCs Hurt Entrepreneurs, How To Build A Relationship Of Trust With Your VC and How E",
-  "guest": "jason-mendelson",
+  "guest": "20vc-how-50-of-vcs-hurt-entrepreneurs",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-20",
   "title": "20VC: Bill Ackman on The Banking Crisis, What the Fed Should Do, The Three-Tiered Banking System, Wh",
-  "guest": "unknown-guest",
+  "guest": "20vc-bill-ackman",
   "tags": [
     "venture-capital",
     "fintech"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-03-04",
   "title": "20VC FF: Hiten Shah on VC Funded vs Bootstrapped Businesses and How He Decides Which Startups To Adv",
-  "guest": "unknown-guest",
+  "guest": "20vc-ff-hiten-shah",
   "tags": [
     "venture-capital",
     "ai-ml"

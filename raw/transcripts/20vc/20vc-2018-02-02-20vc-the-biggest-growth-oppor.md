@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-02-02",
   "title": "20VC: The Biggest Growth Opportunities for Young People in Tech Today, Why Distributed Workforces Ar",
-  "guest": "andy-pflaum",
+  "guest": "20vc-the-biggest-growth-opportunities-f",
   "tags": [
     "venture-capital",
     "founder-psychology",

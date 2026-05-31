@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-01-03",
   "title": "20VC: Rahul Vohra @ Superhuman, The Most Downloaded Founder Episode of 2019",
-  "guest": "unknown-guest",
+  "guest": "20vc-rahul-vohra-superhuman",
   "tags": [
     "venture-capital",
     "founder-psychology",

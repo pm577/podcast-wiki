@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-08-12",
   "title": "20 VC 062: Shaking Up London's VC Scene with Fede Pirzio-Biroli, Founder @ Playfair Capital",
-  "guest": "fede-pirzio",
+  "guest": "fede-pirzio-biroli-founder-playfair-capital",
   "tags": [
     "venture-capital",
     "founder-psychology",

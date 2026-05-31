@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-06-25",
   "title": "20VC: The 4 Key Skills All VCs Need To Be Successful, How To Build, Maintain and Scale Your Network ",
-  "guest": "max-motschwiller",
+  "guest": "20vc-the-4-key-skills-all-vcs-need-to-be-successful",
   "tags": [
     "venture-capital",
     "go-to-market",

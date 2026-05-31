@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-07-13",
   "title": "20 Growth: Shopify's VP of Growth on Why Standalone Growth Teams Operate More Efficiently than Integ",
-  "guest": "unknown-guest",
+  "guest": "20-growth-shopifys-vp-of-growth",
   "tags": [
     "founder-psychology",
     "go-to-market",

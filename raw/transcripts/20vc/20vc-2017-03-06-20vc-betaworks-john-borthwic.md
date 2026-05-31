@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-06",
   "title": "20VC: Betaworks' John Borthwick on Why The VC Model Is So Inefficient, Why Venture Fund Cycles Are T",
-  "guest": "unknown-guest",
+  "guest": "20vc-betaworks-john-borthwick",
   "tags": [
     "venture-capital",
     "founder-psychology",

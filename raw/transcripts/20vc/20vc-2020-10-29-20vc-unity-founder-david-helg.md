@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-10-29",
   "title": "20VC: Unity Founder David Helgason on The Hypergrowth Early Days of Unity, Why Running A Company Is ",
-  "guest": "unknown-guest",
+  "guest": "20vc-unity-founder-david-helgason",
   "tags": [
     "venture-capital",
     "founder-psychology",

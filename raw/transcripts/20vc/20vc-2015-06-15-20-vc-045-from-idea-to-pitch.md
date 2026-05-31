@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-06-15",
   "title": "20 VC 045: From Idea to Pitch with Alan Jones, Founding Investor @ Startmate",
-  "guest": "alan-jones",
+  "guest": "alan-jones-founding-investor-startmate",
   "tags": [
     "venture-capital",
     "go-to-market",

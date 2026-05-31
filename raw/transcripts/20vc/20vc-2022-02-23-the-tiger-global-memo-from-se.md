@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-02-23",
   "title": "The Tiger Global Memo: From Sequoia Capital to Benchmark and Thrive: The World's Best on the Rise of",
-  "guest": "the-tiger-global-memo",
+  "guest": "the-tiger-global-memo-from-sequoia-capital-to-benchmark-and",
   "tags": [
     "startups"
   ],

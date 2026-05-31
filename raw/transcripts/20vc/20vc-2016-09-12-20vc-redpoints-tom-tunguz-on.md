@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-09-12",
   "title": "20VC: Redpoint's Tom Tunguz on Winning with Data: How To Gain A Competitive Advantage & Dominate Mar",
-  "guest": "data",
+  "guest": "20vc-redpoints-tom-tunguz",
   "tags": [
     "venture-capital",
     "product-strategy",

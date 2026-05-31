@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-01-31",
   "title": "20VC: Alexa Von Tobel on Raising NYC's Largest Ever Female Led Fund , Portfolio Construction, Compre",
-  "guest": "unknown-guest",
+  "guest": "20vc-alexa-von-tobel",
   "tags": [
     "venture-capital",
     "founder-psychology",

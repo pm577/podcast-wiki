@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-06-22",
   "title": "20VC: Why Bots Are The New Black, Conversational Interface Is The Next of For Consumerisation and Th",
-  "guest": "annie-kadavy",
+  "guest": "20vc-why-bots-are-the-new-black",
   "tags": [
     "venture-capital",
     "marketplaces",

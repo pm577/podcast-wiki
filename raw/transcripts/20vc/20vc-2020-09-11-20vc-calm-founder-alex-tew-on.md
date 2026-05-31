@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-09-11",
   "title": "20VC: Calm Founder Alex Tew on What It Takes To Build Viral Products Today, The Current State of Cus",
-  "guest": "unknown-guest",
+  "guest": "20vc-calm-founder-alex-tew",
   "tags": [
     "venture-capital",
     "founder-psychology",

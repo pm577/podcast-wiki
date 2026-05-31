@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-04-08",
   "title": "20VC: Checkout.com Founder Guillaume Pousaz on The Transition From Bootstrapped Founder to Raising $",
-  "guest": "unknown-guest",
+  "guest": "20vc-checkoutcom-founder-guillaume-pousaz",
   "tags": [
     "venture-capital",
     "founder-psychology",

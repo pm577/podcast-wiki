@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-09-13",
   "title": "20VC: Why VC Is A Lifestyle Not A Job, Why You Must Do Post-mortems On Good and Bad Deals & Why Soci",
-  "guest": "kathleen-utecht",
+  "guest": "20vc-why-vc-is-a-lifestyle-not-a-job-why-you-must-do-post",
   "tags": [
     "venture-capital",
     "ai-ml"

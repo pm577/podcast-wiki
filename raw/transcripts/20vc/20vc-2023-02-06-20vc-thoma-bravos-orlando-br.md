@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-02-06",
   "title": "20VC: Thoma Bravo's Orlando Bravo on Why Now is The New Normal, Why Every Company in the World is Wo",
-  "guest": "unknown-guest",
+  "guest": "20vc-thoma-bravos-orlando-bravo",
   "tags": [
     "venture-capital",
     "founder-psychology",

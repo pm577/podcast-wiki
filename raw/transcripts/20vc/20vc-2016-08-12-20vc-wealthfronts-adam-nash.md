@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-12",
   "title": "20VC: Wealthfront's Adam Nash on What Makes Great CEO's & Why Humans Suck At Investing",
-  "guest": "unknown-guest",
+  "guest": "20vc-wealthfronts-adam-nash",
   "tags": [
     "venture-capital",
     "product-strategy",

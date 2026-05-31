@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-12",
   "title": "20VC: Why The Future of AI Is Open Not Closed, Why We Are Years Away From AI Being Autonomous, Why A",
-  "guest": "clem-delangue",
+  "guest": "20vc-why-the-future",
   "tags": [
     "venture-capital",
     "founder-psychology",

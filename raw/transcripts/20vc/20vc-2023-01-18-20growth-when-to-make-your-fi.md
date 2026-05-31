@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-01-18",
   "title": "20Growth: When To Make Your First Growth Hire? How To Structure the Hiring Process for Growth? Five ",
-  "guest": "hila-qu",
+  "guest": "20growth-when-to-make-your-first-growth",
   "tags": [
     "venture-capital",
     "go-to-market",

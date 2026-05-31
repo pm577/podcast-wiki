@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-01-09",
   "title": "20VC: DFJ's Josh Stein on Why VCs Must Adapt To Their Founders, The Major Transition Points For Aaro",
-  "guest": "unknown-guest",
+  "guest": "20vc-dfjs-josh-stein",
   "tags": [
     "venture-capital",
     "founder-psychology",

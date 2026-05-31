@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-04-30",
   "title": "20 VC 032: Inside Y Combinator with Nicolas Michaelsen, Founder @ AirHelp",
-  "guest": "nicolas-michaelsen",
+  "guest": "nicolas-michaelsen-founder-airhelp",
   "tags": [
     "venture-capital",
     "founder-psychology",

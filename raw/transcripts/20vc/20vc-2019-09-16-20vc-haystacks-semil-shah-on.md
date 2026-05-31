@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-09-16",
   "title": "20VC: Haystack's Semil Shah on Whether Founders Are Bypassing Seed Funds in Favour Of Less Dilutive ",
-  "guest": "unknown-guest",
+  "guest": "20vc-haystacks-semil-shah",
   "tags": [
     "venture-capital",
     "founder-psychology",

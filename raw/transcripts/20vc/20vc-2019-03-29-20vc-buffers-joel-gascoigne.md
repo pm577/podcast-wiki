@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-03-29",
   "title": "20VC: Buffer's Joel Gascoigne on The Moment The Founder Is No Longer The Boss, The Questions Founder",
-  "guest": "unknown-guest",
+  "guest": "20vc-buffers-joel-gascoigne",
   "tags": [
     "venture-capital",
     "founder-psychology",

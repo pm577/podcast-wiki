@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-05-20",
   "title": "20VC: Softbank Managing Partner, Jeff Housenbold on How Softbank Approach Portfolio Construction, Th",
-  "guest": "unknown-guest",
+  "guest": "20vc-softbank-managing-partner-jeff-housenbold",
   "tags": [
     "venture-capital",
     "product-strategy"

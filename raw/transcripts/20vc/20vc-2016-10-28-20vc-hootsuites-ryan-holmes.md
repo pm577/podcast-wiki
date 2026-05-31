@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-10-28",
   "title": "20VC: Hootsuite's Ryan Holmes on Optimising Productivity in Meetings, Creating An Ownership Culture ",
-  "guest": "unknown-guest",
+  "guest": "20vc-hootsuites-ryan-holmes",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-15",
   "title": "20VC: 500 Startups' Dave McClure on Whether Unicorns Are Necessary For Venture Returns & Why Ownersh",
-  "guest": "unknown-guest",
+  "guest": "20vc-500-startups-dave-mcclure",
   "tags": [
     "venture-capital",
     "founder-psychology",

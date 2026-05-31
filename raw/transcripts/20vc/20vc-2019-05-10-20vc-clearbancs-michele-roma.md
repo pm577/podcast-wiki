@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-05-10",
   "title": "20VC: Clearbanc's Michele Romanow on Why 40% of VC $ Raised Today Goes To Google and Facebook, How T",
-  "guest": "unknown-guest",
+  "guest": "20vc-clearbancs-michele-romanow",
   "tags": [
     "venture-capital",
     "founder-psychology",

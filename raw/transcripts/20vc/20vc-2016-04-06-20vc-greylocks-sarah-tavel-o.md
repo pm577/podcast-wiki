@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-04-06",
   "title": "20VC: Greylock's Sarah Tavel on What Founders Need From A Good Investor and Why Products Need To Be ",
-  "guest": "unknown-guest",
+  "guest": "20vc-greylocks-sarah-tavel",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-11-21",
   "title": "20VC: Data Collective's Matt Ocko on The Dark Side Of AI & What Happens When 3-4m People Become Unem",
-  "guest": "unknown-guest",
+  "guest": "20vc-data-collectives-matt-ocko",
   "tags": [
     "venture-capital",
     "founder-psychology",

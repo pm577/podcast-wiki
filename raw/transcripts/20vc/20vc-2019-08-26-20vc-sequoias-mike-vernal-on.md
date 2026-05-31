@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-08-26",
   "title": "20VC: Sequoia's Mike Vernal on His Biggest Lessons From 8 Years of Hyper-Growth at Facebook, Why The",
-  "guest": "unknown-guest",
+  "guest": "20vc-sequoias-mike-vernal",
   "tags": [
     "venture-capital",
     "go-to-market",

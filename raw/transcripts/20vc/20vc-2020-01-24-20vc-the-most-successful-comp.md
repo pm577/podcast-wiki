@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-01-24",
   "title": "20VC: The Most Successful Companies Are Not Where Employees Work The Most, How To Know When To Promo",
-  "guest": "rick-nucci",
+  "guest": "20vc-the-most-successful-companies-are",
   "tags": [
     "venture-capital",
     "founder-psychology",

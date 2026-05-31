@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-12-09",
   "title": "20VC: Unusual Ventures' John Vrionis on Why We Need To Raise The Bar In Venture, Why Taking Multi-St",
-  "guest": "unknown-guest",
+  "guest": "20vc-unusual-ventures-john-vrionis",
   "tags": [
     "venture-capital",
     "founder-psychology",

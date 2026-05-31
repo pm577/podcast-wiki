@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-11-18",
   "title": "20VC: Ash Fontana on The 5 Core Characteristics That Make Data Valuable, What VCs Can Learn From Ita",
-  "guest": "unknown-guest",
+  "guest": "20vc-ash-fontana",
   "tags": [
     "venture-capital",
     "founder-psychology",

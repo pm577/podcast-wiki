@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-01-04",
   "title": "20VC: Evernote's Phil Libin on The Pros and Cons Of Moving To VC, The Future For Bots & Having Marc ",
-  "guest": "unknown-guest",
+  "guest": "20vc-evernotes-phil-libin",
   "tags": [
     "venture-capital",
     "founder-psychology",

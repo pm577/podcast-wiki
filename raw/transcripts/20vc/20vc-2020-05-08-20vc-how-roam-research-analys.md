@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-05-08",
   "title": "20VC: How Roam Research Analyse Product Design, Team-Building, The Future of Collaboration Tools & A",
-  "guest": "conor-white",
+  "guest": "20vc-how-roam-research-analyse-product-design-team",
   "tags": [
     "venture-capital",
     "founder-psychology",

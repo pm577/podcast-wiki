@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-02-20",
   "title": "20Sales: What is Sales Engineering? When and How to Hire Them? How They Should Work With AE's? How t",
-  "guest": "zach-lawryk",
+  "guest": "20sales-what-is-sales-engineering-when",
   "tags": [
     "go-to-market",
     "product-strategy",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-04-22",
   "title": "20VC: Segment Founder Peter Reinhardt on His Learning Process, How Great Leaders Listen and Encourag",
-  "guest": "unknown-guest",
+  "guest": "20vc-segment-founder-peter-reinhardt",
   "tags": [
     "venture-capital",
     "founder-psychology",

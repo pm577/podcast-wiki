@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-09-30",
   "title": "20 VC 076: Y COMBINATOR WEEK: Aaron Harris, Partner @ YC",
-  "guest": "unknown-guest",
+  "guest": "y-combinator-week-aaron-harris",
   "tags": [
     "venture-capital",
     "founder-psychology",

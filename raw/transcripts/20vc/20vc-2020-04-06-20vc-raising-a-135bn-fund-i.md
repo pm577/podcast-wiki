@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-04-06",
   "title": "20VC: Raising A $1.35Bn Fund I, The Emerging Secondary Opportunity For Early Stage Managers and Foun",
-  "guest": "ravi-viswanathan",
+  "guest": "20vc-raising-a-135bn-fund-i",
   "tags": [
     "venture-capital",
     "founder-psychology",

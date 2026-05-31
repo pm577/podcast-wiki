@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-12-28",
   "title": "20VC: Lessons From Working with Bill Gates, How To Lead Without Authority and The Difference Between",
-  "guest": "bill-gates",
+  "guest": "bill-gates-how-to-lead-without-authority-and-the-difference",
   "tags": [
     "venture-capital",
     "founder-psychology",

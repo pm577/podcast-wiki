@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-07-24",
   "title": "Founding WIRED 2014's Winner, with Mutaz Qubbaj, Founder @ Squirrel",
-  "guest": "mutaz-qubbaj",
+  "guest": "mutaz-qubbaj-founder-squirrel",
   "tags": [
     "founder-psychology",
     "marketplaces",

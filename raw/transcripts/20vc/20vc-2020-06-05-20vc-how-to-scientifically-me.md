@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-06-05",
   "title": "20VC: How To Scientifically Measure Product-Market Fit, How To Efficiently and Accurately Segment Us",
-  "guest": "daniel-eric",
+  "guest": "20vc-how-to-scientifically-measure-product",
   "tags": [
     "venture-capital",
     "founder-psychology",

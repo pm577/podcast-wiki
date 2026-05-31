@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-08-31",
   "title": "20VC: SPACs. What Are They? Why Now? How Do They Change The Venture Landscape? Are They Better Than ",
-  "guest": "unknown-guest",
+  "guest": "20vc-spacs-what-are-they-why-now-how",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-07-17",
   "title": "20VC: VC of The Year: Forerunner's Kirsten Green on 2 $Bn+ Exits in 1 Year, Why We Are In The Very E",
-  "guest": "unknown-guest",
+  "guest": "20vc-vc-of-the-year-forerunners-kirsten-green",
   "tags": [
     "venture-capital",
     "ai-ml"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-10-24",
   "title": "20VC: More $ Raised This Year Than The Past 15, War Chests Being Built & Decline In First Time Funds",
-  "guest": "beezer-clarkson",
+  "guest": "20vc-more-raised-this-year-than-the-past-15",
   "tags": [
     "venture-capital",
     "founder-psychology",

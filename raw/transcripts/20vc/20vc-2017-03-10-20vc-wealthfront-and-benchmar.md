@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-10",
   "title": "20VC: Wealthfront and Benchmark's Andy Rachleff on Why Delight Is The Greatest Form Of Virality, Why",
-  "guest": "unknown-guest",
+  "guest": "20vc-wealthfront-and-benchmarks-andy-rachleff",
   "tags": [
     "venture-capital",
     "founder-psychology",

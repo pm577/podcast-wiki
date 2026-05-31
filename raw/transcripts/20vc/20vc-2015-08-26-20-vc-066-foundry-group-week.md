@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-08-26",
   "title": "20 VC 066: FOUNDRY GROUP WEEK 1: Seth Levine: 'VC Is Not A Scalable Business'",
-  "guest": "unknown-guest",
+  "guest": "foundry-group-week-1-seth-levine-vc-i",
   "tags": [
     "venture-capital",
     "go-to-market"

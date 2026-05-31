@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-06-03",
   "title": "20VC: inDinero's Jessica Mah on Why Angel Money Is Better Than Institutional Money and Boards Should",
-  "guest": "unknown-guest",
+  "guest": "20vc-indineros-jessica-mah",
   "tags": [
     "venture-capital",
     "founder-psychology",

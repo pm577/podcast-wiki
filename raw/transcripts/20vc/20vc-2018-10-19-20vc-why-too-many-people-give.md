@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-10-19",
   "title": "20VC: Why Too Many People Give Up Too Quickly, Why You Should Never Start A Venture Without Owning T",
-  "guest": "dennis-mortensen",
+  "guest": "20vc-why-too-many-people-give-up-too-quickly",
   "tags": [
     "venture-capital",
     "founder-psychology",

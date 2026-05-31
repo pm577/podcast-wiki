@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-11-30",
   "title": "20VC: Robinhood Founder Vlad Tenev on The Single Most Important Thing Leadership is Responsible For,",
-  "guest": "unknown-guest",
+  "guest": "20vc-robinhood-founder-vlad-tenev",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-08-09",
   "title": "20VC: Hiten Shah on The Right Way To Think About Depression, Control and Burnout, Why Nobody Really ",
-  "guest": "unknown-guest",
+  "guest": "20vc-hiten-shah",
   "tags": [
     "venture-capital",
     "founder-psychology",

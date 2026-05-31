@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-05-17",
   "title": "20VC: Insight Managing Director, Deven Parekh on The Current Funding Mania, Compression of Round Tim",
-  "guest": "unknown-guest",
+  "guest": "20vc-insight-managing-director-deven-parekh",
   "tags": [
     "venture-capital",
     "ai-ml"

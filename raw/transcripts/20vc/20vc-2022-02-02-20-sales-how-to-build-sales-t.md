@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-02-02",
   "title": "20 Sales: How To Build Sales Teams with a Product-Led-Growth GTM, What is a Sales Hiring Scorecard a",
-  "guest": "dannie-herzberg",
+  "guest": "a-product-led-growth-gtm-what-is-a-sales-hiring-scorecard-a",
   "tags": [
     "go-to-market",
     "product-strategy",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-07-15",
   "title": "20VC: Zoom From Series A to IPO, How VCs Can Provide CEOs with Additional Leverage and Why The Negat",
-  "guest": "additional-leverage",
+  "guest": "additional-leverage-and-why-the-negat",
   "tags": [
     "venture-capital",
     "go-to-market",

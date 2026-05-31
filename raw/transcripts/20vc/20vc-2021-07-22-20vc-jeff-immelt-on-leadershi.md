@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-07-22",
   "title": "20VC: Jeff Immelt on Leadership Lessons from 16 Years as CEO @ GE, Incumbent Innovation; Why Some Ha",
-  "guest": "unknown-guest",
+  "guest": "20vc-jeff-immelt",
   "tags": [
     "venture-capital",
     "founder-psychology",

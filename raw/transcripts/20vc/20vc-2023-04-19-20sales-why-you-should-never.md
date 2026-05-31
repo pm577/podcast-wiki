@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-04-19",
   "title": "20Sales: Why You Should Never Hire a VP Sales First, How To Create Urgency in a Sales Process, How t",
-  "guest": "your-first-customers",
+  "guest": "20sales-why-you-should-never-hire-a-vp-sales-first",
   "tags": [
     "go-to-market",
     "enterprise-saas"

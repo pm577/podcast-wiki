@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-10-28",
   "title": "20 Growth: The 3 Levers to Successful Growth Models, The 3 Types of Growth Hires Startups Need To Kn",
-  "guest": "elena-verna",
+  "guest": "20-growth-the-3-levers-to-successful-growth-models",
   "tags": [
     "go-to-market",
     "product-strategy",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-02-27",
   "title": "20VC: How Multi-Stage Funds Changed The Game For Seed Rounds, Why Signalling Risk is BS, The Three M",
-  "guest": "david-tisch",
+  "guest": "20vc-how-multi",
   "tags": [
     "venture-capital",
     "founder-psychology",

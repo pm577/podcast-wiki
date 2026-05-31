@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-07-21",
   "title": "20VC: The 2 Types of Sexism & How They Play Out In Tech, Why You Should Not Always Get Customers To ",
-  "guest": "jenna-brown",
+  "guest": "20vc-the-2-types",
   "tags": [
     "venture-capital",
     "founder-psychology",

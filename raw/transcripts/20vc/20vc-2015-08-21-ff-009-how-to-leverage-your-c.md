@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-08-21",
   "title": "FF 009: How To Leverage Your Connections To Grow Your Business with Sarah Schupp, Founder & CEO @ Un",
-  "guest": "sarah-schupp",
+  "guest": "sarah-schupp-founder-ceo-un",
   "tags": [
     "founder-psychology"
   ],

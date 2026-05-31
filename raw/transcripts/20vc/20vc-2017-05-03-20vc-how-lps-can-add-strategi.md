@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-03",
   "title": "20VC: How LPs Can Add Strategic Value To Portfolio Companies & Why Real Estate Is On Every Whiteboar",
-  "guest": "brendan-wallace",
+  "guest": "20vc-how-lps-can-add-strategic-value-to",
   "tags": [
     "venture-capital",
     "founder-psychology",

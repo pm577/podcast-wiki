@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-01-25",
   "title": "20VC: Preparing For The Next Big Trend, Why Conversational Will Be The Next Big Thing & How Entrepre",
-  "guest": "sarah-guo",
+  "guest": "20vc-preparing-for-the-next-big-trend",
   "tags": [
     "venture-capital"
   ],

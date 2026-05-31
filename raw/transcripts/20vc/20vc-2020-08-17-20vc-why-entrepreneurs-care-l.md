@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-08-17",
   "title": "20VC: Why Entrepreneurs Care Less About Firm Brand at Seed, How LPs Should Think About GP Commit & H",
-  "guest": "apurva-mehta",
+  "guest": "20vc-why-entrepreneurs-care-less-about-firm-brand",
   "tags": [
     "venture-capital",
     "ai-ml",

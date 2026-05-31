@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-08-03",
   "title": "20VC: Steve Jurvetson on 20 Years of Friendship with Elon Musk, How To Analyse Market Timing, Why Ve",
-  "guest": "elon-musk",
+  "guest": "20vc-steve-jurvetson",
   "tags": [
     "venture-capital",
     "founder-psychology",

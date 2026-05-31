@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-12-02",
   "title": "20 VC 093: Where Is The Micro VC Market Going with Samir Kaji @ First Republic Bank",
-  "guest": "samir-kaji",
+  "guest": "samir-kaji-first-republic-bank",
   "tags": [
     "venture-capital",
     "hiring-culture",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-04-24",
   "title": "20VC: WTF Is Going On In Venture Capital; Seed Round Pricing Will Remain High, Series B & C Has Gone",
-  "guest": "unknown-guest",
+  "guest": "20vc-wtf-is-going-on-in-venture-capital",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-10-09",
   "title": "20VC: Michael Dearing on 5 Key Principles He Uses To Assess Startup Founders, Why Benevolent Dictato",
-  "guest": "unknown-guest",
+  "guest": "20vc-michael-dearing",
   "tags": [
     "venture-capital",
     "founder-psychology",

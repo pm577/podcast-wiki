@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-05",
   "title": "20VC: Alex Rodriguez (AROD) on Investing Lessons from Warren Buffet, How a Meeting with Magic Johnso",
-  "guest": "magic-johnson-changed-his-approach",
+  "guest": "20vc-alex-rodriguez-arod",
   "tags": [
     "venture-capital",
     "product-strategy",

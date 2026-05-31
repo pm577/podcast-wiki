@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-02-19",
   "title": "20VC: Lightspeed's Jeremy Liew on Being The First Investor in Snapchat, Why The Pessimism Around Con",
-  "guest": "unknown-guest",
+  "guest": "20vc-lightspeeds-jeremy-liew",
   "tags": [
     "venture-capital",
     "consumer"

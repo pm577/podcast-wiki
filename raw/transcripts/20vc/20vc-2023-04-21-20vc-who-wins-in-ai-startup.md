@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-04-21",
   "title": "20VC: Who Wins in AI; Startup vs Incumbent, Infrastructure vs Application Layer, Bundled vs Unbundle",
-  "guest": "tomasz-tunguz",
+  "guest": "20vc-who-wins-in-ai-startup-vs-incumbent",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-04-05",
   "title": "20VC: Datadog CEO Olivier Pomel on The Scaling Journey to a $26Bn Market Cap, The Challenges in Movi",
-  "guest": "unknown-guest",
+  "guest": "20vc-datadog-ceo-olivier-pomel",
   "tags": [
     "venture-capital",
     "founder-psychology",

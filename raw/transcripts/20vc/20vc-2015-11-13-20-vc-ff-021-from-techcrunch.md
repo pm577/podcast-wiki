@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-11-13",
   "title": "20 VC FF 021: From TechCrunch to Founder to TechCrunch with the legend, Steve O'Hear",
-  "guest": "unknown-guest",
+  "guest": "the-legend-steve-ohear",
   "tags": [
     "venture-capital",
     "founder-psychology",

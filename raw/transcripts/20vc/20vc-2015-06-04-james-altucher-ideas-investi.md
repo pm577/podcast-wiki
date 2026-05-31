@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-06-04",
   "title": "James Altucher: Ideas, Investing and Entrepreneurs",
-  "guest": "james-altucher",
+  "guest": "james-altucher-ideas",
   "tags": [
     "venture-capital",
     "go-to-market"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-11-02",
   "title": "20VC: Ryan Caldbeck on Why The Business Model of VC is Broken, Who is To Blame, How The Best Funds W",
-  "guest": "unknown-guest",
+  "guest": "20vc-ryan-caldbeck",
   "tags": [
     "venture-capital",
     "founder-psychology",

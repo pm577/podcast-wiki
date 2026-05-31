@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-03-20",
   "title": "20VC: How To Assess Risk and Value Creation, Why It Would Be Better If VCs Had Smaller Portfolios & ",
-  "guest": "misha-esipov",
+  "guest": "20vc-how-to-assess-risk-and-value-creation",
   "tags": [
     "venture-capital",
     "founder-psychology",

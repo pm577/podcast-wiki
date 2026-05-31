@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-08-12",
   "title": "20VC: True Ventures' Puneet Agarwal on Why EQ Is Going To Separate The Best Firms In Venture Over Th",
-  "guest": "unknown-guest",
+  "guest": "20vc-true-ventures-puneet-agarwal",
   "tags": [
     "venture-capital",
     "product-strategy"

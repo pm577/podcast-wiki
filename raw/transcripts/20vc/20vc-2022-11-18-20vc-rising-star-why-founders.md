@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-11-18",
   "title": "20VC Rising Star: Why Founders Should Expect More From Their VCs | How To Know Pre-Investment Whethe",
-  "guest": "oana-olteanu",
+  "guest": "20vc-rising-star-why-founders-should-expect-more-from-their",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-01-25",
   "title": "20VC: Evernote & mmhmm Founder Phil Libin on Why We are Beginning a Multi-Trillion Dollar Restructur",
-  "guest": "unknown-guest",
+  "guest": "20vc-evernote-mmhmm-founder-phil-libin",
   "tags": [
     "venture-capital",
     "founder-psychology",

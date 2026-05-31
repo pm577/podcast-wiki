@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-04-27",
   "title": "20 VC 031: Investing in Gaming, Luxury Goods and Disruption with Maha Ibrahim, General Partner @ Can",
-  "guest": "maha-ibrahim",
+  "guest": "maha-ibrahim-general-partner-can",
   "tags": [
     "venture-capital",
     "consumer"

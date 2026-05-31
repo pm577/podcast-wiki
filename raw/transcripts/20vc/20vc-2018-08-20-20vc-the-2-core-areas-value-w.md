@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-08-20",
   "title": "20VC: The 2 Core Areas Value Will Accrue In Crypto, Why Crypto Will Drive The Re-Centralisation of T",
-  "guest": "avichal-managing-partner",
+  "guest": "20vc-the-2-core-areas-value-will-accrue-in-crypto-why-crypto",
   "tags": [
     "venture-capital",
     "product-strategy",

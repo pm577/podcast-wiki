@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-09-20",
   "title": "20VC: Why Core AI Is Largely A Bunch of Nifty Tricks, Why Consumer Electronics Is The Hardest Thing ",
-  "guest": "jeremy-conrad",
+  "guest": "20vc-why-core-ai-is-largely-a-bunch",
   "tags": [
     "venture-capital",
     "product-strategy",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-03-11",
   "title": "20VC: Niccolo De Masi on The Bursting Of The Tech Bubble and What It Takes To Be A Celebrity Partner",
-  "guest": "glu-mobile",
+  "guest": "20vc-niccolo-de-masi",
   "tags": [
     "venture-capital",
     "ai-ml"

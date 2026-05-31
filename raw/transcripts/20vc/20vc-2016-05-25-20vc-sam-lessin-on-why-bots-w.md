@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-05-25",
   "title": "20VC: Sam Lessin on Why Bots Will Change Business & The Internet Has Mostly Failed",
-  "guest": "unknown-guest",
+  "guest": "20vc-sam-lessin",
   "tags": [
     "venture-capital",
     "founder-psychology",

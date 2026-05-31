@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-12-30",
   "title": "20VC: Inside The Acquisition Decision-Making Process at Cisco, How To Measure True Success in M&A Ev",
-  "guest": "rob-salvagno",
+  "guest": "20vc-inside-the-acquisition-decision",
   "tags": [
     "venture-capital",
     "hiring-culture",

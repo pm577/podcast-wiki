@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-11-28",
   "title": "20VC: Why Market Is More Important Than Team, The 4 Key Roles of A Board Member & Why Founders Get M",
-  "guest": "rory",
+  "guest": "20vc-why-market-is-more-important-than-team",
   "tags": [
     "venture-capital",
     "founder-psychology",

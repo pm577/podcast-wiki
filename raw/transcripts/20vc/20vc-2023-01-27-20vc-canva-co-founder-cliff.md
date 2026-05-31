@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-01-27",
   "title": "20VC: Canva Co-Founder, Cliff Obrecht on The Journey From 100 VC Rejections to a $40BN Company, Why ",
-  "guest": "unknown-guest",
+  "guest": "20vc-canva-co-founder-cliff-obrecht",
   "tags": [
     "venture-capital",
     "founder-psychology",

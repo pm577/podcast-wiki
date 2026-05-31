@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-12-17",
   "title": "20VC: A Framework For Approaching Risk and How It Affects Portfolio Construction | Lessons and Advic",
-  "guest": "dropbox",
+  "guest": "20vc-a-framework-for-approaching-risk-a",
   "tags": [
     "venture-capital"
   ],

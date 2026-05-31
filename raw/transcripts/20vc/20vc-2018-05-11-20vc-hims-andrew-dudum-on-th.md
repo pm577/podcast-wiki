@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-05-11",
   "title": "20VC: Hims' Andrew Dudum on The Scaling Playbook of The Fastest Growing Mens Wellness Brand, How To ",
-  "guest": "unknown-guest",
+  "guest": "20vc-hims-andrew-dudum",
   "tags": [
     "venture-capital",
     "founder-psychology",

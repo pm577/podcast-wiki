@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-08-24",
   "title": "20VC: 10 Lessons on Scaling 20VC to 100M+ Downloads | How To Build an Audience and a Next-Generation",
-  "guest": "unknown-guest",
+  "guest": "20vc-10-lessons",
   "tags": [
     "venture-capital",
     "product-strategy",

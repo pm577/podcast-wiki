@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-07-03",
   "title": "20VC: Biggest Lessons From Opendoor's Scaling Journey, How To Implement Systems for Growth & The Rig",
-  "guest": "julia-de",
+  "guest": "20vc-biggest-lessons-from-opendoors-scaling-journey",
   "tags": [
     "venture-capital",
     "founder-psychology",

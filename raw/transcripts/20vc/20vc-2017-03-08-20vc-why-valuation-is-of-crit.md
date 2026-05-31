@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-08",
   "title": "20VC: Why Valuation Is Of Critical Importance At Seed, How To Understand Innovation Cycles & Having ",
-  "guest": "lee-hower",
+  "guest": "20vc-why-valuation-is-of-critical-importance-at-seed",
   "tags": [
     "venture-capital",
     "founder-psychology",

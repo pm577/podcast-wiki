@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-06-07",
   "title": "20VC: DoorDash CEO Tony Xu on The Art of Great Leadership Today, Why The Best Give All of the Credit",
-  "guest": "unknown-guest",
+  "guest": "20vc-doordash-ceo-tony-xu",
   "tags": [
     "venture-capital",
     "founder-psychology",

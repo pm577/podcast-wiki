@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-06-26",
   "title": "20VC: How Fundraising For Funds Has Changed in The World of COVID, The Benefits of Managers Selling ",
-  "guest": "lo-toney",
+  "guest": "20vc-how-fundraising-for-funds-has-changed-in-the-world",
   "tags": [
     "venture-capital",
     "founder-psychology",

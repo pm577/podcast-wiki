@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-02-16",
   "title": "20Growth: Five Key Functions of a Growth Team, The Biggest Lessons Starting Uber's Growth Team and S",
-  "guest": "ed-baker",
+  "guest": "20growth-five-key-functions",
   "tags": [
     "venture-capital",
     "go-to-market",

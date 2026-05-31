@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-11-25",
   "title": "20VC: a16z's Balaji Srinivasan on Why There Is A Financial Incentive For Truth In VC & Why The Best ",
-  "guest": "unknown-guest",
+  "guest": "20vc-a16zs-balaji-srinivasan",
   "tags": [
     "venture-capital",
     "founder-psychology",

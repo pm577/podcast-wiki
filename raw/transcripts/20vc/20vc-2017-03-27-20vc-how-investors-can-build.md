@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-27",
   "title": "20VC: How Investors Can Build Relationships with Founders In Organic, Non-Transactional Ways & How V",
-  "guest": "founders-in-organic",
+  "guest": "founders-in-organic-non-transactional-ways-how-v",
   "tags": [
     "venture-capital",
     "founder-psychology",

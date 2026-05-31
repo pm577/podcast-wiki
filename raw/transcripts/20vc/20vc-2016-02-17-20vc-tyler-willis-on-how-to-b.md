@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-02-17",
   "title": "20VC: Tyler Willis on How To Be Innovative With Customer Acquisition and The Future Of Innovation",
-  "guest": "unknown-guest",
+  "guest": "20vc-tyler-willis",
   "tags": [
     "venture-capital",
     "founder-psychology",

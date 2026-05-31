@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-11-08",
   "title": "20VC: Why Pre-Product Market Fit Is About Systems Design Not Engineering, The Right Way For Leaders ",
-  "guest": "ryan-denehy",
+  "guest": "20vc-why-pre",
   "tags": [
     "venture-capital",
     "founder-psychology",

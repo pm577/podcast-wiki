@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-09-06",
   "title": "20VC: Why Investors Have The Biggest Problem with Bias, Why Our Job Is To Maximise Risk & Why It Is ",
-  "guest": "bias",
+  "guest": "bias-why-our-job-is-to-maximise-risk-why-it-is",
   "tags": [
     "venture-capital",
     "founder-psychology",

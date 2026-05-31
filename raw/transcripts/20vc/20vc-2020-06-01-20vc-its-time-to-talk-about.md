@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-06-01",
   "title": "20VC: It's Time To Talk About Drinking; How To Stop, The Impact It Has, How Life Changes Post-Alcoho",
-  "guest": "ryan-petersen",
+  "guest": "20vc-its-time-to-talk-about-drinking-how-to-stop",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2024-06-10",
   "title": "20VC: Reid Hoffman on Foundation Models: Who Wins & How Do Incumbents Respond | The Inflection AI De",
-  "guest": "unknown-guest",
+  "guest": "20vc-reid-hoffman",
   "tags": [
     "venture-capital",
     "founder-psychology",

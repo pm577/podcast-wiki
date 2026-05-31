@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-02-15",
   "title": "20VC: Wunderlist & Pitch Founder, Christian Reber on His Personal Relationship with Risk, Money, Whe",
-  "guest": "risk",
+  "guest": "20vc-wunderlist-pitch-founder-christian-reber",
   "tags": [
     "venture-capital",
     "founder-psychology",

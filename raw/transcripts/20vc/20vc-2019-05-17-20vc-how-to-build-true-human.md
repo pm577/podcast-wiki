@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-05-17",
   "title": "20VC: How To Build True Human Relationships with VC Pre-Investment, Why Valuation Is Not The Only Te",
-  "guest": "jon-dishotsky",
+  "guest": "vc-pre-investment-why-valuation-is-not-the-only-te",
   "tags": [
     "venture-capital",
     "founder-psychology",

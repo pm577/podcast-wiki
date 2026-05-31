@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-07-15",
   "title": "20 VC 055: David Pakman @ Venrock on The Future Of The Music Industry",
-  "guest": "unknown-guest",
+  "guest": "david-pakman-venrock",
   "tags": [
     "venture-capital",
     "ai-ml"

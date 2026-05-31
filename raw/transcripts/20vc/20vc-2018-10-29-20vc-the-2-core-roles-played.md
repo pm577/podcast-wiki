@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-10-29",
   "title": "20VC: The 2 Core Roles Played By The Best Seed Investors Today, What To Look For In Potential Co-Inv",
-  "guest": "ron-bouganim",
+  "guest": "20vc-the-2-core-roles-played-by-the-best-seed-investors-toda",
   "tags": [
     "venture-capital",
     "founder-psychology"

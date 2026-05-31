@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-05-18",
   "title": "20VC: 7 Powers: The Foundations of Business Strategy: Deconstructing Economies of Scale, How To Asse",
-  "guest": "hamilton-helmer",
+  "guest": "20vc-7-powers-the-foundations",
   "tags": [
     "venture-capital",
     "product-strategy",

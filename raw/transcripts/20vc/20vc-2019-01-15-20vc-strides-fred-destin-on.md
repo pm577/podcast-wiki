@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-01-15",
   "title": "20VC: Stride's Fred Destin on The Acceptable vs Non-Acceptable Risks When Investing, How Startup Fou",
-  "guest": "unknown-guest",
+  "guest": "20vc-strides-fred-destin",
   "tags": [
     "venture-capital",
     "founder-psychology",

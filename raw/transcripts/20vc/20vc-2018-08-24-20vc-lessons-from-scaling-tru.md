@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-08-24",
   "title": "20VC: Lessons From Scaling Trulia to IPO, How To Maximise Your Impact within Your Organisation and W",
-  "guest": "heather-fernandez",
+  "guest": "20vc-lessons-from-scaling-trulia-to-ipo",
   "tags": [
     "venture-capital",
     "founder-psychology",

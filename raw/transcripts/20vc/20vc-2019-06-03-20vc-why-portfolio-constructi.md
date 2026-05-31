@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-06-03",
   "title": "20VC: Why Portfolio Construction Is Inefficient, Why The Only Thing That Matters In Venture Is Prici",
-  "guest": "zach-coelius",
+  "guest": "20vc-why-portfolio-construction-is-inefficient",
   "tags": [
     "venture-capital",
     "ai-ml"

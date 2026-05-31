@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-05-04",
   "title": "20VC: David Tisch on Why Ownership in Venture Does Not Matter, His Biggest Investing Misses and Hits",
-  "guest": "unknown-guest",
+  "guest": "20vc-david-tisch",
   "tags": [
     "venture-capital",
     "founder-psychology",

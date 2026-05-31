@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-05-18",
   "title": "20VC: How Startups Should React To Today's Funding Environment & Why Big Markets Are More Forgiving ",
-  "guest": "jenny-lefcourt",
+  "guest": "20vc-how-startups-should-react-to-today",
   "tags": [
     "venture-capital",
     "founder-psychology",

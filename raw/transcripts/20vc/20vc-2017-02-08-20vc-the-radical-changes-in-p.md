@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-02-08",
   "title": "20VC: The Radical Changes In Public Market Expectations, The Right Way To Assess Valuation & What It",
-  "guest": "randy-glein",
+  "guest": "20vc-the-radical-changes-in-public-market-expectations",
   "tags": [
     "venture-capital",
     "founder-psychology",

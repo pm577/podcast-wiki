@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-04-14",
   "title": "20VC: Biggest Challenge Facing Crypto Today & The Winners and Losers of the Next 10 Years | Why AI W",
-  "guest": "david-marcus",
+  "guest": "20vc-biggest-challenge-facing-crypto-to",
   "tags": [
     "venture-capital",
     "founder-psychology",

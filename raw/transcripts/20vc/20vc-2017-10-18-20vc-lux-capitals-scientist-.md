@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-10-18",
   "title": "20VC: Lux Capital's Scientist-In-Residence on Why We Cannot Just Be Specialists Today, The Benefits ",
-  "guest": "sam-arbesman",
+  "guest": "20vc-lux-capitals-scientist-in-residence",
   "tags": [
     "venture-capital",
     "founder-psychology",

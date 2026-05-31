@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-06-05",
   "title": "20VC: The Largest Venture Backed D2C Consumer Exit; PillPack: $0-$300M Revenues in 5 Years & The Big",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-largest-venture-backed-d2c-consumer-exit-pillpack-0",
   "tags": [
     "venture-capital",
     "founder-psychology",

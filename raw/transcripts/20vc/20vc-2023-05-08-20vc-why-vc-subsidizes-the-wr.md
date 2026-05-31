@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-08",
   "title": "20VC: Why VC Subsidizes the Wrong Type of Business, Why Capital Gains Tax is Crazy, The Biggest Misa",
-  "guest": "chris-paik",
+  "guest": "20vc-why-vc-subsidizes-the-wrong-type",
   "tags": [
     "venture-capital",
     "founder-psychology",

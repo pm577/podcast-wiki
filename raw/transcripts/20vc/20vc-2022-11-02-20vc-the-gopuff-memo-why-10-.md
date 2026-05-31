@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-11-02",
   "title": "20VC: The GoPuff Memo: Why 10-15 Minute Delivery is an Unsustainable Model, The Plan to Make GoPuff ",
-  "guest": "rafael-illisha",
+  "guest": "20vc-the-gopuff-memo-why-10",
   "tags": [
     "venture-capital",
     "founder-psychology",

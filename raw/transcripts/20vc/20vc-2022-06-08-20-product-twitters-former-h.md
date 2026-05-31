@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-06-08",
   "title": "20 Product: Twitter's Former Head of Product, Kayvon Beykpour on How to Structure and Manage the Bes",
-  "guest": "unknown-guest",
+  "guest": "20-product-twitters-former-head-of-product-kayvon-beykpour",
   "tags": [
     "venture-capital",
     "product-strategy",

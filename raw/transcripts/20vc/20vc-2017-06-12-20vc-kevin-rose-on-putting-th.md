@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-06-12",
   "title": "20VC: Kevin Rose on Putting The Entire Fund Into Uber, The Future For Mobile & Whether Angels Should",
-  "guest": "unknown-guest",
+  "guest": "20vc-kevin-rose",
   "tags": [
     "venture-capital",
     "product-strategy"

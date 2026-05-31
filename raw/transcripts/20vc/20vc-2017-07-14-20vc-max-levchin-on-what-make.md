@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-07-14",
   "title": "20VC: Max Levchin on What Makes A Truly Great CEO, Why Self-Awareness Is The Most Important Trait Fo",
-  "guest": "unknown-guest",
+  "guest": "20vc-max-levchin",
   "tags": [
     "venture-capital",
     "founder-psychology",

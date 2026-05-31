@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-06-17",
   "title": "20VC: Raising $150m, Meeting Yuri Milner & Revolutionising Mobile Finance with Sasha Orloff @ LendUp",
-  "guest": "sasha-orloff",
+  "guest": "sasha-orloff-lendup",
   "tags": [
     "venture-capital",
     "founder-psychology",

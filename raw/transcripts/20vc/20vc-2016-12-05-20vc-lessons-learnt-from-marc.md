@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-12-05",
   "title": "20VC: Lessons Learnt From Marc Benioff & Selling To Salesforce For $2.7bn, What Product Market Fit R",
-  "guest": "scott-dorsey",
+  "guest": "20vc-lessons-learnt-from-marc-benioff",
   "tags": [
     "venture-capital",
     "go-to-market",

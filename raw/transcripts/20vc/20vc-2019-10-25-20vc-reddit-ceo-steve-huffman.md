@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-10-25",
   "title": "20VC: Reddit CEO Steve Huffman on Scaling Teams; What Works and What Does Not, A CEO's Relationship ",
-  "guest": "stress",
+  "guest": "20vc-reddit-ceo-steve-huffman",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-06-29",
   "title": "20VC: Oren Zeev on Why Diversification Is Overrated, The Downside of Thematic Investing, Making Qual",
-  "guest": "unknown-guest",
+  "guest": "20vc-oren-zeev",
   "tags": [
     "venture-capital",
     "ai-ml"

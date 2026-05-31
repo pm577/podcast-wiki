@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-07-05",
   "title": "20VC: How To Get Back To 200 Tech IPOs Per Year, Why We Are In A 'Bulge\" Not A Bubble & The Impendin",
-  "guest": "barry-schuler",
+  "guest": "20vc-how-to-get-back-to-200-tech-ipos-per-year",
   "tags": [
     "venture-capital",
     "go-to-market",

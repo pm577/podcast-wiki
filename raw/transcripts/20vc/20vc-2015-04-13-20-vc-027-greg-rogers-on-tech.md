@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-04-13",
   "title": "20 VC 027: Greg Rogers on Techstars, Mentors and The Potential for Fintech",
-  "guest": "unknown-guest",
+  "guest": "greg-rogers",
   "tags": [
     "venture-capital",
     "founder-psychology",

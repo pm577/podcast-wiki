@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-03-25",
   "title": "Immediately's Branko Cerny on The Rise Of Bottoms Up Sales and The Importance of Branding For Enterp",
-  "guest": "unknown-guest",
+  "guest": "immediatelys-branko-cerny",
   "tags": [
     "founder-psychology",
     "go-to-market",

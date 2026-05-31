@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-05-20",
   "title": "20VC: Xero's Rod Drury on IPO on Day 1 To Hedge Fund to VC & Doing Startups Backward",
-  "guest": "unknown-guest",
+  "guest": "20vc-xeros-rod-drury",
   "tags": [
     "venture-capital",
     "founder-psychology",

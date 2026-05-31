@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-06-15",
   "title": "20VC: Will LPs Replace GPs with Chris Douvos, Managing Director @ VIA",
-  "guest": "chris-douvos",
+  "guest": "chris-douvos-managing-director-via",
   "tags": [
     "venture-capital"
   ],

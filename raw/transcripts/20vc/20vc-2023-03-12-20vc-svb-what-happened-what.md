@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-12",
   "title": "20VC: SVB: What Happened? What Happens Now? Will Depositors Have Deposits Guaranteed? How Long Will ",
-  "guest": "unknown-guest",
+  "guest": "20vc-svb-what-happened-what-happens-n",
   "tags": [
     "venture-capital",
     "hiring-culture",

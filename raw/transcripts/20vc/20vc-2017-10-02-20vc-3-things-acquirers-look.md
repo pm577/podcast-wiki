@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-10-02",
   "title": "20VC: 3 Things Acquirers Look For In Startup M&A's, How To Price A Startup Acquisition & The Biggest",
-  "guest": "matt-switzer",
+  "guest": "20vc-3-things-acquirers-look-for-in-startup-mas",
   "tags": [
     "venture-capital",
     "product-strategy",

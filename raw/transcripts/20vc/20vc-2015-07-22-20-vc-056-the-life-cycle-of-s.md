@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-07-22",
   "title": "20 VC 056: The Life Cycle of Startups with Guy Turner, Partner @ Hyde Park Venture Partners",
-  "guest": "guy-turner",
+  "guest": "guy-turner-partner-hyde-park-venture-partners",
   "tags": [
     "venture-capital",
     "product-strategy",

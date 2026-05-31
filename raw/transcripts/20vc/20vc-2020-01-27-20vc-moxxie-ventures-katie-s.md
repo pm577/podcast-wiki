@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-01-27",
   "title": "20VC: Moxxie Ventures' Katie Stanton on What It Takes To Raise A First Time Fund As A Solo GP, The E",
-  "guest": "unknown-guest",
+  "guest": "20vc-moxxie-ventures-katie-stanton",
   "tags": [
     "venture-capital",
     "founder-psychology",

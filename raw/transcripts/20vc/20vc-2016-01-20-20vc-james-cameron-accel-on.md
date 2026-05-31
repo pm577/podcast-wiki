@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-01-20",
   "title": "20VC: James Cameron @ Accel on Building Great Startup Communities and The Rise of Enterprise and Cyb",
-  "guest": "unknown-guest",
+  "guest": "20vc-james-cameron-accel",
   "tags": [
     "venture-capital",
     "product-strategy",

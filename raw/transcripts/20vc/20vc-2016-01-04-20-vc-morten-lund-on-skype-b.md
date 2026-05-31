@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-01-04",
   "title": "20 VC: Morten Lund on Skype, Bankruptcy, Fintech and Why \"Banks Are Full Of Lots Of Stupid People Do",
-  "guest": "unknown-guest",
+  "guest": "20-vc-morten-lund",
   "tags": [
     "venture-capital",
     "hiring-culture",

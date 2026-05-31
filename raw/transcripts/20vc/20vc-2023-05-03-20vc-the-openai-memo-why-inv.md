@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-03",
   "title": "20VC: The OpenAI Memo: Why Invest? Is it too Late to Catch OpenAI? Are OpenAI's Models Truly Defensi",
-  "guest": "regulation",
+  "guest": "20vc-the-openai-memo-why-invest-is-it",
   "tags": [
     "venture-capital",
     "ai-ml"

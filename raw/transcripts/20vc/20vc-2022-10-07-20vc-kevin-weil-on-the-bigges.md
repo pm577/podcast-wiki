@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-10-07",
   "title": "20VC: Kevin Weil on The Biggest Lessons from Leading Product at Instagram and Twitter | How Working ",
-  "guest": "unknown-guest",
+  "guest": "20vc-kevin-weil",
   "tags": [
     "venture-capital",
     "go-to-market",

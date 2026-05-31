@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-01-11",
   "title": "20 VC: David Tisch @ Box Group on The Future of Consumer Mobile, Developing Pattern Recognition and ",
-  "guest": "unknown-guest",
+  "guest": "20-vc-david-tisch-box-group",
   "tags": [
     "venture-capital",
     "founder-psychology",

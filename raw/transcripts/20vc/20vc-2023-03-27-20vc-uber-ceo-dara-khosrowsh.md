@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-27",
   "title": "20VC: Uber CEO, Dara Khosrowshahi on Why Uber Eats is Not Losing the Fight to Doordash | Uber's M&A ",
-  "guest": "unknown-guest",
+  "guest": "20vc-uber-ceo-dara-khosrowshahi",
   "tags": [
     "venture-capital",
     "product-strategy"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-04-29",
   "title": "20VC: Why It Is All Still About User Growth and How To Address Retention For A Consumer Social App w",
-  "guest": "mike-mignano",
+  "guest": "20vc-why-it-is-all-still-about-user-gro",
   "tags": [
     "venture-capital",
     "founder-psychology",

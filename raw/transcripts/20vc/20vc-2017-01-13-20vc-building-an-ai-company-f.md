@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-01-13",
   "title": "20VC: Building An AI Company For The Long Term? How Humans & Machine Learning Can Work Together? Wha",
-  "guest": "maran-nelson",
+  "guest": "20vc-building-an-ai-company-for-the-lon",
   "tags": [
     "venture-capital",
     "founder-psychology",

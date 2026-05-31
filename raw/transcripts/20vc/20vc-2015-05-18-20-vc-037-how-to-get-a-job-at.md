@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-05-18",
   "title": "20 VC 037: How To Get a Job at a Startup, Startup Lessons and Brad Feld's 'Open Office Hours' with T",
-  "guest": "tak-lo",
+  "guest": "t",
   "tags": [
     "venture-capital",
     "founder-psychology"

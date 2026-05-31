@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-12-09",
   "title": "20VC: The Future For 3D Printing? Why European VCs Are More Conservative Than US VCs & How 3D Printi",
-  "guest": "peter-weijmarshausen",
+  "guest": "20vc-the-future-for-3d-printing-why-eu",
   "tags": [
     "venture-capital",
     "founder-psychology",

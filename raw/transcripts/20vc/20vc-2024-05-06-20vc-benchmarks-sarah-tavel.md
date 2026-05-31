@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2024-05-06",
   "title": "20VC: Benchmark's Sarah Tavel on Are Foundation Models Commoditising | Why Frontier Models Will Be C",
-  "guest": "unknown-guest",
+  "guest": "20vc-benchmarks-sarah-tavel",
   "tags": [
     "venture-capital",
     "ai-ml"

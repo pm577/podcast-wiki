@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-06",
   "title": "20VC: Meta CMO Alex Schultz on The Crucible Moments Scaling Facebook to 1BN Users, Turning Facebook ",
-  "guest": "unknown-guest",
+  "guest": "20vc-meta-cmo-alex-schultz",
   "tags": [
     "venture-capital",
     "product-strategy",

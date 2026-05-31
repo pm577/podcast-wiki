@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-02-12",
   "title": "20VC: Dick Costolo on The Balance of Vision and Realism in Startups, The Biggest Challenge in Scalin",
-  "guest": "unknown-guest",
+  "guest": "20vc-dick-costolo",
   "tags": [
     "venture-capital",
     "founder-psychology",

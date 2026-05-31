@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-07-30",
   "title": "20VC: Lightspeed Partner Adam Goldberg on Why There Remains No Mass Market Crypto Consumer Product, ",
-  "guest": "unknown-guest",
+  "guest": "20vc-lightspeed-partner-adam-goldberg",
   "tags": [
     "venture-capital",
     "founder-psychology",

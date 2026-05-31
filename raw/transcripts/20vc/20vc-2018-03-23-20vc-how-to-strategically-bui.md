@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-03-23",
   "title": "20VC: How To Strategically Build The Right Investor Base, Why Startup Timing is Like Surfing & How T",
-  "guest": "daniel-lewis",
+  "guest": "20vc-how-to-strategically-build-the-right-investor-base",
   "tags": [
     "venture-capital",
     "founder-psychology",

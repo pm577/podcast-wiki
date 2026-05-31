@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-09-26",
   "title": "20VC: The 3 Things LPs Want To See From VCs & Why The Table Stakes For VCs Is Higher Than Ever with ",
-  "guest": "judith-elsea",
+  "guest": "20vc-the-3-things-lps-want-to-see-from",
   "tags": [
     "venture-capital",
     "founder-psychology"

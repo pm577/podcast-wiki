@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-11-30",
   "title": "20VC: Why There Is A Revolution In VC, Why Boards Are Inherently Inefficient & Why Data Will Be Cent",
-  "guest": "chris-farmer",
+  "guest": "20vc-why-there-is-a-revolution-in-vc",
   "tags": [
     "venture-capital",
     "founder-psychology",

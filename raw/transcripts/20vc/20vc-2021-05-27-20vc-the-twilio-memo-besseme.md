@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-05-27",
   "title": "20VC: The Twilio Memo: Bessemer's Byron Deeter on How a $125K Initial Check Became Bessemer's Larges",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-twilio-memo-bessemers-byron-deeter",
   "tags": [
     "venture-capital",
     "ai-ml",

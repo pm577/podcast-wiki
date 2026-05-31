@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-09-28",
   "title": "20Growth: Hubspot CMO Kipp Bodnar on Why the Best Marketers Think Like VCs | Why the Best Companies ",
-  "guest": "product-marketing",
+  "guest": "20growth-hubspot-cmo-kipp-bodnar",
   "tags": [
     "venture-capital",
     "go-to-market",

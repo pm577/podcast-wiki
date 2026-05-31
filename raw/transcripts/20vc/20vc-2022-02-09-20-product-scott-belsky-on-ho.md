@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-02-09",
   "title": "20 Product: Scott Belsky on How to Hire Your Product Leader and Team, 3 Questions All Great Product ",
-  "guest": "unknown-guest",
+  "guest": "20-product-scott-belsky",
   "tags": [
     "venture-capital",
     "product-strategy",

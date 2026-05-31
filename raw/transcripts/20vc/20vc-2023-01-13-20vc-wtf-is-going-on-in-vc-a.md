@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-01-13",
   "title": "20VC: WTF is Going On in VC? Are VCs Still Investing? How Has What VCs Want in Investments Changed? ",
-  "guest": "jason-lemkin",
+  "guest": "20vc-wtf-is-going-on-in-vc-are-vcs-sti",
   "tags": [
     "venture-capital",
     "founder-psychology",

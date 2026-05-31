@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-05-22",
   "title": "20VC: TripActions CEO Ariel Cohen on The Future of Business and Personal Travel & Layoffs; How To Do",
-  "guest": "unknown-guest",
+  "guest": "20vc-tripactions-ceo-ariel-cohen",
   "tags": [
     "venture-capital",
     "founder-psychology",

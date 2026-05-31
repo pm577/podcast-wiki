@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-09-02",
   "title": "20VC: How Founders Can Gain Leverage in Fundraising Negotiations, The Metrics You Need To Raise Your",
-  "guest": "jana-messerschmidt",
+  "guest": "20vc-how-founders-can-gain-leverage-in",
   "tags": [
     "venture-capital",
     "founder-psychology",

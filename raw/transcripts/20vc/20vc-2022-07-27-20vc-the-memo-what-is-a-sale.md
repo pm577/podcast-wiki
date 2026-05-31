@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-07-27",
   "title": "20VC: The Memo: What is a Sales Playbook? Does the Founder Need to Create It? Should the First Sales",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-memo-what-is-a-sales-playbook",
   "tags": [
     "venture-capital",
     "founder-psychology",

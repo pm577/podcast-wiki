@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-08-23",
   "title": "20VC: What Are The Big Questions Entrepreneurs & VCs Must Ask Corporate VCs, Why Corporate VCs Are N",
-  "guest": "allison-goldberg",
+  "guest": "20vc-what-are-the-big-questions-entrepr",
   "tags": [
     "venture-capital",
     "fintech"

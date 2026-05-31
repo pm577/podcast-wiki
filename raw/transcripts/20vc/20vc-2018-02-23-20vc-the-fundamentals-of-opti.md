@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-02-23",
   "title": "20VC: The Fundamentals Of Optimising The Fundraising Process, SAFE's vs Priced Equity Rounds & Why H",
-  "guest": "chris-hutchins",
+  "guest": "20vc-the-fundamentals-of-optimising-the",
   "tags": [
     "venture-capital",
     "founder-psychology",

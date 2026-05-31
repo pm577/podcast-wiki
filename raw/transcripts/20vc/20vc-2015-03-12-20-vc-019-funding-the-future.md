@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-03-12",
   "title": "20 VC 019: Funding the Future with James Wise of Balderton Capital",
-  "guest": "james-wise",
+  "guest": "james-wise-of-balderton-capital",
   "tags": [
     "venture-capital",
     "product-strategy",

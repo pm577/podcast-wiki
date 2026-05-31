@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-04-03",
   "title": "20VC: Shopify Founder Tobi L\u00fctke on Why Micromanagement is Good | Why You Will Learn More From Study",
-  "guest": "unknown-guest",
+  "guest": "20vc-shopify-founder-tobi-ltke",
   "tags": [
     "venture-capital",
     "founder-psychology"

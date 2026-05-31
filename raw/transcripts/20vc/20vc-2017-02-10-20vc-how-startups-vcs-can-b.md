@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-02-10",
   "title": "20VC: How Startups & VCs Can Build Relationships with Potential Corporate Acquirers? The Challenge O",
-  "guest": "potential-corporate-acquirers",
+  "guest": "potential-corporate-acquirers-the-challenge-o",
   "tags": [
     "venture-capital",
     "founder-psychology",

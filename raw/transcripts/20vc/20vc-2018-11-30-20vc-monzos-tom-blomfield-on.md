@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-11-30",
   "title": "20VC: Monzo's Tom Blomfield on The 3 Phases of Startup Scaling, The Secret To Building a 1.2m Commun",
-  "guest": "no-advertising",
+  "guest": "20vc-monzos-tom-blomfield",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-07-19",
   "title": "20VC: Why It Is BS That You Never Regret Paying A High Price To Get Into A Good Company, Why There A",
-  "guest": "jason-pressman",
+  "guest": "20vc-why-it-is-bs-that-you-never-regret",
   "tags": [
     "venture-capital",
     "product-strategy",

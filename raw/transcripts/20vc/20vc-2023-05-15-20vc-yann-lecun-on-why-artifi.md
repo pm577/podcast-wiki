@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-15",
   "title": "20VC: Yann LeCun on Why Artificial Intelligence Will Not Dominate Humanity, Why No Economists Believ",
-  "guest": "unknown-guest",
+  "guest": "20vc-yann-lecun",
   "tags": [
     "venture-capital",
     "ai-ml"

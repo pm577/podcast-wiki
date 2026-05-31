@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-09-28",
   "title": "20 VC 075: Y COMBINATOR WEEK: Kirsty Nathoo, CFO @ Y Combinator",
-  "guest": "unknown-guest",
+  "guest": "y-combinator-week-kirsty-nathoo",
   "tags": [
     "venture-capital",
     "fintech",

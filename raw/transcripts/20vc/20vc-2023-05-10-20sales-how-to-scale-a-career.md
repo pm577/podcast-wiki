@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-10",
   "title": "20Sales: How to Scale a Career While Scaling a Family, Strategies and Specific Tools To Help Maintai",
-  "guest": "unknown-guest",
+  "guest": "20sales-how-to-scale-a-career-while-scaling-a-family",
   "tags": [
     "go-to-market",
     "hiring-culture",

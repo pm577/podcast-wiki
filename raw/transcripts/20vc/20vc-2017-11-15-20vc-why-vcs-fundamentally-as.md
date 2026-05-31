@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-11-15",
   "title": "20VC: Why VCs Fundamentally Assess Founders The Wrong Way, Why VC Needs To Innovate On The Scouting ",
-  "guest": "elizabeth-yin",
+  "guest": "20vc-why-vcs-fundamentally-assess-founders-the-wrong-way",
   "tags": [
     "venture-capital",
     "founder-psychology",

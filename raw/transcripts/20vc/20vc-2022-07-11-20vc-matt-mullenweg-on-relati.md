@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-07-11",
   "title": "20VC: Matt Mullenweg on Relationships to Risk, Money and Insecurity as a Leader | Lessons from a Par",
-  "guest": "unknown-guest",
+  "guest": "20vc-matt-mullenweg",
   "tags": [
     "venture-capital",
     "founder-psychology",

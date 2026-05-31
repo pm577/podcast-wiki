@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-07-22",
   "title": "20VC: Why Market Matters So Much More Than Founding Team | Why Crypto Investing is Less Collaborativ",
-  "guest": "kyle-samani",
+  "guest": "20vc-why-market-matters-so-much-more-th",
   "tags": [
     "venture-capital",
     "founder-psychology",

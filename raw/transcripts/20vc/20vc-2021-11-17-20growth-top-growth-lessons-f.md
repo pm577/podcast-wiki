@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-11-17",
   "title": "20Growth: Top Growth Lessons from the Early Facebook, Twitter and Quora Days, The Most Important Que",
-  "guest": "andy-johns",
+  "guest": "20growth-top-growth-lessons",
   "tags": [
     "venture-capital",
     "go-to-market",

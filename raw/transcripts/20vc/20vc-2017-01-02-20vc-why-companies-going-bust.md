@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-01-02",
   "title": "20VC: Why Companies Going Bust Is Part Of The Plan, Why Most VCs Are Later Stage Than They Think & W",
-  "guest": "charlie",
+  "guest": "20vc-why-companies-going-bust-is-part-of-the-plan",
   "tags": [
     "venture-capital",
     "founder-psychology",

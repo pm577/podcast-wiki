@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-06-27",
   "title": "20VC: Accel's Sonali De Rycker on Building a Generational Defining Venture Firm; Hiring, Culture, In",
-  "guest": "unknown-guest",
+  "guest": "20vc-accels-sonali-de-rycker",
   "tags": [
     "venture-capital",
     "product-strategy",

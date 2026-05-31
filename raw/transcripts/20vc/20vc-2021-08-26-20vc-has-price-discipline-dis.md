@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-08-26",
   "title": "20VC: Has Price Discipline Disappeared? Is it Possible to Build Ownership Over Time? Why Venture Is ",
-  "guest": "unknown-guest",
+  "guest": "20vc-has-price-discipline-disappeared",
   "tags": [
     "venture-capital",
     "product-strategy",

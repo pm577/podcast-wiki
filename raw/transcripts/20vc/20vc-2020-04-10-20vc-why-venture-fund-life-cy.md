@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-04-10",
   "title": "20VC: Why Venture Fund Life Cycles Do Not Align To Companies Today, Actionable Strategies To Separat",
-  "guest": "blake-scholl",
+  "guest": "20vc-why-venture-fund-life-cycles-do-no",
   "tags": [
     "venture-capital",
     "founder-psychology",

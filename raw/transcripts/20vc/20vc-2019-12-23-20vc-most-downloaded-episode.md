@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-12-23",
   "title": "20VC: Most Downloaded Episode of 2019 with Bill Gurley, General Partner @ Benchmark Capital",
-  "guest": "bill-gurley",
+  "guest": "bill-gurley-general-partner-benchmark-capital",
   "tags": [
     "venture-capital"
   ],

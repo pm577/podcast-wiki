@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-01-10",
   "title": "20VC: Raising $105m in Just 13 Months Over 3 Separate Rounds, The 5 Core Ways VCs Can Add Value & Ho",
-  "guest": "kurt-rathmann",
+  "guest": "20vc-raising-105m-in-just-13-months-ov",
   "tags": [
     "venture-capital",
     "founder-psychology",

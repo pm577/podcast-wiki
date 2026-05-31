@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-11-25",
   "title": "20VC: Why The Best Entrepreneurs Are Cockroaches, What Everyone Underestimates About Customer Acquis",
-  "guest": "josh-buckley",
+  "guest": "20vc-why-the-best-entrepreneurs-are-cockroaches",
   "tags": [
     "venture-capital",
     "founder-psychology",

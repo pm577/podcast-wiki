@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-06-14",
   "title": "20VC: Lime CEO Brad Bao on How Lime Assess The Micro-Mobility Landscape and Competition Today, What ",
-  "guest": "unknown-guest",
+  "guest": "20vc-lime-ceo-brad-bao",
   "tags": [
     "venture-capital",
     "founder-psychology",

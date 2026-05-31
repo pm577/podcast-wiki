@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2024-09-25",
   "title": "20VC: Benchmark's Eric Vishria on Where is the Value in AI: Chips, Models or Apps | Why Nvidia Will ",
-  "guest": "unknown-guest",
+  "guest": "20vc-benchmarks-eric-vishria",
   "tags": [
     "venture-capital",
     "founder-psychology",

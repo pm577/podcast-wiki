@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-01-09",
   "title": "20VC: From a $5,000 College Fund to a $10BN+ Public Company, How to Beat People Who Are Smarter Than",
-  "guest": "henry-schuck",
+  "guest": "20vc-from-a-5",
   "tags": [
     "venture-capital",
     "founder-psychology",

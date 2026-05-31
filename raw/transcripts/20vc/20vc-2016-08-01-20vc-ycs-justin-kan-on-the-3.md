@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-01",
   "title": "20VC: YC's Justin Kan on The 3 Qualities All Successful Investors Have & Why 'VCs Don't Really Do An",
-  "guest": "unknown-guest",
+  "guest": "20vc-ycs-justin-kan",
   "tags": [
     "venture-capital",
     "marketplaces",

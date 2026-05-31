@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-10-17",
   "title": "20VC: Investing Lessons From Fred Wilson & Brad Feld and Why Fundraising Is An Art & Not Everyone Ca",
-  "guest": "howard-lindzon-founder",
+  "guest": "20vc-investing-lessons-from-fred-wilson",
   "tags": [
     "venture-capital",
     "founder-psychology",

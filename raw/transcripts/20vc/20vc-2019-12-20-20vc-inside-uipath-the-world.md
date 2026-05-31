@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-12-20",
   "title": "20VC: Inside UiPath, The World's Fastest Growing Startup, How The Best Leaders Approach Decision-Mak",
-  "guest": "brandon-deer",
+  "guest": "20vc-inside-uipath",
   "tags": [
     "venture-capital",
     "founder-psychology",

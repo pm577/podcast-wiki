@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-12-16",
   "title": "20Growth: The Biggest Growth Lessons from Leading Teams at Instagram & Instacart, How To Structure T",
-  "guest": "bangaly-kaba",
+  "guest": "20growth-the-biggest-growth-lessons",
   "tags": [
     "go-to-market",
     "product-strategy",

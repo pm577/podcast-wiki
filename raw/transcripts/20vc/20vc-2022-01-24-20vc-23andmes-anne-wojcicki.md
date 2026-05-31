@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-01-24",
   "title": "20VC: 23andMe's Anne Wojcicki on How To Approach Trust in Business and Personal Relationships, Leade",
-  "guest": "unknown-guest",
+  "guest": "20vc-23andmes-anne-wojcicki",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-05-11",
   "title": "20VC: Floodgate's Mike Maples on 3 Key Breakthroughs Startups Experience in Success, The Rise of Ang",
-  "guest": "unknown-guest",
+  "guest": "20vc-floodgates-mike-maples",
   "tags": [
     "venture-capital",
     "founder-psychology"

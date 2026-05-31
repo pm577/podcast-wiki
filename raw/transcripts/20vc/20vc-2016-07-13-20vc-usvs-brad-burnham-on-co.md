@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-07-13",
   "title": "20VC: USV's Brad Burnham on Co-Founding USV with Fred Wilson, What They Look For In Potential Partne",
-  "guest": "fred-wilson",
+  "guest": "20vc-usvs-brad-burnham",
   "tags": [
     "venture-capital",
     "founder-psychology",

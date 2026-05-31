@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-04-29",
   "title": "20VC: Why Lead Lime's Series D Funding Round, Why Engineers Are Underpaid & Why 74% of US Venture Fi",
-  "guest": "unknown-guest",
+  "guest": "20vc-why-lead-limes-series-d-funding-round",
   "tags": [
     "venture-capital",
     "go-to-market",

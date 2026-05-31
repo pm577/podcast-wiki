@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-04-19",
   "title": "20VC: Greylock's David Sze on His Biggest Lessons Working with Mark Zuckerberg and Reid Hoffman, The",
-  "guest": "mark-zuckerberg",
+  "guest": "20vc-greylocks-david-sze",
   "tags": [
     "venture-capital",
     "product-strategy",

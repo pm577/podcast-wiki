@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-08-17",
   "title": "20 Sales: Three Reasons Why Sales People Fail | The Two Things That Matter When Hiring Sales Leaders",
-  "guest": "jordan-van-horn",
+  "guest": "20-sales-three-reasons-why-sales-people",
   "tags": [
     "go-to-market",
     "hiring-culture",

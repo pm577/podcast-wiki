@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-09-05",
   "title": "20VC: Lerer Hippeau's Ben Lerer on 'Investing With Imagination', Strategies To Avoid Fomo & Develop ",
-  "guest": "unknown-guest",
+  "guest": "20vc-lerer-hippeaus-ben-lerer",
   "tags": [
     "venture-capital",
     "founder-psychology",

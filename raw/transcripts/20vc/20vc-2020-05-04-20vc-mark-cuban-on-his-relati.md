@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-05-04",
   "title": "20VC: Mark Cuban on His Relationship To Wealth and Risk, Why Coming Out of The Pandemic Will Be The ",
-  "guest": "unknown-guest",
+  "guest": "20vc-mark-cuban",
   "tags": [
     "venture-capital"
   ],

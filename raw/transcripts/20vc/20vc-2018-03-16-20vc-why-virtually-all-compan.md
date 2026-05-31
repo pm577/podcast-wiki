@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-03-16",
   "title": "20VC: Why Virtually All Companies Hire The Wrong Way, Why EdTech Is The Most Brutal Market & How To ",
-  "guest": "mike-sliagadze",
+  "guest": "20vc-why-virtually-all-companies-hire-the-wrong-way",
   "tags": [
     "venture-capital",
     "founder-psychology",

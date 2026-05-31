@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-07-06",
   "title": "20VC: Why Serial Entrepreneurship is Overrated, Why You Will Get Fired If You Listen To Your Board &",
-  "guest": "joe-fernandez",
+  "guest": "20vc-why-serial-entrepreneurship-is-overrated",
   "tags": [
     "venture-capital",
     "founder-psychology",

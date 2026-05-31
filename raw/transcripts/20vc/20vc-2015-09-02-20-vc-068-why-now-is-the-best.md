@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-09-02",
   "title": "20 VC 068: Why Now Is The Best Time To Be An Entrepreneur with Sean Seton-Rogers @ PROfounders Capit",
-  "guest": "sean-seton",
+  "guest": "sean-seton-rogers-profounders-capit",
   "tags": [
     "venture-capital",
     "founder-psychology",

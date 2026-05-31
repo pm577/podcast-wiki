@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-02-14",
   "title": "20VC: Bedrock's Geoff Lewis on Whether VCs Actually Provide Value or Not, Why Bedrock Does Not Have ",
-  "guest": "unknown-guest",
+  "guest": "20vc-bedrocks-geoff-lewis",
   "tags": [
     "venture-capital",
     "founder-psychology",

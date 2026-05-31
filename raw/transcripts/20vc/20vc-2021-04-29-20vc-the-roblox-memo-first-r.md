@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-04-29",
   "title": "20VC: The Roblox Memo: First Round's Chris Fralic on The 17 Year Journey to Build a $41BN Market Cap",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-roblox-memo-first-rounds-chris-fralic",
   "tags": [
     "venture-capital",
     "product-strategy",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-03-28",
   "title": "20VC: Lessons Scaling Insight Partners to a $20BN Latest Fund, The Two Biggest Learnings on Price, H",
-  "guest": "jeff",
+  "guest": "20vc-lessons-scaling-insight-partners-to-a-20bn-latest-fund",
   "tags": [
     "venture-capital",
     "hiring-culture",

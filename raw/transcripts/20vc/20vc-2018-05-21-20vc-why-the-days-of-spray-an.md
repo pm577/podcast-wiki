@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-05-21",
   "title": "20VC: Why The Days of Spray and Pray at Seed Are Over, How To Compete In A World of Sequoia Seed Fun",
-  "guest": "dan-scheinman",
+  "guest": "20vc-why-the-days",
   "tags": [
     "venture-capital",
     "go-to-market",

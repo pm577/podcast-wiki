@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-05-28",
   "title": "20 VC 040: The Required Qualities To Be A Great Founder, with Scott Taylor, CEO @ miDrive",
-  "guest": "scott-taylor",
+  "guest": "scott-taylor-ceo-midrive",
   "tags": [
     "venture-capital",
     "founder-psychology",

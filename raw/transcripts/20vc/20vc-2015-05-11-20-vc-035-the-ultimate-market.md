@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-05-11",
   "title": "20 VC 035: The Ultimate Marketing Guide for Startups with Jay Acunzo, VP of Platform @ NextView Vent",
-  "guest": "jay-acunzo",
+  "guest": "jay-acunzo-vp-of-platform-nextview-vent",
   "tags": [
     "venture-capital",
     "product-strategy",

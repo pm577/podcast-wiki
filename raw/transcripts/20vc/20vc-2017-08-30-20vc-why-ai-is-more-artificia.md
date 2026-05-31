@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-08-30",
   "title": "20VC: Why AI Is More Artificial Than Intelligent, Why Engineering-centric Founders Are Able To Pivot",
-  "guest": "alina-cohen",
+  "guest": "20vc-why-ai-is-more-artificial-than-intelligent-why-engineer",
   "tags": [
     "venture-capital",
     "founder-psychology",

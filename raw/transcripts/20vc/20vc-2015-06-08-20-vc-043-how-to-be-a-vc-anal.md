@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-06-08",
   "title": "20 VC 043: How To Be A VC Analyst and Lessons From Union Square and First Round with Charlie O'Donne",
-  "guest": "charlie",
+  "guest": "charlie-odonne",
   "tags": [
     "venture-capital",
     "founder-psychology",

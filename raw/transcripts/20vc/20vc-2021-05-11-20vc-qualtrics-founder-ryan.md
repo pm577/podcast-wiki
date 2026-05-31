@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-05-11",
   "title": "20VC: Qualtrics Founder, Ryan Smith on The 2 Hour Decision Whether To Sell Qualtrics for $8Bn in Cas",
-  "guest": "unknown-guest",
+  "guest": "20vc-qualtrics-founder-ryan-smith",
   "tags": [
     "venture-capital",
     "founder-psychology",

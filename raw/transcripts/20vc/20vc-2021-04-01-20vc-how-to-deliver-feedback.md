@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-04-01",
   "title": "20VC: How To Deliver Feedback with Compassion and Clarity, WTF Are Values Really and How To Instill ",
-  "guest": "compassion",
+  "guest": "compassion-and-clarity-wtf-are-values-really-and-how-to-inst",
   "tags": [
     "venture-capital",
     "founder-psychology",

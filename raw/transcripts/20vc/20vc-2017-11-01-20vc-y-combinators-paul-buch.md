@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-11-01",
   "title": "20VC: Y Combinator's Paul Buchheit on Creating Gmail Version 1.0 & Leadership Lessons from Working W",
-  "guest": "unknown-guest",
+  "guest": "20vc-y-combinators-paul-buchheit",
   "tags": [
     "venture-capital",
     "founder-psychology",

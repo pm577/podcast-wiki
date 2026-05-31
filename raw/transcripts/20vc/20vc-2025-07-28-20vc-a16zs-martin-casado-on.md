@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2025-07-28",
   "title": "20VC: a16z's Martin Casado on Anthropic vs OpenAI: Where Value Accrues | Cursor vs Replit vs Lovable",
-  "guest": "china",
+  "guest": "20vc-a16zs-martin-casado",
   "tags": [
     "venture-capital",
     "product-strategy",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-01-10",
   "title": "20VC: 3 Key Differences Between US and Asian Tech Markets & With Such Large Incumbents Chasing Early",
-  "guest": "crystal-huang",
+  "guest": "20vc-3-key-differences-between-us-and-a",
   "tags": [
     "venture-capital"
   ],

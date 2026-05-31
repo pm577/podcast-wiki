@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-07-15",
   "title": "20VC: The Most Powerful Investor You Might Not Know | Why The Distinction Between Public vs Private ",
-  "guest": "peter-singlehurst",
+  "guest": "20vc-the-most-powerful-investor-you-mig",
   "tags": [
     "venture-capital",
     "ai-ml"

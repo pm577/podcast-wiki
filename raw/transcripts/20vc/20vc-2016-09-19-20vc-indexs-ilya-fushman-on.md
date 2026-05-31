@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-09-19",
   "title": "20VC: Index's Ilya Fushman on The Key Lessons From Scaling Dropbox To 400m Users, Is Excessive Amoun",
-  "guest": "unknown-guest",
+  "guest": "20vc-indexs-ilya-fushman",
   "tags": [
     "venture-capital",
     "founder-psychology",

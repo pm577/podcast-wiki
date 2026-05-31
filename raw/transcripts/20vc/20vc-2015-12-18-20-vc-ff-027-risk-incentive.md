@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-12-18",
   "title": "20 VC FF 027: Risk, Incentive and Opportunity in Starting A Company with Daniel van Binsbergen, Foun",
-  "guest": "daniel",
+  "guest": "daniel-van-binsbergen-foun",
   "tags": [
     "venture-capital",
     "founder-psychology",

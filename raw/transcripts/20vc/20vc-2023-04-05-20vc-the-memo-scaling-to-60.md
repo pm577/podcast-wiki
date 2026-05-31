@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-04-05",
   "title": "20VC: The Memo: Scaling to $600M Revenues with No Venture Funding, The Most In Detail Breakdown of C",
-  "guest": "no-venture-funding",
+  "guest": "no-venture-funding-the-most-in-detail-breakdown-of-c",
   "tags": [
     "venture-capital",
     "founder-psychology",

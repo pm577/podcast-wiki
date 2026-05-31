@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-06-15",
   "title": "20VC: Why VCs Are Wrong About Single Founders, The Benefits of Party Rounds At Seed and How To Pre-G",
-  "guest": "amanda-bradford",
+  "guest": "20vc-why-vcs-are-wrong-about-single-founders-the-benefits-of",
   "tags": [
     "venture-capital",
     "founder-psychology",

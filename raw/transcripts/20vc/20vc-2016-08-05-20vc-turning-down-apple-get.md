@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-05",
   "title": "20VC: Turning Down Apple & Getting Funded By Chamath @ Social Capital with Dhananja Jayalath, Co-Fou",
-  "guest": "dhananja-jayalath",
+  "guest": "dhananja-jayalath-co-fou",
   "tags": [
     "venture-capital",
     "founder-psychology",

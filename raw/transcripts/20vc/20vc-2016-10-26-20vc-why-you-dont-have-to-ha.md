@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-10-26",
   "title": "20VC: Why You Don't Have To Have Operational Experience To Be A Good VC, Why There Is No Optimal Sta",
-  "guest": "lyon-wong",
+  "guest": "20vc-why-you-dont-have-to-have-operati",
   "tags": [
     "venture-capital"
   ],

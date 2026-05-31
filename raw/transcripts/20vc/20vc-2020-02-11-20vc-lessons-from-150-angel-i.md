@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-02-11",
   "title": "20VC: Lessons from 150 Angel Investments into the likes of Carta, Gusto, Airtable and Superhuman, Cr",
-  "guest": "jude-gomila",
+  "guest": "20vc-lessons",
   "tags": [
     "venture-capital",
     "founder-psychology",

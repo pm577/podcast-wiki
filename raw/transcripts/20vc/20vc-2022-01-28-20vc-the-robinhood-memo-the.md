@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-01-28",
   "title": "20VC: The Robinhood Memo: The Early Metrics That Showed Robinhood was a Breakout Company, The Cost S",
-  "guest": "rick-yang",
+  "guest": "20vc-the-robinhood-memo-the-early-metr",
   "tags": [
     "venture-capital",
     "go-to-market",

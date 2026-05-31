@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2024-12-16",
   "title": "20VC: Reid Hoffman on The Trump Administration | Elon Musk and DOGE | The US Defence Budget, NATO an",
-  "guest": "unknown-guest",
+  "guest": "20vc-reid-hoffman",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-07-18",
   "title": "20VC: Why Being First Does Not Matter, Why Defensibility on Day 1 Does Not Exist, Three Core Element",
-  "guest": "des-traynor",
+  "guest": "20vc-why-being-first-does-not-matter-why-defensibility",
   "tags": [
     "venture-capital",
     "founder-psychology",

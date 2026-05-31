@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-05-29",
   "title": "20VC: TravelPerk's Avi Meir on Why 2021 Will Be A Record Year For Business Travel, The 3 Priorities ",
-  "guest": "unknown-guest",
+  "guest": "20vc-travelperks-avi-meir",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-10-08",
   "title": "20VC: Learnings From Backing The Likes of Spotify and Airbnb, The World of Growth Investing Today an",
-  "guest": "woody-marshall",
+  "guest": "20vc-learnings-from-backing-the-likes",
   "tags": [
     "venture-capital",
     "go-to-market",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-10-21",
   "title": "20VC: Lightspeed's Arif Janmohamed on Why Market Risk Is The Most Dangerous Risk To Underwrite As A ",
-  "guest": "unknown-guest",
+  "guest": "20vc-lightspeeds-arif-janmohamed",
   "tags": [
     "venture-capital",
     "hiring-culture",

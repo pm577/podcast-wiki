@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-04-26",
   "title": "20VC: Why Startup Founders Have One Core Job, How To Reduce Risk & Increase Probability In Your Star",
-  "guest": "david-rogier",
+  "guest": "20vc-why-startup-founders-have-one-core-job",
   "tags": [
     "venture-capital",
     "founder-psychology",

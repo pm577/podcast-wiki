@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-10",
   "title": "20VC: The 3 Forms Of Edge A Founder Can Have, Lessons From Being on A Board With Bill Gates & Why Th",
-  "guest": "josh-wolfe",
+  "guest": "20vc-the-3-forms-of-edge-a-founder-can-have-lessons-from-bei",
   "tags": [
     "venture-capital",
     "founder-psychology"

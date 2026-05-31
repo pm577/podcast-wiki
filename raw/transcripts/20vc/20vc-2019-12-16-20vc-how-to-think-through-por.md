@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-12-16",
   "title": "20VC: How To Think Through Portfolio Construction and The Business Model of VC, Why You Cannot Grow ",
-  "guest": "adam",
+  "guest": "20vc-how-to-think-through-portfolio-con",
   "tags": [
     "venture-capital",
     "ai-ml"

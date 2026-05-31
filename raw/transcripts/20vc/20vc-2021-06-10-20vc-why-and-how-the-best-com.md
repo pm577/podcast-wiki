@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-06-10",
   "title": "20VC: Why and How The Best Companies Build Economies Around Themselves, When, Why and How To Build E",
-  "guest": "jay-simons",
+  "guest": "20vc-why-and-how-the-best-companies-bui",
   "tags": [
     "venture-capital",
     "go-to-market",

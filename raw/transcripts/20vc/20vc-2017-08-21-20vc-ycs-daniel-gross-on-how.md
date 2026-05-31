@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-08-21",
   "title": "20VC: YC's Daniel Gross on How YC Can Democratise AI & Reduce Incumbency Advantages, Why ML Enabled ",
-  "guest": "unknown-guest",
+  "guest": "20vc-ycs-daniel-gross",
   "tags": [
     "venture-capital",
     "ai-ml",

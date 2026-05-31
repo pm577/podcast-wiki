@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-06-21",
   "title": "20VC: Justin Kan on Why We Have To Normalize Vulnerability in Startups Today, Why Attaching Happines",
-  "guest": "unknown-guest",
+  "guest": "20vc-justin-kan",
   "tags": [
     "venture-capital",
     "founder-psychology",

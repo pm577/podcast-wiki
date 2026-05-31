@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-04-03",
   "title": "20VC: Homebrew's Hunter Walk on Why There Is No Series A Crunch, How To Package Portfolio Companies ",
-  "guest": "unknown-guest",
+  "guest": "20vc-homebrews-hunter-walk",
   "tags": [
     "venture-capital",
     "go-to-market",

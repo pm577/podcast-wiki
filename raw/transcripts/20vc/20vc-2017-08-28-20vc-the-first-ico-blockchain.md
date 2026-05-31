@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-08-28",
   "title": "20VC: The First ICO Blockchain Incubator Ever, Why ICO's Will Change The World of Venture As We Know",
-  "guest": "mike",
+  "guest": "20vc-the-first-ico-blockchain-incubator-ever",
   "tags": [
     "venture-capital",
     "founder-psychology",

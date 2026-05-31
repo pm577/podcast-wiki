@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-01-17",
   "title": "20VC: Portfolio Construction, Optimising SPVs, Opportunity Investing \"Between Rounds\", Being Distrib",
-  "guest": "unknown-guest",
+  "guest": "20vc-portfolio-construction",
   "tags": [
     "venture-capital",
     "go-to-market",

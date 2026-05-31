@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-10-18",
   "title": "20VC: Instacart CEO Fidji Simo on Why You Need Sponsors Not Mentors, Where Management Skills Align w",
-  "guest": "good-parenting",
+  "guest": "20vc-instacart-ceo-fidji-simo",
   "tags": [
     "venture-capital",
     "ai-ml"

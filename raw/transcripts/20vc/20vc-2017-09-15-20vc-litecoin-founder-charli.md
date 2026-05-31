@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-09-15",
   "title": "20VC: Litecoin Founder, Charlie Lee on Why ICO's Are The Biggest Threat To Crypto, Why Ethereum Will",
-  "guest": "unknown-guest",
+  "guest": "20vc-litecoin-founder-charlie-lee",
   "tags": [
     "venture-capital",
     "founder-psychology",

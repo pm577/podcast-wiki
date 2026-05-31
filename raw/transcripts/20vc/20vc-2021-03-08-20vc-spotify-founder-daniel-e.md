@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-03-08",
   "title": "20VC: Spotify Founder Daniel Ek on Optimising Decision-Making, Structuring Effective Learning Proces",
-  "guest": "shakil-khan",
+  "guest": "20vc-spotify-founder-daniel-ek",
   "tags": [
     "venture-capital",
     "founder-psychology",

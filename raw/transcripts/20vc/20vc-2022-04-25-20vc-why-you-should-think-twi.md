@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-04-25",
   "title": "20VC: Why You Should Think Twice Before Taking Multi-Stage Money at Seed, Why Venture Has Never Been",
-  "guest": "deena-sh",
+  "guest": "20vc-why-you-should-think-twice-before-taking-multi",
   "tags": [
     "venture-capital",
     "product-strategy",

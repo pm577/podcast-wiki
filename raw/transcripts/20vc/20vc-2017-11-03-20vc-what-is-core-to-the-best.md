@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-11-03",
   "title": "20VC: What Is Core To The Best Investor - Founder Relationships, The Biggest Risk For Founders In Th",
-  "guest": "jack-altman",
+  "guest": "20vc-what-is-core-to-the-best-investor",
   "tags": [
     "venture-capital",
     "founder-psychology",

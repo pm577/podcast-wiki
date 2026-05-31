@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-10-10",
   "title": "20VC: Altimeter's Brad Gerstner on Why Supercycles and the Powerlaw is the Most Important Thing In I",
-  "guest": "unknown-guest",
+  "guest": "20vc-altimeters-brad-gerstner",
   "tags": [
     "venture-capital",
     "founder-psychology"

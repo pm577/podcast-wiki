@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-04-24",
   "title": "20VC: Superhuman's Rahul Vohra on How 1-1 Customer Onboarding Can Scale Efficiently to $100M ARR, Wh",
-  "guest": "unknown-guest",
+  "guest": "20vc-superhumans-rahul-vohra",
   "tags": [
     "venture-capital",
     "founder-psychology",

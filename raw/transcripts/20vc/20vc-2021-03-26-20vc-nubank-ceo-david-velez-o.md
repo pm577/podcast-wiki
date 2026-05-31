@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-03-26",
   "title": "20VC: Nubank CEO David Velez on Scaling Nubank to a $25BN Company, Why What Makes a Great Founder Do",
-  "guest": "unknown-guest",
+  "guest": "20vc-nubank-ceo-david-velez",
   "tags": [
     "venture-capital",
     "founder-psychology",

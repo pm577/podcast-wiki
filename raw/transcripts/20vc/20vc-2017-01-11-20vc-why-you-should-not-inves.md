@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-01-11",
   "title": "20VC: Why You Should Not Invest From Patterns, Why No Good Business Was Built As An Analogy Of Anoth",
-  "guest": "emily-melton",
+  "guest": "20vc-why-you-should-not-invest-from-patterns",
   "tags": [
     "venture-capital",
     "marketplaces",

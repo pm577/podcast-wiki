@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-11-23",
   "title": "20VC: Venture Capital Is One Hell Of A Drug, What VCs Expect From Founders Once They Have Raised & W",
-  "guest": "eric-paley",
+  "guest": "20vc-venture-capital-is-one-hell-of-a-drug",
   "tags": [
     "venture-capital",
     "founder-psychology",

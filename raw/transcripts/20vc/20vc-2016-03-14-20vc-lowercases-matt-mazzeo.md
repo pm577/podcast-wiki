@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-03-14",
   "title": "20VC: Lowercase's Matt Mazzeo on Being Chris Sacca's Partner and The 3 KPIs to Successful Investing",
-  "guest": "unknown-guest",
+  "guest": "20vc-lowercases-matt-mazzeo",
   "tags": [
     "venture-capital",
     "product-strategy"

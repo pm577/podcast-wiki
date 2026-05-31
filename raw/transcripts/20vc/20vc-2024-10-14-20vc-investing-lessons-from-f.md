@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2024-10-14",
   "title": "20VC: Investing Lessons from FC Seeding Uber, Airtable and Coupang | Why Pro Rata is the Original Si",
-  "guest": "david-frankel",
+  "guest": "20vc-investing-lessons",
   "tags": [
     "venture-capital",
     "founder-psychology",

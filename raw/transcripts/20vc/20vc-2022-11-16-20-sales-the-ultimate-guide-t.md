@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-11-16",
   "title": "20 Sales: The Ultimate Guide to Sales Onboarding for New Sales Reps and Sales Leaders, The Biggest R",
-  "guest": "leaders",
+  "guest": "20-sales-the-ultimate-guide-to-sales-on",
   "tags": [
     "go-to-market",
     "hiring-culture"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-04-14",
   "title": "20VC: How Investors Can Get Into The Best Deals & Why Founders First Point Of Contact Should Be With",
-  "guest": "spencer-kimball",
+  "guest": "20vc-how-investors-can-get-into-the-bes",
   "tags": [
     "venture-capital",
     "founder-psychology",

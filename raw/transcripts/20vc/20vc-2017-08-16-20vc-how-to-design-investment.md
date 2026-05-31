@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-08-16",
   "title": "20VC: How To Design Investment Decision Making That Allows For Outliers, Why Personal Voice Computin",
-  "guest": "david-beisel",
+  "guest": "20vc-how-to-design-investment-decision",
   "tags": [
     "venture-capital",
     "founder-psychology",

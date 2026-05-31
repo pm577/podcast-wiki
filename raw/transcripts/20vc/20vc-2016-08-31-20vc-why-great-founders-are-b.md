@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-31",
   "title": "20VC: Why Great Founders Are Both Visionary & Stubborn, The Investment Mindset Shift From Angel To V",
-  "guest": "jesse-middleton",
+  "guest": "20vc-why-great-founders-are-both-visionary-stubborn",
   "tags": [
     "venture-capital",
     "founder-psychology",

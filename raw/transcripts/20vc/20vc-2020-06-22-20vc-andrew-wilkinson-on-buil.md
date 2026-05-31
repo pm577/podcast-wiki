@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-06-22",
   "title": "20VC: Andrew Wilkinson on Building The Berkshire Hathway of Tech, Sustainable vs Unsustainable Growt",
-  "guest": "unknown-guest",
+  "guest": "20vc-andrew-wilkinson",
   "tags": [
     "venture-capital",
     "go-to-market",

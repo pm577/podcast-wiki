@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-02-28",
   "title": "20VC: Gusto Co-Founder, Tomer London on Why Most Founders Approach Fundraising With The Wrong Mindse",
-  "guest": "unknown-guest",
+  "guest": "20vc-gusto-co-founder-tomer-london",
   "tags": [
     "venture-capital",
     "founder-psychology",

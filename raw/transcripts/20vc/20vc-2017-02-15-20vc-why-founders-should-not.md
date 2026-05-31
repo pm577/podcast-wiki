@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-02-15",
   "title": "20VC: Why Founders Should Not Focus On Top Line Valuation, Why Capital Efficiency Is Key To Returns ",
-  "guest": "micah-rosenbloom",
+  "guest": "20vc-why-founders-should-not-focus-on-top-line-valuation",
   "tags": [
     "venture-capital",
     "founder-psychology"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-09-10",
   "title": "20VC: The Biggest Lessons From Working Alongside John Doerr, How To Optimize The Speed of Investment",
-  "guest": "shabih-rizvi",
+  "guest": "20vc-the-biggest-lessons-from-working-alongside-john-doerr",
   "tags": [
     "venture-capital",
     "founder-psychology",

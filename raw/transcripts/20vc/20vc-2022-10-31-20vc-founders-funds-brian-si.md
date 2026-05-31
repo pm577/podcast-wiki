@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-10-31",
   "title": "20VC: Founders Fund's Brian Singerman on The Price Mismatch Between Public vs Private, Why Now Is No",
-  "guest": "unknown-guest",
+  "guest": "20vc-founders-funds-brian-singerman",
   "tags": [
     "venture-capital",
     "founder-psychology",

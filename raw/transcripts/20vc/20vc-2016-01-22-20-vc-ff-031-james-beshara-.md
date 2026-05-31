@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-01-22",
   "title": "20 VC FF 031: James Beshara @ Tilt on Crowdfunding For A Mobile World, Finding The Perfect Co-Founde",
-  "guest": "unknown-guest",
+  "guest": "20-vc-ff-031-james-beshara-tilt",
   "tags": [
     "venture-capital",
     "founder-psychology",

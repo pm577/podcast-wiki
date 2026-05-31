@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-06-01",
   "title": "Jason Calacanis: The World's Greatest Angel Investor",
-  "guest": "jason-calacanis",
+  "guest": "jason-calacanis-the-worlds-greatest-an",
   "tags": [
     "venture-capital",
     "founder-psychology"

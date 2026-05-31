@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-01-11",
   "title": "20VC: The Memo: How to Raise a Venture Capital Fund (Part I) | The Core Lessons from Raising $400M O",
-  "guest": "new",
+  "guest": "20vc-the-memo-how-to-raise-a-venture-c",
   "tags": [
     "venture-capital",
     "product-strategy",

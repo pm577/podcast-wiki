@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-10",
   "title": "20VC: Dollar Shave Club's Series A & B Lead Investor, David Pakman on The Requirements For A Success",
-  "guest": "unknown-guest",
+  "guest": "20vc-dollar-shave-clubs-series-a-b-lead-investor-david-pakma",
   "tags": [
     "venture-capital",
     "ai-ml",

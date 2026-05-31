@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-11-16",
   "title": "20VC: Investing In Sectors That Were Cool 2 Years Ago, What Accel's Facebook Fund Taught a Generatio",
-  "guest": "paul-martino",
+  "guest": "20vc-investing-in-sectors-that-were-cool-2-years-ago",
   "tags": [
     "venture-capital",
     "founder-psychology",

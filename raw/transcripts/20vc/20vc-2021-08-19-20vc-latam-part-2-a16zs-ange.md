@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-08-19",
   "title": "20VC LATAM Part 2: a16z's Angela Strange on When To Expand Beyond Your Core Market, Why Serving the ",
-  "guest": "unknown-guest",
+  "guest": "20vc-latam-part-2-a16zs-angela-strange",
   "tags": [
     "venture-capital",
     "go-to-market",

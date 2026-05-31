@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-11-16",
   "title": "20VC: Slack Founder Stewart Butterfield on Leadership Styles, Decision-Making, The 3 Levels of Wealt",
-  "guest": "unknown-guest",
+  "guest": "20vc-slack-founder-stewart-butterfield",
   "tags": [
     "venture-capital",
     "founder-psychology",

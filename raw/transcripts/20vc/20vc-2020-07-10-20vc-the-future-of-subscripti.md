@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-07-10",
   "title": "20VC: The Future of Subscription Media, Why Startups Need To Stop Blaming Facebook and Google & How ",
-  "guest": "alex-mather",
+  "guest": "20vc-the-future",
   "tags": [
     "venture-capital",
     "founder-psychology",

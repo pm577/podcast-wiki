@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-01-25",
   "title": "20Sales: Why You Should Not Do PLG and Enterprise Sales at the Same Time | How To Move Into Enterpri",
-  "guest": "stevie-case",
+  "guest": "20sales-why-you-should-not-do-plg-and-enterprise-sales",
   "tags": [
     "go-to-market",
     "hiring-culture",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-01-16",
   "title": "20VC: a16z's Jeff Jordan on The Ultimate Guide to Investing in Marketplaces, Two Core Features to Lo",
-  "guest": "unknown-guest",
+  "guest": "20vc-a16zs-jeff-jordan",
   "tags": [
     "venture-capital",
     "go-to-market",

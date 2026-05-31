@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-17",
   "title": "20VC: Why Hardware Is Actually Software Wrapped In Plastic & \"Of Course Hardware Is Hard, Everything",
-  "guest": "ben-einstein",
+  "guest": "20vc-why-hardware-is-actually-software",
   "tags": [
     "venture-capital",
     "founder-psychology",

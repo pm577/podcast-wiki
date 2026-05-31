@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-01-23",
   "title": "20VC: Greylock's John Lilly on How Greylock Continues To Invest In The Next Big Markets, The Importa",
-  "guest": "unknown-guest",
+  "guest": "20vc-greylocks-john-lilly",
   "tags": [
     "venture-capital",
     "product-strategy",

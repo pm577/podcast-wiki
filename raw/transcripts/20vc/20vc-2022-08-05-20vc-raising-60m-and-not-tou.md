@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-08-05",
   "title": "20VC: Raising $60M and Not Touching a Dollar of It; The 3 Decisions That Led to a Cash-Flow Positive",
-  "guest": "sameer",
+  "guest": "20vc-raising-60m-and-not-touching-a-dollar-of-it-the-3-decis",
   "tags": [
     "venture-capital",
     "founder-psychology",

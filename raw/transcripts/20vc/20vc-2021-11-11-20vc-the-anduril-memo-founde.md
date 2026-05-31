@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-11-11",
   "title": "20VC: The Anduril Memo: Founders Fund's Brian Singerman on What Makes Palmer Luckey One of the Great",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-anduril-memo-founders-funds-brian-singerman",
   "tags": [
     "venture-capital",
     "founder-psychology",

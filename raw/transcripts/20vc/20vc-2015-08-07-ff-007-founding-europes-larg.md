@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-08-07",
   "title": "FF 007: Founding Europe's Largest Trading App with Nick Bortot, Founder @ Bux",
-  "guest": "nick-bortot",
+  "guest": "nick-bortot-founder-bux",
   "tags": [
     "founder-psychology",
     "marketplaces"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-03-18",
   "title": "20VC: The Acceptable vs Unacceptable Risks To Take When Seed Investing, Why Loss Ratio Is Not A Cons",
-  "guest": "mike-hirshland",
+  "guest": "20vc-the-acceptable-vs-unacceptable-ris",
   "tags": [
     "venture-capital",
     "founder-psychology"

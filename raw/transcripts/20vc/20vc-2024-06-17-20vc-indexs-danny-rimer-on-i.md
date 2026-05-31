@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2024-06-17",
   "title": "20VC: Index's Danny Rimer on Investing Lessons from Hits like Figma, Discord and Etsy to Missing Sna",
-  "guest": "unknown-guest",
+  "guest": "20vc-indexs-danny-rimer",
   "tags": [
     "venture-capital",
     "ai-ml"

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-12-23",
   "title": "20VC: What VCs Really Mean They Say 'Stay In Touch', Why Incentivisation Through Perks Is Lazy & Why",
-  "guest": "david-politis",
+  "guest": "20vc-what-vcs-really-mean-they-say-stay-in-touch",
   "tags": [
     "venture-capital",
     "founder-psychology",

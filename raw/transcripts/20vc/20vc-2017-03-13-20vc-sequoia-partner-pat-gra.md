@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-13",
   "title": "20VC: Sequoia Partner, Pat Grady on Why Data Is The New Oil, Why We Will See The Return of The Appre",
-  "guest": "unknown-guest",
+  "guest": "20vc-sequoia-partner-pat-grady",
   "tags": [
     "venture-capital",
     "hiring-culture",

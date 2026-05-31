@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-07-20",
   "title": "20 Sales: The Biggest Challenges Building Outbound Sales Teams and How To Overcome Them | How The Be",
-  "guest": "unknown-guest",
+  "guest": "20-sales-the-biggest-challenges-buildin",
   "tags": [
     "go-to-market",
     "product-strategy",

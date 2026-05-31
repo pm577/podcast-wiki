@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-06-02",
   "title": "20VC: Ramp's Eric Glyman on Why You Should Never Take The Highest Price, Working With Venture Funds ",
-  "guest": "unknown-guest",
+  "guest": "20vc-ramps-eric-glyman",
   "tags": [
     "venture-capital",
     "founder-psychology",

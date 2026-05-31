@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-04-11",
   "title": "20VC: Felicis' Aydin Senkut on Scaling Felicis From $4m to $120m, Doing Venture Differently and Why ",
-  "guest": "unknown-guest",
+  "guest": "20vc-felicis-aydin-senkut",
   "tags": [
     "venture-capital",
     "founder-psychology",

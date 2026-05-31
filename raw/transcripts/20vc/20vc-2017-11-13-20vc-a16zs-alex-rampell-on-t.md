@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-11-13",
   "title": "20VC: a16z's Alex Rampell on The Struggle Between Innovation vs Distribution, When How To Determine ",
-  "guest": "unknown-guest",
+  "guest": "20vc-a16zs-alex-rampell",
   "tags": [
     "venture-capital",
     "founder-psychology",

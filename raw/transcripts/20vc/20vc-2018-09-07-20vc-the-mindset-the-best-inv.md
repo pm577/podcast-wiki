@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-09-07",
   "title": "20VC: The Mindset The Best Investors Assume When Assessing Opportunities, Why So Many Hardware Start",
-  "guest": "andrew-farah",
+  "guest": "20vc-the-mindset-the-best-investors-ass",
   "tags": [
     "venture-capital",
     "founder-psychology",

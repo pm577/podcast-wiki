@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-10-09",
   "title": "FF 016: Chad Fowler, CTO @ Wunderlist, App Of The Year 2013",
-  "guest": "unknown-guest",
+  "guest": "ff-016-chad-fowler",
   "tags": [
     "venture-capital",
     "product-strategy"

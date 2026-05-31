@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-06-28",
   "title": "20VC: Cameo's Steven Galanis on Why You Must Fall In Love With Your Mission Not Your Product, How To",
-  "guest": "unknown-guest",
+  "guest": "20vc-cameos-steven-galanis",
   "tags": [
     "venture-capital",
     "founder-psychology",

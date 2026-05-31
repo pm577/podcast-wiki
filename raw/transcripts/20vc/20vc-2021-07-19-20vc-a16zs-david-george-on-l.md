@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-07-19",
   "title": "20VC: a16z's David George on Leading a16z's Growth Fund Today, The Biggest Misconceptions of Growth ",
-  "guest": "unknown-guest",
+  "guest": "20vc-a16zs-david-george",
   "tags": [
     "venture-capital",
     "go-to-market",

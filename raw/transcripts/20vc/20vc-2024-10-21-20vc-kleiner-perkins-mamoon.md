@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2024-10-21",
   "title": "20VC: Kleiner Perkins' Mamoon Hamid on Investing Lessons from Leading Rounds in Figma, Slack and Rip",
-  "guest": "kleiner-perkins",
+  "guest": "20vc-kleiner-perkins-mamoon-hamid",
   "tags": [
     "venture-capital",
     "founder-psychology",

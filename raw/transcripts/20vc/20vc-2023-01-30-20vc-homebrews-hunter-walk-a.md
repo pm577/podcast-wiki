@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-01-30",
   "title": "20VC: Homebrew's Hunter Walk and Satya Patel on Why $100M is Not Enough To Execute a Seed Strategy T",
-  "guest": "why-founders-should-take-secondaries-earlier",
+  "guest": "20vc-homebrews-hunter-walk-and-satya-patel",
   "tags": [
     "venture-capital",
     "founder-psychology",

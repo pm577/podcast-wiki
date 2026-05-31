@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-05-30",
   "title": "20VC: Is Big Data Still A Thing with Matt Turck, Managing Director at FirstMark Capital",
-  "guest": "matt-turck",
+  "guest": "matt-turck-managing-director-at-firstmark-capital",
   "tags": [
     "venture-capital",
     "founder-psychology",

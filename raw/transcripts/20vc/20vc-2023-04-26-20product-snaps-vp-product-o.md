@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-04-26",
   "title": "20Product: Snap's VP Product on How Snap Hires 10x Product People, What Makes Evan Spiegel So Specia",
-  "guest": "jack",
+  "guest": "20product-snaps-vp-product",
   "tags": [
     "product-strategy",
     "hiring-culture",

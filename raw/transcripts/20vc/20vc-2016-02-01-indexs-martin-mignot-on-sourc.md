@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-02-01",
   "title": "Index's Martin Mignot on Sourcing Rocketship Companies, Evaluating Founders and His Attitude Towards",
-  "guest": "unknown-guest",
+  "guest": "indexs-martin-mignot",
   "tags": [
     "venture-capital",
     "founder-psychology",

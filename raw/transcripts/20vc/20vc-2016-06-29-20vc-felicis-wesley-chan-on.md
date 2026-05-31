@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-06-29",
   "title": "20VC: Felicis' Wesley Chan on The Rise of IoT, Getting Recruited by Larry Page & Creating Google's B",
-  "guest": "unknown-guest",
+  "guest": "20vc-felicis-wesley-chan",
   "tags": [
     "venture-capital",
     "founder-psychology"

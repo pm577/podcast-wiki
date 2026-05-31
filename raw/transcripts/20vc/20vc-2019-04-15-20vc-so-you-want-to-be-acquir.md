@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-04-15",
   "title": "20VC: So You Want To Be Acquired? Instacart VP of Corp Dev, Dave Sobota on His Biggest Lessons From ",
-  "guest": "unknown-guest",
+  "guest": "20vc-so-you-want-to-be-acquired-instacart-vp-of-corp-dev-dav",
   "tags": [
     "venture-capital",
     "hiring-culture",

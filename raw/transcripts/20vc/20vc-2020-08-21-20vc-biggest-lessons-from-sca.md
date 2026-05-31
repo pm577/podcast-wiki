@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-08-21",
   "title": "20VC: Biggest Lessons From Scaling Houseparty To Millions of Users, Why Today's Metrics Are Insuffic",
-  "guest": "scale-from-team-to-product",
+  "guest": "20vc-biggest-lessons-from-scaling-houseparty-to-millions",
   "tags": [
     "venture-capital",
     "founder-psychology",

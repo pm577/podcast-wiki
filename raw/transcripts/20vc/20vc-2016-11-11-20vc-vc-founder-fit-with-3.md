@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-11-11",
   "title": "20VC: VC / Founder Fit with 3 Things Founders & VCs Must Agree Pre-Investment & Why Having No Compan",
-  "guest": "jay-desai",
+  "guest": "3-things-founders-vcs-must-agree-pre-investment-why-having-n",
   "tags": [
     "venture-capital",
     "founder-psychology",

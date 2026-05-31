@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-06-29",
   "title": "20VC: The Memo: Bill Gurley, Doug Leone, Keith Rabois; Investing Lessons from Prior Busts, How Their",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-memo-bill-gurley",
   "tags": [
     "venture-capital",
     "founder-psychology",

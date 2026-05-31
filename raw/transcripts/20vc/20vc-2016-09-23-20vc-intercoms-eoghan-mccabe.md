@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-09-23",
   "title": "20VC: Intercom's Eoghan McCabe on What Makes A Truly Great CEO & What Founders Should Look For In Th",
-  "guest": "unknown-guest",
+  "guest": "20vc-intercoms-eoghan-mccabe",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-01-25",
   "title": "20VC: The 3 Stages of Denial For Founders When Scaling, Why You Will Likely Be Unable To Hire Throug",
-  "guest": "olof-math",
+  "guest": "20vc-the-3-stages",
   "tags": [
     "venture-capital",
     "founder-psychology",

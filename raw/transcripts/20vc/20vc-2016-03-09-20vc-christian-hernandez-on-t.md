@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-03-09",
   "title": "20VC: Christian Hernandez on The Importance of Mobile and The Relationship Between Growth vs Revenue",
-  "guest": "unknown-guest",
+  "guest": "20vc-christian-hernandez",
   "tags": [
     "venture-capital",
     "founder-psychology",

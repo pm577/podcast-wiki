@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-03-29",
   "title": "20VC: Benchmark's Peter Fenton on The Single Question That Defines The Art of Early Stage Venture, M",
-  "guest": "unknown-guest",
+  "guest": "20vc-benchmarks-peter-fenton",
   "tags": [
     "venture-capital"
   ],

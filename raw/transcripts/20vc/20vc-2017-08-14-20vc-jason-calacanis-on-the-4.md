@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-08-14",
   "title": "20VC: Jason Calacanis on The 4 Questions Investors Must Ask Founders, Whether YC Have Scaled Their P",
-  "guest": "unknown-guest",
+  "guest": "20vc-jason-calacanis",
   "tags": [
     "venture-capital",
     "founder-psychology"

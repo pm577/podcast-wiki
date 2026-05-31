@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-10-11",
   "title": "20VC: What Does It Take To Raise A Venture Fund Today, An Analysis of The Explosion of Seed Financin",
-  "guest": "samir-kaji",
+  "guest": "20vc-what-does-it-take-to-raise-a-venture-fund-today",
   "tags": [
     "venture-capital",
     "hiring-culture",

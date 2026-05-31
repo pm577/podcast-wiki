@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-01-20",
   "title": "20VC: Turning Canned Water into a $700M Media and Health Company, What Makes Truly Great Brands, How",
-  "guest": "little",
+  "guest": "20vc-turning-canned-water-into-a-700m",
   "tags": [
     "venture-capital",
     "founder-psychology",

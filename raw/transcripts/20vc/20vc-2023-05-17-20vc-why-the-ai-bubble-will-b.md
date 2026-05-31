@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-17",
   "title": "20VC: Why the AI Bubble Will Be Bigger Than The Dot Com Bubble, Why AI Will Have a Bigger Impact Tha",
-  "guest": "emad-mostaque",
+  "guest": "20vc-why-the-ai-bubble-will-be-bigger-t",
   "tags": [
     "venture-capital",
     "founder-psychology",

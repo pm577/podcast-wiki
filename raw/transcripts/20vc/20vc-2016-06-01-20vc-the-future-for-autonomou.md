@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-06-01",
   "title": "20VC: The Future For Autonomous Vehicles & How Software Is Eating Cars with Nikhil Basu Trivedi, Inv",
-  "guest": "nikhil-basu-trivedi",
+  "guest": "nikhil-basu-trivedi-inv",
   "tags": [
     "venture-capital",
     "hiring-culture",

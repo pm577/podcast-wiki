@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-09-02",
   "title": "20VC: How To Win The Strategic Process Of Fundraising and Optimising Co-Founder Relationships and Br",
-  "guest": "kathryn-minshew",
+  "guest": "20vc-how-to-win-the-strategic-process-of-fundraising-and-opt",
   "tags": [
     "venture-capital",
     "founder-psychology",

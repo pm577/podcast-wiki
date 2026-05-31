@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-07-15",
   "title": "20VC: Why Every Employee Should Re-Apply For Their Job Every Year & The Strategies To Prepare For A ",
-  "guest": "kyle-hill",
+  "guest": "20vc-why-every-employee-should-re",
   "tags": [
     "venture-capital",
     "founder-psychology",

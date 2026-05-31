@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-09-27",
   "title": "20VC: Kapwing Founder Julia Enthoven on Why Marketing Innovation Is As Important As Product Innovati",
-  "guest": "unknown-guest",
+  "guest": "20vc-kapwing-founder-julia-enthoven",
   "tags": [
     "venture-capital",
     "founder-psychology",

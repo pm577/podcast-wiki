@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-10-21",
   "title": "20 VC 081: From YC to VC with Weston Gaddy @ Bain Capital Ventures",
-  "guest": "weston-gaddy",
+  "guest": "weston-gaddy-bain-capital-ventures",
   "tags": [
     "venture-capital",
     "founder-psychology",

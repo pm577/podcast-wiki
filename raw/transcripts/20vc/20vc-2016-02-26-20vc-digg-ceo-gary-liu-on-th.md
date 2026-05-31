@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-02-26",
   "title": "20VC: Digg CEO, Gary Liu on The Rebirth Of Digg & The Evolution Of Content",
-  "guest": "unknown-guest",
+  "guest": "20vc-digg-ceo-gary-liu",
   "tags": [
     "venture-capital",
     "go-to-market",

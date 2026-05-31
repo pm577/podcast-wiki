@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-12-16",
   "title": "20 VC 097: Betting Big on Consumer Fintech with Matthew Bradley, Investor @ Forward Partners",
-  "guest": "matthew-bradley",
+  "guest": "betting-big",
   "tags": [
     "venture-capital",
     "founder-psychology",

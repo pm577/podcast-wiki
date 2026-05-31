@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-11-24",
   "title": "20VC: The Contentful Memo: Point Nine's Christoph Janz on The Cold Email That Led to a Unicorn Inves",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-contentful-memo-point-nines-christoph-janz",
   "tags": [
     "venture-capital",
     "founder-psychology",

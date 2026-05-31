@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-29",
   "title": "20VC: Kleiner Perkins' MZ Zaveri on Why Success In Venture Is About The 3 F's, How VCs Can Manage De",
-  "guest": "unknown-guest",
+  "guest": "20vc-kleiner-perkins-mz-zaveri",
   "tags": [
     "venture-capital",
     "hiring-culture",

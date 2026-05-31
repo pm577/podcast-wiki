@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-06-24",
   "title": "20VC: X.ai's Dennis Mortensen on Why There Is No Incumbency Advantage in Artificial Intelligence",
-  "guest": "unknown-guest",
+  "guest": "20vc-xais-dennis-mortensen",
   "tags": [
     "venture-capital",
     "founder-psychology",

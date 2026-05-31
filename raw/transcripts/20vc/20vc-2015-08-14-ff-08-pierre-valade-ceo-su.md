@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-08-14",
   "title": "FF 08: Pierre Valade, CEO @ Sunrise on Being Acquired By Microsoft for $100m and Building Beautiful ",
-  "guest": "unknown-guest",
+  "guest": "ff-08-pierre-valade-ceo-sunrise",
   "tags": [
     "founder-psychology",
     "product-strategy"

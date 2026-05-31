@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-03-11",
   "title": "20VC: NEA's Scott Sandell on SPACS and Why Liquidity is One of the Challenges of our Time, Why We Ar",
-  "guest": "unknown-guest",
+  "guest": "20vc-neas-scott-sandell",
   "tags": [
     "venture-capital",
     "go-to-market",

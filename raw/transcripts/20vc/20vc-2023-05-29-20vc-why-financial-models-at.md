@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-29",
   "title": "20VC: Why Financial Models at Seed, $5M Seed Rounds & The Fear of Signalling Risk is all BS | Why Mu",
-  "guest": "adam-besvinick",
+  "guest": "20vc-why-financial-models",
   "tags": [
     "venture-capital",
     "founder-psychology",

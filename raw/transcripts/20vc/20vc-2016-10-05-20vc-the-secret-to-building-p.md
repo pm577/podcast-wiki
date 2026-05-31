@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-10-05",
   "title": "20VC: The Secret To Building Pattern Recognition, Why MBA Does Not Always Equal Great Founder & What",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-secret-to-building-pattern-recognition",
   "tags": [
     "venture-capital",
     "founder-psychology",

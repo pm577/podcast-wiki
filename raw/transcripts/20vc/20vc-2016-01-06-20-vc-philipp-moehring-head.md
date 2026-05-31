@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-01-06",
   "title": "20 VC: Philipp Moehring, Head of AngelList Europe on Scaling Seed Stage Funding and Why 500 Is Not Y",
-  "guest": "unknown-guest",
+  "guest": "20-vc-philipp-moehring-head-of-angellist-europe",
   "tags": [
     "venture-capital"
   ],

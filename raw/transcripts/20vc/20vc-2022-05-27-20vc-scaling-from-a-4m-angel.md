@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-05-27",
   "title": "20VC: Scaling from a $4M Angel Fund to $900M, Why Seed May Be The Best priced Asset Class and Not Ov",
-  "guest": "aydin-senkut",
+  "guest": "20vc-scaling",
   "tags": [
     "venture-capital",
     "founder-psychology",

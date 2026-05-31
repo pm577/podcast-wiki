@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-04-02",
   "title": "20 VC 024: Financing Finch with Marc Bernegger of Orange Growth Capital",
-  "guest": "marc-bernegger",
+  "guest": "marc-bernegger-of-orange-growth-capital",
   "tags": [
     "venture-capital",
     "founder-psychology",

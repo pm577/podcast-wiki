@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-11-22",
   "title": "20VC: Why Strategic Investing Is Slow Motion M&A, Why Valuation Is The Hardest Element of M&A & What",
-  "guest": "chad-richard",
+  "guest": "20vc-why-strategic-investing-is-slow-motion-ma",
   "tags": [
     "venture-capital",
     "product-strategy",

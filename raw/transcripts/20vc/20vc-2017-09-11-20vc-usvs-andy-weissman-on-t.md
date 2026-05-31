@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-09-11",
   "title": "20VC: USV's Andy Weissman on The Future of The VC Industry, Why USV Does Not Vote On Investment Deci",
-  "guest": "unknown-guest",
+  "guest": "20vc-usvs-andy-weissman",
   "tags": [
     "venture-capital",
     "enterprise-saas",

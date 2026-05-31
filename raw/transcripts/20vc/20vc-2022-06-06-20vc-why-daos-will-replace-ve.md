@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-06-06",
   "title": "20VC: Why DAOs Will Replace Venture Capital, What Existing Incumbent Venture Firms Can Do To Survive",
-  "guest": "unknown-guest",
+  "guest": "20vc-why-daos-will-replace-venture-capital",
   "tags": [
     "venture-capital",
     "founder-psychology",

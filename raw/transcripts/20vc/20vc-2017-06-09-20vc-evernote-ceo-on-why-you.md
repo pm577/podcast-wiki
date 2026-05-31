@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-06-09",
   "title": "20VC: Evernote CEO on Why You Play For The Front of Your Jersey Not The Back, Why Success Is A Team ",
-  "guest": "unknown-guest",
+  "guest": "20vc-evernote-ceo",
   "tags": [
     "venture-capital",
     "founder-psychology",

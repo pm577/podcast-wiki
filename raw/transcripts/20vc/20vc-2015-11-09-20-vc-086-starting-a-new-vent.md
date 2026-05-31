@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-11-09",
   "title": "20 VC 086: Starting A New Venture Fund and How London Compares To The US with Hussein Kanji @ Hoxton",
-  "guest": "hussein-kanji",
+  "guest": "hussein-kanji-hoxton",
   "tags": [
     "venture-capital",
     "founder-psychology",

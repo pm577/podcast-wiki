@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-07-24",
   "title": "20VC: Investing $200m In Facebook, The 3 Stages of Founder Development & Why Creating A New User Beh",
-  "guest": "rahul-mehta",
+  "guest": "20vc-investing-200m-in-facebook",
   "tags": [
     "venture-capital",
     "founder-psychology",

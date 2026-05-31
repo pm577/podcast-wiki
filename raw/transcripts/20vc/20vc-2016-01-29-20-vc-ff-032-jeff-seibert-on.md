@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-01-29",
   "title": "20 VC FF 032: Jeff Seibert on Lessons From Being Acquired By Twitter & Box and Now Leading Twitter's",
-  "guest": "unknown-guest",
+  "guest": "20-vc-ff-032-jeff-seibert",
   "tags": [
     "venture-capital",
     "product-strategy",

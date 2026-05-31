@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-12-07",
   "title": "20VC: CB Insights' Anand Sanwal on The Most Dangerous Myth Some Investors Have Promoted, Why Most B2",
-  "guest": "unknown-guest",
+  "guest": "20vc-cb-insights-anand-sanwal",
   "tags": [
     "venture-capital",
     "founder-psychology",

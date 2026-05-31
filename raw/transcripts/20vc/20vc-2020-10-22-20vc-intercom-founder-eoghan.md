@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-10-22",
   "title": "20VC: Intercom Founder, Eoghan McCabe on How To Deal with the Weight of Expectation, Having Your Ide",
-  "guest": "stakeholders",
+  "guest": "20vc-intercom-founder-eoghan-mccabe",
   "tags": [
     "venture-capital",
     "founder-psychology",

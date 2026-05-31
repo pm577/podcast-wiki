@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-09-02",
   "title": "20VC: Arm CEO Rene Haas on How The Best Leaders Make Decisions and The Trade-Off Between Speed and Q",
-  "guest": "unknown-guest",
+  "guest": "20vc-arm-ceo-rene-haas",
   "tags": [
     "venture-capital",
     "founder-psychology",

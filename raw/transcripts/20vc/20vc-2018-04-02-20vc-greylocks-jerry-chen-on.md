@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-04-02",
   "title": "20VC: Greylock's Jerry Chen on The 2 Fundamentals To Assessing Startup Risk, Why Good Investors Have",
-  "guest": "unknown-guest",
+  "guest": "20vc-greylocks-jerry-chen",
   "tags": [
     "venture-capital",
     "product-strategy",

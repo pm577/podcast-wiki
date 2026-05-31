@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-05-14",
   "title": "20VC: Why Crypto Is The Biggest Disruptor To Hit VC In A Decade, The State of Crypto Today & Why Inv",
-  "guest": "boris-wertz",
+  "guest": "20vc-why-crypto-is-the-biggest-disrupto",
   "tags": [
     "venture-capital",
     "hiring-culture",

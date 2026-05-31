@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-08-05",
   "title": "20VC: Benchmark's Chetan Puttagunta on The One Question To Ask When Analysing Market Size, How To Co",
-  "guest": "unknown-guest",
+  "guest": "20vc-benchmarks-chetan-puttagunta",
   "tags": [
     "venture-capital",
     "hiring-culture"

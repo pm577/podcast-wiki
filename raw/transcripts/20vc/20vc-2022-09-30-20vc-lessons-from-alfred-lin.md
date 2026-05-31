@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-09-30",
   "title": "20VC: Lessons from Alfred Lin and Ron Conway | Why the World Does Not Want Your Startup To Exist and",
-  "guest": "tarek-mansour",
+  "guest": "20vc-lessons",
   "tags": [
     "venture-capital",
     "founder-psychology",

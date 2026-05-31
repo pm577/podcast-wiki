@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-02-24",
   "title": "20VC: Raising $24m From The Chan-Zuckerberg Initiative, Why EdTech Is So Misunderstood & Why The Fut",
-  "guest": "andela",
+  "guest": "20vc-raising-24m-from-the-chan",
   "tags": [
     "venture-capital",
     "founder-psychology",

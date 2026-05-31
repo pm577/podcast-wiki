@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-10-05",
   "title": "20VC: Arlan Hamilton: \"We Have Come For Cake, Not The Crumbs\", Arlan's Plan To Return $1Bn in 10 Yea",
-  "guest": "unknown-guest",
+  "guest": "20vc-arlan-hamilton-we-have-come-for-cake",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-09-02",
   "title": "20VC: The Crowdstrike Memo: Accel's Sameer Gandhi on Leading Multiple Internal Rounds for Crowdstrik",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-crowdstrike-memo-accels-sameer-gandhi",
   "tags": [
     "venture-capital",
     "founder-psychology"

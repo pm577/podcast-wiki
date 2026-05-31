@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-15",
   "title": "20VC: Khosla's Keith Rabois on How To Create Sustainability Behind Growth, How To Assess The Potenti",
-  "guest": "unknown-guest",
+  "guest": "20vc-khoslas-keith-rabois",
   "tags": [
     "venture-capital",
     "go-to-market",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-02-29",
   "title": "20VC: SoftTech VC's Andy McLoughlin on The Series A Crunch, Maximising Runway and Minimising Burn an",
-  "guest": "unknown-guest",
+  "guest": "20vc-softtech-vcs-andy-mcloughlin",
   "tags": [
     "venture-capital",
     "founder-psychology",

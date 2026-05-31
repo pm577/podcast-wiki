@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-02-25",
   "title": "20VC Exclusive: Sahil Bloom on Raising his Debut Venture Fund (SRB Ventures), Why Traditional Ventur",
-  "guest": "unknown-guest",
+  "guest": "20vc-exclusive-sahil-bloom",
   "tags": [
     "venture-capital",
     "product-strategy",

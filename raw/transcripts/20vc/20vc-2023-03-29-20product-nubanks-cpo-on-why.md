@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-29",
   "title": "20Product: Nubank's CPO on Why Product is 90% Science and 10% Art, Why Execution is Overrated and St",
-  "guest": "unknown-guest",
+  "guest": "20product-nubanks-cpo",
   "tags": [
     "product-strategy",
     "consumer"

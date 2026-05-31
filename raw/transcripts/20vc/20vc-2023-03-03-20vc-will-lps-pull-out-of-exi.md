@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-03-03",
   "title": "20VC: Will LPs Pull Out of Existing Managers, How Will Fund Sizes Change Moving Forward, Is Now The ",
-  "guest": "hunter-somerville",
+  "guest": "20vc-will-lps-pull-out",
   "tags": [
     "venture-capital",
     "go-to-market"

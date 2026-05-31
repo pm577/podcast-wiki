@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-01-29",
   "title": "20VC: Investing Lessons From Fred Wilson and Brad Burnham @ USV, How CEO's Can Operationally Utilise",
-  "guest": "andrew-parker",
+  "guest": "20vc-investing-lessons-from-fred-wilson",
   "tags": [
     "venture-capital",
     "hiring-culture"

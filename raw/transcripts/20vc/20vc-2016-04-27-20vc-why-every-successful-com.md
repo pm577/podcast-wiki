@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-04-27",
   "title": "20VC: Why Every Successful Company Pivots and Good Companies Get Funded in Good & Bad Markets with J",
-  "guest": "john-frankel",
+  "guest": "j",
   "tags": [
     "venture-capital"
   ],

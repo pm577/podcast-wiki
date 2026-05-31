@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-12-06",
   "title": "20VC: The Value Chain of Machine Learning, Is There Really An Incumbency Advantage in ML & Will The ",
-  "guest": "jake-flomenberg",
+  "guest": "20vc-the-value-chain",
   "tags": [
     "venture-capital",
     "product-strategy",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-12-20",
   "title": "20VC: 2nd Most Downloaded Episode of 2018: Kirsten Green, Founding Partner @ Forerunner Ventures",
-  "guest": "unknown-guest",
+  "guest": "20vc-2nd-most-downloaded-episode",
   "tags": [
     "venture-capital",
     "ai-ml"

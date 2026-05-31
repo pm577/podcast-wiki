@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-10-27",
   "title": "20VC: Why Decentralisation is Key For Digital Media Distribution, Why Gradual Decentralisation Is Th",
-  "guest": "adi-sideman",
+  "guest": "20vc-why-decentralisation-is-key-for-di",
   "tags": [
     "venture-capital",
     "founder-psychology",

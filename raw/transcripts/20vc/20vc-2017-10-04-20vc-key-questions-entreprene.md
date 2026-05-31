@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-10-04",
   "title": "20VC: Key Questions Entrepreneurs Must Ask in M&A's, Why Acquihires Come In 2 Different Categories &",
-  "guest": "bram-sugarman",
+  "guest": "20vc-key-questions-entrepreneurs-must-ask-in-mas",
   "tags": [
     "venture-capital",
     "marketplaces"

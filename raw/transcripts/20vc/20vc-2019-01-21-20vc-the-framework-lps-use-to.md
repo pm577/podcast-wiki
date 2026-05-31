@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-01-21",
   "title": "20VC: The Framework LPs Use To Assess Emerging Managers, What Concerns and Excites LPs in Potential ",
-  "guest": "hunter-somerville",
+  "guest": "20vc-the-framework-lps-use-to-assess-emerging-managers",
   "tags": [
     "venture-capital",
     "founder-psychology"

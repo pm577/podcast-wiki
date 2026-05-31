@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-04-15",
   "title": "20VC: From Netscape To Friendster To Nuzzel: Jonathan Abrams on A Silicon Valley Adventure",
-  "guest": "unknown-guest",
+  "guest": "20vc-from-netscape-to-friendster-to-nuzzel-jonathan-abrams",
   "tags": [
     "venture-capital",
     "founder-psychology",

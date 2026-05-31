@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-11-14",
   "title": "20VC: ARK Invest's Cathie Wood on Why ARK Has Not Had More Outflows Despite Performance, How the Glo",
-  "guest": "unknown-guest",
+  "guest": "20vc-ark-invests-cathie-wood",
   "tags": [
     "venture-capital"
   ],

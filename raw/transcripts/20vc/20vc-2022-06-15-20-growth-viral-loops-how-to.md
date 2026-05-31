@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-06-15",
   "title": "20 Growth: Viral Loops; How To Create and Sustain Them, Why Interviews for Product and Growth Hires ",
-  "guest": "adam-fishman",
+  "guest": "20-growth-viral-loops-how-to-create-and-sustain-them",
   "tags": [
     "go-to-market",
     "product-strategy",

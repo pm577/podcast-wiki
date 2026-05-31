@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-04-20",
   "title": "20 VC 029: The Potential Upside To A Technology Bubble with TechCrunch's Brandon Lipman",
-  "guest": "tech",
+  "guest": "techcrunchs-brandon-lipman",
   "tags": [
     "venture-capital",
     "founder-psychology"

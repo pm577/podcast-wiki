@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-05-31",
   "title": "20VC: The On Running Memo: From Swiss Mountains to NASDAQ IPO: The Story of Three Friends Who Built ",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-on-running-memo-from-swiss-mo",
   "tags": [
     "venture-capital",
     "founder-psychology",

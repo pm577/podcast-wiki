@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-06-21",
   "title": "20VC: Rishi Sunak, Chancellor of the Exchequer on Turning the UK Into a Talent Magnet, What Can Be D",
-  "guest": "unknown-guest",
+  "guest": "20vc-rishi-sunak-chancellor-of-the-exchequer",
   "tags": [
     "venture-capital",
     "hiring-culture",

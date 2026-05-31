@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-02-10",
   "title": "20VC: Boston Celtics' Steve Pagliuca on The Future of Sports Team Ownership; What Happened with the ",
-  "guest": "unknown-guest",
+  "guest": "20vc-boston-celtics-steve-pagliuca",
   "tags": [
     "venture-capital",
     "product-strategy",

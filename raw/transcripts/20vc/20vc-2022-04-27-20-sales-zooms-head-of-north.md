@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-04-27",
   "title": "20 Sales: Zoom's Head of North America Sales on When To Hire a Head of Sales, Why You Should Hire a ",
-  "guest": "unknown-guest",
+  "guest": "20-sales-zooms-head-of-north-america-sales",
   "tags": [
     "go-to-market",
     "hiring-culture",

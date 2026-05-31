@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-12-08",
   "title": "20VC: AppDynamic's Jyoti Bansal on The Sale vs IPO Process with AppDynamics' $3.7Bn Exit & The 3 Sim",
-  "guest": "app",
+  "guest": "20vc-appdynamics-jyoti-bansal",
   "tags": [
     "venture-capital",
     "founder-psychology"

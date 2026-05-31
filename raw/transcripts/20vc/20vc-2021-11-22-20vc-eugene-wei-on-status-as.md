@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-11-22",
   "title": "20VC: Eugene Wei on \"Status as a Service\", Why Networks Grow and Stop Growing, The Worst Design Choi",
-  "guest": "unknown-guest",
+  "guest": "20vc-eugene-wei",
   "tags": [
     "venture-capital",
     "product-strategy",

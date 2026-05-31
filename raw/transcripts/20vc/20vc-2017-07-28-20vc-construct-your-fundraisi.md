@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-07-28",
   "title": "20VC: Construct Your Fundraising Process To Get 3 Term Sheets in 36 Hours, Why Slow and Steady Can B",
-  "guest": "nathan-wenzel",
+  "guest": "20vc-construct-your-fundraising-process",
   "tags": [
     "venture-capital",
     "founder-psychology",

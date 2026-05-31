@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-03-03",
   "title": "20VC: Why Product Market Fit Is Like Porn, How The Entrance of Facebook and Google Into Enterprise S",
-  "guest": "dennis-mortensen",
+  "guest": "20vc-why-product-market-fit-is-like-porn",
   "tags": [
     "venture-capital",
     "founder-psychology",

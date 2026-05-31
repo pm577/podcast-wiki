@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-04-04",
   "title": "20VC: Founding Legendary Entertainment and Creating Batman, The Hangover and 300, The Importance of ",
-  "guest": "thomas-tull",
+  "guest": "20vc-founding-legendary-entertainment-and-creating-batman",
   "tags": [
     "venture-capital",
     "founder-psychology",

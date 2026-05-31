@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-12-11",
   "title": "20 VC FF 026: Ryan Hoover, Founder @ ProductHunt on Relationship Building, Habit Forming and The Vis",
-  "guest": "unknown-guest",
+  "guest": "20-vc-ff-026-ryan-hoover-founder-producthunt",
   "tags": [
     "venture-capital",
     "founder-psychology",

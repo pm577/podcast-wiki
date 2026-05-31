@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-03-11",
   "title": "20VC: What It Takes To Be The Most Effective Coach To Startup Founders, The Biggest Surprises and Ch",
-  "guest": "victoria-treyger",
+  "guest": "20vc-what-it-takes-to-be-the-most-effec",
   "tags": [
     "venture-capital",
     "founder-psychology",

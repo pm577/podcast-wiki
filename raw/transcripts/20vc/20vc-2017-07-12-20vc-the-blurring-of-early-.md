@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-07-12",
   "title": "20VC: The Blurring of Early & Late Stage, Why Your Go To Market Strategy Is More Important Now Than ",
-  "guest": "roseanne-wincek",
+  "guest": "20vc-the-blurring",
   "tags": [
     "venture-capital",
     "go-to-market",

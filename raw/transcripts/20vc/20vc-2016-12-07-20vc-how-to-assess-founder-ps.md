@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-12-07",
   "title": "20VC: How To Assess Founder Psychology, Why Talking About Financial Returns In The First Meeting Is ",
-  "guest": "kara-nortman",
+  "guest": "20vc-how-to-assess-founder-psychology",
   "tags": [
     "venture-capital",
     "founder-psychology",

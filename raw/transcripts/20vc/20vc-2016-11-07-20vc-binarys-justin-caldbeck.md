@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-11-07",
   "title": "20VC: Binary's Justin Caldbeck on Specialisation Being Key To Success In VC, The Biggest Problem In ",
-  "guest": "unknown-guest",
+  "guest": "20vc-binarys-justin-caldbeck",
   "tags": [
     "venture-capital",
     "founder-psychology",

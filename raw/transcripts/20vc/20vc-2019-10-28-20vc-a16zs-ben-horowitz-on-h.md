@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-10-28",
   "title": "20VC: a16z's Ben Horowitz on How To Create An Environment of Trust with Founders, How and Why Creati",
-  "guest": "founders",
+  "guest": "20vc-a16zs-ben-horowitz",
   "tags": [
     "venture-capital",
     "founder-psychology",

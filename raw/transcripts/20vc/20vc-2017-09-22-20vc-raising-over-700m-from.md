@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-09-22",
   "title": "20VC: Raising Over $700m From The World's Best Investors, How To Innovate In Highly Regulated Market",
-  "guest": "mario-schlosser",
+  "guest": "20vc-raising-over-700m-from-the-worlds-best-investors",
   "tags": [
     "venture-capital",
     "founder-psychology",

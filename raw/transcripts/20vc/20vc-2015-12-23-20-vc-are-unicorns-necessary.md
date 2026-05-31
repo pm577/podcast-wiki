@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-12-23",
   "title": "20 VC: Are Unicorns Necessary To Make Big Returns and The Series A Crunch with Sumeet Shah @ Brand F",
-  "guest": "sumeet-shah",
+  "guest": "sumeet-shah-brand-f",
   "tags": [
     "venture-capital",
     "consumer"

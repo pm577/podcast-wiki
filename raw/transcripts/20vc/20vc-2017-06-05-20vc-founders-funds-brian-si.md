@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-06-05",
   "title": "20VC: Founders Fund's Brian Singerman on Why VC Is About Upside Maximisation Not Downside Minimisati",
-  "guest": "unknown-guest",
+  "guest": "20vc-founders-funds-brian-singerman",
   "tags": [
     "venture-capital",
     "founder-psychology",

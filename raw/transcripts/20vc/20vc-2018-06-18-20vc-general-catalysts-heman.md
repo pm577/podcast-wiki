@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-06-18",
   "title": "20VC: General Catalyst's Hemant Taneja on Why We Are In A Golden Age For VC, Why Pro-Rata Is A Lazy ",
-  "guest": "unknown-guest",
+  "guest": "20vc-general-catalysts-hemant-taneja",
   "tags": [
     "venture-capital",
     "marketplaces",

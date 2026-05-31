@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-06-01",
   "title": "20VC: The Most Revealing Breakdown of Unit Economics for Quick Commerce; AOVs, Retention, Delivery C",
-  "guest": "unknown-guest",
+  "guest": "20vc-the-most-revealing-breakdown",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-11-26",
   "title": "20VC: Why Raising A First Time Fund Is Like Raising A Seed Round, Why We Need New and Different Fund",
-  "guest": "laura-deming",
+  "guest": "20vc-why-raising-a-first-time-fund-is-l",
   "tags": [
     "venture-capital",
     "ai-ml",

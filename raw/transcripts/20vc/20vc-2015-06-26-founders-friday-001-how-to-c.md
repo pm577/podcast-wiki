@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-06-26",
   "title": "Founder's Friday 001: How to Create Great Company Culture with Anand Sanwal, Founder @ CB Insights",
-  "guest": "anand-sanwal",
+  "guest": "anand-sanwal-founder-cb-insights",
   "tags": [
     "venture-capital",
     "founder-psychology",

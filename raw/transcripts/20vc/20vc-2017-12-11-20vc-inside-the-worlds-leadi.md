@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-12-11",
   "title": "20VC: Inside The World's Leading Crypto Fund, The Future Exit Environment for Crypto Assets & The Be",
-  "guest": "olaf-carlson",
+  "guest": "20vc-inside-the-worlds-leading-crypto-fund",
   "tags": [
     "venture-capital",
     "founder-psychology",

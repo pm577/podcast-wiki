@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-04-03",
   "title": "20VC: The Framework to Scale A Team From 20 to 190 in 24 Months, How To Structure The Perfect Invest",
-  "guest": "radical-transparency",
+  "guest": "20vc-the-framework-to-scale-a-team-from",
   "tags": [
     "venture-capital",
     "founder-psychology",

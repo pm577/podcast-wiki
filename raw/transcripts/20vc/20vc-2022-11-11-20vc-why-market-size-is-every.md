@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-11-11",
   "title": "20VC: Why Market Size is Everything | Three Signs of a Bull Market and How To Remain Disciplined | W",
-  "guest": "mart",
+  "guest": "20vc-why-market-size-is-everything-three-signs",
   "tags": [
     "venture-capital",
     "founder-psychology",

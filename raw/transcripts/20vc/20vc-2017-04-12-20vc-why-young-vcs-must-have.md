@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-04-12",
   "title": "20VC: Why Young VCs Must Have Cheque Writing Ability & Why Corporate VC Is The Best Training Ground ",
-  "guest": "nagraj-kashyap",
+  "guest": "20vc-why-young-vcs-must-have-cheque-wri",
   "tags": [
     "venture-capital",
     "hiring-culture",

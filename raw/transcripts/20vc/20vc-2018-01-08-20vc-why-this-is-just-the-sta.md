@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-01-08",
   "title": "20VC: Why This Is Just The Start for Consumer Mobile, 3 Lessons China Taught About How To Invest Bet",
-  "guest": "hans-tung",
+  "guest": "20vc-why-this-is-just-the-start-for-consumer-mobile",
   "tags": [
     "venture-capital",
     "consumer"

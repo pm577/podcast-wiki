@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-08-24",
   "title": "20 VC 065: FOUNDRY GROUP WEEK 1: Brad Feld: Founders Should Be Obsessed, Passion Belongs In The Bedr",
-  "guest": "unknown-guest",
+  "guest": "foundry-group-week-1-brad-feld-founder",
   "tags": [
     "venture-capital",
     "founder-psychology",

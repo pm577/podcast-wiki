@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-05-23",
   "title": "20VC: Oren Zeev on Raising 3 Funds and $1BN in 12 Months; Why Temporal Diversification is BS, Why Bo",
-  "guest": "unknown-guest",
+  "guest": "20vc-oren-zeev",
   "tags": [
     "venture-capital",
     "ai-ml"

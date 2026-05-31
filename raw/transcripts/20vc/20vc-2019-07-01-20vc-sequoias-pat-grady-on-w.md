@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-07-01",
   "title": "20VC: Sequoia's Pat Grady on What Sequoia Is Focused On Today, How Sequoia Think About Investment De",
-  "guest": "unknown-guest",
+  "guest": "20vc-sequoias-pat-grady",
   "tags": [
     "venture-capital",
     "go-to-market",

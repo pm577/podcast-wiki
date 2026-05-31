@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-06-28",
   "title": "20VC: Twilio's Jeff Lawson on What It Takes To Create a Tribe, How To Create Anti-Fragile Organisati",
-  "guest": "unknown-guest",
+  "guest": "20vc-twilios-jeff-lawson",
   "tags": [
     "venture-capital",
     "founder-psychology",

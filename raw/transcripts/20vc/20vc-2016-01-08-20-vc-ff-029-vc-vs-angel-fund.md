@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-01-08",
   "title": "20 VC FF 029: VC vs Angel Funding & The Future of E-Commerce with Ivan Mazour, Founder @ Ometria",
-  "guest": "ivan-mazour",
+  "guest": "ivan-mazour-founder-ometria",
   "tags": [
     "venture-capital",
     "founder-psychology",

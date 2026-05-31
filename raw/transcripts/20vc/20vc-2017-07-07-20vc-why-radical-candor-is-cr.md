@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-07-07",
   "title": "20VC: Why Radical Candor Is Crucial in Workplaces, Why 85% of Work Relationship Mistakes Happen and ",
-  "guest": "kim-scott",
+  "guest": "20vc-why-radical-candor-is-crucial-in-workplaces",
   "tags": [
     "venture-capital",
     "founder-psychology",

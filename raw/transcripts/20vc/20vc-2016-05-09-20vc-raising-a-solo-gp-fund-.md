@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-05-09",
   "title": "20VC: Raising A Solo GP Fund & Why They Are So Prominent Today with Charles Hudson, Managing Partner",
-  "guest": "charles-hudson",
+  "guest": "charles-hudson-managing-partner",
   "tags": [
     "venture-capital",
     "product-strategy",

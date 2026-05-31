@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-24",
   "title": "20VC: Why Raising A Fund Is Like Raising A $25m Seed Round with No Product & Why Not All LP Money Is",
-  "guest": "no-product",
+  "guest": "no-product-why-not-all-lp-money-is",
   "tags": [
     "venture-capital",
     "product-strategy",

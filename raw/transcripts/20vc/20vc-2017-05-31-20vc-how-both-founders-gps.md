@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-31",
   "title": "20VC: How Both Founders & GPs Should Construct Their Pitch, Why VCs Are Eternal Optimists & What Mak",
-  "guest": "brian-ascher",
+  "guest": "20vc-how-both-founders-gps-should-construct-their-pitch",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-11-06",
   "title": "20VC: Zach Weinberg on Whether A Company is a Democracy, The Importance of Ownership, The Rise of Pr",
-  "guest": "unknown-guest",
+  "guest": "20vc-zach-weinberg",
   "tags": [
     "venture-capital",
     "founder-psychology",

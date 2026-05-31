@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-05-04",
   "title": "20VC: Accel's Brian O'Malley On The Prioritisation Of Growth, The Metrics That Show True Customer Re",
-  "guest": "unknown-guest",
+  "guest": "20vc-accels-brian-omalley-on-the-prio",
   "tags": [
     "venture-capital",
     "go-to-market",

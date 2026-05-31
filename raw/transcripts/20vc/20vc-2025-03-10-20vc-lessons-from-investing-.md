@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2025-03-10",
   "title": "20VC: Lessons from Investing $2BN and Returning $8BN in Cash | Why Most Venture Partnerships are Bro",
-  "guest": "jake-saper",
+  "guest": "20vc-lessons",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-12-21",
   "title": "20VC Special: How To Fundraise Like a Pro: How to Size and Price a Round, How to Create FOMO and Urg",
-  "guest": "unknown-guest",
+  "guest": "20vc-special-how-to-fundraise-like-a-pr",
   "tags": [
     "venture-capital",
     "ai-ml"

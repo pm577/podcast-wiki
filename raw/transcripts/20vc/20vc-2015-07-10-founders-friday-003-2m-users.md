@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-07-10",
   "title": "Founders Friday 003: 2m users, $2m Seed Round, 220,000 Instagram Followers with Phil Jacobson, Found",
-  "guest": "phil-jacobson",
+  "guest": "phil-jacobson-found",
   "tags": [
     "founder-psychology",
     "fintech",

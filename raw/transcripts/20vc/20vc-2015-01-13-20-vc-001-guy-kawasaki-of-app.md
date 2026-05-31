@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-01-13",
   "title": "20 VC 001: Guy Kawasaki of Apple, Motorola and AllTop.com",
-  "guest": "unknown-guest",
+  "guest": "guy-kawasaki",
   "tags": [
     "venture-capital",
     "consumer"

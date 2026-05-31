@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-08-15",
   "title": "20VC: Fintech OG Sheel Mohnot on Lessons from Investing in Flexport and ChipperCash and Missing Robi",
-  "guest": "fund",
+  "guest": "20vc-fintech-og-sheel-mohnot",
   "tags": [
     "venture-capital",
     "founder-psychology",

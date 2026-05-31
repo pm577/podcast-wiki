@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-10-16",
   "title": "20VC: Founders Fund's Chief Scientist on Why AI Is Mostly A Scam, Why The Value of Large Datasets Is",
-  "guest": "aaron-vandevender",
+  "guest": "20vc-founders-funds-chief-scientist",
   "tags": [
     "venture-capital",
     "founder-psychology",

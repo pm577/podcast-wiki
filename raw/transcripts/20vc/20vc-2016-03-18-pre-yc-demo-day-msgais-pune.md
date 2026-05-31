@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-03-18",
   "title": "Pre-YC Demo Day: Msg.ai's Puneet Mehta on The Rise of AI, The Potential For Messaging and Life As A ",
-  "guest": "unknown-guest",
+  "guest": "pre-yc-demo-day-msgais-puneet-mehta",
   "tags": [
     "founder-psychology",
     "product-strategy",

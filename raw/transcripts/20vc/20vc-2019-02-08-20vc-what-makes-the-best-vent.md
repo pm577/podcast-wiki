@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-02-08",
   "title": "20VC: What Makes The Best Venture Firms Today So Special, The 3 Structural Impediments That Face Ven",
-  "guest": "anjney-midha",
+  "guest": "20vc-what-makes-the-best-venture-firms-today-so-special",
   "tags": [
     "venture-capital",
     "founder-psychology",

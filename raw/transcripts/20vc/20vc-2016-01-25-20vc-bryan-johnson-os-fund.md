@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-01-25",
   "title": "20VC: Bryan Johnson @ OS Fund & Braintree on Investing In The Operating Systems Of Life & Why VC Sho",
-  "guest": "unknown-guest",
+  "guest": "20vc-bryan-johnson-os-fund-braintree",
   "tags": [
     "venture-capital",
     "founder-psychology",

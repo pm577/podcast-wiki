@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-12-30",
   "title": "20 VC: How To Say No Fast and Efficiently and Why UX Must Always Be At The Core Of What You Do with ",
-  "guest": "sitar-teli",
+  "guest": "20-vc-how-to-say-no-fast-and-efficientl",
   "tags": [
     "venture-capital",
     "enterprise-saas",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-07-25",
   "title": "20VC: Semil Shah on Why The Most Important Thing An Investor Can Do Is Attract Follow On & The Funda",
-  "guest": "unknown-guest",
+  "guest": "20vc-semil-shah",
   "tags": [
     "venture-capital",
     "founder-psychology",

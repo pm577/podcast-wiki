@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-11-23",
   "title": "20VC: Benchmark's Sarah Tavel on Why Chasing GMV Will Lead To The Wrong Direction, The 2 Crucial Tip",
-  "guest": "unknown-guest",
+  "guest": "20vc-benchmarks-sarah-tavel",
   "tags": [
     "venture-capital",
     "marketplaces"

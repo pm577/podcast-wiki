@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-04-12",
   "title": "20VC: Carta Founder Henry Ward on Why The Best Companies Are Not Product Led But Distribution Led, 3",
-  "guest": "unknown-guest",
+  "guest": "20vc-carta-founder-henry-ward",
   "tags": [
     "venture-capital",
     "founder-psychology",

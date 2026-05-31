@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-08-14",
   "title": "20VC: Why Few Firms Are Doing True Early Stage Investing Today, Why Founders Should Spend Time with ",
-  "guest": "analysts-when-raising",
+  "guest": "20vc-why-few-firms-are-doing-true-early",
   "tags": [
     "venture-capital",
     "founder-psychology",

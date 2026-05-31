@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-01-03",
   "title": "20VC: Why VC Is A Game of Maximising Serendipity, How VCs Can Characterise Their Approach To Working",
-  "guest": "kevin-thau",
+  "guest": "20vc-why-vc-is-a-game",
   "tags": [
     "venture-capital",
     "product-strategy"

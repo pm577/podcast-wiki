@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-12-02",
   "title": "20VC: Plaid and Column Co-Founder, William Hockey on Why the Brands that Win in Fintech Will Not Be ",
-  "guest": "unknown-guest",
+  "guest": "20vc-plaid-and-column-co-founder-william-hockey",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-09-18",
   "title": "20VC: Lambda School Founder, Austen Allred on How To Assess Your Relationship To Risk and Money, Why",
-  "guest": "scale",
+  "guest": "20vc-lambda-school-founder-austen-allred",
   "tags": [
     "venture-capital",
     "founder-psychology",

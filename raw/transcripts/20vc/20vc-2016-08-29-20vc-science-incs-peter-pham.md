@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-08-29",
   "title": "20VC: Science Inc's Peter Pham on Why The Battle Between Entrepreneurs & VCs Is Unfair, How To Even ",
-  "guest": "unknown-guest",
+  "guest": "20vc-science-incs-peter-pham",
   "tags": [
     "venture-capital",
     "founder-psychology",

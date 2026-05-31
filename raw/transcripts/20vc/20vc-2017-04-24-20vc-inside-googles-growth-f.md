@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-04-24",
   "title": "20VC: Inside Google's Growth Fund & The 3 Criteria They Look For With Potential Investments with Lae",
-  "guest": "laela-sturdy",
+  "guest": "lae",
   "tags": [
     "venture-capital",
     "go-to-market",

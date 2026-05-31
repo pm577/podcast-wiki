@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-12-07",
   "title": "20 Product: Marty Cagan on The Four Questions of Great Product Management, Product Lessons from Marc",
-  "guest": "unknown-guest",
+  "guest": "20-product-marty-cagan",
   "tags": [
     "founder-psychology",
     "product-strategy",

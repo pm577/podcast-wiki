@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-07-08",
   "title": "20VC: How to Build Anti-Fragile Venture Portfolios Today | Why Diversification is Overrated in Portf",
-  "guest": "mike-chalfen",
+  "guest": "20vc-how-to-build-anti",
   "tags": [
     "venture-capital",
     "product-strategy"

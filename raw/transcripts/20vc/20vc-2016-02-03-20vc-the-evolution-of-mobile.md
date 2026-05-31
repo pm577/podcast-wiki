@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-02-03",
   "title": "20VC: The Evolution Of Mobile & The Importance Of Follow On Funding with Hadley Harris @ Eniac Ventu",
-  "guest": "hadley-harris",
+  "guest": "hadley-harris-eniac-ventu",
   "tags": [
     "venture-capital",
     "ai-ml",

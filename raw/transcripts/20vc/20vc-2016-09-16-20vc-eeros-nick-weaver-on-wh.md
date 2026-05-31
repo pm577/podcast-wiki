@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-09-16",
   "title": "20VC: Eero's Nick Weaver on Why You Have To Grow One Stage Ahead of Where Your Business Is At and Wh",
-  "guest": "unknown-guest",
+  "guest": "20vc-eeros-nick-weaver",
   "tags": [
     "venture-capital",
     "founder-psychology",

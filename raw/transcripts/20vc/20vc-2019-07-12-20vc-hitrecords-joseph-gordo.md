@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-07-12",
   "title": "20VC: HitRecord's Joseph Gordon-Levitt on How Show Business Prepared Him For Life As An Entrepreneur",
-  "guest": "unknown-guest",
+  "guest": "20vc-hitrecords-joseph-gordon-levitt",
   "tags": [
     "venture-capital",
     "founder-psychology",

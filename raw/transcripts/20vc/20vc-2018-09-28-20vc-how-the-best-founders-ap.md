@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-09-28",
   "title": "20VC: How The Best Founders Approach Bet The Company Decisions, How to Put Your Board to Work & How ",
-  "guest": "maynard-webb",
+  "guest": "20vc-how-the-best-founders-approach-bet",
   "tags": [
     "venture-capital",
     "founder-psychology",

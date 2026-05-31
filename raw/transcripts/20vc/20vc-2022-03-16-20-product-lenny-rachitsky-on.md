@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-03-16",
   "title": "20 Product: Lenny Rachitsky on The 3 Key Roles of the Product Manager, 5 Skills All The Best PMs Hav",
-  "guest": "unknown-guest",
+  "guest": "20-product-lenny-rachitsky",
   "tags": [
     "venture-capital",
     "product-strategy",

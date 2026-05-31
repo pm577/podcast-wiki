@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-05-20",
   "title": "20VC: The Job of the CEO is Do As Little As Possible; How To Hire, What Questions To Ask, Why Pointy",
-  "guest": "ian-siegel",
+  "guest": "20vc-the-job",
   "tags": [
     "venture-capital",
     "founder-psychology",

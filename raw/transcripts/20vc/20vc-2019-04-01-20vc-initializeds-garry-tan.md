@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-04-01",
   "title": "20VC: Initialized's Garry Tan on The Most Important Thing A Seed Investor Can Do For Founders, How O",
-  "guest": "unknown-guest",
+  "guest": "20vc-initializeds-garry-tan",
   "tags": [
     "venture-capital",
     "founder-psychology",

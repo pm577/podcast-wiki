@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-02-17",
   "title": "20VC: Ashton Kutcher on Early Lessons From Investing in Airbnb and Spotify, Why VC Ownership Require",
-  "guest": "unknown-guest",
+  "guest": "20vc-ashton-kutcher",
   "tags": [
     "venture-capital",
     "founder-psychology",

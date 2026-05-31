@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-07-29",
   "title": "20VC: A Masterclass in Leadership and Scaling Companies: The Decisions only the CEO Can Make, The Se",
-  "guest": "christa-quarles",
+  "guest": "20vc-a-masterclass-in-leadership-and-sc",
   "tags": [
     "venture-capital",
     "founder-psychology",

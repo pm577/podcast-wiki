@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-11-05",
   "title": "20VC: Why The Engineer Will Replace The MBA As CEO, Why The Peace Dividends From The Autonomous Car ",
-  "guest": "avidan-ross",
+  "guest": "20vc-why-the-engineer-will-replace-the-mba-as-ceo",
   "tags": [
     "venture-capital",
     "product-strategy",

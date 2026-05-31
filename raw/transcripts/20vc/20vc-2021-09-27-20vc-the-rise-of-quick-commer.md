@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-09-27",
   "title": "20VC: The Rise of Quick Commerce and Why CPGs ARe Misaligned Being Powered By Ad Spend, The 5 Core C",
-  "guest": "ralf-wenzel",
+  "guest": "20vc-the-rise",
   "tags": [
     "venture-capital",
     "founder-psychology",

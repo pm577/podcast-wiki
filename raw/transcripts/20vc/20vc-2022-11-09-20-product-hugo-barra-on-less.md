@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-11-09",
   "title": "20 Product: Hugo Barra on Lessons Building Hardware Products at Android, Xiaomi, Oculus, and Detect;",
-  "guest": "unknown-guest",
+  "guest": "20-product-hugo-barra",
   "tags": [
     "product-strategy",
     "hiring-culture",

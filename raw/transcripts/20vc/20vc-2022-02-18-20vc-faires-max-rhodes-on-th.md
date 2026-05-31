@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-02-18",
   "title": "20VC: Faire's Max Rhodes on Three Steps To Hire the Best Candidates, Why Every Company Should Have a",
-  "guest": "unknown-guest",
+  "guest": "20vc-faires-max-rhodes",
   "tags": [
     "venture-capital",
     "founder-psychology",

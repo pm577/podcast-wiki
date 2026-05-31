@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-02-15",
   "title": "20VC: Arielle Zuckerberg @ Kleiner Perkins: A Review Of My First 6 Months in Venture",
-  "guest": "unknown-guest",
+  "guest": "20vc-arielle-zuckerberg-kleiner-perki",
   "tags": [
     "venture-capital",
     "product-strategy",

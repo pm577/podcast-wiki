@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-05-24",
   "title": "20VC: The Biggest Indicators Of Success In Founding Teams, How To Balance Both Vision and Operations",
-  "guest": "mar-hershenson",
+  "guest": "20vc-the-biggest-indicators-of-success-in-founding-teams",
   "tags": [
     "venture-capital",
     "product-strategy",

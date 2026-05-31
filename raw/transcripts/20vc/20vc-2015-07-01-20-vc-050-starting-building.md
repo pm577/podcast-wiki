@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-07-01",
   "title": "20 VC 050: Starting, Building and Selling in SaaS with the King of SaaS, Jason Lemkin, Managing Dire",
-  "guest": "unknown-guest",
+  "guest": "the-king-of-saas-jason-lemkin-managing-dire",
   "tags": [
     "venture-capital",
     "founder-psychology",

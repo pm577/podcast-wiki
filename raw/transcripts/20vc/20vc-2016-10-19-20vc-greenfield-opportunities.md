@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-10-19",
   "title": "20VC: Greenfield Opportunities For Machine Learning, Why Massive Corporates Finally See It's Potenti",
-  "guest": "james-cham",
+  "guest": "20vc-greenfield-opportunities-for-machine-learning",
   "tags": [
     "venture-capital",
     "ai-ml"

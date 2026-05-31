@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-05-03",
   "title": "20VC: Okta Founder Frederic Kerrest on Why You Want To Be A Monopolist In A Small Market, The Bigges",
-  "guest": "unknown-guest",
+  "guest": "20vc-okta-founder-frederic-kerrest",
   "tags": [
     "venture-capital",
     "founder-psychology",

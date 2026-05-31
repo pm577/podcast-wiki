@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-12-08",
   "title": "20 Sales: When To Hire Your Head of Sales/ First Reps, What To Look for in 10x Sales Candidates, How",
-  "guest": "kyle-parrish",
+  "guest": "20-sales-when-to-hire-your-head",
   "tags": [
     "go-to-market",
     "product-strategy",

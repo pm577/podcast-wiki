@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-03-18",
   "title": "20VC: Rappi Founder Sim\u00f3n Borrero on Growth vs Profitability, Capital Efficiency, Raising $1.7Bn as ",
-  "guest": "unknown-guest",
+  "guest": "20vc-rappi-founder-simn-borrero",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-09-16",
   "title": "20 VC 072: Super Angel, Fabrice Grinda: The Future of Startup Investing",
-  "guest": "unknown-guest",
+  "guest": "super-angel",
   "tags": [
     "venture-capital",
     "founder-psychology",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-05-01",
   "title": "20VC: Framework For Hiring The Best Talent 100% Remotely, Raising $32M From Benchmark and GV Pre-Lau",
-  "guest": "jeff-seibert",
+  "guest": "20vc-framework-for-hiring-the-best-talent-100-remotely-raisi",
   "tags": [
     "venture-capital",
     "founder-psychology",

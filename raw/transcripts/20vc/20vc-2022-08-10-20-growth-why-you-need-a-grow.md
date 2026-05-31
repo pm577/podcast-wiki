@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-08-10",
   "title": "20 Growth: Why You Need a Growth Hire Pre Product-Market-Fit? Why Every Company Will Be a Media Comp",
-  "guest": "unknown-guest",
+  "guest": "20-growth-why-you-need-a-growth-hire-pre-product-market",
   "tags": [
     "venture-capital",
     "go-to-market",

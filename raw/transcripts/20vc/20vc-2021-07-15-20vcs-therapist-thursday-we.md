@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2021-07-15",
   "title": "20VC's Therapist Thursday: We Are Not All Crushing It All The Time So Let's Stop Pretending, Working",
-  "guest": "nick-mehta",
+  "guest": "20vcs-therapist-thursday-we-are-not-al",
   "tags": [
     "venture-capital",
     "ai-ml",

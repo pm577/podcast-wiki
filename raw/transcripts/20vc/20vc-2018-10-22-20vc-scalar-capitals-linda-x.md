@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-10-22",
   "title": "20VC: Scalar Capital's Linda Xjie on Who Will Win The Smart Contract War, The Future of Exchanges: C",
-  "guest": "unknown-guest",
+  "guest": "20vc-scalar-capitals-linda-xjie",
   "tags": [
     "venture-capital",
     "founder-psychology",

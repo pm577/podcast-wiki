@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-02-03",
   "title": "20Product: When to Hire a CPO, The Three Different Types of CPO, How To Know What You Need, How To S",
-  "guest": "unknown-guest",
+  "guest": "20product-when-to-hire-a-cpo",
   "tags": [
     "venture-capital",
     "product-strategy",

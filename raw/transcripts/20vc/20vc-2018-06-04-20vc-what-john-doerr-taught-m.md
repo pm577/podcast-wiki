@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-06-04",
   "title": "20VC: What John Doerr Taught Me About Great Investing, Why Not All A Rounds Are Post-Traction and Wh",
-  "guest": "trae-vassallo",
+  "guest": "20vc-what-john-doerr-taught-me-about-great-investing-why-not",
   "tags": [
     "venture-capital",
     "founder-psychology"

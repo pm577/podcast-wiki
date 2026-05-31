@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-01-05",
   "title": "20VC: Whoop Founder, Will Ahmed on How CEOs Can Perform at their Highest Level, Why There is Value i",
-  "guest": "unknown-guest",
+  "guest": "20vc-whoop-founder-will-ahmed",
   "tags": [
     "venture-capital",
     "founder-psychology",

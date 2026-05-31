@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-11-21",
   "title": "20VC: Semil Shah on The Biggest Mistakes VCs and LPs Made Over the Last 24 Months, Why LP Churn is C",
-  "guest": "unknown-guest",
+  "guest": "20vc-semil-shah",
   "tags": [
     "venture-capital",
     "founder-psychology"

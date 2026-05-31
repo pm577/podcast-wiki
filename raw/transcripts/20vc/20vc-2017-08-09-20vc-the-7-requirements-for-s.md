@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-08-09",
   "title": "20VC: The 7 Requirements For Startup Scaling, Why VCs Must Approach Every Conversation with A Yes Me",
-  "guest": "renata-quintini",
+  "guest": "a-yes-me",
   "tags": [
     "venture-capital",
     "deeptech-hardware"

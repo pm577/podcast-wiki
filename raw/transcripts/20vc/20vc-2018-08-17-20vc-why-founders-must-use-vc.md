@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-08-17",
   "title": "20VC: Why Founders Must Use VCs as a Barometer, How to Make Distributed Teams Work Successfully & Th",
-  "guest": "dylan-serota",
+  "guest": "20vc-why-founders-must-use-vcs-as-a-barometer",
   "tags": [
     "venture-capital",
     "founder-psychology",

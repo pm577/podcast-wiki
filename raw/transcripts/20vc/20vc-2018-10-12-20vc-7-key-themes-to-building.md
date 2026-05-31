@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-10-12",
   "title": "20VC: 7 Key Themes To Building A Great Company To IPO, The Right Way To Assess Market Timing & How T",
-  "guest": "patrick-morley",
+  "guest": "20vc-7-key-themes-to-building-a-great-company-to-ipo",
   "tags": [
     "venture-capital",
     "founder-psychology",

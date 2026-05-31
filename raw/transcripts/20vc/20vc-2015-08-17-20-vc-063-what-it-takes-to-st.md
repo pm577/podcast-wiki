@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-08-17",
   "title": "20 VC 063: What It Takes To Standout In A Crowded Market with Ezra Galston @ Chicago Ventures",
-  "guest": "ezra-galston",
+  "guest": "ezra-galston-chicago-ventures",
   "tags": [
     "venture-capital",
     "consumer"

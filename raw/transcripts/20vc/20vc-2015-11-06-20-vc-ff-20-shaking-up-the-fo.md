@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-11-06",
   "title": "20 VC FF 20: Shaking Up The Food Industry With Willie Biggart @ Spoonfed",
-  "guest": "unknown-guest",
+  "guest": "20-vc-ff-20-shaking-up-the-food-industr",
   "tags": [
     "venture-capital",
     "ai-ml",

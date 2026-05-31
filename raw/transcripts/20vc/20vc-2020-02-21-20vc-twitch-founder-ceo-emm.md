@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-02-21",
   "title": "20VC: Twitch Founder & CEO Emmett Shear on When To Persist vs When To Give Up For Entrepreneurs, The",
-  "guest": "scale",
+  "guest": "20vc-twitch-founder-ceo-emmett-shear",
   "tags": [
     "venture-capital",
     "founder-psychology",

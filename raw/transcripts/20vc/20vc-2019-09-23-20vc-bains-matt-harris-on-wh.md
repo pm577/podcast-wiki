@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-09-23",
   "title": "20VC: Bain's Matt Harris on Why Valuation And Market Size Are Not The Most Important Thing At Series",
-  "guest": "unknown-guest",
+  "guest": "20vc-bains-matt-harris",
   "tags": [
     "venture-capital",
     "fintech",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-03-02",
   "title": "20VC: Building a Game Changing Consumer Startup and Hunting His 4th Unicorn with Jim Scheinman @ Mav",
-  "guest": "jim-scheinman",
+  "guest": "jim-scheinman-mav",
   "tags": [
     "venture-capital",
     "founder-psychology",

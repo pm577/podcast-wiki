@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-04-12",
   "title": "20Growth: How AI Will Change the Game For Content Creation and SEO, The Secret to Mastering SEO, Whe",
-  "guest": "joost-de-valk",
+  "guest": "20growth-how-ai-will-change-the-game-fo",
   "tags": [
     "venture-capital",
     "founder-psychology",

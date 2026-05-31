@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-12-19",
   "title": "20VC: Peloton CEO Barry McCarthy on Leadership Lessons Learned from Reed Hastings and Daniel Ek, Wha",
-  "guest": "unknown-guest",
+  "guest": "20vc-peloton-ceo-barry-mccarthy",
   "tags": [
     "venture-capital",
     "founder-psychology",

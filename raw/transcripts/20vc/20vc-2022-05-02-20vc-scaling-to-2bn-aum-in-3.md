@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-05-02",
   "title": "20VC: Scaling to $2BN AUM in 3 years, Fundraising Lessons and Tactics from 2,500 LP Meetings & What ",
-  "guest": "harley-miller",
+  "guest": "20vc-scaling-to-2bn-aum-in-3-years",
   "tags": [
     "venture-capital",
     "founder-psychology",

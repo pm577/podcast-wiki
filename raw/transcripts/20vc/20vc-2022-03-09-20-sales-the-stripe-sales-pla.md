@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-03-09",
   "title": "20 Sales: The Stripe Sales Playbook; Who Should Create It, When Should it Be Done, Where Do Many Go ",
-  "guest": "jeanne-de",
+  "guest": "20-sales-the-stripe-sales-playbook-who-should-create-it",
   "tags": [
     "go-to-market",
     "product-strategy",

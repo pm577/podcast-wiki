@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2025-12-15",
   "title": "20VC: a16z's David George on How $BN Funds Can 5\u00d7, Do Margins & Revenue Matter in AI & the Most Cont",
-  "guest": "unknown-guest",
+  "guest": "20vc-a16zs-david-george",
   "tags": [
     "venture-capital",
     "go-to-market",

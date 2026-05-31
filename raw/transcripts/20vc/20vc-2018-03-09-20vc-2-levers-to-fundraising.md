@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-03-09",
   "title": "20VC: 2 Levers To Fundraising: FOMO & Leverage and How To Use Them, How To Implement \"A Sustainable ",
-  "guest": "leore-avidar",
+  "guest": "20vc-2-levers-to-fundraising-fomo-le",
   "tags": [
     "venture-capital",
     "founder-psychology",

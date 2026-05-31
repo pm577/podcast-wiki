@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-12-10",
   "title": "20VC: Hopin, The Breakout Startup of 2020 on Scaling from 10 to 230 People and $174M in Funding in j",
-  "guest": "unknown-guest",
+  "guest": "20vc-hopin-the-breakout-startup-of-2020",
   "tags": [
     "venture-capital",
     "founder-psychology",

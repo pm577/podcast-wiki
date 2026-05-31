@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2019-02-18",
   "title": "20VC: AOL Founder, Steve Case on Why The Best Venture Investments of The Next 10 Years Will Likely N",
-  "guest": "unknown-guest",
+  "guest": "20vc-aol-founder-steve-case",
   "tags": [
     "venture-capital",
     "founder-psychology",

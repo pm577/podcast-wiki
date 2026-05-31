@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-09-16",
   "title": "20VC: From Struggling to Raise Funding to IPOing at Close to $9BN Just Five Years Later; The $8BN Co",
-  "guest": "small-teams",
+  "guest": "20vc-from-struggling-to-raise-funding-to-ipoing",
   "tags": [
     "venture-capital",
     "product-strategy",

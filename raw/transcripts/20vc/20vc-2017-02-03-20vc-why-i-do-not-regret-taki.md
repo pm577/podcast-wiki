@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2017-02-03",
   "title": "20VC: Why I Do Not Regret Taking 'Peter Thiel Money', What Is The Difference Between Leadership & Ma",
-  "guest": "tim-junio",
+  "guest": "20vc-why-i-do-not-regret-taking-peter-thiel-money",
   "tags": [
     "venture-capital",
     "founder-psychology",

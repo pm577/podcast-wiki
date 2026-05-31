@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2020-04-08",
   "title": "20VC: Are VCs Still \"Open For Business\", How VCs Attitude To Risk Has Changed & The 2 Most Valuable ",
-  "guest": "fred-destin",
+  "guest": "20vc-are-vcs-still-open-for-business",
   "tags": [
     "venture-capital",
     "founder-psychology"

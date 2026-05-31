@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2016-04-20",
   "title": "20VC: The Rise Of The Celebrity VC & The Pros and Cons Of Staying Private with Logan Bartlett @ Batt",
-  "guest": "logan-bartlett",
+  "guest": "logan-bartlett-batt",
   "tags": [
     "venture-capital",
     "go-to-market",

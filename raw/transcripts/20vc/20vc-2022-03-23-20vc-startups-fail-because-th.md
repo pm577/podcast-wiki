@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-03-23",
   "title": "20VC: Startups Fail Because They Do Not Take Enough Risk, Why A/B Testing is Inefficient and Slows Y",
-  "guest": "grant-la",
+  "guest": "20vc-startups-fail-because-they-do-not-take-enough-risk",
   "tags": [
     "venture-capital",
     "founder-psychology",

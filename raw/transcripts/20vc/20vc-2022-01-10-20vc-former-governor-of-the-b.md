@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-01-10",
   "title": "20VC: Former Governor of the Bank of England, Mark Carney on Why \"Only the Niche Will Survive\" in Cr",
-  "guest": "unknown-guest",
+  "guest": "20vc-former-governor-of-the-bank-of-england-mark-carney",
   "tags": [
     "venture-capital",
     "fintech",

@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-05-25",
   "title": "20VC: The Core Lessons From Building a 150 Startup Angel Portfolio, Why Founders Who Angel Invest Ha",
-  "guest": "adrian-aoun",
+  "guest": "20vc-the-core-lessons-from-building-a-1",
   "tags": [
     "venture-capital",
     "founder-psychology",

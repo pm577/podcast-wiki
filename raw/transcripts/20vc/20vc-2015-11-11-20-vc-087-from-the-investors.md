@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2015-11-11",
   "title": "20 VC 087: From The Investors Of Spotify, TrustPilot and Klarna with Jeppe Zink, General Partner @ N",
-  "guest": "jeppe-zink",
+  "guest": "jeppe-zink-general-partner-n",
   "tags": [
     "venture-capital",
     "marketplaces",

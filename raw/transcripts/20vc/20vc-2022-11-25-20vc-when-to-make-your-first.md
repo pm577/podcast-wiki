@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2022-11-25",
   "title": "20VC: When to Make Your First Growth Hire? Senior or Junior? How To Onboard Them? How To Monitor The",
-  "guest": "unknown-guest",
+  "guest": "20vc-when-to-make-your-first-growth-hir",
   "tags": [
     "venture-capital",
     "go-to-market",

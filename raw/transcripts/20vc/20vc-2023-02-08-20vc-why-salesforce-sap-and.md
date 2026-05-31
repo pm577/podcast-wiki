@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2023-02-08",
   "title": "20VC: Why Salesforce, SAP and Concur Will Die | Scaling 3x and Raising at a $9.2BN Valuation in COVI",
-  "guest": "ariel-cohen",
+  "guest": "20vc-why-salesforce",
   "tags": [
     "venture-capital",
     "founder-psychology",

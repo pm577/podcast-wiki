@@ -5,7 +5,7 @@
   "podcast": "20vc",
   "episode_date": "2018-10-15",
   "title": "20VC: First Round's Phin Barnes on How The Best Founders Optimize for Learning Per Dollar Spent, Wha",
-  "guest": "unknown-guest",
+  "guest": "20vc-first-rounds-phin-barnes",
   "tags": [
     "venture-capital",
     "founder-psychology",
