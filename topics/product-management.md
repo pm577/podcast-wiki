@@ -1,0 +1,13 @@
+---
+# Topic: product-management
+#source: auto-generated
+---
+
+# product-management
+
+## Episodes (1)
+
+- [[lenny/various|Countdown of the top 10 episodes of the year]] — *Various (Year-End Review)* (2022-12-29)
+
+---
+- [[lenny/gokul-rajaram|Gokul Rajaram on designing your product development process, when and how to hire your first PM, a playbook for hiring leaders, getting ahead in your career, how to get started angel investing, and more]] — *Gokul Rajaram* (2022-01-01)

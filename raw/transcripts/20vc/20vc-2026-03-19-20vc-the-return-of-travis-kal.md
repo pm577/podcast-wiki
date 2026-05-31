@@ -1,0 +1,33 @@
+---
+{
+  "type": "Episode",
+  "id": "20vc-2026-03-19-20vc-the-return-of-travis-kal",
+  "podcast": "20vc",
+  "episode_date": "2026-03-19",
+  "title": "20VC: The Return of Travis Kalanick: Uber Would Be $1TRN Today With Him | NVIDIA Predicts $1TRN in R",
+  "guest": "unknown-guest",
+  "tags": [
+    "venture-capital",
+    "founder-psychology",
+    "go-to-market",
+    "ai-ml"
+  ],
+  "url": "https://thetwentyminutevc.libsyn.com/20vc-the-return-of-travis-kalanick-uber-would-be-1trn-today-with-him-nvidia-predicts-1trn-in-revenue-everything-you-need-to-know-from-gtc-anduril-lands-20bn-army-contract-adobe-ceo-shock-exit-the-dominos-falling"
+}
+---
+
+# 20VC: The Return of Travis Kalanick: Uber Would Be $1TRN Today With Him | NVIDIA Predicts $1TRN in Revenue: Everything You Need to Know From GTC | Anduril Lands $20BN Army Contract | Adobe CEO Shock Exit: The Dominos Falling
+
+**Guest:** Unknown Guest
+**Date:** 2026-03-19
+**Topics:** venture-capital, founder-psychology, go-to-market, ai-ml
+
+## Summary
+
+AGENDA: 04:02 NVIDIA's GTC: What You Need to Know 11:39 Meta's 20% Layoffs & Atlassian Lets Go of 1,600 21:42 How to Test AI Fluency in Employees 30:59 Anduril Lands $20BN Army Contract 46:46 Travis Kalanick Returns With Atoms 49:55 If Travis Kalanick Ran Uber Today, Would it be $1TRN Company? 56:03 When is it Right to Replace Founders 01:04:24 Adobe CEO Exit Shock    
+
+## Links
+
+- [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-the-return-of-travis-kalanick-uber-would-be-1trn-today-with-him-nvidia-predicts-1trn-in-revenue-everything-you-need-to-know-from-gtc-anduril-lands-20bn-army-contract-adobe-ceo-shock-exit-the-dominos-falling)
+
+<!-- Full transcript not yet available. Will be added when transcribed. -->

@@ -1,0 +1,131 @@
+---
+episodes_covered:
+- lenny-2026-05-24-dan-shipper
+- lenny-2026-05-10-eric-ries-lean-startup-author
+- lenny-2026-04-26-evan-spiegel
+- lenny-2026-04-12-keith-rabois
+- lenny-2026-04-05-amol-avasare
+- lenny-2026-03-29-claire-vo
+- lenny-2026-03-22-jessica-fain
+- lenny-2026-02-26-jeetu-patel
+- lenny-2026-02-19-boris-cherny
+- lenny-2026-02-15-brian-halligan
+- lenny-2026-02-12-sherwin-wu-v2
+- lenny-2026-01-25-jason-cohen
+- lenny-2026-01-18-zevi-arnovitz
+- lenny-2026-01-04-molly-graham
+- lenny-2026-01-01-jason-m-lemkin
+- lenny-2025-12-28-matt-macinnis
+- lenny-2025-12-18-elena-verna-40
+- lenny-2025-12-07-edwin-chen
+- lenny-2025-11-30-jeanne-grosser
+- lenny-2025-11-20-stewart-butterfield
+- lenny-2025-11-13-grant-lee
+- lenny-2025-11-09-jen-abel
+- lenny-2025-11-02-melanie-perkins
+- lenny-2025-10-26-dhanji-r-prasanna
+- lenny-2025-10-23-chip-huyen
+- lenny-2025-10-10-robby-stein
+- lenny-2025-10-09-jason-droege
+- lenny-2025-10-05-albert-cheng
+- lenny-2025-09-29-ravi-mehta
+- lenny-2025-09-18-brendan-foody
+- lenny-2025-09-11-ben-horowitz
+- lenny-2025-09-08-scott-wu
+- lenny-2025-08-31-howie-liu
+---
+
+# pricing
+
+## Episodes (90)
+
+- [[lenny/sander-schulhoff-20|Why securing AI is harder than anyone expected and guardrails are failing | HackAPrompt CEO]] — *Sander Schulhoff 2.0* (2025-12-21)
+- [[lenny/elena-verna-40|The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year]] — *Elena Verna 4.0* (2025-12-18)
+- [[lenny/jeanne-grosser|What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)]] — *Jeanne Grosser* (2025-11-30)
+- [[lenny/stewart-butterfield|Mental models for building products people love ft. Stewart Butterfield]] — *Stewart Butterfield* (2025-11-20)
+- [[lenny/grant-lee|“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)]] — *Grant Lee* (2025-11-13)
+- [[lenny/jen-abel-20|$1M to $10M: The enterprise sales playbook with Jen Abel]] — *Jen Abel 2.0* (2025-11-09)
+- [[lenny/melanie-perkins|She turned 100+ rejections into a $42B company | Melanie Perkins]] — *Melanie Perkins* (2025-11-02)
+- [[lenny/chip-huyen|Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)]] — *Chip Huyen* (2025-10-23)
+- [[lenny/albert-cheng|Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)]] — *Albert Cheng* (2025-10-05)
+- [[lenny/eoghan-mccabe|How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)]] — *Eoghan McCabe* (2025-08-21)
+- [[lenny/brian-balfour|Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour]] — *Brian Balfour* (2025-08-17)
+- [[lenny/nick-turley|Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI)]] — *Nick Turley* (2025-08-09)
+- [[lenny/bret-taylor|He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor (Sierra)]] — *Bret Taylor* (2025-07-31)
+- [[lenny/madhavan-ramanujam|Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam]] — *Madhavan Ramanujam* (2025-07-27)
+- [[lenny/andrew-wilkinson|I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson]] — *Andrew Wilkinson* (2025-07-03)
+- [[lenny/hilary-gridley|How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)]] — *Hilary Gridley* (2025-06-15)
+- [[lenny/bob-baxley|35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley]] — *Bob Baxley* (2025-06-12)
+- [[lenny/sanchan-saxena|Why Uber’s CPO delivers food on weekends | Sachin Kansal]] — *Sanchan Saxena* (2025-06-01)
+- [[lenny/krithika-shankarraman|Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman]] — *Krithika Shankarraman* (2025-05-25)
+- [[lenny/mayur-kamat|Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26)]] — *Mayur Kamat* (2025-05-22)
+- [[lenny/dmitry-zlokazov|How Revolut trains world-class PMs: The “Local CEO” model, raw intellect & building wow products]] — *Dmitry Zlokazov* (2025-05-15)
+- [[lenny/rahul-vohra|Superhuman's secret to success | Rahul Vohra (CEO and founder)]] — *Rahul Vohra* (2025-03-23)
+- [[lenny/eric-simons|Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons]] — *Eric Simons* (2025-03-13)
+- [[lenny/bob-moesta|How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)]] — *Bob Moesta* (2025-02-23)
+- [[lenny/uri-levine|A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)]] — *Uri Levine* (2025-02-16)
+- [[lenny/tobi-lutke|Tobi Lütke's leadership playbook: First principles, infinite games, and maximizing human potential]] — *Tobi Lutke* (2025-02-02)
+- [[lenny/nan-yu|Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)]] — *Nan Yu* (2025-01-30)
+- [[lenny/shaun-clowes|Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)]] — *Shaun Clowes* (2024-12-29)
+- [[lenny/amjad-masad|Behind the product: Replit | Amjad Masad (co-founder and CEO)]] — *Amjad Masad* (2024-11-21)
+- [[lenny/raaz-herzberg|Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)]] — *Raaz Herzberg* (2024-11-17)
+- [[lenny/jessica-hische|How to see like a designer: The hidden power of typography and logos | Jessica Hische]] — *Jessica Hische* (2024-10-20)
+- [[lenny/manik-gupta|Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta]] — *Manik Gupta* (2024-10-17)
+- [[lenny/john-mark-nickels|Conscious leadership: Unlocking vision, strategy and purpose | JM Nickels (Uber, Waymo, DoorDash)]] — *John Mark Nickels* (2024-10-06)
+- [[lenny/deb-liu|Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu]] — *Deb Liu* (2024-08-22)
+- [[lenny/kevin-yien|Unorthodox PM tips: Automating user insights, unselling candidates, decision logs, more | Kevin Yien]] — *Kevin Yien* (2024-08-18)
+- [[lenny/joe-hudson|How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)]] — *Joe Hudson* (2024-08-08)
+- [[lenny/brian-tolkin|Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)]] — *Brian Tolkin* (2024-08-04)
+- [[lenny/timothy-davis|The ultimate guide to paid growth | Timothy Davis (Shopify)]] — *Timothy Davis* (2024-07-28)
+- [[lenny/roger-martin|5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker)]] — *Roger Martin* (2024-07-25)
+- [[lenny/mike-maples-jr|Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)]] — *Mike Maples Jr* (2024-07-07)
+- [[lenny/jag-duggal|Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)]] — *Jag Duggal* (2024-05-16)
+- [[lenny/vikrama-dhiman|A framework for PM skill development | Vikrama Dhiman (Gojek)]] — *Vikrama Dhiman* (2024-05-12)
+- [[lenny/todd-jackson|A framework for finding product-market fit | Todd Jackson (First Round Capital)]] — *Todd Jackson* (2024-04-11)
+- [[lenny/claire-vo|Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)]] — *Claire Vo* (2024-04-07)
+- [[lenny/jackie-bavaro|Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)]] — *Jackie Bavaro* (2024-04-07)
+- [[lenny/dharmesh-shah|Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)]] — *Dharmesh Shah* (2024-04-04)
+- [[lenny/emilie-gerber|The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)]] — *Emilie Gerber* (2024-03-21)
+- [[lenny/ray-cao|Product management theater | Marty Cagan (Silicon Valley Product Group)]] — *Ray Cao* (2024-03-10)
+- [[lenny/jake-knapp-john-zeratsky|Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)]] — *Jake Knapp + John Zeratsky* (2024-02-11)
+- [[lenny/jake-knapp-john-zeratsky-20|Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)]] — *Jake Knapp + John Zeratsky 2.0* (2024-02-11)
+- [[lenny/geoffrey-moore|Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market]] — *Geoffrey Moore* (2024-01-25)
+- [[lenny/sarah-tavel|The hierarchy of engagement | Sarah Tavel (Benchmark, Greylock, Pinterest)]] — *Sarah Tavel* (2023-12-27)
+- [[lenny/anuj-rathi|The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)]] — *Anuj Rathi* (2023-12-07)
+- [[lenny/ramesh-johari|Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford professor)]] — *Ramesh Johari* (2023-11-09)
+- [[lenny/paul-adams|What AI means for your product strategy | Paul Adams (CPO of Intercom)]] — *Paul Adams* (2023-10-26)
+- [[lenny/april-dunford|A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)]] — *April Dunford* (2023-10-22)
+- [[lenny/karri-saarinen|Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)]] — *Karri Saarinen* (2023-10-08)
+- [[lenny/nilan-peiris|How to drive word of mouth | Nilan Peiris (CPO of Wise)]] — *Nilan Peiris* (2023-09-24)
+- [[lenny/claire-butler|An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)]] — *Claire Butler* (2023-09-07)
+- [[lenny/camille-hearst|Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst]] — *Camille Hearst* (2023-08-20)
+- [[lenny/christopher-miller|Relentless curiosity, radical accountability, and HubSpot’s winning growth formula | Chris Miller]] — *Christopher Miller* (2023-08-10)
+- [[lenny/julia-schottenstein|M&A, competition, pricing, and investing | Julia Schottenstein (dbt Labs)]] — *Julia Schottenstein* (2023-07-13)
+- [[lenny/melissa-tan|Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)]] — *Melissa Tan* (2023-06-18)
+- [[lenny/ada-chen-rekhi|Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi]] — *Ada Chen Rekhi* (2023-04-21)
+- [[lenny/varun-parmar|An inside look at how Miro builds product | Varun Parmar (CPO of Miro)]] — *Varun Parmar* (2023-04-20)
+- [[lenny/casey-winters|Why most product managers are unprepared for the demands of a real startup | Casey Winters]] — *Casey Winters* (2023-04-14)
+- [[lenny/laura-schaffer|Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura Schaffer (Amplitude)]] — *Laura Schaffer* (2023-03-09)
+- [[lenny/patrick-campbell|10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell)]] — *Patrick Campbell* (2023-02-19)
+- [[lenny/eeke-de-milliano|How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)]] — *Eeke de Milliano* (2023-02-02)
+- [[lenny/vijay|An inside look at Mixpanel’s product journey | Vijay Iyengar]] — *Vijay* (2023-01-26)
+- [[lenny/april-dunford-20|How to nail your product positioning | April Dunford (Obviously Awesome)]] — *April Dunford 2.0* (2023-01-22)
+- [[lenny/ravi-mehta|How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)]] — *Ravi Mehta* (2023-01-19)
+- [[lenny/john-cutler|What differentiates the highest-performing product teams | John Cutler (The Beautiful Mess)]] — *John Cutler* (2023-01-15)
+- [[lenny/madhavan-ramanujam-20|The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher)]] — *Madhavan Ramanujam 2.0* (2022-12-08)
+- [[lenny/sahil-mansuri|How to hit revenue targets in a recession | Sahil Mansuri (Bravado)]] — *Sahil Mansuri* (2022-12-04)
+- [[lenny/merci-grace|How to work through fear, give hard feedback, and doing layoffs with grace | Matt Mochary]] — *Merci Grace* (2022-11-10)
+- [[lenny/ben-williams|How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)]] — *Ben Williams* (2022-11-06)
+- [[lenny/adriel-frederick|Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)]] — *Adriel Frederick* (2022-10-20)
+- [[lenny/janna-bastow|Building better roadmaps | Janna Bastow (Mind the Product, ProdPad)]] — *Janna Bastow* (2022-10-16)
+- [[lenny/adam-fishman|How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)]] — *Adam Fishman* (2022-10-13)
+- [[lenny/dan-hockenmaier|Developing a growth model + marketplace growth strategy | Dan Hockenmaier]] — *Dan Hockenmaier* (2022-10-09)
+- [[lenny/jason-shah|Building a meaningful career | Jason Shah (Airbnb, Amazon, Microsoft, Alchemy)]] — *Jason Shah* (2022-09-18)
+- [[lenny/adam-grenier|When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)]] — *Adam Grenier* (2022-09-15)
+- [[lenny/shreyas-doshi|The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)]] — *Shreyas Doshi* (2022-08-25)
+- [[lenny/arielle-jackson|The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)]] — *Arielle Jackson* (2022-08-18)
+- [[lenny/shishir-mehrotra|The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft]] — *Shishir Mehrotra* (2022-08-14)
+- [[lenny/crystal-w|How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu]] — *Crystal W* (2022-07-31)
+- [[lenny/nickey-skarstad|Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing product quality, second-order decisions, brainstorming, influence, and much more]] — *Nickey Skarstad* (2022-07-18)
+- [[lenny/daniel-lereya|Daniel Lereya]] — *Daniel Lereya* (unknown date)
+- [[lenny/peter-deng|Peter Deng]] — *Peter Deng* (unknown date)
