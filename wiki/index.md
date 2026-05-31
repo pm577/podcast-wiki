@@ -2138,3 +2138,8 @@ Total query pages: 764
 - [[paul-millerd]] — Paul Millerd
 - [[teresa-torres]] — Teresa Torres
 - [[uri-levine]] — Uri Levine
+- [[jonathan-lowenhar]] — Jonathan Lowenhar
+- [[lulu-cheng-meservey]] — Lulu Cheng Meservey
+- [[oji-udezue]] — Oji Udezue
+- [[yuriy-timen]] — Yuriy Timen
+- [[zoelle-egner]] — Zoelle Egner
