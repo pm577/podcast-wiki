@@ -2119,3 +2119,8 @@ Total query pages: 764
 - [[luc-levesque]] — Luc Levesque
 - [[nan-yu]] — Nan Yu
 - [[nikita-miller]] — Nikita Miller
+- [[judd-antin]] — Judd Antin
+- [[kristen-berman]] — Kristen Berman
+- [[lane-shackleton]] — Lane Shackleton
+- [[lauren-ipsen]] — Lauren Ipsen
+- [[will-larson]] — Will Larson
