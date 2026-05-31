@@ -1,4 +1,5 @@
 ---
+
 title: Claire Vo
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, launchdarkly, experimentation, chatprd, ai, c
 sources:
   - raw/transcripts/lenny/claire-vo.md
 confidence: high
+subtype: person
 ---
 
 # Claire Vo

@@ -1,4 +1,5 @@
 ---
+
 title: Camille Ricketts
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, community-led-growth, content-marketing, notion, marketing, brand
 sources:
   - raw/transcripts/lenny/camille-ricketts.md
 confidence: high
+subtype: person
 ---
 
 # Camille Ricketts

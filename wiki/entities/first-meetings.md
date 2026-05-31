@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: first-meetings
 name: First Meetings
 source: 20vc

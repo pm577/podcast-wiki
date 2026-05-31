@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: if-you-want-to-go-big-today
 name: If You Want To Go Big Today
 source: 20vc

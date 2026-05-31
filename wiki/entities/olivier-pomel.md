@@ -1,4 +1,5 @@
 ---
+
 title: Olivier Pomel
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, hiring-culture, person, product-strategy, vent
 sources:
   - raw/transcripts/20vc/20vc-2021-04-05-20vc-datadog-ceo-olivier-pome.md
 confidence: medium
+subtype: person
 ---
 
 

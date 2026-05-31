@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: make-distributed-teams-work-successfully
 name: Make Distributed Teams Work Successfully
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: is-defensibility-gone-for-good
 name: Is Defensibility Gone For Good
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-08-25
 tags: ["ai-ml", "enterprise-saas", "venture-capital"]
 related_concepts: []
 key_views: ["Byron Deeter is a Partner at Bessemer Venture Partners, and one of the most renowned SaaS investors."]
+subtype: article
 ---
 
 # Is Defensibility Gone For Good

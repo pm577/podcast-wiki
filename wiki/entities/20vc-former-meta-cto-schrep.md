@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-former-meta-cto-schrep
 name: "20VC: Former Meta CTO, Schrep"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Former Meta CTO, Schrep on Why Climate is a $10TRN Problem,
 ## Summary
 
  Mike Schroepfer (Schrep) is the Founder & Partner @ Gigascale Capital, a new kind of climate-focused investment firm."]
+subtype: article
 ---
 
 # 20VC: Former Meta CTO, Schrep

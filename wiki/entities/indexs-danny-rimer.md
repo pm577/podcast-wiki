@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: indexs-danny-rimer
 name: Index's Danny Rimer
 source: 20vc

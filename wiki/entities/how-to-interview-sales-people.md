@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-interview-sales-people
 name: How To Interview Sales People
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-09-14
 tags: ["go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Eleanor Dorfman is a Sales Leader @ Retool, the company that allows you to build internal tools, remarkably fast."]
+subtype: article
 ---
 
 # How To Interview Sales People

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-mit-selects-venture-managers-t
 name: "20VC: How MIT Selects Venture Managers t"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How MIT Selects Venture Managers to Invest in | The Three C
 ## Summary
 
  Ryan Akkina is a member of the Global Investment Team at the MIT Investment Management Company (MITIMCo), which is responsible for managing MIT's endowment and pension plans."]
+subtype: article
 ---
 
 # 20VC: How MIT Selects Venture Managers t

@@ -1,4 +1,5 @@
 ---
+
 title: Revolut Founder Nikolay Storonsky
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, fintech, founder-psychology, person, product-strategy, venture-cap
 sources:
   - raw/transcripts/20vc/20vc-2021-04-12-20vc-revolut-founder-nikolay.md
 confidence: medium
+subtype: person
 ---
 
 

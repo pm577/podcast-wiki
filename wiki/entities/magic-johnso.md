@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: magic-johnso
 name: Magic Johnso
 source: 20vc

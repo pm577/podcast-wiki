@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: brex-founder-henrique-dubugras
 name: Brex Founder Henrique Dubugras
 source: 20vc

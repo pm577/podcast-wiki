@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-ultimate-guide-to-scaling-marketplaces
 name: "20VC: The Ultimate Guide to Scaling Marketplaces"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Ultimate Guide to Scaling Marketplaces, Why Rule of 40 
 ## Summary
 
  Thomas Plantenga is the CEO @ Vinted, one of the fastest-growing marketplaces in the world with a  valuation of $4.5BN."]
+subtype: article
 ---
 
 # 20VC: The Ultimate Guide to Scaling Marketplaces

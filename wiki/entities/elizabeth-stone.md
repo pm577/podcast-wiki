@@ -1,4 +1,5 @@
 ---
+
 title: Elizabeth Stone
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, netflix, ctio, economics, data, culture, leadership]
 sources:
   - raw/transcripts/lenny/elizabeth-stone.md
 confidence: high
+subtype: person
 ---
 
 # Elizabeth Stone

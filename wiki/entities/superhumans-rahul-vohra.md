@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: superhumans-rahul-vohra
 name: Superhuman's Rahul Vohra
 source: 20vc

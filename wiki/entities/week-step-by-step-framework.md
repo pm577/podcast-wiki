@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: week-step-by-step-framework
 name: Week Step-by-Step Framework
 source: 20vc

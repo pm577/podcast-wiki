@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: alice-bentinck
 name: Alice Bentinck
 source: 20vc

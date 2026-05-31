@@ -1,4 +1,5 @@
 ---
+
 title: Sachin Monga
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, substack, product-management, facebook, creator-economy, subscrip
 sources:
   - raw/transcripts/lenny/sachin-monga.md
 confidence: high
+subtype: person
 ---
 
 # Sachin Monga
@@ -46,3 +48,15 @@ Monga emphasizes the importance of hiring high-caliber, multi-disciplinary peopl
 - [[subscriptions]]
 - [[product-management]]
 - [[growth-loops]]
+
+---
+
+*Merged from [[sachin]]:*
+
+# Sachin
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/sachin-monga|Building Substack | Sachin Monga (Substack, Facebook)]] — *to be summarized*

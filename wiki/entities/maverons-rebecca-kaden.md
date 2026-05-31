@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: maverons-rebecca-kaden
 name: Maveron's Rebecca Kaden
 source: 20vc

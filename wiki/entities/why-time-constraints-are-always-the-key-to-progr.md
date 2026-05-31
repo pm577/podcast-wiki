@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-time-constraints-are-always-the-key-to-progr
 name: Why Time Constraints Are Always The Key To Progr
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-08-19
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Paul Berberian is the CEO of Orbotix, the company that created Sphero, the robotic ball controlled from your smartphone."]
+subtype: article
 ---
 
 # Why Time Constraints Are Always The Key To Progr

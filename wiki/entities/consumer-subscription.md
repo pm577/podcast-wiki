@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: consumer-subscription
 name: Consumer Subscription
 source: 20vc

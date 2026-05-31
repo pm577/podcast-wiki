@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: tracy-lawrence
 name: Tracy Lawrence
 source: 20vc

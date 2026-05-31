@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lessons-from-scaling
 name: Lessons From Scaling
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-key-to-building-an-enduring-game
 name: The Key To Building An Enduring Game
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-03-17
 tags: ["ai-ml", "founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Kevin Chou is co-founder and CEO of Kabam, a world leader in mobile free-to-play games."]
+subtype: article
 ---
 
 # The Key To Building An Enduring Game

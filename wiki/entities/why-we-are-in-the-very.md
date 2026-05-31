@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-we-are-in-the-very
 name: Why We Are In The Very
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-07-17
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Kirsten Green is the Founding General Partner @ Forerunner Ventures, where she has raised over $250M from leading investors and has invested in more than 40 early-stage companies."]
+subtype: article
 ---
 
 # Why We Are In The Very

@@ -1301,6 +1301,8 @@ Key ideas, frameworks, and strategies synthesized across episodes.
 - [[work-life-balance]]
 - [[year-end]]
 
+- [[synthesis-quality-standard]] — Quality benchmark for synthesized answers. Exemplar with anti-patterns.
+
 ## Comparisons
 
 *Compare guests, companies, or approaches side by side.*
@@ -2108,3 +2110,8 @@ Total query pages: 764
 - [[tristan-de-montebello]] — Tristan de Montebello
 - [[archie-abrams]] — Archie Abrams
 - [[dharmesh-shah]] — Dharmesh Shah
+- [[ramesh-johari]] — Ramesh Johari
+- [[todd-jackson]] — Todd Jackson
+- [[karina-nguyen]] — Karina Nguyen
+- [[krithika-shankarraman]] — Krithika Shankarraman
+- [[patrick-campbell]] — Patrick Campbell

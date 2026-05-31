@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20-sales-why-founders-should-not-be-the
 name: "20 Sales: Why Founders Should Not Be The"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20 Sales: Why Founders Should Not Be The One To Create The Sales 
 ## Summary
 
  Zhenya Loginov is the CRO @ Miro, the leading visual collaboration platform that helps bring teams together and meaningfully improves the way people work."]
+subtype: article
 ---
 
 # 20 Sales: Why Founders Should Not Be The

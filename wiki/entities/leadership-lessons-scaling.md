@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: leadership-lessons-scaling
 name: Leadership Lessons Scaling
 source: 20vc

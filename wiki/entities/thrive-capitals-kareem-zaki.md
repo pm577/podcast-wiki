@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: thrive-capitals-kareem-zaki
 name: Thrive Capital's Kareem Zaki
 source: 20vc

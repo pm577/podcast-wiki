@@ -1,4 +1,5 @@
 ---
+
 title: Paul Millerd
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/paul-millerd.md
 confidence: high
 key_finding: The default path vs the pathless path — designing work around what you love
+subtype: person
 ---
 
 # Paul Millerd

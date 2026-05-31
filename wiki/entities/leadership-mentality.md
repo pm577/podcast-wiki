@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: leadership-mentality
 name: Leadership Mentality
 source: 20vc

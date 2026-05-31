@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: are-foundation-models-commoditising
 name: Are Foundation Models Commoditising
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-05-06
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Arthur Mensch is the Co-Founder and CEO of Mistral AI.", "Sarah Tavel is a General Partner @ Benchmark, one of the most successful and renowned venture firms in the world."]
+subtype: article
 ---
 
 # Are Foundation Models Commoditising

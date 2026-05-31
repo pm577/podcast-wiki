@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-self-awareness-is-the-most-imp
 name: "20VC: Why Self-Awareness Is The Most Imp"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-11-10
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Lloyd Tabb is the Founder & Chairman @ Looker, the startup leader pioneering the next generation of business intelligence (BI)."]
+subtype: article
 ---
 
 # 20VC: Why Self-Awareness Is The Most Imp

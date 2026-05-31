@@ -1,4 +1,5 @@
 ---
+
 title: Eric Ries
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, lean-startup, methodology, mvp, pivot, author, lste]
 sources:
   - raw/transcripts/lenny/eric-ries.md
 confidence: high
+subtype: person
 ---
 
 # Eric Ries

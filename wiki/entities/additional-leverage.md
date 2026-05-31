@@ -1,4 +1,5 @@
 ---
+
 title: Additional Leverage
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, ai-ml, enterprise-saas]
 sources:
   - raw/transcripts/20vc/20vc-2019-07-15-20vc-zoom-from-series-a-to-ip.md
 confidence: medium
+subtype: person
 ---
 
 

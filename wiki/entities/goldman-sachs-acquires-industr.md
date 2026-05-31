@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: goldman-sachs-acquires-industr
 name: Goldman Sachs Acquires Industr
 source: 20vc

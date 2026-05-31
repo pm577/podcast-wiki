@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: optimising-investment-decision-making
 name: Optimising Investment Decision-Making
 source: 20vc

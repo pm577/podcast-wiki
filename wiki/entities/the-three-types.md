@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-three-types
 name: The Three Types
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-10-27
 tags: ["enterprise-saas", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Ed Sim is one of the best seed round investors in venture as the Founder and Managing Partner @ Boldstart, Ed focuses specifically on developer, infra and SaaS at pre-seed and seed round."]
+subtype: article
 ---
 
 # The Three Types

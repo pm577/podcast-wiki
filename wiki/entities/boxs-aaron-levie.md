@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: boxs-aaron-levie
 name: Box's Aaron Levie
 source: 20vc

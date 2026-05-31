@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: relationship-build-with-investors
 name: Relationship Build With Investors
 source: 20vc

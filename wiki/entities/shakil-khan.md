@@ -1,4 +1,5 @@
 ---
+
 title: Shakil Khan
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2021-03-08-20vc-spotify-founder-daniel-e.md
 confidence: medium
+subtype: person
 ---
 
 

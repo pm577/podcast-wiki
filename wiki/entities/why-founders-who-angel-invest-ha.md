@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-founders-who-angel-invest-ha
 name: Why Founders Who Angel Invest Ha
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-05-25
 tags: ["ai-ml", "biotech-health", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Adrian Aoun is the Founder & CEO @ Forward, a health care system combining world-class doctors with advanced technology to empower patients to take control of their health."]
+subtype: article
 ---
 
 # Why Founders Who Angel Invest Ha

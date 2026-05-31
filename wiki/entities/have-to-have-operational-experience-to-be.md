@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: have-to-have-operational-experience-to-be
 name: Have To Have Operational Experience To Be
 source: 20vc

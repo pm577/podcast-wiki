@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: founders-funds-trae-stephens
 name: Founders Fund's Trae Stephens
 source: 20vc

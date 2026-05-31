@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-being-first-does-not-matter
 name: Why Being First Does Not Matter
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-07-18
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Des Traynor is a Co-founder and the Chief Strategy Officer of Intercom, the modern customer communications platform that unifies every aspect of the customer journey."]
+subtype: article
 ---
 
 # Why Being First Does Not Matter

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fake-emergencies
 name: Fake Emergencies
 source: 20vc

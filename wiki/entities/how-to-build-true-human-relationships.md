@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-build-true-human-relationships
 name: How To Build True Human Relationships
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-05-17
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Jon Dishotsky is the Founder & CEO @ Starcity, the startup on a mission to make cities more affordable to everyone allowing you to live with great people in the city you love."]
+subtype: article
 ---
 
 # How To Build True Human Relationships

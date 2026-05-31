@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-marcelo-claure-shu-nyatta
 name: "20VC: Marcelo Claure & Shu Nyatta"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Marcelo Claure & Shu Nyatta on Lessons from Investing $7.5B
 ## Summary
 
  Marcelo Claure is the Founder & CEO of Claure Group, a multi-billion-dollar global investment firm."]
+subtype: article
 ---
 
 # 20VC: Marcelo Claure & Shu Nyatta

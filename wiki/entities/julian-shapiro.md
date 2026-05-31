@@ -1,4 +1,5 @@
 ---
+
 title: Julian Shapiro
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, growth, writing, creativity, marketing, demand-curve, investing]
 sources:
   - raw/transcripts/lenny/julian-shapiro.md
 confidence: high
+subtype: person
 ---
 
 # Julian Shapiro
@@ -46,3 +48,15 @@ Contrary to the narrative that AI is eliminating junior roles, Shapiro argues th
 - [[creativity]]
 - [[product-led-growth]]
 - [[marketing]]
+
+---
+
+*Merged from [[julian]]:*
+
+# Julian
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/julian-shapiro|From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo]] — *to be summarized*

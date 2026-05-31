@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: do-not-do-to-build-great-products
 name: Do Not Do To Build Great Products
 source: 20vc

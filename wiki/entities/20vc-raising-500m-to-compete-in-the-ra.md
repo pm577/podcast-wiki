@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-raising-500m-to-compete-in-the-ra
 name: "20VC: Raising $500M To Compete in the Ra"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Raising $500M To Compete in the Race for AGI | Will Scaling
 ## Summary
 
 Eiso Kant is the Co-Founder and CTO of Poolside.ai, building next-generation AI for software engineering."]
+subtype: article
 ---
 
 # 20VC: Raising $500M To Compete in the Ra

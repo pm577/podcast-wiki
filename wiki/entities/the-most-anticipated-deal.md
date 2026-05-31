@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-most-anticipated-deal
 name: The Most Anticipated Deal
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-04-17
 tags: ["ai-ml", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Sarah Cannon is a Partner @ Index Ventures, one of the world's leading venture funds with a portfolio including the likes of Dropbox, Skype, Figma, Bird, Slack and many more incredible companies."]
+subtype: article
 ---
 
 # The Most Anticipated Deal

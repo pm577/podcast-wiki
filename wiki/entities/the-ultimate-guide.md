@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-ultimate-guide
 name: The Ultimate Guide
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-01-16
 tags: ["ai-ml", "biotech-health", "go-to-market", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Oliver Jay (OJ) is one of the most successful sales leaders of the last decade.", "Jeff Jordan is a General Partner @ a16z where he serves on the boards of Airbnb, Incredible Health, Instacart, Lookout, and Pinterest, just to name a few."]
+subtype: article
 ---
 
 # The Ultimate Guide

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-interview-process
 name: The Interview Process
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-05-13
 tags: ["ai-ml", "fintech", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Tom Blomfield is a Group Partner at YC."]
+subtype: article
 ---
 
 # The Interview Process

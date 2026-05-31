@@ -1,4 +1,5 @@
 ---
+
 title: Rick Heitzmann
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, consumer, founder-psychology, person, product-strategy, venture-ca
 sources:
   - raw/transcripts/20vc/20vc-2019-11-11-20vc-firstmarks-rick-heitzma.md
 confidence: medium
+subtype: person
 ---
 
 

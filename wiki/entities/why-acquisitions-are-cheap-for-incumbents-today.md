@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-acquisitions-are-cheap-for-incumbents-today
 name: Why Acquisitions Are Cheap For Incumbents Today
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-01-12
 tags: ["ai-ml", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Henry Davis is the President and COO @ Glossier, a New York brand that has taken the beauty world by storm."]
+subtype: article
 ---
 
 # Why Acquisitions Are Cheap For Incumbents Today

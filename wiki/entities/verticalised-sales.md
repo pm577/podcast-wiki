@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: verticalised-sales
 name: Verticalised Sales
 source: 20vc

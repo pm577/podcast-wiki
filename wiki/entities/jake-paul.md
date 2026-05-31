@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: jake-paul
 name: Jake Paul
 source: 20vc

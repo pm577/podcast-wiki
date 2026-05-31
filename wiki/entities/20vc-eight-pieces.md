@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-eight-pieces
 name: "20VC:  Eight Pieces"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC:  Eight Pieces of Startup Advice that are BS: Why You Do Not
 ## Summary
 
  Akin Babayigit is a serial entrepreneur and an active angel investor."]
+subtype: article
 ---
 
 # 20VC:  Eight Pieces

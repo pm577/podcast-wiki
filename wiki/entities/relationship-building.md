@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: relationship-building
 name: Relationship Building
 source: 20vc

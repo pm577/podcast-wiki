@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: upfronts-mark-suster
 name: Upfront's Mark Suster
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-how-transferwise-acquired-thei
 name: "20Growth: How Transferwise Acquired Thei"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: How Transferwise Acquired Their First 5M Customers: The
 ## Summary
 
  Nilan Peiris is Chief Product Officer at Wise, where he leads on growth across channels including product and platform."]
+subtype: article
 ---
 
 # 20Growth: How Transferwise Acquired Thei

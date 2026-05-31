@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: boxgroups-david-tisch
 name: BoxGroup's David Tisch
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Good Parenting
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2021-10-18-20vc-instacart-ceo-fidji-simo.md
 confidence: medium
+subtype: person
 ---
 
 

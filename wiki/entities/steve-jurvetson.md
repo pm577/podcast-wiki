@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: steve-jurvetson
 name: Steve Jurvetson
 source: 20vc

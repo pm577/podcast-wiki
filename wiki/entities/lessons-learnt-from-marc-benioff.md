@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lessons-learnt-from-marc-benioff
 name: Lessons Learnt From Marc Benioff
 source: 20vc

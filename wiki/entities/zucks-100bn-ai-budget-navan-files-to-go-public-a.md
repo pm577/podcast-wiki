@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: zucks-100bn-ai-budget-navan-files-to-go-public-a
 name: Zuck's $100BN AI Budget | Navan Files to Go Public a
 source: 20vc

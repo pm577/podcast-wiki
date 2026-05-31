@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: inside-clay
 name: Inside Clay
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-05-02
 tags: ["go-to-market", "hiring-culture", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Becca Lindquist is Head of Sales at Clay, one of the fastest-growing AI companies to reach $100M+ ARR."]
+subtype: article
 ---
 
 # Inside Clay

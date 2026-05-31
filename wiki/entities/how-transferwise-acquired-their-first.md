@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-transferwise-acquired-their-first
 name: How Transferwise Acquired Their First
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-07-26
 tags: ["consumer", "go-to-market", "marketplaces", "product-strategy"]
 related_concepts: []
 key_views: ["Nilan Peiris is Chief Product Officer at Wise, where he leads on growth across channels including product and platform."]
+subtype: article
 ---
 
 # How Transferwise Acquired Their First

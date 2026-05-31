@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: israeli-resilience-from-tech
 name: Israeli Resilience From Tech
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-often-shou
 name: How Often Shou
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-07-06
 tags: ["enterprise-saas", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Scott Belsky is an entrepreneur, master of product reviews, author, investor, and currently serves as Adobe's Chief Product Officer and Executive Vice President, Creative Cloud."]
+subtype: article
 ---
 
 # How Often Shou

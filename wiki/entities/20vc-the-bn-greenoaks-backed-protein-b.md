@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-bn-greenoaks-backed-protein-b
 name: "20VC: The $BN Greenoaks Backed Protein B"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The $BN Greenoaks Backed Protein Bar | Hitting $100M Revenu
 ## Summary
 
 Peter Rahal is the Co‑Founder & CEO of David Protein, the highest protein‑to‑calorie ratio for any protein bar on the market."]
+subtype: article
 ---
 
 # 20VC: The $BN Greenoaks Backed Protein B

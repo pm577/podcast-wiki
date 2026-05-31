@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-are-burn-multiples-bs-in-an-ai-wor
 name: "20VC: Are Burn Multiples BS in an AI Wor"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Are Burn Multiples BS in an AI World | Sam Altman Needs $1T
 ## Summary
 
 AGENDA: 03:58 Understanding Burn Multiples and Capital Efficiency in an AI World 11:54 What Metrics Founders Need to Focus on in a World of AI 19:31 The Role of Kingmakers in Venture Capital: Harvey, Abridge, Profound 33:42 Klarna, Figma, Stubhub, all Down: Are Public Markets Turning? 36:35 OpenAI Needs the Same Energy as Japan… WTF!"]
+subtype: article
 ---
 
 # 20VC: Are Burn Multiples BS in an AI Wor

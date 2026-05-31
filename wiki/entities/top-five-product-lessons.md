@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: top-five-product-lessons
 name: Top Five Product Lessons
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-02-02
 tags: ["ai-ml", "go-to-market", "hiring-culture", "marketplaces", "product-strategy"]
 related_concepts: []
 key_views: ["Will Wu is the CTO @ Match Group, the owner and operator of the largest global portfolio of popular online dating services including Tinder, Match."]
+subtype: article
 ---
 
 # Top Five Product Lessons

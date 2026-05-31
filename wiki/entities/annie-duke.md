@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/annie-duke.md
+
 title: Annie Duke
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +11,7 @@ sources:
   - episodes/lenny/annie-duke
 confidence: high
 key_finding: The only thing that should happen in a meeting is discussion. Discovery (collecting independent opinions) and deciding should happen separately — ideally asynchronously and in private.
+subtype: person
 ---
 
 # Annie Duke

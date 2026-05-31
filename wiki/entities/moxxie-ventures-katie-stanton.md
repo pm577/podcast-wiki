@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: moxxie-ventures-katie-stanton
 name: Moxxie Ventures' Katie Stanton
 source: 20vc

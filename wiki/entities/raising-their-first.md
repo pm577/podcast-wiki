@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: raising-their-first
 name: Raising Their First
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-09-21
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Alex Pall and Drew Taggart are the Founders of The Chainsmokers and Mantis."]
+subtype: article
 ---
 
 # Raising Their First

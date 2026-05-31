@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-services-model
 name: The Services Model
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-10-02
 tags: ["ai-ml", "biotech-health", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Phin Barnes is the Co-founder and Managing Partner of The General Partnership (TheGP), a venture capital firm that's redefining what partnership means for founders."]
+subtype: article
 ---
 
 # The Services Model

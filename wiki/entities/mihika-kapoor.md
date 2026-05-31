@@ -1,4 +1,5 @@
 ---
+
 title: Mihika Kapoor
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, figma, product-management, zero-to-one, vision, maker-week, figja
 sources:
   - raw/transcripts/lenny/mihika-kapoor.md
 confidence: high
+subtype: person
 ---
 
 # Mihika Kapoor
@@ -46,3 +48,15 @@ Kapoor is a "left brain, right brain" person — CS major and visual arts minor.
 - [[vision]]
 - [[figma]]
 - [[hackathons]]
+
+---
+
+*Merged from [[mihika]]:*
+
+# Mihika
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/mihika-kapoor|Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product, Figma)]] — *to be summarized*

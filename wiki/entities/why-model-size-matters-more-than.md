@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-model-size-matters-more-than
 name: Why Model Size Matters More Than
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-08-18
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Richard Socher is the founder and CEO of You."]
+subtype: article
 ---
 
 # Why Model Size Matters More Than

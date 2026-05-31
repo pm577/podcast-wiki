@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: os-are-able-to-manage-mom
 name: Os Are Able To Manage Mom
 source: 20vc

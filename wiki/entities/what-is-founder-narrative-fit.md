@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-is-founder-narrative-fit
 name: What Is Founder Narrative Fit
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-10-01
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Katherine Boyle is a Partner @ General Catalyst, one of the leading venture firms of the last decade with a portfolio including the likes of Stripe, Snapchat, Airbnb, Canva, Cazoo, the list goes on."]
+subtype: article
 ---
 
 # What Is Founder Narrative Fit

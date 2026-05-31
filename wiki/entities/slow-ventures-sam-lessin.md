@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: slow-ventures-sam-lessin
 name: Slow Ventures' Sam Lessin
 source: 20vc

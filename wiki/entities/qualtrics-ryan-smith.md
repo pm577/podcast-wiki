@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: qualtrics-ryan-smith
 name: Qualtrics' Ryan Smith
 source: 20vc

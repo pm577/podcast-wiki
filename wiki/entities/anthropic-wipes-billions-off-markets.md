@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: anthropic-wipes-billions-off-markets
 name: Anthropic Wipes Billions Off Markets
 source: 20vc

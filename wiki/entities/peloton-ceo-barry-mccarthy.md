@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: peloton-ceo-barry-mccarthy
 name: Peloton CEO Barry McCarthy
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: unacceptable-risks-to-take-when-seed-investing
 name: Unacceptable Risks To Take When Seed Investing
 source: 20vc

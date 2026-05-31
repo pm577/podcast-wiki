@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-to-survive-and-thrive-in-a-world
 name: "20VC: How to Survive and Thrive in a World"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How to Survive and Thrive in a World of OpenAI, Are LLMs Be
 ## Summary
 
  Des Traynor is a Co-Founder of Intercom, and has built and led many teams within the company, including Product, Marketing, and Customer Support."]
+subtype: article
 ---
 
 # 20VC: How to Survive and Thrive in a World

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-this-is-not-the-end-for-the-bay-area
 name: Why This Is Not The End For The Bay Area
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-02-18
 tags: ["founder-psychology", "hiring-culture", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Assaf Wand is the Founder & CEO @ Hippo Insurance, with over $700M in funding Hippo are setting a new standard for home insurance and offer protection for what's important to today's homeowner."]
+subtype: article
 ---
 
 # Why This Is Not The End For The Bay Area

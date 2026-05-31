@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-roundtable-are-ipos-back-is-growt
 name: "20VC Roundtable: Are IPOs Back? Is Growt"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC Roundtable: Are IPOs Back? Is Growth Dead? What Does it Take
 ## Summary
 
  Deven Parekh is a Managing Director at Insight Partners, one of the leading investing franchises of the last 25 years."]
+subtype: article
 ---
 
 # 20VC Roundtable: Are IPOs Back? Is Growt

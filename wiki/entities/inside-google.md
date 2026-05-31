@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: inside-google
 name: Inside Google
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-04-24
 tags: ["ai-ml", "go-to-market", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Laela Sturdy is a Partner @ CapitalG, Alphabet's growth investment fund that have invested in the likes of Stripe, Snap Inc, Airbnb and many more incredible companies."]
+subtype: article
 ---
 
 # Inside Google

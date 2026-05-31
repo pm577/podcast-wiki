@@ -1,4 +1,5 @@
 ---
+
 title: Geoffrey Moore
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, crossing-the-chasm, strategy, go-to-market, author, high-tech]
 sources:
   - raw/transcripts/lenny/geoffrey-moore.md
 confidence: high
+subtype: person
 ---
 
 # Geoffrey Moore
@@ -53,3 +55,15 @@ Moore is clear that his frameworks are conceptual models for recognizing pattern
 - [[product-market-fit]]
 - [[strategy]]
 - [[technology-adoption-lifecycle]]
+
+---
+
+*Merged from [[geoffrey]]:*
+
+# Geoffrey
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/geoffrey-moore|Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market]] — *to be summarized*

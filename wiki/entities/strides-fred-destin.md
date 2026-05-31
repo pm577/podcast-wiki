@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: strides-fred-destin
 name: Stride's Fred Destin
 source: 20vc

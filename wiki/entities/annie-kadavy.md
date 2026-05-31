@@ -1,4 +1,5 @@
 ---
+
 title: Annie Kadavy
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, marketplaces, ai-ml, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2016-06-22-20vc-why-bots-are-the-new-bla.md
 confidence: medium
+subtype: person
 ---
 
 

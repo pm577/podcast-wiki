@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sparks-nabeel-hyatt
 name: Spark's Nabeel Hyatt
 source: 20vc

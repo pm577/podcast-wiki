@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: open-office-hours
 name: Open Office Hours
 source: 20vc

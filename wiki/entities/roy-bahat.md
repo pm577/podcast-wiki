@@ -1,4 +1,5 @@
 ---
+
 title: Roy Bahat
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, hiring-culture, ai-ml, enterpr
 sources:
   - raw/transcripts/20vc/20vc-2016-04-13-20vc-why-machine-intelligence.md
 confidence: medium
+subtype: person
 ---
 
 

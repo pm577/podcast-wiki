@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-10-question-framework-a-217bn
 name: "20VC: The 10 Question Framework a $217BN"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The 10 Question Framework a $217BN Manager Uses to Make Inv
 ## Summary
 
 Peter Singlehurst is the Head of Private Companies at Baillie Gifford."]
+subtype: article
 ---
 
 # 20VC: The 10 Question Framework a $217BN

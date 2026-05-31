@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-deepseek-special-is-deepseek-a-weapon
 name: "20VC: Deepseek Special: Is Deepseek a Weapon"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Deepseek Special: Is Deepseek a Weapon of the CCP | How Sho
 ## Summary
 
 Jonathan Ross is the Co-Founder and CEO of Groq, providing fast AI inference."]
+subtype: article
 ---
 
 # 20VC: Deepseek Special: Is Deepseek a Weapon

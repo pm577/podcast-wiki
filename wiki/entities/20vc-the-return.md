@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-return
 name: "20VC: The Return"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 04:02 NVIDIA's GTC: What You Need to Know 11:39 Meta's 20% Layoffs & Atl
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-the-return-of-travis-kalanick-uber-would-be-1trn-today-with-him-nvidia-predicts-1trn-in-revenue-everything-you-need-to-know-from-gtc-anduril-lands-20bn-army-contract-adobe-ceo-shock-exit-the-dominos-falling)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: The Return

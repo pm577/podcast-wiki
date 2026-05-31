@@ -1,4 +1,5 @@
 ---
+
 title: Jon Dishotsky
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, hiring-cul
 sources:
   - raw/transcripts/20vc/20vc-2019-05-17-20vc-how-to-build-true-human.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-18bn-market-cap-and-1bn-in-arr-i
 name: "20VC: $18BN Market Cap and $1BN in ARR i"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: $18BN Market Cap and $1BN in ARR in 8 Years; Samsara | How 
 ## Summary
 
  Sanjit Biswas is the Founder and CEO @ Samsara, allowing businesses that depend on physical operations to harness Internet of Things (IoT) data."]
+subtype: article
 ---
 
 # 20VC: $18BN Market Cap and $1BN in ARR i

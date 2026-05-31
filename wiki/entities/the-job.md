@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-job
 name: The Job
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-05-20
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Ian Siegel is the Founder and CEO @  ZipRecruiter, a leading online employment marketplace that uses AI-driven matching technology to actively connect millions of businesses and job seekers to their n"]
+subtype: article
 ---
 
 # The Job

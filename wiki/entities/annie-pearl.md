@@ -1,4 +1,5 @@
 ---
+
 title: Annie Pearl
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, plg, strategy, calendly, growth]
 sources:
   - raw/transcripts/lenny/annie-pearl.md
 confidence: high
+subtype: person
 ---
 
 # Annie Pearl

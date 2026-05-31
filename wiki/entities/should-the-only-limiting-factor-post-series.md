@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: should-the-only-limiting-factor-post-series
 name: Should The Only Limiting Factor Post Series
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-06-16
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Nicolas Dessaigne is the Founder & CEO @ Algolia, the most reliable platform for building search into your business."]
+subtype: article
 ---
 
 # Should The Only Limiting Factor Post Series

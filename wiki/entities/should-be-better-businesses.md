@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: should-be-better-businesses
 name: Should Be Better Businesses
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-08-07
 tags: ["consumer", "founder-psychology", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Alexis Ohanian is the Founder and General Partner of Seven Seven Six, an early-stage venture capital firm with $970M AUM."]
+subtype: article
 ---
 
 # Should Be Better Businesses

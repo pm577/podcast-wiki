@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: biggest-mistakes-founders-make-when-scaling
 name: Biggest Mistakes Founders Make When Scaling
 source: 20vc

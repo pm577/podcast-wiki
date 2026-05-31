@@ -1,4 +1,5 @@
 ---
+
 title: Seth Bannon
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, hiring-culture, deeptech-hardw
 sources:
   - raw/transcripts/20vc/20vc-2017-08-07-20vc-why-we-will-continue-to.md
 confidence: medium
+subtype: person
 ---
 
 

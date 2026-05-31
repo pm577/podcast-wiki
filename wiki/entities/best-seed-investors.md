@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: best-seed-investors
 name: Best Seed Investors
 source: 20vc

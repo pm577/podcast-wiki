@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: growth-round-today
 name: Growth Round Today
 source: 20vc

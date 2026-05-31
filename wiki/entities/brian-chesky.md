@@ -1,4 +1,5 @@
 ---
+
 title: Brian Chesky
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, ceo, airbnb, product-management, design, leadership, founder-mode
 sources:
   - raw/transcripts/lenny/brian-chesky.md
 confidence: high
+subtype: person
 ---
 
 # Brian Chesky

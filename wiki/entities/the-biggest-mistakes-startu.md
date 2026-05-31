@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-biggest-mistakes-startu
 name: The Biggest Mistakes Startu
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-07-19
 tags: ["ai-ml", "go-to-market", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Lauryn Isford is the Head of Product Growth at Notion, managing Notion's product-led growth engine and self-serve business."]
+subtype: article
 ---
 
 # The Biggest Mistakes Startu

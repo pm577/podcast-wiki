@@ -1,4 +1,5 @@
 ---
+
 title: Sam Lessin
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/lenny-2026-01-15-sam-lessin.md
 confidence: high
 key_finding: Etiquette is the skill of showing up in a room with a low heart rate
+subtype: person
 ---
 
 # Sam Lessin

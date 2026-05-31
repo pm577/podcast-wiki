@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: full-breakdown
 name: Full Breakdown
 source: 20vc

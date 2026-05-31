@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: unusual-ventures-john-vrionis
 name: Unusual Ventures' John Vrionis
 source: 20vc

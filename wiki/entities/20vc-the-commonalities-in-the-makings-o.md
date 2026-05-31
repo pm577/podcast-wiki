@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-commonalities-in-the-makings-o
 name: "20VC: The Commonalities In The Makings O"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Commonalities In The Makings Of Truly Great People, How
 ## Summary
 
 Daniel Gross is the Founder @ Pioneer and the Head of AI @ Y Combinator."]
+subtype: article
 ---
 
 # 20VC: The Commonalities In The Makings O

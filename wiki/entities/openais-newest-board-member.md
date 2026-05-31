@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: openais-newest-board-member
 name: OpenAI's Newest Board Member
 source: 20vc

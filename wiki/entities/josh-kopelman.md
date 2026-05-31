@@ -1,4 +1,5 @@
 ---
+
 title: Josh Kopelman
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [biotech-health, founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2019-01-28-20vc-first-rounds-josh-kopel.md
 confidence: medium
+subtype: person
 ---
 
 

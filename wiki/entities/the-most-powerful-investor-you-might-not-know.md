@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-most-powerful-investor-you-might-not-know
 name: The Most Powerful Investor You Might Not Know
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-07-15
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Peter Singlehurst is the Head of Private Companies at Baillie Gifford."]
+subtype: article
 ---
 
 # The Most Powerful Investor You Might Not Know

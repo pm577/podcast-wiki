@@ -1,4 +1,5 @@
 ---
+
 title: Nicole Forsgren
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, developer-productivity, dora, space, metrics, ai, devops, enginee
 sources:
   - raw/transcripts/lenny/nicole-forsgren.md
 confidence: high
+subtype: person
 ---
 
 # Nicole Forsgren

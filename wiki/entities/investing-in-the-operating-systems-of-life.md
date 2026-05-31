@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: investing-in-the-operating-systems-of-life
 name: Investing In The Operating Systems Of Life
 source: 20vc

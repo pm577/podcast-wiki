@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: revolutionising-mobile-finance
 name: Revolutionising Mobile Finance
 source: 20vc

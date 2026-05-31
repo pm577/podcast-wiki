@@ -1,4 +1,5 @@
 ---
+
 title: Kirsten Green
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-07-17-20vc-vc-of-the-year-forerunn.md
 confidence: medium
+subtype: person
 ---
 
 

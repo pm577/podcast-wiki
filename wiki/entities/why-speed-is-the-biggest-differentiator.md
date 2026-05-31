@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-speed-is-the-biggest-differentiator
 name: Why Speed Is The Biggest Differentiator
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-11-15
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Dom Holland is the Founder & CEO @ Fast, the world's fastest login and checkout with no more passwords, no more typing credit card details or shipping addresses."]
+subtype: article
 ---
 
 # Why Speed Is The Biggest Differentiator

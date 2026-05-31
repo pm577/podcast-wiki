@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-elad-gils-high-growth-handbook
 name: "20VC: Elad Gil's High Growth Handbook"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Elad Gil's High Growth Handbook on The Commonalities of The
 ## Summary
 
 Elad Gil is the Founder @ Color, the startup that shows you your genes can help you make better health decisions."]
+subtype: article
 ---
 
 # 20VC: Elad Gil's High Growth Handbook

@@ -1,4 +1,5 @@
 ---
+
 title: Time
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2022-10-28-20vc-chris-sacca-chamath-pal.md
 confidence: medium
+subtype: person
 ---
 
 

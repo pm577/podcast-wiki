@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-importance-of-follow-on-funding
 name: The Importance Of Follow On Funding
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-02-03
 tags: ["ai-ml", "enterprise-saas", "venture-capital"]
 related_concepts: []
 key_views: ["Hadley Harris is the Founding General Partner at Eniac Ventures, the first seed stage venture fund focussed exclusively on mobile."]
+subtype: article
 ---
 
 # The Importance Of Follow On Funding

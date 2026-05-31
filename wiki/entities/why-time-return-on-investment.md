@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-time-return-on-investment
 name: Why Time Return On Investment
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-01-31
 tags: ["ai-ml", "consumer", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Omer Shai serves as the CMO at Wix."]
+subtype: article
 ---
 
 # Why Time Return On Investment

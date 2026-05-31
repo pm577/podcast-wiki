@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: does-price-matter
 name: Does Price Matter
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-02-09
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Doug Leone is the Global Managing Partner @ Sequoia Capital, one of the world's most renowned and successful venture firms with a portfolio including the likes of Google, Airbnb, Whatsapp, Stripe, Zoo"]
+subtype: article
 ---
 
 # Does Price Matter

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: wealthfronts-adam-nash
 name: Wealthfront's Adam Nash
 source: 20vc

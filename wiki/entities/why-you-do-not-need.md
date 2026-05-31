@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-you-do-not-need
 name: Why You Do Not Need
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-08-29
 tags: ["ai-ml", "founder-psychology", "product-strategy"]
 related_concepts: []
 key_views: ["Jason James is the Co-Founder of Tezi and one of the leading product minds in the valley."]
+subtype: article
 ---
 
 # Why You Do Not Need

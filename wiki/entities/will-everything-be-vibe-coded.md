@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: will-everything-be-vibe-coded
 name: Will Everything Be Vibe Coded
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-03-02
 tags: ["ai-ml", "enterprise-saas", "venture-capital"]
 related_concepts: []
 key_views: ["Monday has been hit harder than almost any other public SaaS company."]
+subtype: article
 ---
 
 # Will Everything Be Vibe Coded

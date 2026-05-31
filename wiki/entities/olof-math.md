@@ -1,4 +1,5 @@
 ---
+
 title: Olof Math
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, go-to-market, hiring-culture
 sources:
   - raw/transcripts/20vc/20vc-2019-01-25-20vc-the-3-stages-of-denial-f.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-your-fund-model-should-not-rely
 name: Why Your Fund Model Should Not Rely
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-05-22
 tags: ["ai-ml", "consumer", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Nico Wittenborn is the Founder of Adjacent, one of the best early-stage firms created over the last 5 years."]
+subtype: article
 ---
 
 # Why Your Fund Model Should Not Rely

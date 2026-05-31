@@ -1,4 +1,5 @@
 ---
+
 title: Farhan Thawar
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/farhan-thawar.md
 confidence: medium
 key_finding: Do More Per Minute, Not More Hours
+subtype: person
 ---
 
 # Farhan Thawar
@@ -37,3 +39,15 @@ Farhan Thawar is Vice President and Head of Engineering at Shopify, overseeing 1
 - [[shopify]]
 - [[hiring]]
 - [[company-culture]]
+
+---
+
+*Merged from [[farhan]]:*
+
+# Farhan
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/farhan-thawar|How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)]] — *to be summarized*

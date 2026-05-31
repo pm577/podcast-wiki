@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: finding-the-perfect-co
 name: Finding The Perfect Co
 source: 20vc

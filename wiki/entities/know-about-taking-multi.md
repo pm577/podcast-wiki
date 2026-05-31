@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: know-about-taking-multi
 name: Know About Taking Multi
 source: 20vc

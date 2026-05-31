@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: joe-floyd
 name: Joe Floyd
 source: 20vc

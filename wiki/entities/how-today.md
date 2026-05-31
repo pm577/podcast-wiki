@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-today
 name: How Today
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-04-22
 tags: ["fintech", "venture-capital"]
 related_concepts: []
 key_views: ["Bill Cillufo is Partner and Head of International Investments at QED, one of the leading fintech venture firms today with a portfolio including Nubank, Kavak, Klarna, Quinto Andar and Bitso to name a "]
+subtype: article
 ---
 
 # How Today

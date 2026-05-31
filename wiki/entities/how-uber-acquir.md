@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-uber-acquir
 name: How Uber Acquir
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-08-30
 tags: ["go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Scott Gorlick was employee #99 at Uber."]
+subtype: article
 ---
 
 # How Uber Acquir

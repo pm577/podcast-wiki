@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: calendly-cpo-annie-pearl
 name: Calendly CPO Annie Pearl
 source: 20vc

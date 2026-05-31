@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: are-any
 name: Are Any
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-02-07
 tags: ["ai-ml", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Ariel Cohen is the Co-Founder and CEO of Navan (formerly TripActions), an AI-powered travel and expense platform."]
+subtype: article
 ---
 
 # Are Any

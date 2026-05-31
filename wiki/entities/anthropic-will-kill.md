@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: anthropic-will-kill
 name: Anthropic Will Kill
 source: 20vc

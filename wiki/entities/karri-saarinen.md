@@ -1,4 +1,5 @@
 ---
+
 title: Karri Saarinen
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, linear, design, craft, product-management, co-founder, ceo, opini
 sources:
   - raw/transcripts/lenny/karri-saarinen.md
 confidence: high
+subtype: person
 ---
 
 # Karri Saarinen
@@ -50,3 +52,15 @@ Brand is not a logo or color palette — it's built over time through every inte
 - [[product-management]]
 - [[startup-culture]]
 - [[product-quality]]
+
+---
+
+*Merged from [[karri]]:*
+
+# Karri
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/karri-saarinen|Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)]] — *to be summarized*

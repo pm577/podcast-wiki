@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: khosla-ventures-founding-partner
 name: Khosla Ventures Founding Partner
 source: 20vc

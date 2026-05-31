@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: marketing-lessons-learned
 name: Marketing Lessons Learned
 source: 20vc

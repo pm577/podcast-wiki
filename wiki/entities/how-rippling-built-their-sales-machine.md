@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-rippling-built-their-sales-machine
 name: How Rippling Built Their Sales Machine
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-06-07
 tags: ["ai-ml", "fintech", "go-to-market", "hiring-culture", "marketplaces"]
 related_concepts: []
 key_views: ["Ashley Kelly is the VP of Global Sales Development at Rippling, the all-in-one platform for HR, IT, and finance."]
+subtype: article
 ---
 
 # How Rippling Built Their Sales Machine

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: doug-scott
 name: Doug Scott
 source: 20vc

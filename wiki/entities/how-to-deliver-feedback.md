@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-deliver-feedback
 name: How To Deliver Feedback
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-04-01
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Linda Lian is the Co-Founder and CEO @ CommonRoom, the place where your organization and your community come together."]
+subtype: article
 ---
 
 # How To Deliver Feedback

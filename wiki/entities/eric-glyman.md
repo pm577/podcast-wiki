@@ -1,4 +1,5 @@
 ---
+
 title: Eric Glyman
 created: 2026-05-31
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, y-combinator, fintech, founder-psychology, startups, paribus, ram
 sources:
   - raw/transcripts/20vc/20vc-2015-10-02-ff-015-y-combinator-week-eri.md
 confidence: medium
+subtype: person
 ---
 
 # Eric Glyman

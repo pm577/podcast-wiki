@@ -1,4 +1,5 @@
 ---
+
 title: Bob Baxley
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/bob-baxley.md
 confidence: medium
 key_finding: Design Is Imagining the Future You Want to Live In and Making It Real
+subtype: person
 ---
 
 # Bob Baxley

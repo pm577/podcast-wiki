@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-google-will-win-the-ai-arms-ra
 name: "20VC: Why Google Will Win the AI Arms Ra"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Google Will Win the AI Arms Race & OpenAI Will Not | NV
 ## Summary
 
 Steeve Morin is the Founder & CEO @ ZML, a next-generation inference engine enabling peak performance on a wide range of chips."]
+subtype: article
 ---
 
 # 20VC: Why Google Will Win the AI Arms Ra

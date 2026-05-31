@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: her-biggest-lessons-from-working
 name: Her Biggest Lessons From Working
 source: 20vc

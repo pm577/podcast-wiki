@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-inside-lovables-400m-arr-gro
 name: "20Growth: Inside Lovable's $400M ARR Gro"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: Inside Lovable's $400M ARR Growth Machine | How Lovable
 ## Summary
 
 Elena Verna is the Head of Growth at Lovable, one of the fastest growing companies in the world having hit $400M in ARR in just 18 months."]
+subtype: article
 ---
 
 # 20Growth: Inside Lovable's $400M ARR Gro

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-sam-altman-vs-elon-musk-the-100b
 name: "20VC: Sam Altman vs Elon Musk: The $100B"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Sam Altman vs Elon Musk: The $100BN Battle | The Implosion 
 ## Summary
 
 AGENDA: 03:30 Can VC Survive With Public Market Prices Today 15:20 The Implosion of Thinking Machines 21:13 Elon Musk vs."]
+subtype: article
 ---
 
 # 20VC: Sam Altman vs Elon Musk: The $100B

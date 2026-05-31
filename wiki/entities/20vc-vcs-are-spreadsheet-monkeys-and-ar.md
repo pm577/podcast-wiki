@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-vcs-are-spreadsheet-monkeys-and-ar
 name: "20VC: VCs are Spreadsheet Monkeys and ar"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: VCs are Spreadsheet Monkeys and are Commoditised | Why Fees
 ## Summary
 
 Taavet Hinrikus is a Partner at Plural, the early-stage fund that backs the most ambitious founders on a mission to change the world through technology."]
+subtype: article
 ---
 
 # 20VC: VCs are Spreadsheet Monkeys and ar

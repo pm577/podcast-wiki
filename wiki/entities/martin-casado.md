@@ -1,4 +1,5 @@
 ---
+
 title: Martin Casado
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, enterprise-saas, founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2022-12-05-20vc-a16zs-martin-casado-on.md
 confidence: medium
+subtype: person
 ---
 
 

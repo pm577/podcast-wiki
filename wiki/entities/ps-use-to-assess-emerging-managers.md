@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ps-use-to-assess-emerging-managers
 name: Ps Use To Assess Emerging Managers
 source: 20vc

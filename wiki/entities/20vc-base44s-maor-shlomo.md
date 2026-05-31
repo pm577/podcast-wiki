@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-base44s-maor-shlomo
 name: "20VC: Base44's Maor Shlomo"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Base44's Maor Shlomo on How Vibe Coding Will Kill SaaS and 
 ## Summary
 
 Maor Shlomo is the Founder and CEO of Base44, the AI building platform that Maor built from idea to $80M acquisition by Wix, in just 8 months."]
+subtype: article
 ---
 
 # 20VC: Base44's Maor Shlomo

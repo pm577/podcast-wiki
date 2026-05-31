@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: kleiner-perkins-bing-gordon
 name: Kleiner Perkins' Bing Gordon
 source: 20vc

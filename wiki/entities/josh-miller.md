@@ -1,4 +1,5 @@
 ---
+
 title: Josh Miller
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, browser-company, arc, ceo, product-philosophy, storytelling, hiri
 sources:
   - raw/transcripts/lenny/josh-miller.md
 confidence: high
+subtype: person
 ---
 
 # Josh Miller

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: twitters-most-controversial-vc-delian-asparouhov
 name: Twitter's Most Controversial VC Delian Asparouhov
 source: 20vc

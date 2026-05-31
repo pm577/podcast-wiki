@@ -1,4 +1,5 @@
 ---
+
 title: Nico Laqua
 created: 2026-06-01
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, corgi-insurance, insurance, ai-ml, startup-culture, fintech, star
 sources:
   - raw/transcripts/20vc/20vc-2026-05-30-20vc-corgi-insurance-the-mos.md
 confidence: medium
+subtype: person
 ---
 
 # Nico Laqua

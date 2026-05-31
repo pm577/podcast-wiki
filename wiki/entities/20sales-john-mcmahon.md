@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-john-mcmahon
 name: "20Sales: John McMahon"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: John McMahon on How to Hire, Train & Retain the Best Sal
 ## Summary
 
 John McMahon is widely regarded as one of the greatest enterprise-software sales leaders of all time."]
+subtype: article
 ---
 
 # 20Sales: John McMahon

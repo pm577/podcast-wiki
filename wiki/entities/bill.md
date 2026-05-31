@@ -1,4 +1,5 @@
 ---
+
 title: Bill Carr
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, amazon, working-backwards, product-development, leadership, manag
 sources:
   - raw/transcripts/lenny/bill-carr.md
 confidence: high
+subtype: person
 ---
 
 # Bill Carr

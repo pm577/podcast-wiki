@@ -1,4 +1,5 @@
 ---
+
 title: Semil Shah
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [consumer, founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2016-07-25-20vc-semil-shah-on-why-the-mo.md
 confidence: medium
+subtype: person
 ---
 
 

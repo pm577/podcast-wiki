@@ -1,4 +1,5 @@
 ---
+
 title: Mark Cuban
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [biotech-health, hiring-culture, person, product-strategy, venture-capital
 sources:
   - raw/transcripts/20vc/20vc-2022-02-04-20vc-mark-cuban-on-reshaping.md
 confidence: medium
+subtype: person
 ---
 
 

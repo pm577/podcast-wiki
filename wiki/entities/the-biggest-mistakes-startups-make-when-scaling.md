@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-biggest-mistakes-startups-make-when-scaling
 name: The Biggest Mistakes Startups Make When Scaling
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-02-14
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "go-to-market", "product-strategy"]
 related_concepts: []
 key_views: ["Martin Gontovnikas, a.k.a Gonto, is a software engineer at heart who moved to the "dark side" to focus on Marketing. With this career transition, he found a way to combine his 2 passions by applying h"]
+subtype: article
 ---
 
 # The Biggest Mistakes Startups Make When Scaling

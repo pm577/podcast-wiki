@@ -1,4 +1,5 @@
 ---
+
 title: Elena Verna (4.0) — Lovable Growth Playbook
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, growth, ai, lovable, saas, product-led-growth, plg, experimentati
 sources:
   - raw/transcripts/lenny/elena-verna-40.md
 confidence: high
+subtype: person
 ---
 
 # Elena Verna (4.0) — Lovable Growth Playbook
@@ -59,3 +61,15 @@ Elena argues that AI products are dramatically undervalued by traditional pricin
 - [[saas-metrics]]
 - [[pricing]]
 - [[distribution]]
+
+---
+
+*Merged from [[elena]]:*
+
+# Elena
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/elena-verna-40|The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year]] — *to be summarized*

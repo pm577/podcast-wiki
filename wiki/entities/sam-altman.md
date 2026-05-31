@@ -1,4 +1,5 @@
 ---
+
 title: Sam Altman
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2024-11-04-20vc-sam-altman-on-the-trajec.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: founders-build-startups-wrong
 name: Founders Build Startups Wrong
 source: 20vc

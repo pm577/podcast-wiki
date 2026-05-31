@@ -1,4 +1,5 @@
 ---
+
 title: Steve Vassallo
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, marketplaces, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2018-02-26-20vc-why-the-current-crop-of.md
 confidence: medium
+subtype: person
 ---
 
 

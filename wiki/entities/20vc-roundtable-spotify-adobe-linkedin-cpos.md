@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-roundtable-spotify-adobe-linkedin-cpos
 name: "20VC Roundtable: Spotify, Adobe & Linkedin CPOs"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC Roundtable: Spotify, Adobe & Linkedin CPOs on How AI Changes
 ## Summary
 
  Gustav Söderström is the Co-President, CPO & CTO at Spotify."]
+subtype: article
 ---
 
 # 20VC Roundtable: Spotify, Adobe & Linkedin CPOs

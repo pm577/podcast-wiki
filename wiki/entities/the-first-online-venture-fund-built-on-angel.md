@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-first-online-venture-fund-built-on-angel
 name: The First Online Venture Fund Built On Angel
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-02-10
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Dustin Dolginow is the General Partner @ Maiden Lane, the first online venture fund which uses AngelList as it's operating system, serving as the institutional capital partner to the best angel invest"]
+subtype: article
 ---
 
 # The First Online Venture Fund Built On Angel

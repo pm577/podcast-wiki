@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: anthropic-inference-costs-sky
 name: Anthropic Inference Costs Sky
 source: 20vc

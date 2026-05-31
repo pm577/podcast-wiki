@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: getting-funded-by-sequoia
 name: Getting Funded By Sequoia
 source: 20vc

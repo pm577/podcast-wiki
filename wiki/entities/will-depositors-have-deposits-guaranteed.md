@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: will-depositors-have-deposits-guaranteed
 name: Will Depositors Have Deposits Guaranteed
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-03-12
 tags: ["ai-ml", "fintech", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Jackie Reses is the CEO of Lead Bank and previous Exec Chair of Square Financial Services and Head of Lending and Banking."]
+subtype: article
 ---
 
 # Will Depositors Have Deposits Guaranteed

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: betting-big
 name: Betting Big
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: personal-relationships
 name: Personal Relationships
 source: 20vc

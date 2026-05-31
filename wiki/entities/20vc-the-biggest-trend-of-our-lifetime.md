@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-biggest-trend-of-our-lifetime
 name: "20VC: The Biggest Trend Of Our Lifetime"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Biggest Trend Of Our Lifetime Is The Decentralisation o
 ## Summary
 
 Chris Olsen is the Founding Partner @ Drive Capital, the venture firm that believes the Midwest is the opportunity of our lifetime with more entrepreneurs building billion-dollar companies in the Midwest than in the last 50 years combined."]
+subtype: article
 ---
 
 # 20VC: The Biggest Trend Of Our Lifetime

@@ -1,4 +1,5 @@
 ---
+
 title: Assaf Wand
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2019-01-18-20vc-why-every-company-looks.md
 confidence: medium
+subtype: person
 ---
 
 

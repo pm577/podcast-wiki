@@ -1,4 +1,5 @@
 ---
+
 title: April Dunford 2.0
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/april-dunford-20.md
 confidence: medium
 key_finding: Positioning Is How You Win in the Market, Not Just How You Describe Yourself
+subtype: person
 ---
 
 # April Dunford 2.0

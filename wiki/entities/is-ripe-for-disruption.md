@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: is-ripe-for-disruption
 name: Is Ripe For Disruption
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-09-21
 tags: ["enterprise-saas", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Michael Skok is a Founding Partner @ Underscore VC."]
+subtype: article
 ---
 
 # Is Ripe For Disruption

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: last-mile-convenience
 name: Last Mile Convenience
 source: 20vc

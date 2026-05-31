@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: enterprises-will-not-adopt-ai
 name: Enterprises Will Not Adopt AI
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-three-different-types
 name: The Three Different Types
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-02-03
 tags: ["ai-ml", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Annie Pearl is the CPO @ Calendly, the company that makes scheduling meetings simple and painless."]
+subtype: article
 ---
 
 # The Three Different Types

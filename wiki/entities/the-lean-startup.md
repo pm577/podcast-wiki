@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-lean-startup
 name: The Lean Startup
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-11-08
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Eric Ries is the author of International Bestseller, The Lean Startup, which changed the language of business introducing terms such as A/B testing, MVP and "pivoting"."]
+subtype: article
 ---
 
 # The Lean Startup

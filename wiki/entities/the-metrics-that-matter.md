@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-metrics-that-matter
 name: The Metrics That Matter
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-01-31
 tags: ["ai-ml", "enterprise-saas", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Dave Kellogg is one of the OGs of Saas."]
+subtype: article
 ---
 
 # The Metrics That Matter

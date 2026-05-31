@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ceo-whisperer-jerry-colonna
 name: CEO Whisperer Jerry Colonna
 source: 20vc

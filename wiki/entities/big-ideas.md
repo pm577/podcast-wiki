@@ -1,4 +1,5 @@
 ---
+
 title: Big Ideas
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, hiring-culture, fintech, enterprise-saas, consum
 sources:
   - raw/transcripts/20vc/20vc-2015-08-19-20-vc-064-finding-exceptional.md
 confidence: medium
+subtype: person
 ---
 
 

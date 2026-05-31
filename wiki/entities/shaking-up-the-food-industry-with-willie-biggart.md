@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: shaking-up-the-food-industry-with-willie-biggart
 name: Shaking Up The Food Industry With Willie Biggart
 source: 20vc

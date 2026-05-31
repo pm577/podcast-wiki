@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: peter-csathy
 name: Peter Csathy
 source: 20vc

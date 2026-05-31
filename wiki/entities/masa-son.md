@@ -1,4 +1,5 @@
 ---
+
 title: Masa Son
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market]
 sources:
   - raw/transcripts/20vc/20vc-2021-08-30-20vc-marcelo-claure-ceo-of-s.md
 confidence: medium
+subtype: person
 ---
 
 

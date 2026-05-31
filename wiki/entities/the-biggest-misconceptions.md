@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-biggest-misconceptions
 name: The Biggest Misconceptions
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-07-19
 tags: ["ai-ml", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["David George is a General Partner @ Andreessen Horowitz where he leads their growth investing practice."]
+subtype: article
 ---
 
 # The Biggest Misconceptions

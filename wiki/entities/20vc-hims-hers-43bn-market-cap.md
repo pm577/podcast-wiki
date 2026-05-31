@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-hims-hers-43bn-market-cap
 name: "20VC: Hims & Hers: $4.3BN Market Cap"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Hims & Hers: $4.3BN Market Cap on $2.3BN of Revenue: The Co
 ## Summary
 
 Andrew Dudum is the Founder and CEO of Hims, the company reshaping consumers relationship to healthcare."]
+subtype: article
 ---
 
 # 20VC: Hims & Hers: $4.3BN Market Cap

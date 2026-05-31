@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-determine-when-to-stretch-on-price
 name: How To Determine When To Stretch On Price
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-03-04
 tags: ["consumer", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Jeff Richards is Managing Partner @ GGV Capital, one of the leading venture firms of the last decade with a portfolio including the likes of Alibaba, Slack, Square, Xiaomi, Peloton, OpenDoor, just to "]
+subtype: article
 ---
 
 # How To Determine When To Stretch On Price

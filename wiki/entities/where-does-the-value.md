@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: where-does-the-value
 name: Where Does The Value
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-09-15
 tags: ["ai-ml", "founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Richard Socher is the founder and CEO of You."]
+subtype: article
 ---
 
 # Where Does The Value

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-the-five-step-process-to-hiri
 name: "20Product: The Five Step Process to Hiri"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: The Five Step Process to Hiring the Best Product Peopl
 ## Summary
 
  Scott Williamson was most recently Chief Product Officer for GitLab, where he led a team of 65 in Product Management, Product Operations, Growth, Pricing, and Corporate Development functions."]
+subtype: article
 ---
 
 # 20Product: The Five Step Process to Hiri

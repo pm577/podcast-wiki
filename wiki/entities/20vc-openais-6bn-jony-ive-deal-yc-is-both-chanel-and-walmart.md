@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-openais-6bn-jony-ive-deal-yc-is-both-chanel-and-walmart
 name: "20VC: OpenAI's $6BN Jony Ive Deal | YC Is Both Chanel and Walmart"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-05-29
 tags: ["ai-ml", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["# 20VC: OpenAI's $6BN Jony Ive Deal | YC Is Both Chanel and Walmart—and Has Officially Won | Builder.ai Implodes and Hinge IPOs: Who Wins & Who Loses | Seed Is Easy."]
+subtype: article
 ---
 
 # 20VC: OpenAI's $6BN Jony Ive Deal | YC Is Both Chanel and Walmart

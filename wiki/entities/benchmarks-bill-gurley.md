@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: benchmarks-bill-gurley
 name: Benchmark's Bill Gurley
 source: 20vc

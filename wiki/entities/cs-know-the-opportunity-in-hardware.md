@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-know-the-opportunity-in-hardware
 name: Cs Know The Opportunity In Hardware
 source: 20vc

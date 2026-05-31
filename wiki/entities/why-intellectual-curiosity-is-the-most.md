@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-intellectual-curiosity-is-the-most
 name: Why Intellectual Curiosity Is The Most
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-04-16
 tags: ["ai-ml", "biotech-health", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Zal Bilimoria is Founding Partner @ Refactor Capital, one of Silicon Valley's newest entrants to the early stage scene with a $50m fund looking to back founders solving fundamental human problems."]
+subtype: article
 ---
 
 # Why Intellectual Curiosity Is The Most

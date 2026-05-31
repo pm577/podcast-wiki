@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bn-mega-round
 name: BN Mega Round
 source: 20vc

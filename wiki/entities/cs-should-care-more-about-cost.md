@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-should-care-more-about-cost
 name: Cs Should Care More About Cost
 source: 20vc

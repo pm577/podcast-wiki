@@ -1,4 +1,5 @@
 ---
+
 title: Mo
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2022-08-08-20vc-investing-lessons-from-f.md
 confidence: medium
+subtype: person
 ---
 
 

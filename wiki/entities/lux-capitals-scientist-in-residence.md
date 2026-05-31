@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lux-capitals-scientist-in-residence
 name: Lux Capital's Scientist-In-Residence
 source: 20vc

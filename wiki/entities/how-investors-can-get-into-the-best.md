@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-investors-can-get-into-the-best
 name: How Investors Can Get Into The Best
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-03-29
 tags: ["ai-ml", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Jared Friedman is a Partner @ Y Combinator, the world's most successful accelerator with portfolio companies including the likes of AirBnB, Dropbox, Stripe, Zenefits, Twitch, the list goes on."]
+subtype: article
 ---
 
 # How Investors Can Get Into The Best

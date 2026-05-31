@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: basecamp-ceo-jason-fried
 name: Basecamp CEO Jason Fried
 source: 20vc

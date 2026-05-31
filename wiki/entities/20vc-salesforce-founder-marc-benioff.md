@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-salesforce-founder-marc-benioff
 name: "20VC: Salesforce Founder Marc Benioff"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Salesforce Founder Marc Benioff on The Future of LLMs | The
 ## Summary
 
 Marc Benioff is one of the iconic founders and visionaries of our time."]
+subtype: article
 ---
 
 # 20VC: Salesforce Founder Marc Benioff

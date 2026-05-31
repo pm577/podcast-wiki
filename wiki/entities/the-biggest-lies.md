@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-biggest-lies
 name: The Biggest Lies
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-08-21
 tags: ["consumer", "venture-capital"]
 related_concepts: []
 key_views: ["Nick Huber is a serial entrepreneur, investor, and content creator focused on real estate and small business."]
+subtype: article
 ---
 
 # The Biggest Lies

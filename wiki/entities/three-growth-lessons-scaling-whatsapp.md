@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: three-growth-lessons-scaling-whatsapp
 name: Three Growth Lessons Scaling Whatsapp
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-05-19
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Ryan Wiggins is the VP of Growth and Analytics at Mercury where he oversees a Growth team and founded the Analytics function."]
+subtype: article
 ---
 
 # Three Growth Lessons Scaling Whatsapp

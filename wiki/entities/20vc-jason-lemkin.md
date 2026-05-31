@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-jason-lemkin
 name: "20VC: Jason Lemkin"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Jason Lemkin on Why Founders Do Not Care About Their VCs An
 ## Summary
 
  Jason Lemkin is one of the OGs of SaaS of the last decade."]
+subtype: article
 ---
 
 # 20VC: Jason Lemkin

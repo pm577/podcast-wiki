@@ -1,4 +1,5 @@
 ---
+
 title: Spike Lipkin
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, ai-ml, enter
 sources:
   - raw/transcripts/20vc/20vc-2020-10-16-20vc-how-to-determine-the-ris.md
 confidence: medium
+subtype: person
 ---
 
 

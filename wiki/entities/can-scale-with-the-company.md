@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: can-scale-with-the-company
 name: Can Scale With The Company
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-10-13
 tags: ["ai-ml", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Luis Von Ahn is the Founder & CEO @ Duolingo, the leading language learning platform with over 100m users."]
+subtype: article
 ---
 
 # Can Scale With The Company

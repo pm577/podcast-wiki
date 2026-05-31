@@ -1,4 +1,5 @@
 ---
+
 title: Peter Thiel
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2021-09-30-20vc-the-opendoor-memo-keith.md
 confidence: medium
+subtype: person
 ---
 
 

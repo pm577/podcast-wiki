@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: reddit-ceo-steve-huffman
 name: Reddit CEO Steve Huffman
 source: 20vc

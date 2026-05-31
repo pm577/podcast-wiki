@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-openais-newest-board-member-zico-colter
 name: "20VC: OpenAI's Newest Board Member, Zico Colter"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: OpenAI's Newest Board Member, Zico Colter on The Biggest Bo
 ## Summary
 
  Zico Colter is a Professor and the Director of the Machine Learning Department at Carnegie Mellon University."]
+subtype: article
 ---
 
 # 20VC: OpenAI's Newest Board Member, Zico Colter

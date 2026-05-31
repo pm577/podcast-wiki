@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-how-linktree
 name: "20Product: How Linktree"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: How Linktree, Webflow and Airbnb Used Rituals and Prod
 ## Summary
 
 Jiaona "JZ" Zhang is the Chief Product Officer at Linktree, the world's leading link-in-bio platform empowering 45M+ creators, brands and SMBs."]
+subtype: article
 ---
 
 # 20Product: How Linktree

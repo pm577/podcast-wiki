@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: largest-sovereign-wealth-fund
 name: Largest Sovereign Wealth Fund
 source: 20vc

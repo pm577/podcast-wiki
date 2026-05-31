@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-now-is-the-hardest-time-to-raise
 name: Why Now Is The Hardest Time To Raise
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-01-06
 tags: ["ai-ml", "biotech-health", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Gaurav Jain is Co-Founder & Managing Partner @ Afore Capital, one of the west coast's leading pre-seed funds with a $124M fund focused purely on pre-seed."]
+subtype: article
 ---
 
 # Why Now Is The Hardest Time To Raise

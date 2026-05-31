@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: alex-rampell-the-best-companies-have-hostages-not-customers
 name: Alex Rampell | The Best Companies Have Hostages Not Customers | Th
 source: 20vc

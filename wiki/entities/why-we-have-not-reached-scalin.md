@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-we-have-not-reached-scalin
 name: Why We Have Not Reached Scalin
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-03-24
 tags: ["ai-ml", "deeptech-hardware", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Andrew Feldman is the Co-Founder and CEO @ Cerebras, the fastest AI inference + training platform in the world."]
+subtype: article
 ---
 
 # Why We Have Not Reached Scalin

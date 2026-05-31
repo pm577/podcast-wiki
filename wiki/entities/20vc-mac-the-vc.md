@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-mac-the-vc
 name: "20VC: Mac the VC"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Mac the VC on the Journey from Homeless To Becoming A VC, W
 ## Summary
 
  McKeever "Mac" Conwell II is the founder and managing partner of RareBreed Ventures, a pre-seed fund that invests outside of large tech ecosystems, with a concentrated portfolio approach being the first check with up to $250K."]
+subtype: article
 ---
 
 # 20VC: Mac the VC

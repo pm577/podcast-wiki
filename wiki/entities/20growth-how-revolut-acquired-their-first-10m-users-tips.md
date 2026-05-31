@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-how-revolut-acquired-their-first-10m-users-tips
 name: "20Growth: How Revolut Acquired Their First 10M Users: Tips"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: How Revolut Acquired Their First 10M Users: Tips, Tacti
 ## Summary
 
 Val Scholz is the former Head of Growth @ Revolut, where he led the company to their first 10M users."]
+subtype: article
 ---
 
 # 20Growth: How Revolut Acquired Their First 10M Users: Tips

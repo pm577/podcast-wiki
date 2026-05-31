@@ -1,4 +1,5 @@
 ---
+
 title: John Mark Nickels (JM Nickels)
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-leadership, conscious-leadership, uber, waymo, doordash, 
 sources:
   - raw/transcripts/lenny/john-mark-nickels.md
 confidence: high
+subtype: person
 ---
 
 # John Mark Nickels (JM Nickels)

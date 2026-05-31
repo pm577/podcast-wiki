@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: top-growth-talent
 name: Top Growth Talent
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-05-18
 tags: ["ai-ml", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Darius Contractor is one of the pre-eminent growth leaders of the last decade."]
+subtype: article
 ---
 
 # Top Growth Talent

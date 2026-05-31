@@ -1,4 +1,5 @@
 ---
+
 title: Kleiner Perkins
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml, con
 sources:
   - raw/transcripts/20vc/20vc-2024-10-21-20vc-kleiner-perkins-mamoon.md
 confidence: medium
+subtype: person
 ---
 
 

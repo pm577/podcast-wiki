@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-story
 name: The Story
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-10-23
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Bob Pittman is Chairman and CEO of iHeartMedia, Inc.", "Jamie Siminoff is the Founder and Chief Inventor @ Ring, with Ring Jamie, created the world's first Wi-Fi video doorbell while working in his garage in 2011.", "Matthieu Rouif is the Co-Founder and CEO @ PhotoRoom, one of the fastest-growing YC companies having scaled to an astonishing $50M in ARR in just 3 years."]
+subtype: article
 ---
 
 # The Story

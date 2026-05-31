@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-no-great-company-is-built
 name: Why No Great Company Is Built
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-02-07
 tags: ["founder-psychology", "go-to-market", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Shoaib Makani is the Co-Founder & CEO @ KeepTruckin, the modern fleet management platform building solutions that make drivers and fleets safer, smarter, and more efficient."]
+subtype: article
 ---
 
 # Why No Great Company Is Built

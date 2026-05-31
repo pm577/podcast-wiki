@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-will-the-ownership-mech
 name: What Will The Ownership Mech
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-07-05
 tags: ["ai-ml", "deeptech-hardware", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Alex Rodrigues is the Founder & CEO @ Embark, the world's leading developer of self-driving trucks."]
+subtype: article
 ---
 
 # What Will The Ownership Mech

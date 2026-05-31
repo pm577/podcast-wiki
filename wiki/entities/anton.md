@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/anton-osika.md
+
 title: Anton
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +10,7 @@ tags: [person]
 sources:
   - episodes/lenny/anton-osika|Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)
 confidence: medium
+subtype: person
 ---
 
 # Anton

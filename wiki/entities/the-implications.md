@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-implications
 name: The Implications
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-11-02
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Barry Eggers is a Founding Partner @ Lightspeed Venture Partners and currently Chair of the National Venture Capital Association (NVCA) Board of Directors."]
+subtype: article
 ---
 
 # The Implications

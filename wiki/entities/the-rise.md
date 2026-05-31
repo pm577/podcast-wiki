@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-rise
 name: The Rise
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-09-27
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Ralf Wenzel is the Founder & CEO @ JOKR, a global platform for instant retail delivery at a hyper-local scale."]
+subtype: article
 ---
 
 # The Rise

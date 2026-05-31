@@ -1,4 +1,5 @@
 ---
+
 title: Ryan Petersen
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2020-06-01-20vc-its-time-to-talk-about.md
 confidence: medium
+subtype: person
 ---
 
 

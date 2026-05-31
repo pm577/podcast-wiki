@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-important-is-differentiated-supp
 name: How Important Is Differentiated Supp
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-03-27
 tags: ["ai-ml", "founder-psychology", "go-to-market", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Alyssa Ravasio is the Founder & CEO @ Hipcamp, the startup that allows you to book unique camping experiences on over 300,000 campsites, cabins, RV parks, public parks and more."]
+subtype: article
 ---
 
 # How Important Is Differentiated Supp

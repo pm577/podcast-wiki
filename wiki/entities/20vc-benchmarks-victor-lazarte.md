@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-benchmarks-victor-lazarte
 name: "20VC: Benchmark's Victor Lazarte"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Benchmark's Victor Lazarte on Why Portfolio Construction is
 ## Summary
 
 Victor Lazarte is a General Partner @ Benchmark, one of the mot renowned venture firms in the world."]
+subtype: article
 ---
 
 # 20VC: Benchmark's Victor Lazarte

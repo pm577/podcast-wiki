@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: will-seed-pricing-remain-high
 name: Will Seed Pricing Remain High
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-11-17
 tags: ["ai-ml", "consumer", "fintech", "venture-capital"]
 related_concepts: []
 key_views: ["Rebecca Kaden is a Managing Partner @ Union Square Ventures, one of the leading early-stage firms of the last decade with investments in Twitter, Twilio, Coinbase and many more."]
+subtype: article
 ---
 
 # Will Seed Pricing Remain High

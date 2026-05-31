@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-0
 name: "20Sales: $0"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: $0-$3.7BN: The Databricks CRO's Playbook to Build the Fa
 ## Summary
 
 Ron Gabrisko is the Chief Revenue Officer at Databricks, where he joined in 2016."]
+subtype: article
 ---
 
 # 20Sales: $0

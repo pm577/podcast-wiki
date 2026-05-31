@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-crypto-roundtable-how-will-us-elec
 name: "20VC Crypto Roundtable: How Will US Elec"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC Crypto Roundtable: How Will US Elections Impact Crypto? Why 
 ## Summary
 
  Nick Tomaino is the Founder and General Partner @ 1confirmation, one of the leading seed firms fueling the decentralization of the web and society."]
+subtype: article
 ---
 
 # 20VC Crypto Roundtable: How Will US Elec

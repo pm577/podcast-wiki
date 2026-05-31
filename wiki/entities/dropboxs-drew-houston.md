@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: dropboxs-drew-houston
 name: Dropbox's Drew Houston
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Laura Modi
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, founder, bobbie, infant-formula, airbnb, leadership, cpg]
 sources:
   - raw/transcripts/lenny/laura-modi.md
 confidence: high
+subtype: person
 ---
 
 # Laura Modi
@@ -46,3 +48,15 @@ Modi had no experience in CPG or infant formula before starting Bobbie. "One of 
 - [[startup-culture]]
 - [[mission-driven]]
 - [[marketplace]]
+
+---
+
+*Merged from [[laura]]:*
+
+# Laura
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/laura-schaffer|Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura Schaffer (Amplitude)]] — *to be summarized*

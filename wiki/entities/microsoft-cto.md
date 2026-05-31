@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: microsoft-cto
 name: Microsoft CTO
 source: 20vc

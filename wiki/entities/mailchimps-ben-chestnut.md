@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: mailchimps-ben-chestnut
 name: Mailchimp's Ben Chestnut
 source: 20vc

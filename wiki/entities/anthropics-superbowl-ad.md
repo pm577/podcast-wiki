@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: anthropics-superbowl-ad
 name: Anthropic's Superbowl Ad
 source: 20vc

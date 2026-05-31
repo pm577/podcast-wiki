@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-small-markets-are-better-than-big-markets
 name: "20VC: Why Small Markets are Better Than Big Markets"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Small Markets are Better Than Big Markets, The Biggest 
 ## Summary
 
  Adam Fisher is a Partner @ Bessemer Venture Partners and one of the most successful investors in Israel over the last two decades with seed investments in Fiverr, Wix, Melio, HiBob and more."]
+subtype: article
 ---
 
 # 20VC: Why Small Markets are Better Than Big Markets

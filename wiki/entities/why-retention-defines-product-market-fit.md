@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-retention-defines-product-market-fit
 name: Why Retention Defines Product Market Fit
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-04-06
 tags: ["consumer", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Brian Hale is Vice President of Consumer Product & Growth @ Doordash."]
+subtype: article
 ---
 
 # Why Retention Defines Product Market Fit

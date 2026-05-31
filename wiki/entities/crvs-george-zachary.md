@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: crvs-george-zachary
 name: CRV's George Zachary
 source: 20vc

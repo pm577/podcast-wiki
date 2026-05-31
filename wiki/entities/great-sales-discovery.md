@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: great-sales-discovery
 name: Great Sales Discovery
 source: 20vc

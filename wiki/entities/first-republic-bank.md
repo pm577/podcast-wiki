@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: first-republic-bank
 name: First Republic Bank
 source: 20vc

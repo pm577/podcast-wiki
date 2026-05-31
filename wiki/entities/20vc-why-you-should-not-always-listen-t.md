@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-you-should-not-always-listen-t
 name: "20VC: Why You Should Not Always Listen T"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-01-19
 tags: ["ai-ml", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Florian Leibert is the Founder & CEO @ Mesosphere, the most flexible platform for containerized, data-intensive applications."]
+subtype: article
 ---
 
 # 20VC: Why You Should Not Always Listen T

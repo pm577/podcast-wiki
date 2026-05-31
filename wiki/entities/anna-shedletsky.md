@@ -1,4 +1,5 @@
 ---
+
 title: Anna Shedletsky
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml, dee
 sources:
   - raw/transcripts/20vc/20vc-2017-04-07-20vc-how-to-create-fomo-for-i.md
 confidence: medium
+subtype: person
 ---
 
 

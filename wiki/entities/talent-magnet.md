@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: talent-magnet
 name: Talent Magnet
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Marily Nika
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/marily-nika.md
 confidence: high
 key_finding: Don't do AI for the sake of doing AI — solve real problems
+subtype: person
 ---
 
 # Marily Nika

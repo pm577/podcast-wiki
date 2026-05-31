@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-successful-seed-investing-is-not-investing-in
 name: Why Successful Seed Investing Is Not Investing In
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-08-12
 tags: ["venture-capital"]
 related_concepts: []
 key_views: ["Ann Miura Ko is the Co-Founding Partner @ Floodgate, one of the leading early-stage firms of the last decade with a portfolio including the likes of Twitter, Twitch, Lyft, Okta, Outreach and more."]
+subtype: article
 ---
 
 # Why Successful Seed Investing Is Not Investing In

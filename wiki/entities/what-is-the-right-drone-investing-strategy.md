@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-is-the-right-drone-investing-strategy
 name: What Is The Right Drone Investing Strategy
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-01-05
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Ben Marcus is the Founder & CEO @ Airmap, the startups that provides everything one needs to unlock and scale drone operations in the ever-changing world of airspace."]
+subtype: article
 ---
 
 # What Is The Right Drone Investing Strategy

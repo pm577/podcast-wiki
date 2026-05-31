@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: inside-carnegie-mellon
 name: Inside Carnegie Mellon
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-08-04
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Miles Dieffenbach is Managing Director of Investments at Carnegie Mellon University, where he helps oversee a $4 billion endowment with a focus on venture capital, private equity, and alternative inve"]
+subtype: article
 ---
 
 # Inside Carnegie Mellon

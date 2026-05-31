@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: we-are-not-all-crushing-it-all-the-time-so-let
 name: We Are Not All Crushing It All The Time So Let
 source: 20vc

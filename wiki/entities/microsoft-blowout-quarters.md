@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: microsoft-blowout-quarters
 name: Microsoft Blowout Quarters
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: biggest-lessons-scaling-hubspot
 name: Biggest Lessons Scaling Hubspot
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: managing-dire
 name: Managing Dire
 source: 20vc

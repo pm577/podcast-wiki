@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: usvs-albert-wenger
 name: USV's Albert Wenger
 source: 20vc

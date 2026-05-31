@@ -1,4 +1,5 @@
 ---
+
 title: Jessica Fain
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,7 +9,7 @@ sources:
   - raw/transcripts/lenny/lenny-2026-03-22-jessica-fain.md
 confidence: medium
 key_finding: Influence is the Meta-Skill
-
+subtype: person
 ---
 
 # Jessica Fain

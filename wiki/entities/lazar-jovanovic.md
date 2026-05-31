@@ -1,4 +1,5 @@
 ---
+
 title: Lazar Jovanovic
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,7 +9,7 @@ sources:
   - raw/transcripts/lenny/lenny-2026-02-08-lazar-jovanovic.md
 confidence: medium
 key_finding: First Official Vibe Coder
-
+subtype: person
 ---
 
 # Lazar Jovanovic

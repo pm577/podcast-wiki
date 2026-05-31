@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: north-america-sales
 name: North America Sales
 source: 20vc

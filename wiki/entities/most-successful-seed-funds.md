@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: most-successful-seed-funds
 name: Most Successful Seed Funds
 source: 20vc

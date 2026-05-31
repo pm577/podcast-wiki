@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: greylocks-jerry-chen
 name: Greylock's Jerry Chen
 source: 20vc

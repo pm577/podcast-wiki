@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-most-insane-story
 name: The Most Insane Story
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-05-27
 tags: ["ai-ml", "fintech", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Airwallex is the most insane story in startups:  The best angel investment ever: The angel that turned $1M into $1BN."]
+subtype: article
 ---
 
 # The Most Insane Story

@@ -1,4 +1,5 @@
 ---
+
 title: Trae Vassallo
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology]
 sources:
   - raw/transcripts/20vc/20vc-2018-06-04-20vc-what-john-doerr-taught-m.md
 confidence: medium
+subtype: person
 ---
 
 

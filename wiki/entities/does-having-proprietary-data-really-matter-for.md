@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: does-having-proprietary-data-really-matter-for
 name: Does Having Proprietary Data Really Matter For
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-06-02
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["One of the core questions in AI and investing today; who wins, startups or incumbents? Startups have speed and innovation but incumbents have scale, resources, and distribution?   Today we hear from 6"]
+subtype: article
 ---
 
 # Does Having Proprietary Data Really Matter For

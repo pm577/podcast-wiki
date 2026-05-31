@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-everything-you-know-about-sales
 name: "20Sales: Everything You Know About Sales"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Everything You Know About Sales Playbooks is Wrong | How
 ## Summary
 
 Julian Teixeira is the Chief Revenue Officer at 1Password, where he has grown B2B revenue over 8x and scaled a team of more than 450 in go-to-market."]
+subtype: article
 ---
 
 # 20Sales: Everything You Know About Sales

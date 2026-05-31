@@ -1,4 +1,5 @@
 ---
+
 title: Ivan Zhao
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, notion, founder, productivity, no-code, startup, ceo, horizontal-
 sources:
   - raw/transcripts/lenny/ivan-zhao.md
 confidence: high
+subtype: person
 ---
 
 # Ivan Zhao

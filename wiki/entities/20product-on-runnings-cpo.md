@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-on-runnings-cpo
 name: "20Product: On Running's CPO"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: On Running's CPO on How to Create Emotion Through Prod
 ## Summary
 
 Gérald Marolf is the Chief Product Officer at On Running."]
+subtype: article
 ---
 
 # 20Product: On Running's CPO

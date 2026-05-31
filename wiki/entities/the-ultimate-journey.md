@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-ultimate-journey
 name: The Ultimate Journey
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-04-29
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Noah Glass is the Founder and CEO @ Olo, the interface between restaurants and the on-demand world powering millions of orders per day."]
+subtype: article
 ---
 
 # The Ultimate Journey

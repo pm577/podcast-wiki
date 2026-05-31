@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-the-66b-growth-engine-behind
 name: "20Growth: The $6.6B Growth Engine Behind"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: The $6.6B Growth Engine Behind ElevenLabs | Why ElevenL
 ## Summary
 
 Luke Harries is Head of Growth at ElevenLabs, where he leads marketing, product, engineering, and developer experience."]
+subtype: article
 ---
 
 # 20Growth: The $6.6B Growth Engine Behind

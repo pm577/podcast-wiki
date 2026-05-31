@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: are-burn-multiples
 name: Are Burn Multiples
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-10-02
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["AGENDA: 03:58 Understanding Burn Multiples and Capital Efficiency in an AI World 11:54 What Metrics Founders Need to Focus on in a World of AI 19:31 The Role of Kingmakers in Venture Capital: Harvey, "]
+subtype: article
 ---
 
 # Are Burn Multiples

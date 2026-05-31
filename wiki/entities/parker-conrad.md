@@ -1,4 +1,5 @@
 ---
+
 title: Parker Conrad
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, deeptech-hardware, founder-psychology, person, product-strategy, v
 sources:
   - raw/transcripts/20vc/20vc-2022-10-03-20vc-ripplings-parker-conrad.md
 confidence: medium
+subtype: person
 ---
 
 

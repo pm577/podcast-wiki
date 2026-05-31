@@ -1,4 +1,5 @@
 ---
+
 title: Anthropic Surpasses
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, go-to-market, hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2026-04-09-20vc-anthropic-surpasses-open.md
 confidence: medium
+subtype: person
 ---
 
 

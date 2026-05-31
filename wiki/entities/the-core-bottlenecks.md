@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-core-bottlenecks
 name: The Core Bottlenecks
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-08-28
 tags: ["ai-ml", "fintech", "venture-capital"]
 related_concepts: []
 key_views: ["Arvind Narayanan is a professor of Computer Science at Princeton and the director of the Center for Information Technology Policy."]
+subtype: article
 ---
 
 # The Core Bottlenecks

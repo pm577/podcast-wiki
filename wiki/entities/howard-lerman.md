@@ -1,4 +1,5 @@
 ---
+
 title: Howard Lerman
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2018-09-14-20vc-behind-the-scenes-of-a-.md
 confidence: medium
+subtype: person
 ---
 
 

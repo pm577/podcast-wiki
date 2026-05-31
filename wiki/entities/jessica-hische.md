@@ -1,4 +1,5 @@
 ---
+
 title: Jessica Hische
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, design, typography, branding, logos, lettering, childrens-books]
 sources:
   - raw/transcripts/lenny/jessica-hische.md
 confidence: high
+subtype: person
 ---
 
 # Jessica Hische

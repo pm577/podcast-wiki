@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-assess-human-potential
 name: How To Assess Human Potential
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-07-12
 tags: ["founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Marc Lore is a serial entrepreneur turned investor who's started and sold four companies."]
+subtype: article
 ---
 
 # How To Assess Human Potential

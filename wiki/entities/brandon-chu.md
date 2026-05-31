@@ -1,4 +1,5 @@
 ---
+
 title: Brandon Chu
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, shopify, leadership, writing, remote-work, pl
 sources:
   - raw/transcripts/lenny/brandon-chu.md
 confidence: high
+subtype: person
 ---
 
 # Brandon Chu

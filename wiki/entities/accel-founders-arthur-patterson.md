@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: accel-founders-arthur-patterson
 name: Accel Founders Arthur Patterson
 source: 20vc

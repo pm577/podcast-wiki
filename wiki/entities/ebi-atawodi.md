@@ -36,3 +36,15 @@ confidence: medium
 - [[leadership]]
 - [[vision]]
 - [[mission]]
+
+---
+
+*Merged from [[ebi]]:*
+
+# Ebi
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/ebi-atawodi|Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)]] — *to be summarized*

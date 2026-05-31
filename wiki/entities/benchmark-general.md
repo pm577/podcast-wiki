@@ -1,4 +1,5 @@
 ---
+
 title: Benchmark General
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2023-09-18-20vc-benchmark-general-partne.md
 confidence: medium
+subtype: person
 ---
 
 

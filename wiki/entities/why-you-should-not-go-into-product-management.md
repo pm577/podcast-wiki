@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-you-should-not-go-into-product-management
 name: Why You Should Not Go Into Product Management
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-11-01
 tags: ["enterprise-saas", "founder-psychology", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["David Meyer is the SVP Products at Databricks where he drives product strategy and execution."]
+subtype: article
 ---
 
 # Why You Should Not Go Into Product Management

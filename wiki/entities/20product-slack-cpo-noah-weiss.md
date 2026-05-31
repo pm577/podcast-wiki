@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-slack-cpo-noah-weiss
 name: "20Product: Slack CPO Noah Weiss"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Slack CPO Noah Weiss on How to Master Product-Led-Grow
 ## Summary
 
  Noah Weiss is the Chief Product Officer of Slack, overseeing the product team's strategy and development."]
+subtype: article
 ---
 
 # 20Product: Slack CPO Noah Weiss

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-make-the-leap-from-seed-to-series
 name: How To Make The Leap From Seed To Series
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-07-08
 tags: ["enterprise-saas", "go-to-market", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Ari Helgason is a VC at Dawn Capital in London and a former entrepreneur with operational experience in both London and New York."]
+subtype: article
 ---
 
 # How To Make The Leap From Seed To Series

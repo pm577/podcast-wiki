@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: trn-pay-package-broken-down
 name: TRN Pay Package Broken Down
 source: 20vc

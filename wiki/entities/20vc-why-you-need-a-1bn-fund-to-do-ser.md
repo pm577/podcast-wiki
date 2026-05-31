@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-you-need-a-1bn-fund-to-do-ser
 name: "20VC: Why You Need a $1BN Fund To Do Ser"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why You Need a $1BN Fund To Do Series A Today | OpenAI vs A
 ## Summary
 
 AGENDA: 05:00 — Anthropic vs."]
+subtype: article
 ---
 
 # 20VC: Why You Need a $1BN Fund To Do Ser

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: nvidia-invests
 name: NVIDIA Invests
 source: 20vc

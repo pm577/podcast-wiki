@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: indexs-shardul-shah
 name: Index's Shardul Shah
 source: 20vc

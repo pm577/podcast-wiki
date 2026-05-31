@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: choosing-benchmark
 name: Choosing Benchmark
 source: 20vc

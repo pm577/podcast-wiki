@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: we-lost-money
 name: We Lost Money
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: best-sales-people
 name: Best Sales People
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: angellists-naval-ravikant
 name: AngelList's Naval Ravikant
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-founders-funds-brian-singerman
 name: "20VC: Founders Fund's Brian Singerman"
 source: 20vc
@@ -25,6 +26,7 @@ Brian Singerman is a Partner @ Founders Fund, one of the world's most prestigio
 ## Summary
 
  Brian Singerman is a Partner @ Founders Fund, one of the best-performing funds of the last two decades."]
+subtype: article
 ---
 
 # 20VC: Founders Fund's Brian Singerman

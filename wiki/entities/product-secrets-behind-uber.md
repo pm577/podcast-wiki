@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: product-secrets-behind-uber
 name: Product Secrets Behind Uber
 source: 20vc

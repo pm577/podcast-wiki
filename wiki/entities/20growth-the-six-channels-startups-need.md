@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-the-six-channels-startups-need
 name: "20Growth: The Six Channels Startups Need"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: The Six Channels Startups Need to Dominate to Grow, Why
 ## Summary
 
 Matt Lerner is one of the OGs of growth having spent 11 years leading growth teams at PayPal."]
+subtype: article
 ---
 
 # 20Growth: The Six Channels Startups Need

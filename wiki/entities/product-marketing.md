@@ -1,4 +1,5 @@
 ---
+
 title: Product Marketing
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, product-strategy, hiring-culture, 
 sources:
   - raw/transcripts/20vc/20vc-2022-09-28-20growth-hubspot-cmo-kipp-bod.md
 confidence: medium
+subtype: person
 ---
 
 

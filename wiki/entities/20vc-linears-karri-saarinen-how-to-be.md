@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-linears-karri-saarinen-how-to-be
 name: "20VC: Linear's Karri Saarinen How to be"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Linear's Karri Saarinen How to be Grow Capital Efficiently 
 ## Summary
 
 Karri Saarinen is the Co-Founder and CEO of Linear."]
+subtype: article
 ---
 
 # 20VC: Linear's Karri Saarinen How to be

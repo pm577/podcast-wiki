@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-the-golden-rule-to-100m-in-arr
 name: "20Growth: The Golden Rule to $100M in ARR"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: The Golden Rule to $100M in ARR, Why CAC to LTV is BS E
 ## Summary
 
  Guillaume Cabane is a growth advisor to high-growth SaaS Startups, including Ramp, Spot, Airbyte, G2, Gorgias, Metadata, Madkudu, and others."]
+subtype: article
 ---
 
 # 20Growth: The Golden Rule to $100M in ARR

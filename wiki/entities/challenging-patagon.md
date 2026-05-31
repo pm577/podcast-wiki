@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: challenging-patagon
 name: Challenging Patagon
 source: 20vc

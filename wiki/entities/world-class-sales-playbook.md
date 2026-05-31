@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: world-class-sales-playbook
 name: World-Class Sales Playbook
 source: 20vc

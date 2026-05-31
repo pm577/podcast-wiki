@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-sequoia-investment-process-investing-lessons
 name: "20VC: The Sequoia Investment Process | Investing Lessons"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Sequoia Investment Process | Investing Lessons from Dou
 ## Summary
 
  Pat Grady is one of the most successful growth investors of the last decade."]
+subtype: article
 ---
 
 # 20VC: The Sequoia Investment Process | Investing Lessons

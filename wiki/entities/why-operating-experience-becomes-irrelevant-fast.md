@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-operating-experience-becomes-irrelevant-fast
 name: Why Operating Experience Becomes Irrelevant Fast
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-11-23
 tags: ["ai-ml", "consumer", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Jeffrey Katzenberg is an entertainment industry executive and entrepreneur, who throughout his career has repeatedly reshaped the media landscape."]
+subtype: article
 ---
 
 # Why Operating Experience Becomes Irrelevant Fast

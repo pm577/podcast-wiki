@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-makes-truly-great-brands
 name: What Makes Truly Great Brands
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-01-20
 tags: ["ai-ml", "biotech-health", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Mike Cessario is the Founder and CEO @ Liquid Death, the man hacking the healthy beverage market with the first hilarious water brand."]
+subtype: article
 ---
 
 # What Makes Truly Great Brands

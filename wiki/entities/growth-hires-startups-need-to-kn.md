@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: growth-hires-startups-need-to-kn
 name: Growth Hires Startups Need To Kn
 source: 20vc

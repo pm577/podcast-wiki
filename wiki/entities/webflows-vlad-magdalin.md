@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: webflows-vlad-magdalin
 name: Webflow's Vlad Magdalin
 source: 20vc

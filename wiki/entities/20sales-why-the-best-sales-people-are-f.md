@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-why-the-best-sales-people-are-f
 name: "20Sales: Why the Best Sales People are F"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Why the Best Sales People are F**** in the Head | Why Re
 ## Summary
 
 Chad Peets is one of the great sales leaders of our time."]
+subtype: article
 ---
 
 # 20Sales: Why the Best Sales People are F

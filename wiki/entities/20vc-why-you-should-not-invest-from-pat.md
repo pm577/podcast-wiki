@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-you-should-not-invest-from-pat
 name: "20VC: Why You Should Not Invest From Pat"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-01-11
 tags: ["biotech-health", "consumer", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Emily Melton is partner at DFJ, where she focuses on consumer and mobile technology, as well as healthcare technologies and marketplaces."]
+subtype: article
 ---
 
 # 20VC: Why You Should Not Invest From Pat

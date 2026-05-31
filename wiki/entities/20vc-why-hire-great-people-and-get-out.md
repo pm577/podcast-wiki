@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-hire-great-people-and-get-out
 name: "20VC: Why "Hire Great People and Get Out"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why "Hire Great People and Get Out of the Way" is Total BS,
 ## Summary
 
  Ilir Sela is the Founder and CEO of Slice, the all-in-one ordering and marketing tech platform for local pizzerias."]
+subtype: article
 ---
 
 # 20VC: Why "Hire Great People and Get Out

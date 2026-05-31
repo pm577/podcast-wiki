@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-breakout-startup
 name: The Breakout Startup
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-12-10
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Johnny Boufarhat is the Founder & CEO @ Hopin, one of the fastest-growing companies on the planet, providing an online events platform where you can create engaging virtual events that connect people "]
+subtype: article
 ---
 
 # The Breakout Startup

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: inside-accel
 name: Inside Accel
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-03-09
 tags: ["ai-ml", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Miles Clements is a Partner @ Accel where he helps to lead their growth fund."]
+subtype: article
 ---
 
 # Inside Accel

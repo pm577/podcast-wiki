@@ -1,4 +1,5 @@
 ---
+
 title: Four Traits
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2025-05-09-20vc-four-traits-of-the-most.md
 confidence: medium
+subtype: person
 ---
 
 

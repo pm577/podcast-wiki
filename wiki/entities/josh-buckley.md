@@ -1,4 +1,5 @@
 ---
+
 title: Josh Buckley
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, go-to-market, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2019-11-25-20vc-why-the-best-entrepreneu.md
 confidence: medium
+subtype: person
 ---
 
 

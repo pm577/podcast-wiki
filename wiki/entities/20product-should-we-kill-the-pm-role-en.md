@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-should-we-kill-the-pm-role-en
 name: "20Product: Should We Kill the PM Role En"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Should We Kill the PM Role Entirely | How Does Product
 ## Summary
 
 Fernando Fanton is one of the most respected product leaders in Europe, having held Chief Product Officer roles at Monzo and Just Eat."]
+subtype: article
 ---
 
 # 20Product: Should We Kill the PM Role En

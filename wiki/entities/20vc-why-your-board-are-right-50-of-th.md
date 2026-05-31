@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-your-board-are-right-50-of-th
 name: "20VC: Why Your Board Are Right 50% of Th"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-04-27
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["James Reinhart is the Founder & CEO @ ThredUp, the world's largest online thrift store, and consignment store."]
+subtype: article
 ---
 
 # 20VC: Why Your Board Are Right 50% of Th

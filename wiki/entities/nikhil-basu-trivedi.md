@@ -1,4 +1,5 @@
 ---
+
 title: Nikhil Basu Trivedi
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, hiring-culture, ai-ml, enterprise-saas, consumer
 sources:
   - raw/transcripts/20vc/20vc-2016-06-01-20vc-the-future-for-autonomou.md
 confidence: medium
+subtype: person
 ---
 
 

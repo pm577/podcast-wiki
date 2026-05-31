@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-biggest-lessons-from-working-a
 name: "20VC: The Biggest Lessons From Working A"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-09-10
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Shabih Rizvi is the Founding Partner @ Gradient Ventures, Google's new AI-focused venture fund, which will invest in and connect early-stage startups with Google's resources, innovation, and technical"]
+subtype: article
 ---
 
 # 20VC: The Biggest Lessons From Working A

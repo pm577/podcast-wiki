@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: michael-eisenberg-and-adi-levanon
 name: Michael Eisenberg and Adi Levanon
 source: 20vc

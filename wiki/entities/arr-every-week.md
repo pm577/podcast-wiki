@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: arr-every-week
 name: ARR Every Week
 source: 20vc

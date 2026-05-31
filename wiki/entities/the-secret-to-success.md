@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-secret-to-success
 name: The Secret To Success
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-03-24
 tags: ["consumer", "venture-capital"]
 related_concepts: []
 key_views: ["Jeremy Levine is a Partner @ Bessemer Venture Partners, one of the leading venture firms of the last 2 decades with a portfolio including the likes of Pinterest, Shopify, LinkedIn, Yelp, Twilio and ma"]
+subtype: article
 ---
 
 # The Secret To Success

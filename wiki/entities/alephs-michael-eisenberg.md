@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: alephs-michael-eisenberg
 name: Aleph's Michael Eisenberg
 source: 20vc

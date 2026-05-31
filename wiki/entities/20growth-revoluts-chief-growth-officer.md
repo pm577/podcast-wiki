@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-revoluts-chief-growth-officer
 name: "20Growth: Revolut's Chief Growth Officer"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: Revolut's Chief Growth Officer on The Growth Playbook R
 ## Summary
 
 Antoine Le Nel is the Chief Growth and Marketing Officer at Revolut, one of the fastest growing fintechs on the planet."]
+subtype: article
 ---
 
 # 20Growth: Revolut's Chief Growth Officer

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-the-table-stakes-for
 name: Why The Table Stakes For
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-09-26
 tags: ["founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Judith Elsea is a Co-Founder @ Weathergage Capital, one of the world's leading fund of funds with over $950m AUM."]
+subtype: article
 ---
 
 # Why The Table Stakes For

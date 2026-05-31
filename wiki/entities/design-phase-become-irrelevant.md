@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: design-phase-become-irrelevant
 name: Design Phase Become Irrelevant
 source: 20vc

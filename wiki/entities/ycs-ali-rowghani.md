@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ycs-ali-rowghani
 name: YC's Ali Rowghani
 source: 20vc

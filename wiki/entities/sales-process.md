@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sales-process
 name: Sales Process
 source: 20vc

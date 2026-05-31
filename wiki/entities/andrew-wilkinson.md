@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/andrew-wilkinson.md
+
 title: Andrew Wilkinson
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +11,7 @@ sources:
   - episodes/lenny/andrew-wilkinson
 confidence: high
 key_finding: "Fish where the fish are" — find boring, non-obvious niches with little competition instead of crowded spaces like restaurants, to-do apps, or AI companies.
+subtype: person
 ---
 
 # Andrew Wilkinson

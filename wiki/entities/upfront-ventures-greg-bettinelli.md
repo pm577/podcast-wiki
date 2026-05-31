@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: upfront-ventures-greg-bettinelli
 name: Upfront Ventures' Greg Bettinelli
 source: 20vc

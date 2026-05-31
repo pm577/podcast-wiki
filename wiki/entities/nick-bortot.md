@@ -1,4 +1,5 @@
 ---
+
 title: Nick Bortot
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, founder-psychology, marketplaces]
 sources:
   - raw/transcripts/20vc/20vc-2015-08-07-ff-007-founding-europes-larg.md
 confidence: medium
+subtype: person
 ---
 
 

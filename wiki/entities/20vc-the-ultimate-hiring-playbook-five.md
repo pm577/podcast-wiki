@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-ultimate-hiring-playbook-five
 name: "20VC: The Ultimate Hiring Playbook: Five"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Ultimate Hiring Playbook: Five Questions to Ask Every N
 ## Summary
 
  Matteo Franceschetti is the Co-Founder and CEO @ Eight Sleep, a company dedicated to fueling human potential through optimal sleep."]
+subtype: article
 ---
 
 # 20VC: The Ultimate Hiring Playbook: Five

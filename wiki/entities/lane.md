@@ -1,4 +1,5 @@
 ---
+
 title: Lane Shackleton
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/lane-shackleton.md
 confidence: high
 key_finding: Turn ambiguity into clarity through systems and principles
+subtype: person
 ---
 
 # Lane Shackleton

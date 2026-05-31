@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: datadog-ceo-olivier-pomel
 name: Datadog CEO Olivier Pomel
 source: 20vc

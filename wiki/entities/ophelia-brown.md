@@ -1,4 +1,5 @@
 ---
+
 title: Ophelia Brown
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, go-to-market, hiring-culture
 sources:
   - raw/transcripts/20vc/20vc-2023-03-17-20vc-why-growth-investors-rui.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-nvidia-vs-groq-the-future
 name: "20VC: NVIDIA vs Groq: The Future"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: NVIDIA vs Groq: The Future of Training vs Inference | Meta,
 ## Summary
 
 Jonathan Ross is the Founder & CEO of Groq, the creator of the world's  first Language Processing Unit (LPUTM)."]
+subtype: article
 ---
 
 # 20VC: NVIDIA vs Groq: The Future

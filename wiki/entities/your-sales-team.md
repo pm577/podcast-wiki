@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: your-sales-team
 name: Your Sales Team
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-09-12
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Amit Bendov is Co-Founder & CEO of Gong, the leading AI-sales platform."]
+subtype: article
 ---
 
 # Your Sales Team

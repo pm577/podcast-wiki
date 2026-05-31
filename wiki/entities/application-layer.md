@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: application-layer
 name: Application Layer
 source: 20vc

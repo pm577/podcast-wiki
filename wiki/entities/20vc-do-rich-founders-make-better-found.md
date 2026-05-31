@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-do-rich-founders-make-better-found
 name: "20VC: Do Rich Founders Make Better Found"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Do Rich Founders Make Better Founders | The Best Performing
 ## Summary
 
 Jason Wilk is the Founder and CEO of Dave, the greatest turnaround in the public markets of the last 12 months."]
+subtype: article
 ---
 
 # 20VC: Do Rich Founders Make Better Found

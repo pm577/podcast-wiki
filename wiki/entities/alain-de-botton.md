@@ -1,4 +1,5 @@
 ---
+
 title: Alain de Botton
 created: 2026-05-31
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, ai-ml, venture-capital, founder-psychology]
 sources:
   - raw/transcripts/20vc/20vc-2024-11-18-20vc-alain-de-botton-on-why-co.md
 confidence: medium
+subtype: person
 ---
 
 # Alain de Botton

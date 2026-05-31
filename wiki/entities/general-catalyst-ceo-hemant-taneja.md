@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: general-catalyst-ceo-hemant-taneja
 name: General Catalyst CEO Hemant Taneja
 source: 20vc

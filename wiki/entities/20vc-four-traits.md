@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-four-traits
 name: "20VC: Four Traits"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Four Traits of the Most Successful Founders | How to Hunt a
 ## Summary
 
 Eléonore Crespo is the Co-Founder and CEO @ Pigment, one of Europe's fastest-growing companies."]
+subtype: article
 ---
 
 # 20VC: Four Traits

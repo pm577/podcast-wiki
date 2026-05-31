@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-structure-the-perfect-invest
 name: How To Structure The Perfect Invest
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-04-03
 tags: ["ai-ml", "biotech-health", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Jean-Charles Samulian is the Co-Founder & CEO @ Alan, the startup revolutionising health insurance with a service centred on people, simplicity and comfort."]
+subtype: article
 ---
 
 # How To Structure The Perfect Invest

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-is-speed-the-most-important-thing-from-0
 name: "20VC: Is Speed the Most Important Thing from 0"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Is Speed the Most Important Thing from 0-1 | Why Hiring Ine
 ## Summary
 
 Rujul Zaparde is the Co-Founder and CEO of Zip, the world's leading Intake-to-Pay solution, adopted by leading enterprises and startups including Snowflake, Canva, Airtable, Webflow, and others."]
+subtype: article
 ---
 
 # 20VC: Is Speed the Most Important Thing from 0

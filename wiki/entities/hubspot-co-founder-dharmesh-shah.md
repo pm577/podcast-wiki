@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: hubspot-co-founder-dharmesh-shah
 name: Hubspot Co-Founder Dharmesh Shah
 source: 20vc

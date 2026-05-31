@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-most-insane-elements
 name: The Most Insane Elements
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-02-24
 tags: ["venture-capital"]
 related_concepts: []
 key_views: ["Joey Levin is the CEO of IAC where he has overseen the constant evolution of the company, including the initial IPO and subsequent spin-off of Match Group, the spin-off of Vimeo, and the acquisitions "]
+subtype: article
 ---
 
 # The Most Insane Elements

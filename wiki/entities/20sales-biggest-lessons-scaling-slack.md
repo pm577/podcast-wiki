@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-biggest-lessons-scaling-slack
 name: "20Sales: Biggest Lessons Scaling Slack"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Biggest Lessons Scaling Slack from $6M to $1BN in ARR | 
 ## Summary
 
 AJ Tennant is the Vice President of Sales & Success at Glean, Glean has more than 20x'd its revenue and 100x'd its user base in the just two and a half years he's been there."]
+subtype: article
 ---
 
 # 20Sales: Biggest Lessons Scaling Slack

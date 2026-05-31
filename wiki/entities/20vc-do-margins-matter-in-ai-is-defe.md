@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-do-margins-matter-in-ai-is-defe
 name: "20VC: Do Margins Matter in AI? | Is Defe"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Do Margins Matter in AI? | Is Defensibility Gone For Good? 
 ## Summary
 
 Byron Deeter is a Partner at Bessemer Venture Partners, and one of the most renowned SaaS investors."]
+subtype: article
 ---
 
 # 20VC: Do Margins Matter in AI? | Is Defe

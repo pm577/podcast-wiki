@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-saas-is-dead-why-systems
 name: "20VC: SaaS is Dead: Why Systems"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: SaaS is Dead: Why Systems of Record Will Die in an Agentic 
 ## Summary
 
 Sebastian Siemiatkowski is the co-founder and CEO of Klarna, the global digital bank with over 114 million global active users and 3.4 million transactions per day."]
+subtype: article
 ---
 
 # 20VC: SaaS is Dead: Why Systems

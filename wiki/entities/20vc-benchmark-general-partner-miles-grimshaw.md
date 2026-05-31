@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-benchmark-general-partner-miles-grimshaw
 name: "20VC: Benchmark General Partner, Miles Grimshaw"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Benchmark General Partner, Miles Grimshaw on The Five Pilla
 ## Summary
 
  Miles Grimshaw is a General Partner @ Benchmark, widely considered one of the best venture capital firms in history."]
+subtype: article
 ---
 
 # 20VC: Benchmark General Partner, Miles Grimshaw

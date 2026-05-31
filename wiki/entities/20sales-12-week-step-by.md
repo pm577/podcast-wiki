@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-12-week-step-by
 name: "20Sales: 12-Week Step-by"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: 12-Week Step-by-Step Framework to Crush Every Sales Quar
 ## Summary
 
  Ben Fiechtner is Chief Revenue Officer at Clari, where he drives global go-to market & revenue operations."]
+subtype: article
 ---
 
 # 20Sales: 12-Week Step-by

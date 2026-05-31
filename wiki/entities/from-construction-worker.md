@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: from-construction-worker
 name: From Construction Worker
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-12-04
 tags: ["ai-ml", "founder-psychology", "go-to-market", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Tooey Courtemanche, Jr. is the Founder, CEO, President, and Chairman of the Board of Procore. He founded Procore in 2002 with a mission to connect everyone in construction on a global platform. After "]
+subtype: article
 ---
 
 # From Construction Worker

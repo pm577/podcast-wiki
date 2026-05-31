@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-the-biggest-opportunities-are-in-category-re
 name: Why The Biggest Opportunities Are In Category Re
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-02-16
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Nadia Boujarwah is the Founder & CEO @ Dia & Co, the startup that provides premier plus size clothing and styling for women."]
+subtype: article
 ---
 
 # Why The Biggest Opportunities Are In Category Re

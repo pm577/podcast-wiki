@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: combinators-paul-buchheit
 name: Combinator's Paul Buchheit
 source: 20vc

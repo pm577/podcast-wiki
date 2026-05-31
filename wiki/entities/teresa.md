@@ -1,4 +1,5 @@
 ---
+
 title: Teresa Torres
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-discovery, product-management, customer-research]
 sources:
   - raw/transcripts/lenny/teresa-torres.md
 confidence: high
+subtype: person
 ---
 
 # Teresa Torres

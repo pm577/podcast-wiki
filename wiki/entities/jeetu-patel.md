@@ -1,4 +1,5 @@
 ---
+
 title: Jeetu Patel
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,7 +9,7 @@ sources:
   - raw/transcripts/lenny/lenny-2026-02-26-jeetu-patel.md
 confidence: medium
 key_finding: Megatrend vs Hype Cycle
-
+subtype: person
 ---
 
 # Jeetu Patel

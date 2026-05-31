@@ -1,4 +1,5 @@
 ---
+
 title: Steve Blank
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [marketplaces, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2020-07-20-20vc-steve-blank-on-why-the-s.md
 confidence: medium
+subtype: person
 ---
 
 

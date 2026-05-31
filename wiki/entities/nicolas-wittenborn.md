@@ -1,4 +1,5 @@
 ---
+
 title: Nicolas Wittenborn
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, hiring-culture]
 sources:
   - raw/transcripts/20vc/20vc-2015-07-27-20-vc-057-the-investor-checkl.md
 confidence: medium
+subtype: person
 ---
 
 

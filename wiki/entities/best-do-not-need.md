@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: best-do-not-need
 name: Best Do Not Need
 source: 20vc

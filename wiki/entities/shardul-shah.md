@@ -1,4 +1,5 @@
 ---
+
 title: Shardul Shah
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [biotech-health, go-to-market, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2024-09-16-20vc-indexs-shardul-shah-on.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+
 title: Mike Lazerow
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [consumer, founder-psychology, go-to-market, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2021-08-02-20vc-mike-lazerow-on-why-how.md
 confidence: medium
+subtype: person
 ---
 
 

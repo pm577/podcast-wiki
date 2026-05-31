@@ -1,4 +1,5 @@
 ---
+
 title: Cohere Founder
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, enterprise-saas, founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2025-09-01-20vc-cohere-founder-on-how-co.md
 confidence: medium
+subtype: person
 ---
 
 

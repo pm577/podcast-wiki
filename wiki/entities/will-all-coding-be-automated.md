@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: will-all-coding-be-automated
 name: Will All Coding Be Automated
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-02-21
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Alexander Embiricos is the Head of Codex at OpenAI, leading the development of the company's flagship AI coding systems that power automated software generation, debugging and developer workflows."]
+subtype: article
 ---
 
 # Will All Coding Be Automated

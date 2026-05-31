@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: greylocks-josh-elman
 name: Greylock's Josh Elman
 source: 20vc

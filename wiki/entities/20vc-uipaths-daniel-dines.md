@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-uipaths-daniel-dines
 name: "20VC: UiPath's Daniel Dines"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: UiPath's Daniel Dines on Why Agents Do Not Mean RPA is F***
 ## Summary
 
 Daniel Dines is the Founder & CEO @ UiPath, one of the most incredible journeys in startups."]
+subtype: article
 ---
 
 # 20VC: UiPath's Daniel Dines

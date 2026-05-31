@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-get-back-to
 name: How To Get Back To
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-07-05
 tags: ["ai-ml", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Barry Schuler is a Partner @ DFJ Growth, the team that seeks out companies that have gone through the early stages of funding and are category leaders or are poised to be."]
+subtype: article
 ---
 
 # How To Get Back To

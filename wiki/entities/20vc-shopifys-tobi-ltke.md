@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-shopifys-tobi-ltke
 name: "20VC: Shopify's Tobi Lütke"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Shopify's Tobi Lütke on How AI is a Scapegoat for Mass Lay
 ## Summary
 
 Tobi Lütke is the co-founder and CEO of Shopify, the global e-commerce titan with a $160 billion market cap."]
+subtype: article
 ---
 
 # 20VC: Shopify's Tobi Lütke

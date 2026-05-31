@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-mag7-earnings-google-amazon-win
 name: "20VC: Mag7 Earnings: Google & Amazon Win"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Mag7 Earnings: Google & Amazon Win - Meta and Microsoft Fal
 ## Summary
 
 AGENDA: 00:00 – Mag Seven Earnings: The "Super Bowl" of Tech Results 04:45 – Google's Cloud Explosion & The AI Search "Disruption" That Never Came 15:53 – Microsoft's $190B Bet: Is AI the Only Thing Keeping Growth Flat? 21:59 – Meta's $150B Future Bet vs."]
+subtype: article
 ---
 
 # 20VC: Mag7 Earnings: Google & Amazon Win

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-what-facebook
 name: "20Product: What Facebook"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: What Facebook, Monzo and Deliveroo Do and Do Not Do To
 ## Summary
 
  Mike Hudack is the Co-Founder and CEO of Sling, a peer-to-peer payments app whose vision is to simplify the way the world connects financially."]
+subtype: article
 ---
 
 # 20Product: What Facebook

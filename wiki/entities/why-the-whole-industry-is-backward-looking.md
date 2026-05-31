@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-the-whole-industry-is-backward-looking
 name: Why The Whole Industry Is Backward Looking
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-07-20
 tags: ["founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Alex Bangash is a Managing Director @ Rumson Group where he helps his clients invest in some of the best performing funds around the world."]
+subtype: article
 ---
 
 # Why The Whole Industry Is Backward Looking

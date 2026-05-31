@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: plaids-zach-perret
 name: Plaid's Zach Perret
 source: 20vc

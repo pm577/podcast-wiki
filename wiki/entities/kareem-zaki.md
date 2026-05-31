@@ -1,4 +1,5 @@
 ---
+
 title: Kareem Zaki
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2021-11-15-20vc-thrive-capitals-kareem.md
 confidence: medium
+subtype: person
 ---
 
 

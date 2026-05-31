@@ -1,4 +1,5 @@
 ---
+
 title: Dan Levine
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, hiring-culture, marketplaces, person, product-strategy, venture-ca
 sources:
   - raw/transcripts/20vc/20vc-2020-11-12-20vc-accels-dan-levine-on-th.md
 confidence: medium
+subtype: person
 ---
 
 

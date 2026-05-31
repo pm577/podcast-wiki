@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: windsurf-founder
 name: Windsurf Founder
 source: 20vc

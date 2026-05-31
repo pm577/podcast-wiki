@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: perplexitys-aravind-srinivas
 name: Perplexity's Aravind Srinivas
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-mondaycom-ceo
 name: "20VC: Monday.com CEO"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Monday.com CEO on Is SaaS Dead: Will Everything Be Vibe Cod
 ## Summary
 
 Monday has been hit harder than almost any other public SaaS company."]
+subtype: article
 ---
 
 # 20VC: Monday.com CEO

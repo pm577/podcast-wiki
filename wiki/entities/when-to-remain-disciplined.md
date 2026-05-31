@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: when-to-remain-disciplined
 name: When To Remain Disciplined
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-08-12
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Marcelo Claure is an entrepreneur and investor who has founded and led some of the world's most iconic businesses."]
+subtype: article
 ---
 
 # When To Remain Disciplined

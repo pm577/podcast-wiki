@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-really-get-the-most-out-of-your-board
 name: How To Really Get The Most Out Of Your Board
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-03-01
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Rob Sadow is the Founder & CEO @ Scoop, the startup that dramatically improves your commute providing convenient carpools with co-workers and neighbours."]
+subtype: article
 ---
 
 # How To Really Get The Most Out Of Your Board

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-new-format-mega-funds-will-come-back
 name: "20VC: NEW FORMAT: Mega Funds Will Come Back"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: NEW FORMAT: Mega Funds Will Come Back, Why Markups Have Cor
 ## Summary
 
  Jason Lemkin is the Founder @ SaaStr one of the best-performing early-stage venture funds focused on SaaS."]
+subtype: article
 ---
 
 # 20VC: NEW FORMAT: Mega Funds Will Come Back

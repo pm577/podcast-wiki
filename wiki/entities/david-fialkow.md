@@ -1,4 +1,5 @@
 ---
+
 title: David Fialkow
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2022-05-16-20vc-the-founding-of-general.md
 confidence: medium
+subtype: person
 ---
 
 

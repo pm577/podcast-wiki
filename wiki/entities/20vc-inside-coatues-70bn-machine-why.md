@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-inside-coatues-70bn-machine-why
 name: "20VC: Inside Coatue's $70BN Machine: Why"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Inside Coatue's $70BN Machine: Why Price Matters Least | Wh
 ## Summary
 
 Lucas Swisher co-leads the growth fund at Coatue where he has partnered with iconic companies like OpenAI, Harvey, Deel, Canva, Openevidence, Anthropic, and others."]
+subtype: article
 ---
 
 # 20VC: Inside Coatue's $70BN Machine: Why

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: hitrecords-joseph-gordon-levitt
 name: HitRecord's Joseph Gordon-Levitt
 source: 20vc

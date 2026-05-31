@@ -1,4 +1,5 @@
 ---
+
 title: Gustav Söderström
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, spotify, product, technology, music, ai, leadership]
 sources:
   - raw/transcripts/lenny/gustav-söderström.md
 confidence: high
+subtype: person
 ---
 
 # Gustav Söderström

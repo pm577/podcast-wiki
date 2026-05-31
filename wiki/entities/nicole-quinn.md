@@ -1,4 +1,5 @@
 ---
+
 title: Nicole Quinn
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [consumer, fintech, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-10-25-20vc-lightspeeds-nicole-quin.md
 confidence: medium
+subtype: person
 ---
 
 

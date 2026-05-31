@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-crypto-is-software-eating-mone
 name: "20VC: Why Crypto is Software Eating Mone"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-04-11
 tags: ["ai-ml", "enterprise-saas", "fintech", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Avichal Garg is Co-Founder & Partner @ Electric Capital, last month Electric announced they had raised $1BN for their new fund making them one of the largest independent and crypto-native VC firms in "]
+subtype: article
 ---
 
 # 20VC: Why Crypto is Software Eating Mone

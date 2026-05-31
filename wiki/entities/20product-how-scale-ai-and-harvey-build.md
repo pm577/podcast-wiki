@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-how-scale-ai-and-harvey-build
 name: "20Product: How Scale AI and Harvey Build"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: How Scale AI and Harvey Build Product | Why PMs Are Wr
 ## Summary
 
 Aatish Nayak is the Head of Product at Harvey where he oversees product vision, strategy, design, analytics, marketing, and support."]
+subtype: article
 ---
 
 # 20Product: How Scale AI and Harvey Build

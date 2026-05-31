@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: startups-dave-mcclure
 name: Startups' Dave McClure
 source: 20vc

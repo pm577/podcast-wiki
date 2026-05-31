@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-to-strategically-build-the-rig
 name: "20VC: How To Strategically Build The Rig"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-03-23
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Dan Lewis is the Founder & CEO @ Convoy, the startup that really is the future of freight with trucking services powered by technology to drive reliability, efficiency and insights."]
+subtype: article
 ---
 
 # 20VC: How To Strategically Build The Rig

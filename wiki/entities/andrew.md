@@ -1,4 +1,5 @@
 ---
+
 title: Andrew Wilkinson
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, business-acquisition, holding-company, entrepreneurship, investin
 sources:
   - raw/transcripts/lenny/andrew-wilkinson.md
 confidence: high
+subtype: person
 ---
 
 # Andrew Wilkinson

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-windsurf-founder
 name: "20VC: Windsurf Founder"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Windsurf Founder on Will Model Companies Own the App Layer 
 ## Summary
 
 Varun Mohan is the CEO and Co-Founder of Windsurf, the leading AI-native IDE, which has over a million users and generates over 50% of all committed software across thousands of companies."]
+subtype: article
 ---
 
 # 20VC: Windsurf Founder

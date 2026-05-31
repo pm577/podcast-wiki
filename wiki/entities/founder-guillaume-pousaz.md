@@ -1,4 +1,5 @@
 ---
+
 title: Founder Guillaume Pousaz
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, fintech, founder-psychology, hiring-culture, person, product-strat
 sources:
   - raw/transcripts/20vc/20vc-2021-04-08-20vc-checkoutcom-founder-gui.md
 confidence: medium
+subtype: person
 ---
 
 

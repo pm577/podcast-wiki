@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-doug-leone-bill-ackman-bill-gurley-and-orlando-bravo
 name: "20VC: Doug Leone, Bill Ackman, Bill Gurley and Orlando Bravo"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Doug Leone, Bill Ackman, Bill Gurley and Orlando Bravo on "
 ## Summary
 
  Doug Leone is the Global Managing Partner @ Sequoia Capital, one of the world's most renowned and successful venture firms with a portfolio including the likes of Google, Airbnb, Whatsapp, Stripe, Zoom and many more."]
+subtype: article
 ---
 
 # 20VC: Doug Leone, Bill Ackman, Bill Gurley and Orlando Bravo

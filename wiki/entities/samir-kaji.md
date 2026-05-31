@@ -1,4 +1,5 @@
 ---
+
 title: Samir Kaji
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/20vc/20vc-2015-12-02-20-vc-093-where-is-the-micro.md
   - raw/transcripts/20vc/20vc-2017-10-11-20vc-what-does-it-take-to-rai.md
 confidence: medium
+subtype: person
 ---
 
 # Samir Kaji

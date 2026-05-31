@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-mistrals-arthur-mensch-are-found
 name: "20VC: Mistral's Arthur Mensch: Are Found"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Mistral's Arthur Mensch: Are Foundation Models Commoditisin
 ## Summary
 
 Arthur Mensch is the Co-Founder and CEO of Mistral AI."]
+subtype: article
 ---
 
 # 20VC: Mistral's Arthur Mensch: Are Found

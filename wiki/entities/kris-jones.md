@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: kris-jones
 name: Kris Jones
 source: 20vc

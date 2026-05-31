@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-valuation-is-of-critical-importance-at-seed
 name: Why Valuation Is Of Critical Importance At Seed
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-03-08
 tags: ["founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Lee Hower is a co-founder and Partner at NextView Ventures, one of the East coast's leading early stage funds with investments in the likes of Dia & Co, Sunrise, TaskRabbit and GrabCad just to name a "]
+subtype: article
 ---
 
 # Why Valuation Is Of Critical Importance At Seed

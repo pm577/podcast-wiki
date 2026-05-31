@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: levers-to-fundraising
 name: Levers To Fundraising
 source: 20vc

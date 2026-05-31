@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vcs-big-fat-quiz
 name: 20VC's Big Fat Quiz
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 03:48 Founder of the Year 2025 06:58 Product of the Year 10:05 Fund of t
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vcs-big-fat-quiz-of-the-year-founder-fund-and-breakout-company-of-2025-predictions-for-2026-the-company-to-buy-the-biggest-short-why-salesforce-could-win-2026-and-the-tailwinds-nvidia-will-face)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC's Big Fat Quiz

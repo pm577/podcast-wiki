@@ -1,4 +1,5 @@
 ---
+
 title: Camille Hearst
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/camille-hearst.md
 confidence: medium
 key_finding: Creator Platforms Must Solve Real Problems, Not Just Enable
+subtype: person
 ---
 
 # Camille Hearst

@@ -1,4 +1,5 @@
 ---
+
 title: Kristen Berman
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, behavioral-science, product-design, irrational-labs, decision-mak
 sources:
   - raw/transcripts/lenny/kristen-berman.md
 confidence: high
+subtype: person
 ---
 
 # Kristen Berman

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anthropic-vs-the-pentagon-who-win
 name: "20VC: Anthropic vs The Pentagon: Who Win"
 source: 20vc
@@ -31,6 +32,7 @@ AGENDA:  04:13 Anthropic vs The Pentagon: Who Wins 13:54 Was Sam Altman Wrong t
 ## Summary
 
 AGENDA: 00:00 - ANTHROPIC VS."]
+subtype: article
 ---
 
 # 20VC: Anthropic vs The Pentagon: Who Win

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-structure-the-interview-process
 name: How To Structure The Interview Process
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-10-19
 tags: ["enterprise-saas", "founder-psychology", "go-to-market", "hiring-culture", "marketplaces"]
 related_concepts: []
 key_views: ["Lauren Schwartz is Vice President of Enterprise Sales at Fivetran, the leading platform for modern data movement."]
+subtype: article
 ---
 
 # How To Structure The Interview Process

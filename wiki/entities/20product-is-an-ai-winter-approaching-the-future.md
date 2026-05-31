@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-is-an-ai-winter-approaching-the-future
 name: "20Product: Is an AI Winter Approaching | The Future"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Is an AI Winter Approaching | The Future of AI Softwar
 ## Summary
 
 Guy Podjarny founded Tessl, Snyk and Blaze."]
+subtype: article
 ---
 
 # 20Product: Is an AI Winter Approaching | The Future

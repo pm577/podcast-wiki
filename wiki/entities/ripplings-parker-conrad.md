@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ripplings-parker-conrad
 name: Rippling's Parker Conrad
 source: 20vc

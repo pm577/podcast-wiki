@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-sam-altman-does-not-ca
 name: Why Sam Altman Does Not Ca
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-01-08
 tags: ["ai-ml", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["AGENDA: 04:30 Groq Acquired by NVIDIA for $20BN: The Breakdown 17:13 Meta's $2BN Acquisition of Manus: Did They Sell Too Early 36:04 OpenAI's Stock-Based Compensation Strategy 47:42 Will AI Replace Ve"]
+subtype: article
 ---
 
 # Why Sam Altman Does Not Ca

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: selects-venture-managers
 name: Selects Venture Managers
 source: 20vc

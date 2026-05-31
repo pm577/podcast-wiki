@@ -1,4 +1,5 @@
 ---
+
 title: Jeff Clavier
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2015-09-07-20-vc-069-jeff-clavier-king.md
 confidence: medium
+subtype: person
 ---
 
 

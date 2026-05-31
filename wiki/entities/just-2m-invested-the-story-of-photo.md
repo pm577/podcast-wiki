@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: just-2m-invested-the-story-of-photo
 name: Just $2M Invested; The Story of Photo
 source: 20vc

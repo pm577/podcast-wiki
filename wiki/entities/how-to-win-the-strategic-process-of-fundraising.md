@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-win-the-strategic-process-of-fundraising
 name: How To Win The Strategic Process Of Fundraising
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-09-02
 tags: ["ai-ml", "biotech-health", "consumer", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Kathryn Minshew is the Founder & CEO @ The Muse, named to Forbes' 30 Under 30 in Media and Inc."]
+subtype: article
 ---
 
 # How To Win The Strategic Process Of Fundraising

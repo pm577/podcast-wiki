@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-27-years-of-investing-lessons
 name: "20VC: 27 Years of Investing Lessons"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: 27 Years of Investing Lessons on Picking Founders, Price Di
 ## Summary
 
  Peter Wagner is a Founding Partner of Wing."]
+subtype: article
 ---
 
 # 20VC: 27 Years of Investing Lessons

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-discords-jason-citron
 name: "20VC: Discord's Jason Citron"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Discord's Jason Citron on Why Everything We are Taught Abou
 ## Summary
 
 Jason Citron is the Co-Founder and CEO of Discord, a voice, video and text platform for friends playing games."]
+subtype: article
 ---
 
 # 20VC: Discord's Jason Citron

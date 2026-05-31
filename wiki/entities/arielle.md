@@ -1,4 +1,5 @@
 ---
+
 title: Arielle Jackson
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, branding, marketing, positioning, naming, startups, pr, product-m
 sources:
   - raw/transcripts/lenny/arielle-jackson.md
 confidence: high
+subtype: person
 ---
 
 # Arielle Jackson

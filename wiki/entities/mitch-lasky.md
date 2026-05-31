@@ -1,4 +1,5 @@
 ---
+
 title: Mitch Lasky
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-07-10-20vc-benchmarks-mitch-lasky.md
 confidence: medium
+subtype: person
 ---
 
 

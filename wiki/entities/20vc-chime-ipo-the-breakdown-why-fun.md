@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-chime-ipo-the-breakdown-why-fun
 name: "20VC: Chime IPO: The Breakdown | Why Fun"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-05-22
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["# 20VC: Chime IPO: The Breakdown | Why Fund Returners Are Not Enough & Seed is for Suckers | Are IPOs Dead & The Future of the Late Stage Private Market | Rippling vs."]
+subtype: article
 ---
 
 # 20VC: Chime IPO: The Breakdown | Why Fun

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: has-officially-won
 name: Has Officially Won
 source: 20vc

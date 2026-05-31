@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-right-way-to-think-about-network-effects
 name: The Right Way To Think About Network Effects
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-03-05
 tags: ["ai-ml", "go-to-market", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Anu Hariharan is a Partner @ Y Combinator's Continuity Fund, the growth stage investing arm of Y Combinator that has made investments in the likes of Segment, Lob (coming on Friday), Convoy, where Anu"]
+subtype: article
 ---
 
 # The Right Way To Think About Network Effects

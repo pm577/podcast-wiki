@@ -1,4 +1,5 @@
 ---
+
 title: James Loftus
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, hiring-culture, ai-ml, consume
 sources:
   - raw/transcripts/20vc/20vc-2018-03-26-20vc-how-great-vcs-handle-the.md
 confidence: medium
+subtype: person
 ---
 
 

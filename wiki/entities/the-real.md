@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-real
 name: The Real
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-09-08
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Mati Staniszewski is the Co-Founder and CEO of ElevenLabs, the world's leading AI voice platform."]
+subtype: article
 ---
 
 # The Real

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-insane-story
 name: "20VC: The Insane Story"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Insane Story of Glovo: Selling 30% of the Company for â
 ## Summary
 
 Oscar Pierre is the Founder and CEO @ Glovo, the food delivery site that will get you anything you want to your doorstep."]
+subtype: article
 ---
 
 # 20VC: The Insane Story

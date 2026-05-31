@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-to-raise-a-venture-fund
 name: "20VC: How to Raise a Venture Fund"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How to Raise a Venture Fund from Deck to First Meetings to 
 ## Summary
 
  Rob Go is a co-founder and Partner at NextView, one of the leading seed firms of the last decade with a portfolio including Attentive, Devoted Health, Whoop, and Grove Collaborative."]
+subtype: article
 ---
 
 # 20VC: How to Raise a Venture Fund

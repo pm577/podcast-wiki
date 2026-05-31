@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-three-fundamental-forces
 name: The Three Fundamental Forces
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-03-16
 tags: ["consumer", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Ciaran O'Leary is the General Partner at one of Europe's newest funds, BlueYard."]
+subtype: article
 ---
 
 # The Three Fundamental Forces

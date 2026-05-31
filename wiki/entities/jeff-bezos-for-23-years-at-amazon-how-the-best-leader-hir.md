@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: jeff-bezos-for-23-years-at-amazon-how-the-best-leader-hir
 name: Jeff Bezos for 23 Years at Amazon, How the Best Leader Hir
 source: 20vc

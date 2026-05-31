@@ -1,4 +1,5 @@
 ---
+
 title: Hunter Somerville
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market]
 sources:
   - raw/transcripts/20vc/20vc-2023-03-03-20vc-will-lps-pull-out-of-exi.md
 confidence: medium
+subtype: person
 ---
 
 

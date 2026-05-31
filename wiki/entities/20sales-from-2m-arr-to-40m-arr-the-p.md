@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-from-2m-arr-to-40m-arr-the-p
 name: "20Sales: From $2M ARR to $40M ARR: The P"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: From $2M ARR to $40M ARR: The Playbook | How to Use AI T
 ## Summary
 
 Kyle Norton is the Chief Revenue Officer at Owner.com, where he scaled revenue from $2M to $40M ARR in under 3 years while selling to one of the toughest markets: SMB restaurants."]
+subtype: article
 ---
 
 # 20Sales: From $2M ARR to $40M ARR: The P

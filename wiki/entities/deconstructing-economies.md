@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: deconstructing-economies
 name: Deconstructing Economies
 source: 20vc

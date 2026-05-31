@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: invision-founder-clark-valberg
 name: InVision Founder Clark Valberg
 source: 20vc

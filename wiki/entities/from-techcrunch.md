@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: from-techcrunch
 name: From TechCrunch
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-11-13
 tags: ["founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Steve O’Hear is best known as a technology journalist, currently at TechCrunch where he focuses on European startups, companies and products."]
+subtype: article
 ---
 
 # From TechCrunch

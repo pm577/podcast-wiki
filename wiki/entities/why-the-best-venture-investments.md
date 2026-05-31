@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-the-best-venture-investments
 name: Why The Best Venture Investments
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-02-18
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Steve Case is Chairman and CEO of Revolution with the mission being to establish themselves as the premier venture firm outside of Silicon Valley."]
+subtype: article
 ---
 
 # Why The Best Venture Investments

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-london-compares-to-the
 name: How London Compares To The
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-11-09
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Hussein Kanji really is a pedigree in the industry having started off his career with Microsoft, he made the leap into venture with Accel Partners where he was a board observer with the likes of Playf"]
+subtype: article
 ---
 
 # How London Compares To The

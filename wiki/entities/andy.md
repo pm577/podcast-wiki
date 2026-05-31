@@ -1,4 +1,5 @@
 ---
+
 title: Andy Raskin
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, strategic-narrative, storytelling, sales, marketing, positioning]
 sources:
   - raw/transcripts/lenny/andy-raskin.md
 confidence: high
+subtype: person
 ---
 
 # Andy Raskin

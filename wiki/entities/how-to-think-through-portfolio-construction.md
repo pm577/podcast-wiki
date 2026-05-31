@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-think-through-portfolio-construction
 name: How To Think Through Portfolio Construction
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-12-16
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Adam D'Augelli is a Partner @ True Ventures, one of the West Coast's leading early-stage funds with a portfolio including the likes of Fitbit, Peloton, Hashicorp, Tray."]
+subtype: article
 ---
 
 # How To Think Through Portfolio Construction

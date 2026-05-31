@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: klaviyos-andrew-bialecki
 name: Klaviyo's Andrew Bialecki
 source: 20vc

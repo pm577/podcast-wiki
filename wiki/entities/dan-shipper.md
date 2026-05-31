@@ -1,4 +1,5 @@
 ---
+
 title: Dan Shipper
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/dan-shipper.md
   - raw/transcripts/lenny/lenny-2026-05-24-dan-shipper.md
 confidence: high
+subtype: person
 ---
 
 # Dan Shipper

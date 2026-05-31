@@ -1,4 +1,5 @@
 ---
+
 title: George Kurtz
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, enterprise-saas, founder-psychology, hiring-culture, person, ventu
 sources:
   - raw/transcripts/20vc/20vc-2021-10-14-20vc-crowdstrike-founder-geo.md
 confidence: medium
+subtype: person
 ---
 
 

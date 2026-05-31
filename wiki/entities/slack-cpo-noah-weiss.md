@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: slack-cpo-noah-weiss
 name: Slack CPO Noah Weiss
 source: 20vc

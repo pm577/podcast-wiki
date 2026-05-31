@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bain-capital-ventures
 name: Bain Capital Ventures
 source: 20vc

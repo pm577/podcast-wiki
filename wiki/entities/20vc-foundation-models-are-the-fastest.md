@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-foundation-models-are-the-fastest
 name: "20VC: Foundation Models are the Fastest"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Foundation Models are the Fastest Depreciating Asset in His
 ## Summary
 
  Michael Eisenberg is a Co-Founder and General Partner @ Aleph, one of Israel's leading venture firms with a portfolio including the likes of Wix, Lemonade, Empathy, Honeybook and more."]
+subtype: article
 ---
 
 # 20VC: Foundation Models are the Fastest

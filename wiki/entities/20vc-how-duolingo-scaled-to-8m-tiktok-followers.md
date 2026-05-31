@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-duolingo-scaled-to-8m-tiktok-followers
 name: "20VC: How Duolingo Scaled to 8M TikTok Followers"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How Duolingo Scaled to 8M TikTok Followers, How to Create V
 ## Summary
 
  Zaria Parvez is Duolingo's Senior Global Social Media Manager where she is famed for scaling Duolingo's TikTok from 50K followers in September 2021 to 8M followers today."]
+subtype: article
 ---
 
 # 20VC: How Duolingo Scaled to 8M TikTok Followers

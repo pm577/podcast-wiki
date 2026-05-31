@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sequoias-mike-vernal
 name: Sequoia's Mike Vernal
 source: 20vc

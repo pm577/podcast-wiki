@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-best-companies-have-hostages-not-customers
 name: The Best Companies Have Hostages Not Customers
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-01-12
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Alex Rampell is a General Partner at Andressen Horowitz, where he leads their $1."]
+subtype: article
 ---
 
 # The Best Companies Have Hostages Not Customers

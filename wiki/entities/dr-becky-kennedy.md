@@ -1,4 +1,5 @@
 ---
+
 title: Dr. Becky Kennedy
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,7 +9,7 @@ sources:
   - raw/transcripts/lenny/lenny-2026-02-01-dr-becky-kennedy.md
 confidence: medium
 key_finding: Repair is the #1 Relationship Strategy
-
+subtype: person
 ---
 
 # Dr. Becky Kennedy

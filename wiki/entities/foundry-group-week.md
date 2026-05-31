@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: foundry-group-week
 name: FOUNDRY GROUP WEEK
 source: 20vc

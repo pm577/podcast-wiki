@@ -1,4 +1,5 @@
 ---
+
 title: Jason Citron
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, hiring-culture, marketplaces, person, venture-
 sources:
   - raw/transcripts/20vc/20vc-2024-11-25-20vc-discords-jason-citron-o.md
 confidence: medium
+subtype: person
 ---
 
 

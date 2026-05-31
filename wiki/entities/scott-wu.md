@@ -1,4 +1,5 @@
 ---
+
 title: Scott Wu
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, ai, software-engineering, agentic-coding, startup, devin, cogniti
 sources:
   - raw/transcripts/lenny/lenny-2025-09-08-scott-wu.md
 confidence: high
+subtype: person
 ---
 
 # Scott Wu

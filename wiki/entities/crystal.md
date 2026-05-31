@@ -1,4 +1,5 @@
 ---
+
 title: Crystal Widjaja
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/crystal-w.md
 confidence: high
 key_finding: Do things that don't scale — test with 30 users, rent a stadium if you have to
+subtype: person
 ---
 
 # Crystal Widjaja

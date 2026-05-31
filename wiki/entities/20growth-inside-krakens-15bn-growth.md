@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-inside-krakens-15bn-growth
 name: "20Growth: Inside Kraken's $1.5BN Growth"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: Inside Kraken's $1.5BN Growth Playbook: What Works, Wha
 ## Summary
 
 Mayur Gupta is currently the CMO at Kraken, one of the largest crypto platforms in the world."]
+subtype: article
 ---
 
 # 20Growth: Inside Kraken's $1.5BN Growth

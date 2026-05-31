@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-vlad-tenev
 name: "20VC: Vlad Tenev"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Vlad Tenev on Robinhood's $85BN Resurgence | Tokenizing Spa
 ## Summary
 
 Vlad Tenev is the Founder and CEO of Robinhood, the greatest story on Wall St of the last decade."]
+subtype: article
 ---
 
 # 20VC: Vlad Tenev

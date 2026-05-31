@@ -1,4 +1,5 @@
 ---
+
 title: Rob Hayes
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2016-03-21-ubers-first-investor-first-r.md
 confidence: medium
+subtype: person
 ---
 
 

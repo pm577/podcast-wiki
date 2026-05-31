@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: david-tisch
 name: David Tisch
 source: 20vc

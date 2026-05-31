@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-makes-truly-great-leaders
 name: What Makes Truly Great Leaders
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-01-17
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Sam Altman is the president of Y Combinator, the world's most successful accelerator with alumni that includes the likes of Airbnb, Dropbox, Reddit, Flexport and many more incredible companies."]
+subtype: article
 ---
 
 # What Makes Truly Great Leaders

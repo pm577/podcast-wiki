@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-john-doerr
 name: "20VC: John Doerr"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: John Doerr on Buying 12% of Google for $12M, His Biggest In
 ## Summary
 
  John Doerr is an engineer, venture capitalist, the chairman of Kleiner Perkins, and the author of the #1 New York Times best-seller Measure What Matters."]
+subtype: article
 ---
 
 # 20VC: John Doerr

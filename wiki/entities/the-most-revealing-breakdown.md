@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-most-revealing-breakdown
 name: The Most Revealing Breakdown
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-06-01
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Over the last 10 days, we have seen unprecedented levels of layoffs from some of the biggest quick commerce providers in the world from Getir to GoPuff to Zapp and Gorillas."]
+subtype: article
 ---
 
 # The Most Revealing Breakdown

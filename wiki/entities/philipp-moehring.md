@@ -1,4 +1,5 @@
 ---
+
 title: Philipp Moehring
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2016-01-06-20-vc-philipp-moehring-head.md
 confidence: medium
+subtype: person
 ---
 
 

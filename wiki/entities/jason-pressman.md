@@ -1,4 +1,5 @@
 ---
+
 title: Jason Pressman
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, marketplaces, enterprise-saas,
 sources:
   - raw/transcripts/20vc/20vc-2017-07-19-20vc-why-it-is-bs-that-you-ne.md
 confidence: medium
+subtype: person
 ---
 
 

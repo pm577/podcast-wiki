@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-microsoft-cto
 name: "20VC: Microsoft CTO"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Microsoft CTO on Where Value Accrues in an AI World | Why S
 ## Summary
 
 Kevin Scott is the CTO of Microsoft, where he leads the company's AI and technology strategy at global scale and played a pivotal role in Microsoft's partnership with OpenAI."]
+subtype: article
 ---
 
 # 20VC: Microsoft CTO

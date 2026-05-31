@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: game-of-access-or-picking
 name: Game Of Access Or Picking
 source: 20vc

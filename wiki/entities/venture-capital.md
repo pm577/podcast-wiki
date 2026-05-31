@@ -1,4 +1,5 @@
 ---
+
 title: Venture Capital
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, deeptech-hardware]
 sources:
   - raw/transcripts/20vc/20vc-2025-04-10-20vc-how-to-fix-the-uk-tech-e.md
 confidence: medium
+subtype: person
 ---
 
 

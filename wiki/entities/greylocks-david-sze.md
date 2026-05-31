@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: greylocks-david-sze
 name: Greylock's David Sze
 source: 20vc

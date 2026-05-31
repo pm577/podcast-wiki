@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: firstmarks-rick-heitzmann
 name: Firstmark's Rick Heitzmann
 source: 20vc

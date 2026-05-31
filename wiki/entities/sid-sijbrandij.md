@@ -1,4 +1,5 @@
 ---
+
 title: Sid Sijbrandij
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, enterprise-saas, founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2022-03-11-20vc-gitlab-ceo-sid-sijbrandi.md
 confidence: medium
+subtype: person
 ---
 
 

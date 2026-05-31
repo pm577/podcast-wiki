@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-marc-benioff
 name: "20VC: Marc Benioff"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Marc Benioff on The Future of San Francisco and What He Wou
 ## Summary
 
   Marc Benioff is Chair, Chief Executive Officer and Co-Founder of Salesforce and a pioneer of cloud computing."]
+subtype: article
 ---
 
 # 20VC: Marc Benioff

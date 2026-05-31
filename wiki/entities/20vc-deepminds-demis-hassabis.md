@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-deepminds-demis-hassabis
 name: "20VC: DeepMind's Demis Hassabis"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: DeepMind's Demis Hassabis on Why AGI is Bigger than the Ind
 ## Summary
 
 Demis Hassabis is the Co-Founder & CEO of Google DeepMind - working on AGI, responsible for AI breakthroughs such as AlphaGo, the first program to beat the world champion at the game of Go; and AlphaFold, which cracked the 50-year grand challenge of protein structure prediction and was recognised with the 2024 Nobel Prize in Chemistry."]
+subtype: article
 ---
 
 # 20VC: DeepMind's Demis Hassabis

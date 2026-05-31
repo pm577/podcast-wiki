@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: learnings-from-mary-meeker
 name: Learnings From Mary Meeker
 source: 20vc

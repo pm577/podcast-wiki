@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-will-labour-markets-be
 name: What Will Labour Markets Be
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-05-04
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Tobi Lütke is the co-founder and CEO of Shopify, the global e-commerce titan with a $160 billion market cap."]
+subtype: article
 ---
 
 # What Will Labour Markets Be

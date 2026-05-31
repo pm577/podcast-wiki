@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-biggest-ai-leaders
 name: "20VC: The Biggest AI Leaders"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Biggest AI Leaders on What Matters More; Model Size or 
 ## Summary
 
  Richard Socher is the founder and CEO of You.com."]
+subtype: article
 ---
 
 # 20VC: The Biggest AI Leaders

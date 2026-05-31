@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: structure-sales-compensation-plans
 name: Structure Sales Compensation Plans
 source: 20vc

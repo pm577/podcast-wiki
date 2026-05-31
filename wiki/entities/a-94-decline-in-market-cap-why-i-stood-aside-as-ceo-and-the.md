@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: a-94-decline-in-market-cap-why-i-stood-aside-as-ceo-and-the
 name: a 94% Decline in Market Cap, "Why I Stood Aside as CEO" and The
 source: 20vc

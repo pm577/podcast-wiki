@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: chris-redlitz
 name: Chris Redlitz
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Satya Patel
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, hiring-culture, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2016-03-28-20vc-homebrews-satya-patel-o.md
 confidence: medium
+subtype: person
 ---
 
 

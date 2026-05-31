@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-how-the-best-teams-do-product
 name: "20Product: How the Best Teams Do Product"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: How the Best Teams Do Product Reviews | What Everyone 
 ## Summary
 
  Maria Angelidou is a seasoned product leader, having spent close to a decade at Meta where she was VP of Product and General Manager for some of the largest products such as Facebook Groups (2B+ users), Events, Profile, and Search."]
+subtype: article
 ---
 
 # 20Product: How the Best Teams Do Product

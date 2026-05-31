@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: does-ki
 name: Does Ki
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-10-09
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["AGENDA:  03:29 OpenAI and AMD's Major Partnership 07:35 Microsoft Have F***** Up the OpenAI Partnership  17:08 OpenAI's Developer Day Announcements 20:45 Why VC is the Most Forgiving Asset Class on Pr"]
+subtype: article
 ---
 
 # Does Ki

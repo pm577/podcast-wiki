@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fintech-og-sheel-mohnot
 name: Fintech OG Sheel Mohnot
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anthropic-wipes-billions-off-marke
 name: "20VC: Anthropic Wipes Billions Off Marke"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-02-26
 tags: ["ai-ml", "consumer", "enterprise-saas", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["# 20VC: Anthropic Wipes Billions Off Markets | Citrini Research: The Ultimate Breakdown: Agents, "Ghost GDP", Consumer Spend etc."]
+subtype: article
 ---
 
 # 20VC: Anthropic Wipes Billions Off Marke

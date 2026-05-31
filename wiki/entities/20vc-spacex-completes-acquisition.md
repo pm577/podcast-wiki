@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-spacex-completes-acquisition
 name: "20VC: SpaceX Completes Acquisition"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 00:00 - SpaceX Completes Acquisition of xAI in $1.25 Trillion Merger 08:
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-spacex-completes-acquisition-of-xai-the-2026-saas-massacre-public-market-collapse-microsofts-360-billion-market-cap-loss-nvidias-100bn-investment-dispute-with-openai-waymo-raises-16-billion-at-a-110-billion-valuation)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: SpaceX Completes Acquisition

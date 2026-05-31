@@ -1,4 +1,5 @@
 ---
+
 title: Gaurav Jain
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml, biotech-health]
 sources:
   - raw/transcripts/20vc/20vc-2020-01-06-20vc-why-now-is-the-hardest-t.md
 confidence: medium
+subtype: person
 ---
 
 

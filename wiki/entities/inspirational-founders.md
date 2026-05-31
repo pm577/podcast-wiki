@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: inspirational-founders
 name: Inspirational Founders
 source: 20vc

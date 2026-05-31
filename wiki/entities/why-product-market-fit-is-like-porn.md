@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-product-market-fit-is-like-porn
 name: Why Product Market Fit Is Like Porn
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-03-03
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Dennis Mortensen is the CEO and Founder of X."]
+subtype: article
 ---
 
 # Why Product Market Fit Is Like Porn

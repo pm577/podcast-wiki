@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: their-relationship-to
 name: Their Relationship To
 source: 20vc

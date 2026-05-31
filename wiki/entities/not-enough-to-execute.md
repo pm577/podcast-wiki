@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: not-enough-to-execute
 name: Not Enough To Execute
 source: 20vc

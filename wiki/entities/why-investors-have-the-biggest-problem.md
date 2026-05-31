@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-investors-have-the-biggest-problem
 name: Why Investors Have The Biggest Problem
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-09-06
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Jon Callaghan is a founder of True Ventures, one of the West Coast's leading early stage funds with a portfolio including the likes of Fitbit, recent unicorn Peloton, Automattic (makers of Wordpress) "]
+subtype: article
 ---
 
 # Why Investors Have The Biggest Problem

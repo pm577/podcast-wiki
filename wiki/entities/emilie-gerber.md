@@ -1,4 +1,5 @@
 ---
+
 title: Emilie Gerber
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, pr, communications, marketing, startups, b2b]
 sources:
   - raw/transcripts/lenny/emilie-gerber.md
 confidence: high
+subtype: person
 ---
 
 # Emilie Gerber

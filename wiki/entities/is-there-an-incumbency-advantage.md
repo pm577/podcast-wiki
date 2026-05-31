@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: is-there-an-incumbency-advantage
 name: Is There An Incumbency Advantage
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-11-09
 tags: ["ai-ml", "consumer", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Rudina Seseri is Founder and Managing Partner of Glasswing Ventures, Boston's own AI focussed fund."]
+subtype: article
 ---
 
 # Is There An Incumbency Advantage

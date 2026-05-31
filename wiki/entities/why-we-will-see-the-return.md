@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-we-will-see-the-return
 name: Why We Will See The Return
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-03-13
 tags: ["ai-ml", "enterprise-saas", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Pat Grady is a Partner @ Sequoia Capital, one of the world's leading funds with prior investments in the likes of Apple, Google, Whatsapp, Paypal, Stripe and many more."]
+subtype: article
 ---
 
 # Why We Will See The Return

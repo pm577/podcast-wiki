@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-are-the-best-ceos-the-best-fundraisers
 name: "20VC: Are the Best CEOs the Best Fundraisers"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Are the Best CEOs the Best Fundraisers, Are the Best Founde
 ## Summary
 
 Kevin Ryan is one of the leading serial entrepreneurs and investors in New York."]
+subtype: article
 ---
 
 # 20VC: Are the Best CEOs the Best Fundraisers

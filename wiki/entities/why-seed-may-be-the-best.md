@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-seed-may-be-the-best
 name: Why Seed May Be The Best
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-05-27
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Aydin Senkut is the Founder and Managing Partner of Felicis."]
+subtype: article
 ---
 
 # Why Seed May Be The Best

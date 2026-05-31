@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: dfjs-josh-stein
 name: DFJ's Josh Stein
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: die-hard-anthropic
 name: Die-Hard Anthropic
 source: 20vc

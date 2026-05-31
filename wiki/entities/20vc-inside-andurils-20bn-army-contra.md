@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-inside-andurils-20bn-army-contra
 name: "20VC: Inside Anduril's $20BN Army Contra"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Inside Anduril's $20BN Army Contract & Why Anduril Must Go 
 ## Summary
 
 Matthew Steckman is the President and Chief Business Officer of Anduril."]
+subtype: article
 ---
 
 # 20VC: Inside Anduril's $20BN Army Contra

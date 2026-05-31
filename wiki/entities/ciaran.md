@@ -1,4 +1,5 @@
 ---
+
 title: Ciaran
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, marketplaces, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2016-03-16-20vc-the-three-fundamental-fo.md
 confidence: medium
+subtype: person
 ---
 
 

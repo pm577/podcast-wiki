@@ -1,4 +1,5 @@
 ---
+
 title: Clay Wilkes
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, fintech, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2020-07-31-20vc-why-the-unbundling-of-fi.md
 confidence: medium
+subtype: person
 ---
 
 

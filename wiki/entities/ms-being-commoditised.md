@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ms-being-commoditised
 name: Ms Being Commoditised
 source: 20vc

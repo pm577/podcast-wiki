@@ -1,4 +1,5 @@
 ---
+
 title: Potential Corporate Acquirers
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml, bio
 sources:
   - raw/transcripts/20vc/20vc-2017-02-10-20vc-how-startups-vcs-can-b.md
 confidence: medium
+subtype: person
 ---
 
 

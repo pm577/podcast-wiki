@@ -1,4 +1,5 @@
 ---
+
 title: Julia Hartz
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, go-to-market, marketplaces, person, venture-ca
 sources:
   - raw/transcripts/20vc/20vc-2017-10-20-20vc-eventbrite-founder-juli.md
 confidence: medium
+subtype: person
 ---
 
 

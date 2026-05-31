@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: openai-restructuri
 name: OpenAI Restructuri
 source: 20vc

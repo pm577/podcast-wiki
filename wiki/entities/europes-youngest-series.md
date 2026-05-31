@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: europes-youngest-series
 name: Europe's Youngest Series
 source: 20vc

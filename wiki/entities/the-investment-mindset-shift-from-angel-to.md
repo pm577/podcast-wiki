@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-investment-mindset-shift-from-angel-to
 name: The Investment Mindset Shift From Angel To
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-08-31
 tags: ["founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Jesse Middleton is a General Partner @ Flybridge Capital Partners."]
+subtype: article
 ---
 
 # The Investment Mindset Shift From Angel To

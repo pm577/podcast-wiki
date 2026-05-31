@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: founding-teams
 name: Founding Teams
 source: 20vc

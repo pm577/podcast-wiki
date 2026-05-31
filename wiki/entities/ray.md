@@ -1,4 +1,5 @@
 ---
+
 title: Ray Cao
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/ray-cao.md
 confidence: high
 key_finding: Context, no control — TikTok's operating system
+subtype: person
 ---
 
 # Ray Cao

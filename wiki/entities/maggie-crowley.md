@@ -1,4 +1,5 @@
 ---
+
 title: Maggie Crowley
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/maggie-crowley.md
 confidence: high
 key_finding: Three traits of great PMs — simplify, follow up on results, carry the water
+subtype: person
 ---
 
 # Maggie Crowley

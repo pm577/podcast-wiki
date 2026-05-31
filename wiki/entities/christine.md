@@ -1,4 +1,5 @@
 ---
+
 title: Christine Itwaru
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-ops, pendo, product-management, operations, strategy]
 sources:
   - raw/transcripts/lenny/christine-itwaru.md
 confidence: high
+subtype: person
 ---
 
 # Christine Itwaru

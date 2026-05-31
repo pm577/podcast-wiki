@@ -1,4 +1,5 @@
 ---
+
 title: Fabrice Grinda
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, marketplaces, person, product-strategy, ventur
 sources:
   - raw/transcripts/20vc/20vc-2015-09-16-20-vc-072-super-angel-fabric.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+
 title: Rafael Ilishayev
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2021-06-14-20vc-gopuffs-rafael-ilishaye.md
 confidence: medium
+subtype: person
 ---
 
 

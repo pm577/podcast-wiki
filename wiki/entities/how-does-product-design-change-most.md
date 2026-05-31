@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-does-product-design-change-most
 name: How Does Product Design Change Most
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-07-27
 tags: ["ai-ml", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Fernando Fanton is one of the most respected product leaders in Europe, having held Chief Product Officer roles at Monzo and Just Eat."]
+subtype: article
 ---
 
 # How Does Product Design Change Most

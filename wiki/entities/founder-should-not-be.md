@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: founder-should-not-be
 name: Founder Should Not Be
 source: 20vc

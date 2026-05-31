@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-price-sensitivity
 name: Why Price Sensitivity
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-11-27
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Klaus Hommels is one of Europe's leading start investors of the last decade with a portfolio including the likes of Spotify, Airbnb, Facebook, Coinbase, Revolut and more."]
+subtype: article
 ---
 
 # Why Price Sensitivity

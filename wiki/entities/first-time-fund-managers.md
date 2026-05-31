@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: first-time-fund-managers
 name: First Time Fund Managers
 source: 20vc

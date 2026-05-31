@@ -1,4 +1,5 @@
 ---
+
 title: Aman Narang
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, fintech, ai-
 sources:
   - raw/transcripts/20vc/20vc-2024-08-21-20vc-five-lessons-scaling-toa.md
 confidence: medium
+subtype: person
 ---
 
 

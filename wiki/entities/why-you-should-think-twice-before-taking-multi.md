@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-you-should-think-twice-before-taking-multi
 name: Why You Should Think Twice Before Taking Multi
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-04-25
 tags: ["ai-ml", "biotech-health", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Deena Shakir is a Partner at Lux Capital, one of the leading firms investing in emerging science and technology ventures at the outermost edges of what is possible."]
+subtype: article
 ---
 
 # Why You Should Think Twice Before Taking Multi

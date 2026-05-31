@@ -1,4 +1,5 @@
 ---
+
 title: Lauryn Isford
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/lauryn-isford.md
 confidence: high
 key_finding: Don't experiment everything — use judgment and move fast
+subtype: person
 ---
 
 # Lauryn Isford

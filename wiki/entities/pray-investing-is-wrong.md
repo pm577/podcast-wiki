@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: pray-investing-is-wrong
 name: Pray Investing Is Wrong
 source: 20vc

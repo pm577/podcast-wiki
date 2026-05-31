@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-vcs-have-forgotten-their-job-t
 name: "20VC: Why VCs Have Forgotten Their Job T"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why VCs Have Forgotten Their Job To Invest In Entrepreneurs
 ## Summary
 
 Drew Oetting is a Founding Partner @ 8VC, one of Silicon Valley's youngest and most exciting new entrants to the VC market with $425m for their debut fund."]
+subtype: article
 ---
 
 # 20VC: Why VCs Have Forgotten Their Job T

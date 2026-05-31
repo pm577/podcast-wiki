@@ -1,4 +1,5 @@
 ---
+
 title: Grant Lee
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, ai-startups, growth, product-market-fit, influencer-marketing, ex
 sources:
   - raw/transcripts/lenny/lenny-2025-11-13-grant-lee.md
 confidence: high
+subtype: person
 ---
 
 # Grant Lee

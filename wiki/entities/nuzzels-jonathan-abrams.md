@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: nuzzels-jonathan-abrams
 name: Nuzzel's Jonathan Abrams
 source: 20vc

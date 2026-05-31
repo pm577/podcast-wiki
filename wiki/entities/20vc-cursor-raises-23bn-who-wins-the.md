@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-cursor-raises-23bn-who-wins-the
 name: "20VC: Cursor Raises $2.3BN: Who Wins the"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 04:47 Cursor Raises $2.3BN at $29BN Valuation 11:36 What Gemini 3 Means 
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-cursor-raises-23bn-who-wins-the-coding-war-peter-thiel-and-softbank-sell-nvidia-analysed-why-venture-capital-will-hit-1trn-and-the-opening-of-retail-why-stripe-and-the-best-companies-will-never-go-public)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Cursor Raises $2.3BN: Who Wins the

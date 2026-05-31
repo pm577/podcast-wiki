@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-fund-cycles-are-too-short
 name: Why Fund Cycles Are Too Short
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-04-26
 tags: ["ai-ml", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Gene Frantz is a Partner of CapitalG, Alphabet's growth investment fund which has investments in the likes of Airbnb, Snap Inc and Stripe."]
+subtype: article
 ---
 
 # Why Fund Cycles Are Too Short

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-can-we-expect-looking-forward
 name: What Can We Expect Looking Forward
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-01-04
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Howard Marks is co-chairman and co-founder of Oaktree Capital Management, a leading investment firm with more than $120 billion in assets."]
+subtype: article
 ---
 
 # What Can We Expect Looking Forward

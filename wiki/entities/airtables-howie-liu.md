@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: airtables-howie-liu
 name: Airtable's Howie Liu
 source: 20vc

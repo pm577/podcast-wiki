@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-wild-story-raising-450m-from
 name: "20VC: The Wild Story Raising $450M From"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Wild Story Raising $450M From Masa and Softbank | Why M
 ## Summary
 
 Johannes Reck is the Founder and CEO of GetYourGuide, the $2BN company that started with a holiday to China and nothing to do."]
+subtype: article
 ---
 
 # 20VC: The Wild Story Raising $450M From

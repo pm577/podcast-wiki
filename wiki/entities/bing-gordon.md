@@ -1,4 +1,5 @@
 ---
+
 title: Bing Gordon
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-11-27-20vc-kleiner-perkins-bing-go.md
 confidence: medium
+subtype: person
 ---
 
 

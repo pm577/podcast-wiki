@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-31bn-meeting-that-led-to-an-uber-acquisition
 name: "20VC: The $3.1BN Meeting That Led to an Uber Acquisition"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The $3.1BN Meeting That Led to an Uber Acquisition, The Bat
 ## Summary
 
  Mudassir Sheikha is the CEO and Co-Founder of Careem."]
+subtype: article
 ---
 
 # 20VC: The $3.1BN Meeting That Led to an Uber Acquisition

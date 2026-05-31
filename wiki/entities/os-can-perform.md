@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: os-can-perform
 name: Os Can Perform
 source: 20vc

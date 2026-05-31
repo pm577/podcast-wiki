@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: enduring-software-companies
 name: Enduring Software Companies
 source: 20vc

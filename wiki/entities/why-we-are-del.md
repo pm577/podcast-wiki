@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-we-are-del
 name: Why We Are Del
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-10-23
 tags: ["ai-ml", "enterprise-saas", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["AGENDA: 04:50 Benchmark's New Partner: Everett Randall 10:19 Revolut Raises $3BN at a $75BN Valuation: Another Loss for Public Markets? 28:39 Why Today is as Bad as the Hype of COVID in 2021 32:10 Why"]
+subtype: article
 ---
 
 # Why We Are Del

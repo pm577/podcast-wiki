@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-opendoors-ceo
 name: "20VC: Opendoor's CEO"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 00:00 Opendoor's Potential and Market Valuation 03:32 Why Did Kaz Leave 
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-opendoors-ceo-on-the-greatest-turnaround-in-tech-openai-and-oracle-how-can-either-afford-to-do-this-how-anthropic-could-lose-50-of-their-revenue-overnight-replit-raises-at-3bn-figure-gemini-via-ipos-broken-down)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Opendoor's CEO

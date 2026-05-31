@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: app-of-the-year
 name: App Of The Year
 source: 20vc

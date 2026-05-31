@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: conversational-interface-is-the-next
 name: Conversational Interface Is The Next
 source: 20vc

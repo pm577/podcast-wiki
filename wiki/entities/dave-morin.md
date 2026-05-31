@@ -1,4 +1,5 @@
 ---
+
 title: Dave Morin
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, go-to-market, hiring-culture, person, product-strateg
 sources:
   - raw/transcripts/20vc/20vc-2016-09-28-20vc-dave-morin-on-why-buildi.md
 confidence: medium
+subtype: person
 ---
 
 

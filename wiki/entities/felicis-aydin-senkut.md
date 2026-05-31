@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: felicis-aydin-senkut
 name: Felicis' Aydin Senkut
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-sequoia-capitals-9bn-global-equities-fund
 name: "20VC: Sequoia Capital's $9BN Global Equities Fund"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Sequoia Capital's $9BN Global Equities Fund on The Future f
 ## Summary
 
 Jeff Wang is the Managing Partner of Sequoia Capital Global Equities (SCGE), a public/private crossover investment firm with investments spanning from late-stage private companies to public companies."]
+subtype: article
 ---
 
 # 20VC: Sequoia Capital's $9BN Global Equities Fund

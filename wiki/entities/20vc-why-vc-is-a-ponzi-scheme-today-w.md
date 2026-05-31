@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-vc-is-a-ponzi-scheme-today-w
 name: "20VC: Why VC is a Ponzi Scheme Today | W"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why VC is a Ponzi Scheme Today | Why Most VCs are Bankers |
 ## Summary
 
  Nick Chirls is the Founder of Asylum Ventures, a new venture firm dedicated to the creative act of building companies; treating founders like artists, not assets."]
+subtype: article
 ---
 
 # 20VC: Why VC is a Ponzi Scheme Today | W

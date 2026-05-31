@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: should-founders-meet-associates
 name: Should Founders Meet Associates
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-12-11
 tags: ["ai-ml", "biotech-health", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Sam Corcos is the Co-Founder & CEO @ Levels, the company helping you see how food affects your health with data from biosensors like continuous glucose monitors (CGMs)."]
+subtype: article
 ---
 
 # Should Founders Meet Associates

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-blurring
 name: The Blurring
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-07-12
 tags: ["consumer", "enterprise-saas", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Roseanne Wincek is an investor with IVP, one of the leaders in growth financing with a portfolio including the likes of Snap, AppDynamics, SuperCell and Slack."]
+subtype: article
 ---
 
 # The Blurring

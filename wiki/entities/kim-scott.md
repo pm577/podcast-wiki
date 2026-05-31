@@ -1,4 +1,5 @@
 ---
+
 title: Kim Scott
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/kim-scott.md
 confidence: medium
 key_finding: Radical Candor Is Caring Personally While Challenging Directly
+subtype: person
 ---
 
 # Kim Scott

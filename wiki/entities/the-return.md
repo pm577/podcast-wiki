@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-return
 name: The Return
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-03-19
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["AGENDA: 04:02 NVIDIA's GTC: What You Need to Know 11:39 Meta's 20% Layoffs & Atlassian Lets Go of 1,600 21:42 How to Test AI Fluency in Employees 30:59 Anduril Lands $20BN Army Contract 46:46 Travis K"]
+subtype: article
 ---
 
 # The Return

@@ -1,4 +1,5 @@
 ---
+
 title: Jeremy Liew
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [consumer, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2018-02-19-20vc-lightspeeds-jeremy-liew.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+
 title: Ben Einstein
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, enterprise
 sources:
   - raw/transcripts/20vc/20vc-2016-08-17-20vc-why-hardware-is-actually.md
 confidence: medium
+subtype: person
 ---
 
 

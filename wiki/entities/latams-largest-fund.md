@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: latams-largest-fund
 name: LATAM's Largest Fund
 source: 20vc

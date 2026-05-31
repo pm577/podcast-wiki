@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-how-to-master-pr-and-comms
 name: "20Growth: How to Master PR and Comms"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: How to Master PR and Comms, How to Get Your Startup Wri
 ## Summary
 
  Gina Gotthilf is a Co-Founder and COO at Latitud, an a16z-backed platform supporting the next generation of iconic tech startups in Latin America through digital products, a community and fund."]
+subtype: article
 ---
 
 # 20Growth: How to Master PR and Comms

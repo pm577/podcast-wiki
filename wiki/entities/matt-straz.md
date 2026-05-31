@@ -1,4 +1,5 @@
 ---
+
 title: Matt Straz
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, marketplaces
 sources:
   - raw/transcripts/20vc/20vc-2017-12-15-20vc-how-to-upscale-managemen.md
 confidence: medium
+subtype: person
 ---
 
 

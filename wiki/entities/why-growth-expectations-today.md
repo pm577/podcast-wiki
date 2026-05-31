@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-growth-expectations-today
 name: Why Growth Expectations Today
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-02-02
 tags: ["ai-ml", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Oren Zeev is one of the most prominent solo capitalists in venture."]
+subtype: article
 ---
 
 # Why Growth Expectations Today

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: most-downloaded-episode
 name: Most Downloaded Episode
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-90
 name: "20VC: Why 90%"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why 90% of Founders Build Startups Wrong | Why AI Growth Ra
 ## Summary
 
 Jesse Zhang is the Co-Founder and CEO @ Decagon, the conversational AI platform for customer experience."]
+subtype: article
 ---
 
 # 20VC: Why 90%

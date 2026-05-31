@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-spacex
 name: "20VC: SpaceX"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: SpaceX, Tesla, Neuralink: Elon's Empire After the Firestorm
 ## Summary
 
 Agenda: 00:03 – Circle's IPO: Investors Just Left $BNs on the Table 00:06 – CoreWeave & Circle: Are We Back to Meme Stock Madness? 00:11 – Should Stripe and Databricks Finally Go Public? 00:17 – US Stock Markets: How They DOMINATE the Global Game 00:21 – 50% of Unicorns Are DOOMED."]
+subtype: article
 ---
 
 # 20VC: SpaceX

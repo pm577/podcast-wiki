@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anthropic-raises-13bn-why-canva
 name: "20VC: Anthropic Raises $13BN | Why Canva"
 source: 20vc
@@ -23,6 +24,7 @@ Agenda: 04:00 – Anthropic Raises $13BN: The Analysis? 19:00 – Is Zuck's $14B
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-anthropic-raises-13bn-why-canva-will-not-direct-list-openai-buys-statsig-for-11bn-all-stock-lovable-raising-at-4bn-vercel-at-9bn-justified-or-not-quarterly-results-from-snow-mongo-zoom-and-more)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Anthropic Raises $13BN | Why Canva

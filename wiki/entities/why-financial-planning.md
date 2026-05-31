@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-financial-planning
 name: Why Financial Planning
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-01-06
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Jason Fried the Co-Founder and CEO at 37signals, makers of Basecamp and HEY."]
+subtype: article
 ---
 
 # Why Financial Planning

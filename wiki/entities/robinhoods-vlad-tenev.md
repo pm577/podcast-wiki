@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: robinhoods-vlad-tenev
 name: Robinhood's Vlad Tenev
 source: 20vc

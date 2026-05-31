@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-bryan-johnson
 name: "20VC: Bryan Johnson"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Bryan Johnson on Why Humans Are No Longer Qualified to Mana
 ## Summary
 
 Bryan Johnson is the founder of Blueprint, the man is at war with death and is mastering longevity."]
+subtype: article
 ---
 
 # 20VC: Bryan Johnson

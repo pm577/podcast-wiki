@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-scaling-hubspot
 name: "20Sales: Scaling Hubspot"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Scaling Hubspot from $3M to $1BN in ARR | How to Hire an
 ## Summary
 
  Jeetu Mahtani was an early member of the HubSpot team."]
+subtype: article
 ---
 
 # 20Sales: Scaling Hubspot

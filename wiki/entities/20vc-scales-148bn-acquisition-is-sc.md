@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-scales-148bn-acquisition-is-sc
 name: "20VC: Scale's $14.8BN Acquisition: Is Sc"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Scale's $14.8BN Acquisition: Is Scale a Dead Man Walking / 
 ## Summary
 
 Agenda: 00:00 – Meta's $14.8B Deal for Scale: The Analysis 05:40 – Will Scale Lose Their $800M ARR? Will All Customers Leave? 13:00 – Who is the Winner from All Scale Customers Leaving? 21:30 – Who Made the Most Money From Scale? 24:00 – LPs Just Got $14B Back."]
+subtype: article
 ---
 
 # 20VC: Scale's $14.8BN Acquisition: Is Sc

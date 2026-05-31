@@ -1,4 +1,5 @@
 ---
+
 title: Ali Rowghani
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, go-to-market, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-10-30-20vc-ycs-ali-rowghani-on-lea.md
 confidence: medium
+subtype: person
 ---
 
 

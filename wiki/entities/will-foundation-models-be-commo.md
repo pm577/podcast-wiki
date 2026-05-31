@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: will-foundation-models-be-commo
 name: Will Foundation Models Be Commo
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-05-24
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Sam Altman is the CEO @ OpenAI, the company on a mission is to ensure that artificial general intelligence benefits all of humanity."]
+subtype: article
 ---
 
 # Will Foundation Models Be Commo

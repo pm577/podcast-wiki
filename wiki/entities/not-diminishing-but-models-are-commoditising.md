@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: not-diminishing-but-models-are-commoditising
 name: Not Diminishing But Models Are Commoditising
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sequoias-ravi-gupta
 name: Sequoia's Ravi Gupta
 source: 20vc

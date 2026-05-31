@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-openais-sam-altman-and-brad-lightcap
 name: "20VC: OpenAI's Sam Altman and Brad Lightcap"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: OpenAI's Sam Altman and Brad Lightcap on The Future of Foun
 ## Summary
 
  Sam Altman is the CEO @ OpenAI, the company on a mission is to ensure that artificial general intelligence benefits all of humanity."]
+subtype: article
 ---
 
 # 20VC: OpenAI's Sam Altman and Brad Lightcap

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-exclusive-mercury-founder-launches
 name: "20VC Exclusive: Mercury Founder Launches"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC Exclusive: Mercury Founder Launches First $26M Fund | Why Fo
 ## Summary
 
 Immad Akhund is the CEO of Mercury."]
+subtype: article
 ---
 
 # 20VC Exclusive: Mercury Founder Launches

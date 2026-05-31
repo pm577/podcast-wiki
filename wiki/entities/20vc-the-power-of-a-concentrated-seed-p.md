@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-power-of-a-concentrated-seed-p
 name: "20VC: The Power Of A Concentrated Seed P"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-03-01
 tags: ["ai-ml", "founder-psychology", "go-to-market", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Roger Ehrenberg is the Founder and Managing Partner @ IA Ventures, one of New York's leading early stage funds with investments in the likes of TransferWise and The Trade Desk."]
+subtype: article
 ---
 
 # 20VC: The Power Of A Concentrated Seed P

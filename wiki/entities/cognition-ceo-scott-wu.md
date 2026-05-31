@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cognition-ceo-scott-wu
 name: Cognition CEO Scott Wu
 source: 20vc

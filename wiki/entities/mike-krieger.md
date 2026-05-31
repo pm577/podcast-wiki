@@ -1,4 +1,5 @@
 ---
+
 title: Mike Krieger
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, anthropic, ai, product-management, instagram, claude, artificial-
 sources:
   - raw/transcripts/lenny/mike-krieger.md
 confidence: high
+subtype: person
 ---
 
 # Mike Krieger

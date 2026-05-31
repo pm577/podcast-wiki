@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: leading-venture-capitalist
 name: Leading Venture Capitalist
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: back-to-back-female-led-ipos
 name: Back To Back Female Led IPOs
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-cognition-ceo-scott-wu
 name: "20VC: Cognition CEO Scott Wu"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Cognition CEO Scott Wu on Acquiring Windsurf: The Process, 
 ## Summary
 
 Scott Wu is the co-founder and CEO of Cognition, the company behind Devin, the world's first AI software engineer."]
+subtype: article
 ---
 
 # 20VC: Cognition CEO Scott Wu

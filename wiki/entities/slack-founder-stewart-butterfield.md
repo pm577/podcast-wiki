@@ -1,4 +1,5 @@
 ---
+
 title: Slack Founder Stewart Butterfield
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, hiring-culture, marketplaces, person, venture-
 sources:
   - raw/transcripts/20vc/20vc-2020-11-16-20vc-slack-founder-stewart-bu.md
 confidence: medium
+subtype: person
 ---
 
 

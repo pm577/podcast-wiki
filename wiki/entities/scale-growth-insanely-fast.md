@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: scale-growth-insanely-fast
 name: Scale Growth Insanely Fast
 source: 20vc

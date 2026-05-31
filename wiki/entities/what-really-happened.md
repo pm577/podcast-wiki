@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-really-happened
 name: What Really Happened
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-04-13
 tags: ["founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Domm Holland is the Founder and CEO @ Fast."]
+subtype: article
 ---
 
 # What Really Happened

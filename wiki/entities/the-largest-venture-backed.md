@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-largest-venture-backed
 name: The Largest Venture Backed
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-06-05
 tags: ["ai-ml", "biotech-health", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["TJ Parker is the co-founder and former CEO of PillPack."]
+subtype: article
 ---
 
 # The Largest Venture Backed

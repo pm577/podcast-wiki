@@ -1,4 +1,5 @@
 ---
+
 title: Evan LaPointe
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/evan-lapointe.md
 confidence: medium
 key_finding: Send Your Thoughts to the Right Brain Department
+subtype: person
 ---
 
 # Evan LaPointe

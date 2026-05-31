@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: should-make-as-few-decisions-as-possible
 name: Should Make As Few Decisions As Possible
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-10-14
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Tristan Handy is the Founder and CEO @ dbt, a data transformation tool that enables data analysts and engineers to transform, test and document data in the cloud data warehouse."]
+subtype: article
 ---
 
 # Should Make As Few Decisions As Possible

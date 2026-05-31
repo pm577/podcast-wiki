@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: servicetitan-would-not-be
 name: ServiceTitan Would Not Be
 source: 20vc

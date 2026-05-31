@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: thomas-jones
 name: Thomas Jones
 source: 20vc

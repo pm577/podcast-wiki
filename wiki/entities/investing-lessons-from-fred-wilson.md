@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: investing-lessons-from-fred-wilson
 name: Investing Lessons From Fred Wilson
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: hubspot-co-founder-brian-halligan
 name: Hubspot Co-Founder Brian Halligan
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Avidan Ross
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, ai-ml, deeptech-hardware]
 sources:
   - raw/transcripts/20vc/20vc-2018-11-05-20vc-why-the-engineer-will-re.md
 confidence: medium
+subtype: person
 ---
 
 

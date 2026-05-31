@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-rise-of-the-celebrity
 name: The Rise Of The Celebrity
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-04-20
 tags: ["enterprise-saas", "fintech", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Logan Bartlett is an investor @ Battery Ventures, where he focuses on growth investments for B2B software companies."]
+subtype: article
 ---
 
 # The Rise Of The Celebrity

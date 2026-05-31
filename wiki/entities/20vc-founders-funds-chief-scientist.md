@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-founders-funds-chief-scientist
 name: "20VC: Founders Fund's Chief Scientist"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Founders Fund's Chief Scientist on Why AI Is Mostly A Scam,
 ## Summary
 
 Aaron VanDevender is the Chief Scientist at Founders Fund, one of the world's leading fund with investments in the likes of Facebook, Airbnb, SpaceX, Spotify and many more incredible companies."]
+subtype: article
 ---
 
 # 20VC: Founders Fund's Chief Scientist

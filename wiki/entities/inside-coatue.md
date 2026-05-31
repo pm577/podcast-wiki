@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: inside-coatue
 name: Inside Coatue
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-02-23
 tags: ["ai-ml", "founder-psychology", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Lucas Swisher co-leads the growth fund at Coatue where he has partnered with iconic companies like OpenAI, Harvey, Deel, Canva, Openevidence, Anthropic, and others."]
+subtype: article
 ---
 
 # Inside Coatue

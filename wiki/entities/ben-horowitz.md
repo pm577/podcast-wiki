@@ -1,4 +1,5 @@
 ---
+
 title: Ben Horowitz
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, startup-advice, leadership, a16z, ceo, managemen
 sources:
   - raw/transcripts/lenny/ben-horowitz.md
 confidence: high
+subtype: person
 ---
 
 # Ben Horowitz

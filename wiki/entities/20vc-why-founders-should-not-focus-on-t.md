@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-founders-should-not-focus-on-t
 name: "20VC: Why Founders Should Not Focus On T"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-02-15
 tags: ["founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Micah Rosenbloom is Managing Partner @ Founder Collective, one of the leading seed funds in the world with investments in Uber, Buzzfeed, Makerbot, PillPack, Coupang and Cruise, just to name a few."]
+subtype: article
 ---
 
 # 20VC: Why Founders Should Not Focus On T

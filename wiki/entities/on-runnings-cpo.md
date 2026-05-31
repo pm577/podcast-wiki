@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: on-runnings-cpo
 name: On Running's CPO
 source: 20vc

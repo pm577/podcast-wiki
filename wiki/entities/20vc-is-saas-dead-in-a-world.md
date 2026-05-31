@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-is-saas-dead-in-a-world
 name: "20VC: Is SaaS Dead in a World"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Is SaaS Dead in a World of AI | Do Margins Matter Anymore |
 ## Summary
 
 Anish Acharya is a General Partner at Andreessen Horowitz (a16z), where he leads consumer and fintech investing at Series A."]
+subtype: article
 ---
 
 # 20VC: Is SaaS Dead in a World

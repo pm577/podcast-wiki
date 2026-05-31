@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: should-large-crypto-funds-give-money-back
 name: Should Large Crypto Funds Give Money Back
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-10-30
 tags: ["ai-ml", "fintech", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Nick Tomaino is the Founder and General Partner @ 1confirmation, one of the leading seed firms fueling the decentralization of the web and society."]
+subtype: article
 ---
 
 # Should Large Crypto Funds Give Money Back

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: vcs-joe-lonsdale
 name: VC's Joe Lonsdale
 source: 20vc

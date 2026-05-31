@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-bolt-the-most-insane-story-in-sta
 name: "20VC: Bolt; The Most Insane Story in Sta"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Bolt; The Most Insane Story in Startups | Turning a $5K Loa
 ## Summary
 
 Markus Villig is the Founder and CEO of Bolt, a global mobility platform with more than 200 million lifetime customers in more than 50 countries and 600 cities."]
+subtype: article
 ---
 
 # 20VC: Bolt; The Most Insane Story in Sta

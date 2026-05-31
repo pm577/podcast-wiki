@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-does-it-take-to-gain
 name: What Does It Take To Gain
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-02-06
 tags: ["ai-ml", "founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Jules Maltz, is a General Partner @ Insight Venture Partners (IVP) where he has made investments in the likes of Slack, Zendesk, Twitter, Zenefits and many more incredible companies."]
+subtype: article
 ---
 
 # What Does It Take To Gain

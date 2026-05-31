@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: guarantee-you-win-every-renewal
 name: Guarantee You Win Every Renewal
 source: 20vc

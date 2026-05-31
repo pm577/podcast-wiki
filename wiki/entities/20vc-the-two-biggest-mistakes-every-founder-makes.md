@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-two-biggest-mistakes-every-founder-makes
 name: "20VC: The Two Biggest Mistakes Every Founder Makes"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Two Biggest Mistakes Every Founder Makes, Why Founders 
 ## Summary
 
  Matthew Prince is the co-founder and CEO of Cloudflare, on a mission is to help build a better Internet."]
+subtype: article
 ---
 
 # 20VC: The Two Biggest Mistakes Every Founder Makes

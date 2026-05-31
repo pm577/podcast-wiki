@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: have-they-beaten-cursor-already
 name: Have They Beaten Cursor Already
 source: 20vc

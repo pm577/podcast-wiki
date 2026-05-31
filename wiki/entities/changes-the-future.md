@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: changes-the-future
 name: Changes The Future
 source: 20vc

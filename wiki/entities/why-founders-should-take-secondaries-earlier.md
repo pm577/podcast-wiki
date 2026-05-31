@@ -1,4 +1,5 @@
 ---
+
 title: Why Founders Should Take Secondaries Earlier
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2023-01-30-20vc-homebrews-hunter-walk-a.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+
 title: Anthropic Unveils
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, enterprise-saas, founder-psychology, person, product-strategy, ven
 sources:
   - raw/transcripts/20vc/20vc-2026-04-16-20vc-anthropic-unveils-mythos.md
 confidence: medium
+subtype: person
 ---
 
 

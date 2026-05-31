@@ -1,4 +1,5 @@
 ---
+
 title: Brian Halligan
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,7 +9,7 @@ sources:
   - raw/transcripts/lenny/lenny-2026-02-15-brian-halligan.md
 confidence: medium
 key_finding: Perpetual Constructive Dissatisfaction
-
+subtype: person
 ---
 
 # Brian Halligan

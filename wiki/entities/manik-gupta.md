@@ -1,4 +1,5 @@
 ---
+
 title: Manik Gupta
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/manik-gupta.md
 confidence: high
 key_finding: Surround yourself with A+ people and be a technology optimist
+subtype: person
 ---
 
 # Manik Gupta
@@ -37,3 +39,15 @@ Manik Gupta led two of the most successful consumer products in history: Google 
 - [[marty-cagan]]
 - [[lenny-rachitsky]]
 - [[bret-taylor]]
+
+---
+
+*Merged from [[manik]]:*
+
+# Manik
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/manik-gupta|Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta]] — *to be summarized*

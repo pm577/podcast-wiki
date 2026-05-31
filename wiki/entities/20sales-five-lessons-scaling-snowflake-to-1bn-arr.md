@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-five-lessons-scaling-snowflake-to-1bn-arr
 name: "20Sales: Five Lessons Scaling Snowflake to $1BN ARR"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Five Lessons Scaling Snowflake to $1BN ARR, Why Customer
 ## Summary
 
  Chris Degnan serves as Snowflake's Chief Revenue Officer and has been with the company since 2013."]
+subtype: article
 ---
 
 # 20Sales: Five Lessons Scaling Snowflake to $1BN ARR

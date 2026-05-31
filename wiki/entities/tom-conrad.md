@@ -1,4 +1,5 @@
 ---
+
 title: Tom Conrad
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,7 +9,7 @@ sources:
   - raw/transcripts/lenny/tom-conrad.md
 confidence: high
 key_finding: Not everyone needs to be a founder
-
+subtype: person
 ---
 
 # Tom Conrad

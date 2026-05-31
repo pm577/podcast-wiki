@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: core-areas-value-will-accrue-in-crypto
 name: Core Areas Value Will Accrue In Crypto
 source: 20vc

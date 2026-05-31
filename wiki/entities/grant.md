@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/grant-lee.md
+
 title: Grant
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +10,7 @@ tags: [person]
 sources:
   - episodes/lenny/grant-lee|“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)
 confidence: medium
+subtype: person
 ---
 
 # Grant

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: venture-capital-fund
 name: Venture Capital Fund
 source: 20vc

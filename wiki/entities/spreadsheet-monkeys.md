@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: spreadsheet-monkeys
 name: Spreadsheet Monkeys
 source: 20vc

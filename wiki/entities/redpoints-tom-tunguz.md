@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: redpoints-tom-tunguz
 name: Redpoint's Tom Tunguz
 source: 20vc

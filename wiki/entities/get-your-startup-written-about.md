@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: get-your-startup-written-about
 name: Get Your Startup Written About
 source: 20vc

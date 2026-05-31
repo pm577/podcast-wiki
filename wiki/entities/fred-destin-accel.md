@@ -1,4 +1,5 @@
 ---
+
 title: Fred Destin Accel
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, consumer, enterprise-saas, founder-psychology, person, venture-cap
 sources:
   - raw/transcripts/20vc/20vc-2016-01-18-20vc-fred-destin-accel-on-w.md
 confidence: medium
+subtype: person
 ---
 
 

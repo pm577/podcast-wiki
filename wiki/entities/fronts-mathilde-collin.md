@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fronts-mathilde-collin
 name: Front's Mathilde Collin
 source: 20vc

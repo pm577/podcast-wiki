@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: active-investors-will-disappear
 name: Active Investors Will Disappear
 source: 20vc

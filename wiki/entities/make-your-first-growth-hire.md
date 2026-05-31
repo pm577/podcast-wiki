@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: make-your-first-growth-hire
 name: Make Your First Growth Hire
 source: 20vc

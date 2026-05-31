@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: herokus-product-led-growth-engine
 name: Heroku's Product-Led Growth Engine
 source: 20vc

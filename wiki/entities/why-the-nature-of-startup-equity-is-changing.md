@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-the-nature-of-startup-equity-is-changing
 name: Why The Nature Of Startup Equity Is Changing
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-12-04
 tags: ["ai-ml", "consumer", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Erin Glenn is the CEO @ Quire where she aims to create a way for communities to invest and collaborate with companies and their founders."]
+subtype: article
 ---
 
 # Why The Nature Of Startup Equity Is Changing

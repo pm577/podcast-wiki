@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-most-successful-companies-are
 name: "20VC: The Most Successful Companies Are"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Most Successful Companies Are Not Where Employees Work 
 ## Summary
 
 Rick Nucci is the Co-Founder & CEO @ Guru, the knowledge management platform that delivers everything you need so you can spend less time searching and more time doing."]
+subtype: article
 ---
 
 # 20VC: The Most Successful Companies Are

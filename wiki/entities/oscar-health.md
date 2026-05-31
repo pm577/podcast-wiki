@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: oscar-health
 name: Oscar Health
 source: 20vc

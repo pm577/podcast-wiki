@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-the-best-entrepreneurs-are-coc
 name: "20VC: Why The Best Entrepreneurs Are Coc"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-11-25
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Josh Buckley manages a $50m early-stage fund and as an angel has built a portfolio that includes the likes of Clearbit (Chairman), Rippling, Boom Supersonic, Lattice, Embark and many more incredible c"]
+subtype: article
 ---
 
 # 20VC: Why The Best Entrepreneurs Are Coc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: discords-jason-citron
 name: Discord's Jason Citron
 source: 20vc

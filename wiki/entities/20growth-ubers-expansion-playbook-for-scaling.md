@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-ubers-expansion-playbook-for-scaling
 name: "20Growth: Uber's Expansion Playbook for Scaling"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: Uber's Expansion Playbook for Scaling from 10 Cities to
 ## Summary
 
  Scott Gorlick was employee #99 at Uber."]
+subtype: article
 ---
 
 # 20Growth: Uber's Expansion Playbook for Scaling

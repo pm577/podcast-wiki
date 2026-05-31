@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-marketing-channel-diversification-is-like-the
 name: Why Marketing Channel Diversification Is Like The
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-11-09
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Ooshma Garg is the Founder & CEO @ Gobble, the startup that allows you to cook a fresh homemade dinner in just 15 minutes."]
+subtype: article
 ---
 
 # Why Marketing Channel Diversification Is Like The

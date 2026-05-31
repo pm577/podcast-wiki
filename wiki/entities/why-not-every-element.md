@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-not-every-element
 name: Why Not Every Element
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-08-11
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Brad Hargreaves is the Founder & CEO @ Common, the startup that provides shared housing for those that live in common."]
+subtype: article
 ---
 
 # Why Not Every Element

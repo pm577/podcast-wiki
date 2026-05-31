@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-why-the-founder-has-to-be-the-o
 name: "20Sales: Why The Founder Has To Be The O"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Why The Founder Has To Be The One To Create The Sales Pl
 ## Summary
 
  Lori Jimenez is the Chief Revenue Officer at WorkRamp where she is responsible for sales, customer success, solutions engineering, sales development, and revenue operations."]
+subtype: article
 ---
 
 # 20Sales: Why The Founder Has To Be The O

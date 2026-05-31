@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: general-catalyst-partners
 name: General Catalyst Partners
 source: 20vc

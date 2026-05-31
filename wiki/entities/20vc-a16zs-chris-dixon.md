@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-a16zs-chris-dixon
 name: "20VC: a16z's Chris Dixon"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: a16z's Chris Dixon on Who Will Win the Next Generation of V
 ## Summary
 
  Chris Dixon is a General Partner at Andreessen Horowitz, one of the leading venture firms of the last decade with investments in Oculus (acquired by Facebook), Coinbase, and many more."]
+subtype: article
 ---
 
 # 20VC: a16z's Chris Dixon

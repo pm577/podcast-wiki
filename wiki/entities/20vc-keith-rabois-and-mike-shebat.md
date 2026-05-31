@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-keith-rabois-and-mike-shebat
 name: "20VC: Keith Rabois and Mike Shebat"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Keith Rabois and Mike Shebat on Creating an Olympian Mindse
 ## Summary
 
  Keith Rabois is a General Partner @ Founders Fund, one of the world's best venture funds with a portfolio including the likes of Facebook, SpaceX, Anduril, Tesla and many more."]
+subtype: article
 ---
 
 # 20VC: Keith Rabois and Mike Shebat

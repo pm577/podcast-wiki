@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: harvey-build-product
 name: Harvey Build Product
 source: 20vc

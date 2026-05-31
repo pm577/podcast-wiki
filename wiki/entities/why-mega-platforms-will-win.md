@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-mega-platforms-will-win
 name: Why Mega Platforms Will Win
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-05-05
 tags: ["ai-ml", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Bucky Moore is a Partner @ Lightspeed Venture Partners, announced exclusively in the show today on 20VC."]
+subtype: article
 ---
 
 # Why Mega Platforms Will Win

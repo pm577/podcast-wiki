@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-how-duolingo-build-product-10x-faster-with-ai-duol
 name: "20Product: How Duolingo Build Product 10x Faster with AI | Duolingo's Biggest Lessons"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: How Duolingo Build Product 10x Faster with AI | Duolin
 ## Summary
 
 Cem Kansu is the Chief Product Officer at Duolingo, where he leads product strategy for over 90 million monthly active learners."]
+subtype: article
 ---
 
 # 20Product: How Duolingo Build Product 10x Faster with AI | Duolingo's Biggest Lessons

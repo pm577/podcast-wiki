@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-atlassian-co-founder-scott-farquhar
 name: "20VC: Atlassian Co-Founder Scott Farquhar"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Atlassian Co-Founder Scott Farquhar on The Biggest Lessons 
 ## Summary
 
  Scott Farquhar is the Co-Founder & Co-CEO @ Atlassian."]
+subtype: article
 ---
 
 # 20VC: Atlassian Co-Founder Scott Farquhar

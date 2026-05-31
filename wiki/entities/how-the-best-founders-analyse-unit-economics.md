@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-the-best-founders-analyse-unit-economics
 name: How The Best Founders Analyse Unit Economics
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-05-24
 tags: ["biotech-health", "fintech", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Nigel Morris is the Co-Founder and Managing Partner of QED Investors, one of the leading fintech-focused venture firms of the last decade with numerous unicorn investments, including Credit Karma, NuB"]
+subtype: article
 ---
 
 # How The Best Founders Analyse Unit Economics

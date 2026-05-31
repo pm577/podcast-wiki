@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-robinhoods-vlad-tenev
 name: "20VC: Robinhood's Vlad Tenev"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Robinhood's Vlad Tenev on Founder Mode | Building 8x $100M 
 ## Summary
 
 Vlad Tenev is a Co-Founder and CEO of Robinhood, the commission free stock trading and investing app with a market cap today of $20.7BN."]
+subtype: article
 ---
 
 # 20VC: Robinhood's Vlad Tenev

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-lead-lime
 name: Why Lead Lime
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-04-29
 tags: ["ai-ml", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Sarah Smith is a Partner @ Bain Capital Ventures, a leading US venture fund with a portfolio that includes the likes of LinkedIn, Lime, SendGrid, Jet."]
+subtype: article
 ---
 
 # Why Lead Lime

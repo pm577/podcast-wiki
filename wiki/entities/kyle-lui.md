@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: kyle-lui
 name: Kyle Lui
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-owning-an-esports-team-could
 name: How Owning An Esports Team Could
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-11-02
 tags: ["go-to-market", "hiring-culture", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Clinton Foy is General Partner @ Crosscut Ventures, one of LA's leading VC funds."]
+subtype: article
 ---
 
 # How Owning An Esports Team Could

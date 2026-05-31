@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: founders-funds-kevin-hartz
 name: Founders Fund's Kevin Hartz
 source: 20vc

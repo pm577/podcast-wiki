@@ -1,4 +1,5 @@
 ---
+
 title: Leo Polovets
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2018-11-12-20vc-why-warm-intros-are-most.md
 confidence: medium
+subtype: person
 ---
 
 

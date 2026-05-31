@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-fundraise-like
 name: How To Fundraise Like
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-12-21
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["20VC: Fundraising 101 Today we are going to walk through the process of raising a funding round for a hypothetical company."]
+subtype: article
 ---
 
 # How To Fundraise Like

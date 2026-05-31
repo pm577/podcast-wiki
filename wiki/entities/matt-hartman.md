@@ -1,4 +1,5 @@
 ---
+
 title: Matt Hartman
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [enterprise-saas, founder-psychology, marketplaces, person, product-strate
 sources:
   - raw/transcripts/20vc/20vc-2015-10-12-20-vc-078-betaworks-week-mat.md
 confidence: medium
+subtype: person
 ---
 
 

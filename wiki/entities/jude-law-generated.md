@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: jude-law-generated
 name: Jude Law Generated
 source: 20vc

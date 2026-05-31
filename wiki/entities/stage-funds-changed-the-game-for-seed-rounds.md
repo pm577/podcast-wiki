@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: stage-funds-changed-the-game-for-seed-rounds
 name: Stage Funds Changed The Game For Seed Rounds
 source: 20vc

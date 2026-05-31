@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: key-breakthroughs-startups-experience
 name: Key Breakthroughs Startups Experience
 source: 20vc

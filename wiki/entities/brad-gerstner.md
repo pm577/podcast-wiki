@@ -1,4 +1,5 @@
 ---
+
 title: Brad Gerstner
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2022-10-10-20vc-altimeters-brad-gerstne.md
 confidence: medium
+subtype: person
 ---
 
 

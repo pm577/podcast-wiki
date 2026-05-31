@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ark-invests-cathie-wood
 name: ARK Invest's Cathie Wood
 source: 20vc

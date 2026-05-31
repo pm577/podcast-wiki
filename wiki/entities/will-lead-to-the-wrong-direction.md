@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: will-lead-to-the-wrong-direction
 name: Will Lead To The Wrong Direction
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-11-23
 tags: ["marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Sarah Tavel is a General Partner @ Benchmark, one of the most successful funds of the last decade with a portfolio including the likes of Uber, Twitter, Dropbox, WeWork, Snapchat, StitchFix, eBay and "]
+subtype: article
 ---
 
 # Will Lead To The Wrong Direction

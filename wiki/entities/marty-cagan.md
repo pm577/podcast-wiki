@@ -1,4 +1,5 @@
 ---
+
 title: Marty Cagan
 created: 2026-05-31
 updated: 2026-05-31
@@ -9,6 +10,7 @@ sources:
   - raw/transcripts/lenny/marty-cagan-20.md
 confidence: high
 key_finding: Product management theater — feature team PMs are vulnerable; real PMs drive value and viability
+subtype: person
 ---
 
 # Marty Cagan
@@ -45,3 +47,15 @@ Marty Cagan is a luminary in product management. He founded the Silicon Valley P
 ## Episodes
 
 - **20 Product: Marty Cagan on The Four Questions of Great Product Management, Product Lessons from Marc** (2022-12-07)
+
+---
+
+*Merged from [[marty]]:*
+
+# Marty
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/marty-cagan-20|The disease of process people | Marty Cagan]] — *to be summarized*

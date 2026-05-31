@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: private-equity
 name: Private Equity
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-you-do-not-need-to-diversify-customer
 name: Why You Do Not Need To Diversify Customer
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-01-19
 tags: ["ai-ml", "founder-psychology", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Rob Schutz is Chief Growth Officer and Co-founder at Ro, the healthcare technology company building a patient-centric healthcare system."]
+subtype: article
 ---
 
 # Why You Do Not Need To Diversify Customer

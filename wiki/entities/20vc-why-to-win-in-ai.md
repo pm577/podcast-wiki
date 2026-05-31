@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-to-win-in-ai
 name: "20VC: Why To Win in AI"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why To Win in AI, Investors Need to Change Their Approach |
 ## Summary
 
 Nabeel Hyatt is a General Partner @ Spark Capital, one of the leading firms of the last decade with portfolio companies including Twitter, Anthropic, Coinbase, Affirm, Discord, Deel and more."]
+subtype: article
 ---
 
 # 20VC: Why To Win in AI

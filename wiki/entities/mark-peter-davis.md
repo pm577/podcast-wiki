@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: mark-peter-davis
 name: Mark Peter Davis
 source: 20vc

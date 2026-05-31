@@ -1,4 +1,5 @@
 ---
+
 title: Sean Flynn
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, ai-ml, enterprise-saas, consum
 sources:
   - raw/transcripts/20vc/20vc-2016-07-27-20vc-mythbuster-is-mobile-dy.md
 confidence: medium
+subtype: person
 ---
 
 

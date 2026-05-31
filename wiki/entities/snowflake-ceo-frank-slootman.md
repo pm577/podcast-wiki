@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: snowflake-ceo-frank-slootman
 name: Snowflake CEO Frank Slootman
 source: 20vc

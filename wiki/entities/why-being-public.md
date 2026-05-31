@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-being-public
 name: Why Being Public
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-04-04
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Andrew Dudum is the Founder and CEO of Hims, the company reshaping consumers relationship to healthcare."]
+subtype: article
 ---
 
 # Why Being Public

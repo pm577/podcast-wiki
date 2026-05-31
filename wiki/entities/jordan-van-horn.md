@@ -1,4 +1,5 @@
 ---
+
 title: Jordan Van Horn
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, go-to-market, hiring-culture, ai-ml, enterprise-saas]
 sources:
   - raw/transcripts/20vc/20vc-2022-08-17-20-sales-three-reasons-why-sa.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+
 title: Ooshma Garg
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2018-11-09-20vc-being-a-wartime-leader-i.md
 confidence: medium
+subtype: person
 ---
 
 

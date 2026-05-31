@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-why-everyone-is-responsible-for-demand-generation
 name: "20Sales: Why Everyone is Responsible for Demand Generation"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Why Everyone is Responsible for Demand Generation, How t
 ## Summary
 
  Doug Adamic is the CRO @ Brex and leads the company's revenue and growth strategy."]
+subtype: article
 ---
 
 # 20Sales: Why Everyone is Responsible for Demand Generation

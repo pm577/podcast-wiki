@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-facebook-will-be-the-company-to-succeed
 name: Why Facebook Will Be The Company To Succeed
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-04-06
 tags: ["ai-ml", "fintech", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Darian Shirazi is the Founder & CEO @ Radius, the startup that provides you with not just data but truth allowing you to gain clarity to reach and convert your best B2B prospects."]
+subtype: article
 ---
 
 # Why Facebook Will Be The Company To Succeed

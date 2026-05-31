@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: most-valuable-private-tech-company
 name: Most Valuable Private Tech Company
 source: 20vc

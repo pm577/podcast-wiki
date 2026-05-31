@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: eeros-nick-weaver
 name: Eero's Nick Weaver
 source: 20vc

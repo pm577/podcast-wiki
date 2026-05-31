@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-biggest-lies
 name: "20VC: The Biggest Lies"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Biggest Lies of Silicon Valley, Why Entrepreneurship is
 ## Summary
 
   Nick Huber is a serial entrepreneur, investor, and content creator focused on real estate and small business."]
+subtype: article
 ---
 
 # 20VC: The Biggest Lies

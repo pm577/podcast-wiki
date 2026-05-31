@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-hiring-in-tech-is-broken-and-f
 name: "20VC: Why Hiring in Tech is Broken and F"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Hiring in Tech is Broken and Founders Need to be as Goo
 ## Summary
 
  Jean-Denis Greze is Chief Technology Officer at Plaid where oversees global product business units across North America and Europe."]
+subtype: article
 ---
 
 # 20VC: Why Hiring in Tech is Broken and F

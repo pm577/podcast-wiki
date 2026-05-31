@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: crowdstrike-founder
 name: Crowdstrike Founder
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-build
 name: How To Build
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-08-24
 tags: ["ai-ml", "hiring-culture", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Over the last 7 years, I have scaled 20VC to 100M+ downloads, and listeners in 117 countries, and all of this with a spend of less than $1,000."]
+subtype: article
 ---
 
 # How To Build

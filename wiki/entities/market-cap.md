@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: market-cap
 name: Market Cap
 source: 20vc

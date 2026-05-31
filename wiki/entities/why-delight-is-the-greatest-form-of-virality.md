@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-delight-is-the-greatest-form-of-virality
 name: Why Delight Is The Greatest Form Of Virality
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-03-10
 tags: ["ai-ml", "fintech", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["From 1995 until 2004 Andy Rachleff was a co-founder and General Partner of Benchmark Capital, who have backed the likes of Twitter, Snapchat, Dropbox, Uber and Instagram."]
+subtype: article
 ---
 
 # Why Delight Is The Greatest Form Of Virality

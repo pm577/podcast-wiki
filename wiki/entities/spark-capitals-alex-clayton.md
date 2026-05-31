@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: spark-capitals-alex-clayton
 name: Spark Capital's Alex Clayton
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-uipath-the-10-year-bootstrapping
 name: "20VC: UiPath: The 10 Year Bootstrapping"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: UiPath: The 10 Year Bootstrapping Journey that Turned into 
 ## Summary
 
  Daniel Dines is the Co-Founder @ UiPath, one of the most incredible journeys in startups."]
+subtype: article
 ---
 
 # 20VC: UiPath: The 10 Year Bootstrapping

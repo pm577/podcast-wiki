@@ -1,4 +1,5 @@
 ---
+
 title: Gia Laudi
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, growth, customer-led-growth, saas, marketing, consultancy]
 sources:
   - raw/transcripts/lenny/gia-laudi.md
 confidence: high
+subtype: person
 ---
 
 # Gia Laudi (Georgiana Laudi)
@@ -51,3 +53,15 @@ Customer-led growth isn't just a strategy — it's a mindset shift that requires
 - [[customer-retention]]
 - [[saas]]
 - [[activation]]
+
+---
+
+*Merged from [[gia]]:*
+
+# Gia
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/gia-laudi|Customer-led growth | Georgiana Laudi (Forget The Funnel)]] — *to be summarized*

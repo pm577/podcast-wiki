@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anthropics-10bn-fundraise-have
 name: "20VC: Anthropic's $10BN Fundraise: Have"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Anthropic's $10BN Fundraise: Have They Beaten Cursor Alread
 ## Summary
 
 AGENDA: 05:02 Anthropic's $10 Billion Fundraise 07:54 Has Claude Code Beaten Cursor Already 15:54 OpenAI Could Still Go to Zero 26:33 Andreessen Horowitz's $15 Billion Fundraise 45:16 The Middle is Dead: Boutique vs."]
+subtype: article
 ---
 
 # 20VC: Anthropic's $10BN Fundraise: Have

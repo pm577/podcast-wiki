@@ -1,4 +1,5 @@
 ---
+
 title: Boz
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/boz.md
 confidence: medium
 key_finding: Communication Is the Job of Leadership
+subtype: person
 ---
 
 # Andrew Bosworth (Boz)

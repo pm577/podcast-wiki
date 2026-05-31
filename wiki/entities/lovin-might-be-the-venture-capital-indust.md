@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lovin-might-be-the-venture-capital-indust
 name: Lovin Might Be The Venture Capital Indust
 source: 20vc

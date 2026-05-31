@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-exclusive-why-mega-platforms-will-win-in-vc-why-you-can
 name: "20VC Exclusive: Why Mega Platforms Will Win in VC | Why You Cannot Do VC If You Do Not Do Pre"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC Exclusive: Why Mega Platforms Will Win in VC | Why You Canno
 ## Summary
 
 Bucky Moore is a Partner @ Lightspeed Venture Partners, announced exclusively in the show today on 20VC."]
+subtype: article
 ---
 
 # 20VC Exclusive: Why Mega Platforms Will Win in VC | Why You Cannot Do VC If You Do Not Do Pre

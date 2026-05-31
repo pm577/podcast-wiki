@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: global-venture-firm-like-lightspeed
 name: Global Venture Firm Like Lightspeed
 source: 20vc

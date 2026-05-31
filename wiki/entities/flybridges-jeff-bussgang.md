@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: flybridges-jeff-bussgang
 name: Flybridge's Jeff Bussgang
 source: 20vc

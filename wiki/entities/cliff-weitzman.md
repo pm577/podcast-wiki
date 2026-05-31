@@ -1,4 +1,5 @@
 ---
+
 title: Cliff Weitzman
 created: 2026-06-01
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, speechify, ai-ml, founder-psychology, edtech, voice-ai, startups]
 sources:
   - raw/transcripts/20vc/20vc-2026-05-09-20vc-what-i-learned-from-100.md
 confidence: medium
+subtype: person
 ---
 
 # Cliff Weitzman

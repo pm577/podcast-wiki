@@ -1,4 +1,5 @@
 ---
+
 title: Deven Parekh
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2021-05-17-20vc-insight-managing-directo.md
 confidence: medium
+subtype: person
 ---
 
 

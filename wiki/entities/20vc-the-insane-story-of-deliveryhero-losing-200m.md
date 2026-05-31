@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-insane-story-of-deliveryhero-losing-200m
 name: "20VC: The Insane Story of DeliveryHero: Losing $200M"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Insane Story of DeliveryHero: Losing $200M on a Gorilla
 ## Summary
 
 Niklas Östberg is the Founder and CEO of Delivery Hero, a global juggernaut now present in over 70 countries across four continents."]
+subtype: article
 ---
 
 # 20VC: The Insane Story of DeliveryHero: Losing $200M

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: duolingo-co-founder
 name: Duolingo Co-Founder
 source: 20vc

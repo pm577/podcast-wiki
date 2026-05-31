@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bessemers-ethan-kurzweil
 name: Bessemer's Ethan Kurzweil
 source: 20vc

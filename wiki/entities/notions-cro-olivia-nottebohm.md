@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: notions-cro-olivia-nottebohm
 name: Notion's CRO Olivia Nottebohm
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Peter
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person]
 sources:
   - raw/transcripts/lenny/peter-deng.md
 confidence: medium
+subtype: person
 ---
 
 

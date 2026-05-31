@@ -1,4 +1,5 @@
 ---
+
 title: Max Levchin
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/20vc/20vc-2017-07-14-20vc-max-levchin-on-what-make.md
   - raw/transcripts/20vc/20vc-2025-02-05-20vc-affirm-max-levchin-on-wh.md
 confidence: medium
+subtype: person
 ---
 
 # Max Levchin

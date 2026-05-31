@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: leading-indicators-that-suggest-pote
 name: Leading Indicators That Suggest Pote
 source: 20vc

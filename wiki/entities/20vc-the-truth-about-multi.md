@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-truth-about-multi
 name: "20VC: The Truth About Multi"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Truth About Multi-Stage Firms; Why Portfolio Services a
 ## Summary
 
 Mark Goldberg is a Managing Partner and Co-Founder at Chemistry, a $350M fund announced just yesterday with the mission to lead the best seed and Series A rounds."]
+subtype: article
 ---
 
 # 20VC: The Truth About Multi

@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/brandon-chu.md
+
 title: Brandon
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +10,7 @@ tags: [person]
 sources:
   - episodes/lenny/brandon-chu|AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff
 confidence: medium
+subtype: person
 ---
 
 # Brandon

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: unsustainable-model
 name: Unsustainable Model
 source: 20vc

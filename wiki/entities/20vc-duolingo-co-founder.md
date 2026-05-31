@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-duolingo-co-founder
 name: "20VC: Duolingo Co-Founder"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Duolingo Co-Founder on Why $3M is Harder than $100M to Rais
 ## Summary
 
 Severin Hacker is the Co-Founder and CTO of Duolingo, the world's most downloaded education app with over 100 million monthly users."]
+subtype: article
 ---
 
 # 20VC: Duolingo Co-Founder

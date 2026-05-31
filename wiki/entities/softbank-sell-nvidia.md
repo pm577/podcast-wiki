@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: softbank-sell-nvidia
 name: Softbank Sell NVIDIA
 source: 20vc

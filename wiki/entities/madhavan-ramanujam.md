@@ -1,4 +1,5 @@
 ---
+
 title: Madhavan Ramanujam
 created: 2026-05-31
 updated: 2026-05-31
@@ -9,6 +10,7 @@ sources:
   - raw/transcripts/lenny/madhavan-ramanujam-20.md
 confidence: high
 key_finding: Master both market share and wallet share for profitable growth
+subtype: person
 ---
 
 # Madhavan Ramanujam
@@ -39,3 +41,15 @@ Madhavan Ramanujam is the world's foremost expert on pricing and monetization st
 - [[april-dunford]]
 - [[geoffrey-moore]]
 - [[richard-rumelt]]
+
+---
+
+*Merged from [[madhavan]]:*
+
+# Madhavan
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/madhavan-ramanujam-20|The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher)]] — *to be summarized*

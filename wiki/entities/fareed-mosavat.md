@@ -1,4 +1,5 @@
 ---
+
 title: Fareed Mosavat
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, reforge, product, growth, slack, instacart, pixar]
 sources:
   - raw/transcripts/lenny/fareed-mosavat.md
 confidence: high
+subtype: person
 ---
 
 # Fareed Mosavat
@@ -51,3 +53,15 @@ The transition from individual contributor to manager is one of the hardest in p
 - [[leadership]]
 - [[growth]]
 - [[career-development]]
+
+---
+
+*Merged from [[fareed]]:*
+
+# Fareed
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/fareed-mosavat|How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Pixar)]] — *to be summarized*

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-best-run-private-com
 name: The Best Run Private Com
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-05-03
 tags: ["ai-ml", "fintech", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Eric Glyman is the Co-Founder and CEO of Ramp, America's fastest growing corporate card and finance automation platform."]
+subtype: article
 ---
 
 # The Best Run Private Com

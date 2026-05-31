@@ -1,4 +1,5 @@
 ---
+
 title: Makes Palmer Luckey One
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, biotech-health, enterprise-saas, founder-psychology, person, ventu
 sources:
   - raw/transcripts/20vc/20vc-2021-11-11-20vc-the-anduril-memo-founde.md
 confidence: medium
+subtype: person
 ---
 
 

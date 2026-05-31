@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-how-to-scale-into-enterprise-ef
 name: "20Sales: How to Scale Into Enterprise Ef"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: How to Scale Into Enterprise Effectively and the Biggest
 ## Summary
 
  Sean Murray is the CRO @ Greenhouse which is the fourth company Sean has scaled successfully into the enterprise."]
+subtype: article
 ---
 
 # 20Sales: How to Scale Into Enterprise Ef

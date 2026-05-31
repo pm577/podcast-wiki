@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-john-doerr-taught-me-about-great-investing
 name: What John Doerr Taught Me About Great Investing
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-06-04
 tags: ["founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Trae Vassallo is the Co-Founder and Managing Director @ Defy."]
+subtype: article
 ---
 
 # What John Doerr Taught Me About Great Investing

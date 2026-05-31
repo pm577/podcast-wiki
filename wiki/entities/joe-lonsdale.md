@@ -1,4 +1,5 @@
 ---
+
 title: Joe Lonsdale
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, biotech-health, marketplaces, person, product-strategy, venture-ca
 sources:
   - raw/transcripts/20vc/20vc-2020-07-07-20vc-8vcs-joe-lonsdale-on-ho.md
 confidence: medium
+subtype: person
 ---
 
 

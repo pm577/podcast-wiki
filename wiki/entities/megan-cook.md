@@ -1,4 +1,5 @@
 ---
+
 title: Megan Cook
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/megan-cook.md
 confidence: high
 key_finding: Create space for play and structured conflict on product teams
+subtype: person
 ---
 
 # Megan Cook
@@ -37,3 +39,15 @@ Megan Cook is Head of Product for Jira at Atlassian. Jira is used by 75% of Fort
 - [[melissa-perri]]
 - [[lenny-rachitsky]]
 - [[maggie-crowley]]
+
+---
+
+*Merged from [[megan]]:*
+
+# Megan
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/megan-cook|Lessons from Atlassian | Megan Cook (Head of Product, Jira)]] — *to be summarized*

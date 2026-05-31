@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sparks-bijan-sabet
 name: Spark's Bijan Sabet
 source: 20vc

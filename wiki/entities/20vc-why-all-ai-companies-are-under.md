@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-all-ai-companies-are-under
 name: "20VC: Why All AI Companies Are Under"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why All AI Companies Are Under-Valued | The Future of Found
 ## Summary
 
 George Sivulka is the founder and CEO of Hebbia, is one of the fastest-growing gen AI companies and they recently raised a $130M series B."]
+subtype: article
 ---
 
 # 20VC: Why All AI Companies Are Under

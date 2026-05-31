@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: private-market-valuations
 name: Private Market Valuations
 source: 20vc

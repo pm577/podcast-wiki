@@ -1,4 +1,5 @@
 ---
+
 title: Aishwarya Naresh Reganti + Kiriti Badam
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, ai, ai-products, machine-learning, enterprise, product-management
 sources:
   - raw/transcripts/lenny/lenny-2026-01-11-aishwarya-naresh-reganti-kiriti-badam.md
 confidence: high
+subtype: person
 ---
 
 # Aishwarya Naresh Reganti + Kiriti Badam

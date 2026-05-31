@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-now-is-the-best-time-to-be-an-entrepreneur
 name: Why Now Is The Best Time To Be An Entrepreneur
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-09-02
 tags: ["consumer", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Sean Seton-Rogers is a founding Partner at PROfounders Capital, a venture capital fund for entrepreneurs powered by entrepreneurs."]
+subtype: article
 ---
 
 # Why Now Is The Best Time To Be An Entrepreneur

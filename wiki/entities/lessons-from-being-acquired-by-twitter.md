@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lessons-from-being-acquired-by-twitter
 name: Lessons From Being Acquired By Twitter
 source: 20vc

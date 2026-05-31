@@ -1,4 +1,5 @@
 ---
+
 title: Annie Duke
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, decision-making, poker, cognitive-bias, strategy, quitting]
 sources:
   - raw/transcripts/lenny/annie-duke.md
 confidence: high
+subtype: person
 ---
 
 # Annie Duke

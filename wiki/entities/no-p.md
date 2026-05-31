@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: no-p
 name: No P
 source: 20vc

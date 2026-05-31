@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-wiz-built
 name: How Wiz Built
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-12-12
 tags: ["ai-ml", "enterprise-saas", "go-to-market", "product-strategy"]
 related_concepts: []
 key_views: ["Raaz Herberg is the Chief Marketing Officer and VP Product Strategy at Wiz, the fastest-growing cloud security company in history."]
+subtype: article
 ---
 
 # How Wiz Built

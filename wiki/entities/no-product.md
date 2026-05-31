@@ -1,4 +1,5 @@
 ---
+
 title: No Product
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, fintech, ai-ml, biotech-health
 sources:
   - raw/transcripts/20vc/20vc-2016-08-24-20vc-why-raising-a-fund-is-li.md
 confidence: medium
+subtype: person
 ---
 
 

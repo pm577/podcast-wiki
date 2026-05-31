@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: assess-great-founders
 name: Assess Great Founders
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-the-best-leaders-approach-decision
 name: How The Best Leaders Approach Decision
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-12-20
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Brandon Deer is VP of Operations & Strategy @ UiPath, one of the world's fastest-growing companies providing a complete software platform to help organizations efficiently automate business processes "]
+subtype: article
 ---
 
 # How The Best Leaders Approach Decision

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: seed-stage-investing
 name: Seed Stage Investing
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-every-company-looks-one-round
 name: "20VC: Why Every Company Looks One Round"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Every Company Looks One Round Earlier Than It Should Be
 ## Summary
 
 Assaf Wand is the Founder & CEO @ Hippo, a new kind of insurance company that provides smart coverage for homeowners with a quote in just 60 seconds."]
+subtype: article
 ---
 
 # 20VC: Why Every Company Looks One Round

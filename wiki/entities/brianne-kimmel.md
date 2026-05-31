@@ -1,4 +1,5 @@
 ---
+
 title: Brianne Kimmel
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, go-to-market, person, product-strategy, venture-capit
 sources:
   - raw/transcripts/20vc/20vc-2019-10-14-20vc-worklife-ventures-brian.md
 confidence: medium
+subtype: person
 ---
 
 

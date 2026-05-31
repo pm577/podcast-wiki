@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: revenue-matter
 name: Revenue Matter
 source: 20vc

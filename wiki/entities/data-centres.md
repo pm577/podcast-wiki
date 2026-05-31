@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: data-centres
 name: Data Centres
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: intercom-founder
 name: Intercom Founder
 source: 20vc

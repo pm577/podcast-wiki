@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-the-be
 name: How The Be
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-07-20
 tags: ["go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Sam Taylor is the VP of Sales and Customer Success @ Loom, an essential tool for hybrid and remote teams allowing you to record quick videos of your screen and cam."]
+subtype: article
 ---
 
 # How The Be

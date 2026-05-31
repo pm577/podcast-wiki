@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-traditional-vc-is-broken-how-vcs-learned-nothing
 name: "20VC: Why Traditional VC is Broken: How VCs Learned Nothing"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Traditional VC is Broken: How VCs Learned Nothing from 
 ## Summary
 
 Mitchell Green is the Founder and Managing Partner of Lead Edge Capital."]
+subtype: article
 ---
 
 # 20VC: Why Traditional VC is Broken: How VCs Learned Nothing

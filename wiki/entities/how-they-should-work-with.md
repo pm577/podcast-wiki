@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-they-should-work-with
 name: How They Should Work With
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-02-20
 tags: ["go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Zach Lawryk is Head of Solutions Consulting @ Rippling, what is solutions consulting? They are the product expert in the solution that ties a business value to help support the sales rep in the execut"]
+subtype: article
 ---
 
 # How They Should Work With

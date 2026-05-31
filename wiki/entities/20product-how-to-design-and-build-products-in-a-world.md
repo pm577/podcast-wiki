@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-how-to-design-and-build-products-in-a-world
 name: "20Product: How to Design and Build Products in a World"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: How to Design and Build Products in a World of Agents 
 ## Summary
 
 Matt Biilmann is the Co-Founder and CEO @ Netlify."]
+subtype: article
 ---
 
 # 20Product: How to Design and Build Products in a World

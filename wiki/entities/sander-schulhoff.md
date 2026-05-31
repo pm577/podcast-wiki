@@ -1,4 +1,5 @@
 ---
+
 title: Sander Schulhoff
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/sander-schulhoff.md
   - raw/transcripts/lenny/sander-schulhoff-20.md
 confidence: high
+subtype: person
 ---
 
 # Sander Schulhoff
@@ -48,3 +50,15 @@ While we can't eliminate AI security vulnerabilities, continuous red teaming —
 - [[red-teaming]]
 - [[prompt-injection]]
 - [[adversarial-robustness]]
+
+---
+
+*Merged from [[sander]]:*
+
+# Sander
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/sander-schulhoff-20|Why securing AI is harder than anyone expected and guardrails are failing | HackAPrompt CEO]] — *to be summarized*

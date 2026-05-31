@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: scale-from-garage-to-global-in-record-time
 name: Scale From Garage To Global In Record Time
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-revolut-founder-nik-storonsky
 name: "20VC: Revolut Founder Nik Storonsky"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Revolut Founder Nik Storonsky on When and Where Revolut Wil
 ## Summary
 
 Nik Storonsky is the Co-Founder and CEO of Revolut, one of the fastest-growing companies in the world with a $45BN valuation and 50M customers around the world."]
+subtype: article
 ---
 
 # 20VC: Revolut Founder Nik Storonsky

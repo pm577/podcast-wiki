@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-key-metrics-marketplace-success-is-centred-on
 name: The Key Metrics Marketplace Success Is Centred On
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-10-07
 tags: ["ai-ml", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Karthik Sridharan is the Founder & CEO @ Kinnek, the platform which empowers small business owners to take control of their purchasing operations."]
+subtype: article
 ---
 
 # The Key Metrics Marketplace Success Is Centred On

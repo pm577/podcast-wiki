@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-how-to-build-a-paid-marketing-machine-roas-return
 name: "20Growth: How to Build a Paid Marketing Machine: ROAS (Return"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-10-24
 tags: ["ai-ml", "consumer", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["# 20Growth: How to Build a Paid Marketing Machine: ROAS (Return on Ad Spend) 101 | The Rise of User Generated Content and How to Use It | TikTok Ads: Expectations vs."]
+subtype: article
 ---
 
 # 20Growth: How to Build a Paid Marketing Machine: ROAS (Return

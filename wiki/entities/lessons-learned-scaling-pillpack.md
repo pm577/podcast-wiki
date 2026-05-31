@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lessons-learned-scaling-pillpack
 name: Lessons Learned Scaling PillPack
 source: 20vc

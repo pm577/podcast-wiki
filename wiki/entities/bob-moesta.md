@@ -1,4 +1,5 @@
 ---
+
 title: Bob Moesta
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/bob-moesta.md
 confidence: medium
 key_finding: Context Makes the Irrational Rational
+subtype: person
 ---
 
 # Bob Moesta

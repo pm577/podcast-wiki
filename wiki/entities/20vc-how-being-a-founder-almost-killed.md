@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-being-a-founder-almost-killed
 name: "20VC: "How Being a Founder Almost Killed"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: "How Being a Founder Almost Killed Me"; We Have Lied to a G
 ## Summary
 
  Christian Lanng is the Founder and Former CEO @ Tradeshift, a company he took from garage to unicorn raising over $900M for with a latest price of $2.7BN in 2021."]
+subtype: article
 ---
 
 # 20VC: "How Being a Founder Almost Killed

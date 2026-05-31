@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: on-investments-are-always
 name: On Investments Are Always
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-inside-perplexitys-growth-machine-what-worked
 name: "20Growth: Inside Perplexity's Growth Machine: What Worked"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: Inside Perplexity's Growth Machine: What Worked, What D
 ## Summary
 
 Raman Malik is the Head of Growth at Perplexity where he is responsible for growth marketing, onboarding, activation, retention, and monetisation."]
+subtype: article
 ---
 
 # 20Growth: Inside Perplexity's Growth Machine: What Worked

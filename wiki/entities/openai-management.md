@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: openai-management
 name: OpenAI Management
 source: 20vc

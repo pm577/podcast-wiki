@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-the-unbundling
 name: Why The Unbundling
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-07-31
 tags: ["ai-ml", "fintech", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Clay Wilkes is the Founder & CEO @ Galileo, the API standard for card issuing and digital banking, powering many of the leading global FinTech companies including Chime, TransferWise and Monzo to name"]
+subtype: article
 ---
 
 # Why The Unbundling

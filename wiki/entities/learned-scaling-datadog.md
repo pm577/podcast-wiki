@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: learned-scaling-datadog
 name: Learned Scaling Datadog
 source: 20vc

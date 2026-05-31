@@ -1,4 +1,5 @@
 ---
+
 title: Scott Kupor
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, go-to-market, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2019-06-10-20vc-a16zs-scott-kupor-on-th.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+
 title: The Cash Needs
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, fintech, a
 sources:
   - raw/transcripts/20vc/20vc-2019-02-15-20vc-brex-founder-henrique-du.md
 confidence: medium
+subtype: person
 ---
 
 

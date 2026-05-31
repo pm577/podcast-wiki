@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: mary-meekers
 name: Mary Meekers
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Mamoon Hamid
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, biotech-health, consumer, founder-psychology, person, product-stra
 sources:
   - raw/transcripts/20vc/20vc-2016-10-31-20vc-social-capitals-mamoon.md
 confidence: medium
+subtype: person
 ---
 
 

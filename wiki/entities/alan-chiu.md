@@ -1,4 +1,5 @@
 ---
+
 title: Alan Chiu
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, enterprise-saas]
 sources:
   - raw/transcripts/20vc/20vc-2015-06-18-20-vc-046-how-vcs-evaluate-in.md
 confidence: medium
+subtype: person
 ---
 
 

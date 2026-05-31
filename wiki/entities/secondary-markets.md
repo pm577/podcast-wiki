@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: secondary-markets
 name: Secondary Markets
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: investing-lessons
 name: Investing Lessons
 source: 20vc

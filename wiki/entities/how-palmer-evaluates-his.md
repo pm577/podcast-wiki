@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-palmer-evaluates-his
 name: How Palmer Evaluates His
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-09-28
 tags: ["ai-ml", "deeptech-hardware", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Palmer Luckey is the Founder @ Anduril Industries, founded on the premise of radically transforming the defence capabilities of the United States and its allies by fusing artificial intelligence with "]
+subtype: article
 ---
 
 # How Palmer Evaluates His

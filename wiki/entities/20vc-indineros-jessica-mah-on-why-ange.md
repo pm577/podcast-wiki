@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-indineros-jessica-mah-on-why-ange
 name: "20VC: inDinero's Jessica Mah on Why Ange"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-06-03
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Jessica Mah is Founder and CEO of inDinero, which she started back in 2010 to help entrepreneurs with all their accounting and tax needs after going through the same challenges with her own businesses"]
+subtype: article
 ---
 
 # 20VC: inDinero's Jessica Mah on Why Ange

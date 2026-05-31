@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-from-leading-the-bbc-to-leading-venture-capitalist
 name: "20VC: From Leading the BBC to Leading Venture Capitalist"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: From Leading the BBC to Leading Venture Capitalist, The Big
 ## Summary
 
  Danny Cohen is the President of Access Entertainment, a division of Len Blavatnik's Access Industries."]
+subtype: article
 ---
 
 # 20VC: From Leading the BBC to Leading Venture Capitalist

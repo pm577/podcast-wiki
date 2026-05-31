@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anthropics-10bn-round-klarnas
 name: "20VC: Anthropic's $10BN Round | Klarna's"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: ​​00:00 – Marc Benioff vs Snowflake, Databricks & Palantir: Who Wi
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-anthropics-10bn-round-klarnas-ipo-broken-down-inside-a16zs-72-deal-seed-investment-machine-martin-casado-is-consensus-investing-the-only-game-why-satya-is-chatting-s-on-saas-apps-disappearing-featuring-marc-benioff)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Anthropic's $10BN Round | Klarna's

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-indexs-shardul-shah
 name: "20VC: Index's Shardul Shah"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Index's Shardul Shah on Why Market Size is a Trap | Biggest
 ## Summary
 
  Shardul Shah is a Partner at Index Ventures and one of the greatest cyber security investors of the last two decades."]
+subtype: article
 ---
 
 # 20VC: Index's Shardul Shah

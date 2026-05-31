@@ -1,4 +1,5 @@
 ---
+
 title: Weston Gaddy
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml, con
 sources:
   - raw/transcripts/20vc/20vc-2015-10-21-20-vc-081-from-yc-to-vc-with.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+
 title: Adam Grenier
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, growth-marketing, acquisition, channels, cmo, marketing, uber, ma
 sources:
   - raw/transcripts/lenny/adam-grenier.md
 confidence: high
+subtype: person
 ---
 
 # Adam Grenier

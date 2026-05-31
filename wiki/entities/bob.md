@@ -1,4 +1,5 @@
 ---
+
 title: Bob Moesta
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/bob-moesta-20.md
 confidence: high
 key_finding: Employees hire companies more than companies hire employees
+subtype: person
 ---
 
 # Bob Moesta

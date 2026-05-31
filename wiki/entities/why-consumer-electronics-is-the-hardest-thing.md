@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-consumer-electronics-is-the-hardest-thing
 name: Why Consumer Electronics Is The Hardest Thing
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-09-20
 tags: ["ai-ml", "consumer", "deeptech-hardware", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Jeremy Conrad is a Partner @ Lemnos Labs, the fund that believes in the earliest stages of building hardware, every dollar counts, every hour matters and every decision is crucial to success or failur"]
+subtype: article
 ---
 
 # Why Consumer Electronics Is The Hardest Thing

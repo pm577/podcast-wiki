@@ -1,4 +1,5 @@
 ---
+
 title: Rachel Blumenthal
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, go-to-market, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2018-07-13-20vc-why-fundraising-is-like.md
 confidence: medium
+subtype: person
 ---
 
 

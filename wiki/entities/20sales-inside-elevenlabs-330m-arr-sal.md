@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-inside-elevenlabs-330m-arr-sal
 name: "20Sales: Inside ElevenLabs $330M ARR Sal"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Inside ElevenLabs $330M ARR Sales Machine | The 20x Sale
 ## Summary
 
 Carles Reina is VP of Sales at ElevenLabs, where he was the first investor and fourth employee."]
+subtype: article
 ---
 
 # 20Sales: Inside ElevenLabs $330M ARR Sal

@@ -1,4 +1,5 @@
 ---
+
 title: Mark Suster
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [enterprise-saas, founder-psychology, go-to-market, person, product-strate
 sources:
   - raw/transcripts/20vc/20vc-2020-04-20-20vc-upfronts-mark-suster-on.md
 confidence: medium
+subtype: person
 ---
 
 

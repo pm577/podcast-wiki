@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-most-untold-story
 name: The Most Untold Story
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-02-07
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Erik Allebest is the CEO @ Chess."]
+subtype: article
 ---
 
 # The Most Untold Story

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-andrej-karpathy-joins-anthropic
 name: "20VC: Andrej Karpathy Joins Anthropic &"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA:  00:00 – Anthropic Eyes $900B Valuation & Andre Karpathy's Shock Move
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-andrej-karpathy-joins-anthropic-anthropic-raises-30bn-at-900bn-price-spacex-files-s1-how-does-it-trade-cerebras-smashes-day-1-what-it-means-for-ipos-why-mass-layoffs-are-more-worrying-than-anyone-sees)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Andrej Karpathy Joins Anthropic &

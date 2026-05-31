@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-we-are-still-in-the-very-early
 name: "20VC: Why We Are Still In The Very Early"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-05-05
 tags: ["fintech", "founder-psychology", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Bill Clerico is the Co-Founder & CEO @ WePay, the most complete payments solution for platforms."]
+subtype: article
 ---
 
 # 20VC: Why We Are Still In The Very Early

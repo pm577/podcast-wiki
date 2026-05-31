@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: white-star-capita
 name: White Star Capita
 source: 20vc

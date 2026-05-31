@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-three-core-lessons-scaling-freshwo
 name: "20VC: Three Core Lessons Scaling Freshwo"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Three Core Lessons Scaling Freshworks to a $5.2BN Market Ca
 ## Summary
 
 Girish Mathrubootham is the founder and CEO of Freshworks, India's first SaaS company to list on NASDAQ."]
+subtype: article
 ---
 
 # 20VC: Three Core Lessons Scaling Freshwo

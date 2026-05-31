@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: arm-ceo-rene-haas
 name: Arm CEO Rene Haas
 source: 20vc

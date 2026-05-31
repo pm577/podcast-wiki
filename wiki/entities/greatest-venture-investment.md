@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: greatest-venture-investment
 name: Greatest Venture Investment
 source: 20vc

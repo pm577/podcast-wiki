@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: company-you-might-not-have-heard-of
 name: Company You Might Not Have Heard Of
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: grow-capital-efficiently
 name: Grow Capital Efficiently
 source: 20vc

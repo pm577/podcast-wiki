@@ -1,4 +1,5 @@
 ---
+
 title: Mike Seibel
 created: 2026-05-31
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, y-combinator, venture-capital, founder-psychology, consumer, twit
 sources:
   - raw/transcripts/20vc/20vc-2015-03-02-20-vc-016-y-combinator-twitc.md
 confidence: medium
+subtype: person
 ---
 
 # Mike Seibel

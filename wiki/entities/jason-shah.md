@@ -1,4 +1,5 @@
 ---
+
 title: Jason Shah
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, web3, alchemy, amazon, airbnb, career, leader
 sources:
   - raw/transcripts/lenny/jason-shah.md
 confidence: high
+subtype: person
 ---
 
 # Jason Shah

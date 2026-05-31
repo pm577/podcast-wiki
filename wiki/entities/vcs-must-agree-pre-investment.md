@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: vcs-must-agree-pre-investment
 name: VCs Must Agree Pre-Investment
 source: 20vc

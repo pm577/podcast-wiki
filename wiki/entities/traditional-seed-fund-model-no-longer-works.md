@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: traditional-seed-fund-model-no-longer-works
 name: Traditional Seed Fund Model No Longer Works
 source: 20vc

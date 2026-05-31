@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-elevenlabs-why-we-set-a-20x-sa
 name: "20Sales: ElevenLabs: Why We Set a 20x Sa"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: ElevenLabs: Why We Set a 20x Sales Quota | How to Struct
 ## Summary
 
 Carles Reina is VP of Sales at ElevenLabs, where he was the first investor and fourth employee."]
+subtype: article
 ---
 
 # 20Sales: ElevenLabs: Why We Set a 20x Sa

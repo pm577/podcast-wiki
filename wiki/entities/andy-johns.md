@@ -1,4 +1,5 @@
 ---
+
 title: Andy Johns
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, growth, mental-health, burnout, product-management, leadership]
 sources:
   - raw/transcripts/lenny/andy-johns.md
 confidence: high
+subtype: person
 ---
 
 # Andy Johns

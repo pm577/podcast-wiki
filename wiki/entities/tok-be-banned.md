@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: tok-be-banned
 name: Tok Be Banned
 source: 20vc

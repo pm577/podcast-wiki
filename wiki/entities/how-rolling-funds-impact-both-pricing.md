@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-rolling-funds-impact-both-pricing
 name: How Rolling Funds Impact Both Pricing
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-12-21
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Avlok Kohli is the CEO of AngelList Venture which has facilitated the funding of over 5,000 startups including 47 unicorns and is home to 4,300 funds and syndicates with $2."]
+subtype: article
 ---
 
 # How Rolling Funds Impact Both Pricing

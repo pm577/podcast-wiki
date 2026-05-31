@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: altimeters-brad-gerstner
 name: Altimeter's Brad Gerstner
 source: 20vc

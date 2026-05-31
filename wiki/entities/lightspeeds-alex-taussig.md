@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lightspeeds-alex-taussig
 name: Lightspeed's Alex Taussig
 source: 20vc

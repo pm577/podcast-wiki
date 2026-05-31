@@ -1,4 +1,5 @@
 ---
+
 title: Andrew Ng
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, deeptech-hardware, founder-psychology, go-to-market, person, ventu
 sources:
   - raw/transcripts/20vc/20vc-2025-11-17-20vc-andrew-ng-on-the-biggest.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cerebras-ceo
 name: Cerebras CEO
 source: 20vc

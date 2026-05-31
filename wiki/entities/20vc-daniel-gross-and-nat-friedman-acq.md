@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-daniel-gross-and-nat-friedman-acq
 name: "20VC: Daniel Gross and Nat Friedman: Acq"
 source: 20vc
@@ -23,6 +24,7 @@ Agenda: [00:00] The AI Talent Crisis No One's Ready For [03:00] Daniel Gross and
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-daniel-gross-and-nat-friedman-acquired-by-meta-openais-sbc-bombshell-more-stock-comp-than-revenue-privat-equity-is-back-olo-bought-for-2bn-microsoft-lays-off-9000-people-is-this-just-the-start-will-sequoia-part-with-shaun-maguire)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Daniel Gross and Nat Friedman: Acq

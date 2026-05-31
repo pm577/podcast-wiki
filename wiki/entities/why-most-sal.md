@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-most-sal
 name: Why Most Sal
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-08-23
 tags: ["enterprise-saas", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Chad Peets is one of the greatest sales leaders and recruiters of the last 25 years."]
+subtype: article
 ---
 
 # Why Most Sal

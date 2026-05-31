@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-now-is-the-best-time
 name: Why Now Is The Best Time
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-09-14
 tags: ["ai-ml", "consumer", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Nicholas Chirls is the Founder and Partner @ Notation Capital, one of New York's genuine pre-seed funds investing in pre-growth startups with huge potential."]
+subtype: article
 ---
 
 # Why Now Is The Best Time

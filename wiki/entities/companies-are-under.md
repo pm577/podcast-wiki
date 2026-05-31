@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: companies-are-under
 name: Companies Are Under
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: should-founders-also-have-their-own-funds
 name: Should Founders Also Have Their Own Funds
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-07-14
 tags: ["fintech", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Sheel Mohnot is a Co-Founder and General Partner @ Better Tomorrow Ventures, a $225M fund that leads rounds in pre-seed and seed-stage fintech companies globally."]
+subtype: article
 ---
 
 # Should Founders Also Have Their Own Funds

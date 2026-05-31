@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: spacex-completes-acquisition
 name: SpaceX Completes Acquisition
 source: 20vc

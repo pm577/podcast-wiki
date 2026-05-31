@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: will-cursor-kill-figma
 name: Will Cursor Kill Figma
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-12-18
 tags: ["ai-ml", "deeptech-hardware", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["AGENDA: 03:32 Lightspeed's $9 Billion Fundraise 05:20 The Impact of Mega Funds on Seed VCs 10:09 The Supercycle of Growth and Late-Stage Investments 13:06 Disney Invests $1BN into OpenAI and What It M"]
+subtype: article
 ---
 
 # Will Cursor Kill Figma

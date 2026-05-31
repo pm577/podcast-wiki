@@ -1,4 +1,5 @@
 ---
+
 title: Michael Ma
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture]
 sources:
   - raw/transcripts/20vc/20vc-2017-07-26-20vc-why-yc-is-the-exact-oppo.md
 confidence: medium
+subtype: person
 ---
 
 

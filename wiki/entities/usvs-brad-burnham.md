@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: usvs-brad-burnham
 name: USV's Brad Burnham
 source: 20vc

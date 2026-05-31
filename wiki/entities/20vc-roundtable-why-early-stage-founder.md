@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-roundtable-why-early-stage-founder
 name: "20VC Roundtable: Why Early Stage Founder"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC Roundtable: Why Early Stage Founders Should Not be Investing
 ## Summary
 
  Jack Altman is the Founder and CEO @ Lattice, the #1 people management platform, last valued at $3BN."]
+subtype: article
 ---
 
 # 20VC Roundtable: Why Early Stage Founder

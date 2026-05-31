@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-traditional-ventur
 name: Why Traditional Ventur
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-02-25
 tags: ["ai-ml", "consumer", "fintech", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Sahil Bloom is the Founding Partner @ SRB Ventures, a $10M fund that leverages the 500K followers Sahil has amassed to invest at the intersection of venture and media."]
+subtype: article
 ---
 
 # Why Traditional Ventur

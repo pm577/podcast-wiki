@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: accels-dan-levine
 name: Accel's Dan Levine
 source: 20vc

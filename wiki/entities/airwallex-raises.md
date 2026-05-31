@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: airwallex-raises
 name: Airwallex Raises
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-seed-is-systemically-broken
 name: "20VC: Why Seed is Systemically Broken |"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Seed is Systemically Broken | Why Pricing is Worse Than
 ## Summary
 
  Jason Lemkin is one of the OG SaaS investors with all of his first five investments turning into unicorns with Pipedrive, Algolia, Talkdesk, Salesloft and RevenueCat all in his portfolio."]
+subtype: article
 ---
 
 # 20VC: Why Seed is Systemically Broken |

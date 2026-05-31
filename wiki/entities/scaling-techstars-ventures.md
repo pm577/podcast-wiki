@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: scaling-techstars-ventures
 name: Scaling Techstars Ventures
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-06-27
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["David Cohen is the founder and managing partner at Techstars, so a few amazing stats on techstars first, they have a total of 762 companies of which 90% are active or have been acquired, having raised"]
+subtype: article
 ---
 
 # Scaling Techstars Ventures

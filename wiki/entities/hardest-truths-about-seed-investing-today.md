@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: hardest-truths-about-seed-investing-today
 name: Hardest Truths About Seed Investing Today
 source: 20vc

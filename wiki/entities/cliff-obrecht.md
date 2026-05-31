@@ -1,4 +1,5 @@
 ---
+
 title: Cliff Obrecht
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, go-to-market, hiring-culture, person, venture-
 sources:
   - raw/transcripts/20vc/20vc-2023-01-27-20vc-canva-co-founder-cliff.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+
 title: John Cutler
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, product-teams, beautiful-mess, product-evange
 sources:
   - raw/transcripts/lenny/john-cutler.md
 confidence: high
+subtype: person
 ---
 
 # John Cutler

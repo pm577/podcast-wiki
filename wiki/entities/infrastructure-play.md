@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: infrastructure-play
 name: Infrastructure Play
 source: 20vc

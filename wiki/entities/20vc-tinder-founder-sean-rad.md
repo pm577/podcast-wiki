@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-tinder-founder-sean-rad
 name: "20VC: Tinder Founder Sean Rad"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Tinder Founder Sean Rad on Lessons Scaling Tinder to the Fa
 ## Summary
 
  Sean Rad is the Founder and former CEO of Tinder."]
+subtype: article
 ---
 
 # 20VC: Tinder Founder Sean Rad

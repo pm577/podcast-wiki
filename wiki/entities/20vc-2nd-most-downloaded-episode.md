@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-2nd-most-downloaded-episode
 name: "20VC: 2nd Most Downloaded Episode"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: 2nd Most Downloaded Episode of 2018: Kirsten Green, Foundin
 ## Summary
 
 Kirsten Green is the Founding General Partner @ Forerunner Ventures, where she has raised over $250M from leading investors and has invested in more than 40 early-stage companies."]
+subtype: article
 ---
 
 # 20VC: 2nd Most Downloaded Episode

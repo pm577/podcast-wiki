@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-benchmark-loses-another-partner
 name: "20VC: Benchmark Loses Another Partner |"
 source: 20vc
@@ -23,6 +24,7 @@ Agenda: 00:00 - Why Benchmark Is Bleeding Partners (and Why That's the New Norma
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-benchmark-loses-another-partner-elad-gil-raises-a-monster-15bn-solo-gp-fund-why-apple-need-a-management-overhaul-why-google-is-the-best-performing-hyperscaler-will-cursor-hit-4bn-arr-lovable-400m-arr-by-eoy-2026)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Benchmark Loses Another Partner |

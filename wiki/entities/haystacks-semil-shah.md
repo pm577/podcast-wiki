@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: haystacks-semil-shah
 name: Haystack's Semil Shah
 source: 20vc

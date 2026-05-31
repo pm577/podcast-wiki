@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: learnings-from-backing-the-likes
 name: Learnings From Backing The Likes
 source: 20vc

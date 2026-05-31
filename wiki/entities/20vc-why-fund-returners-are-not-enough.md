@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-fund-returners-are-not-enough
 name: "20VC: Why Fund Returners Are Not Enough"
 source: 20vc
@@ -23,6 +24,7 @@ In Today's Episode We Discuss: 03:56 Why The Risk Lever Has Been Turned Higher t
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-why-fund-returners-are-not-enough-anymore-why-sequoia-had-the-best-strategy-at-the-worst-time-what-it-takes-to-be-good-at-series-a-and-b-today-benchmark-leads-manus-round-should-us-funds-invest-in-chinese-ai)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Why Fund Returners Are Not Enough

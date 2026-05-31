@@ -1,4 +1,5 @@
 ---
+
 title: Aaron Harris
 created: 2026-05-31
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, y-combinator, venture-capital, founder-psychology, product-strate
 sources:
   - raw/transcripts/20vc/20vc-2015-09-30-20-vc-076-y-combinator-week.md
 confidence: medium
+subtype: person
 ---
 
 # Aaron Harris

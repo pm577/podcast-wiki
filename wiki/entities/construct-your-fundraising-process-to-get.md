@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: construct-your-fundraising-process-to-get
 name: Construct Your Fundraising Process To Get
 source: 20vc

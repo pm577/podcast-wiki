@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-create-an-environment
 name: How To Create An Environment
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-10-28
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Ben Horowitz is a Co-Founder and General Partner at Andreessen Horowitz, one of the leading and most prestigious venture firms of the last decade with a portfolio including the likes of Facebook, Gith"]
+subtype: article
 ---
 
 # How To Create An Environment

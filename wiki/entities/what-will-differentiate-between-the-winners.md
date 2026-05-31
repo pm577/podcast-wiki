@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-will-differentiate-between-the-winners
 name: What Will Differentiate Between The Winners
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-12-30
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Nitesh Banta is the Founder and CEO @ B12, the startup that uses AI to superpower their team of world class creatives to create even more intelligent websites."]
+subtype: article
 ---
 
 # What Will Differentiate Between The Winners

@@ -1,4 +1,5 @@
 ---
+
 title: Founder Dharmesh Shah
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, go-to-market, hiring-culture, marketplaces, person, v
 sources:
   - raw/transcripts/20vc/20vc-2022-06-13-20vc-hubspot-co-founder-dharm.md
 confidence: medium
+subtype: person
 ---
 
 

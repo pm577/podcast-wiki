@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-to-do-a-10x-seed-fund-in-2025
 name: "20VC: How To Do a 10x Seed Fund in 2025"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How To Do a 10x Seed Fund in 2025 | Three Frameworks to Eva
 ## Summary
 
 Mike Maples is one of the OG seed investors of the last two decades."]
+subtype: article
 ---
 
 # 20VC: How To Do a 10x Seed Fund in 2025

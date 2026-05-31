@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: atlassian-ceo
 name: Atlassian CEO
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-large-seed-rounds-increase-the-chances-of-success-w
 name: "20VC: Why Large Seed Rounds Increase the Chances of Success | When to Sell in Venture | Why Multi"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Large Seed Rounds Increase the Chances of Success | Whe
 ## Summary
 
 Hussein Kanji is the Founder and Managing Partner of Hoxton Ventures, one of Europe's leading early-stage firms with mega wins in the form of Darktrace and Deliveroo."]
+subtype: article
 ---
 
 # 20VC: Why Large Seed Rounds Increase the Chances of Success | When to Sell in Venture | Why Multi

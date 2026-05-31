@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: xeros-rod-drury
 name: Xero's Rod Drury
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: breakout-company
 name: Breakout Company
 source: 20vc

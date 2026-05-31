@@ -1,4 +1,5 @@
 ---
+
 title: Eeke de Milliano
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/eeke-de-milliano.md
 confidence: high
 key_finding: Process is variance-reducing — introduce it carefully or it will crush innovation
+subtype: person
 ---
 
 # Eeke de Milliano

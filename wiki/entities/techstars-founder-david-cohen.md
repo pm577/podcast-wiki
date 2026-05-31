@@ -1,4 +1,5 @@
 ---
+
 title: Techstars Founder David Cohen
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2019-02-11-20vc-techstars-founder-david.md
 confidence: medium
+subtype: person
 ---
 
 

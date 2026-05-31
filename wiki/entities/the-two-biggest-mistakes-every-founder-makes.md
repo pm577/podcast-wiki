@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-two-biggest-mistakes-every-founder-makes
 name: The Two Biggest Mistakes Every Founder Makes
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-10-16
 tags: ["enterprise-saas", "founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Matthew Prince is the co-founder and CEO of Cloudflare, on a mission is to help build a better Internet."]
+subtype: article
 ---
 
 # The Two Biggest Mistakes Every Founder Makes

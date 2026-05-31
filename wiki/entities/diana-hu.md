@@ -1,4 +1,5 @@
 ---
+
 title: Diana Hu
 created: 2026-06-01
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, venture-capital, y-combinator, ai-native, startups, agentic-org]
 sources:
   - raw/transcripts/stanford-ai-frontier/garry-tan-diana-hu-yc-stanford-ai-frontier.md
 confidence: high
+subtype: person
 ---
 
 # Diana Hu

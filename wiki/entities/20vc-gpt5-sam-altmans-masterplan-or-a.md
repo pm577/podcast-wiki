@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-gpt5-sam-altmans-masterplan-or-a
 name: "20VC: GPT5: Sam Altman's Masterplan or a"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 00:04 – Was GPT-5 the Biggest AI Letdown Yet? 00:17 – Is OpenAI's Re
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-gpt5-sam-altmans-masterplan-or-a-gift-to-anthropic-palantir-shopify-crush-earnings-monday-datadog-perform-but-hit-hard-by-wall-st-should-perplexity-buy-chrome-for-345bn)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: GPT5: Sam Altman's Masterplan or a

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: has-regulation-killed
 name: Has Regulation Killed
 source: 20vc

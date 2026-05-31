@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: triple-email-conversion
 name: Triple Email Conversion
 source: 20vc

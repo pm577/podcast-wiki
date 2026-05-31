@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: eventbrite-acquired
 name: Eventbrite Acquired
 source: 20vc

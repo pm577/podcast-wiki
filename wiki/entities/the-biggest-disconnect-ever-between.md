@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-biggest-disconnect-ever-between
 name: The Biggest Disconnect Ever Between
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-09-20
 tags: ["ai-ml", "founder-psychology", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Eric Paley is the Managing Partner at Founder Collective, one of the world's most successful seed funds with investments in the likes of Uber, The Trade Desk, Coupang and Airtable."]
+subtype: article
 ---
 
 # The Biggest Disconnect Ever Between

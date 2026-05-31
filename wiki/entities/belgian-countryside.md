@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: belgian-countryside
 name: Belgian Countryside
 source: 20vc

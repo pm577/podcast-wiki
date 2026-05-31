@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-general-catalyst-ceo-hemant-taneja
 name: "20VC: General Catalyst CEO Hemant Taneja"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: General Catalyst CEO Hemant Taneja on The Future of Venture
 ## Summary
 
 Hemant Taneja is the CEO and leader of General Catalyst, the firm he has scaled over the last decade into one of the largest with over $40BN in AUM."]
+subtype: article
 ---
 
 # 20VC: General Catalyst CEO Hemant Taneja

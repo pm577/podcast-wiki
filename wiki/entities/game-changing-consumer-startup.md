@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: game-changing-consumer-startup
 name: Game Changing Consumer Startup
 source: 20vc

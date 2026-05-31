@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-all-successful-business-must-be-loved
 name: Why All Successful Business Must Be Loved
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-10-14
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Moisey Uretsky is the Co-Founder & Chief Product Officer @ Digital Ocean, the second largest and fastest growing cloud computing platform, with more than 700,000 developers having deployed more than 2"]
+subtype: article
 ---
 
 # Why All Successful Business Must Be Loved

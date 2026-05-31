@@ -1,4 +1,5 @@
 ---
+
 title: Jessica Livingston
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, y-combinator, startups, investing, social-radar, founder-evaluati
 sources:
   - raw/transcripts/lenny/jessica-livingston.md
 confidence: high
+subtype: person
 ---
 
 # Jessica Livingston

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: his-biggest-product-takeaways
 name: His Biggest Product Takeaways
 source: 20vc

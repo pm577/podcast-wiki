@@ -1,4 +1,5 @@
 ---
+
 title: Aparna Chennapragada
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, ai, microsoft, strategy, leadership]
 sources:
   - raw/transcripts/lenny/aparna-chennapragada.md
 confidence: high
+subtype: person
 ---
 
 # Aparna Chennapragada
@@ -47,3 +49,15 @@ Aparna argues that in the AI era, the bar has shifted from "does it work?" to "d
 - [[ai-product-development]]
 - [[product-management]]
 - [[natural-language-interfaces]]
+
+---
+
+*Merged from [[aparna]]:*
+
+# Aparna
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/aparna-chennapragada|Microsoft CPO: If you aren’t prototyping with AI you’re doing it wrong | Aparna Chennapragada]] — *to be summarized*

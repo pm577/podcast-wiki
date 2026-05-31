@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-elevenlabs-head-of-growth
 name: "20VC: ElevenLabs Head of Growth"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: ElevenLabs Head of Growth on Why You Do Not Need PMs | The 
 ## Summary
 
 Luke Harries is Head of Growth at ElevenLabs, where he leads marketing, product, engineering, and developer experience."]
+subtype: article
 ---
 
 # 20VC: ElevenLabs Head of Growth

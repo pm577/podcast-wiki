@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: worklife-ventures-brianne-kimmel
 name: Worklife Ventures' Brianne Kimmel
 source: 20vc

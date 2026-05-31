@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: framework-for-hiring-the-best-talent
 name: Framework For Hiring The Best Talent
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Heidi Helfand
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, teams, reorgs, organization-design, dynamic-reteaming, author]
 sources:
   - raw/transcripts/lenny/heidi-helfand.md
 confidence: high
+subtype: person
 ---
 
 # Heidi Helfand

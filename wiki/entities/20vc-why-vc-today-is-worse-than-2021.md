@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-vc-today-is-worse-than-2021
 name: "20VC: Why VC Today is Worse Than 2021 |"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 04:50 Benchmark's New Partner: Everett Randall 10:19 Revolut Raises $3BN
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-why-vc-today-is-worse-than-2021-why-vertical-saas-is-a-bad-investment-today-why-we-are-deluding-ourselves-on-growth-expectations-revolut-raises-3bn-at-a-75bn-valuation-benchmark-adds-their-newest-general-partner)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Why VC Today is Worse Than 2021 |

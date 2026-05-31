@@ -1,4 +1,5 @@
 ---
+
 title: Stefan Glaenzer
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2015-03-09-20-vc-018-seed-stage-investin.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: forerunners-kirsten-green
 name: Forerunner's Kirsten Green
 source: 20vc

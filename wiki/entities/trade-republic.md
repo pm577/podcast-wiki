@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: trade-republic
 name: Trade Republic
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: metric-you-need-to-look
 name: Metric You Need To Look
 source: 20vc

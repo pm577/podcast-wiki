@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: olympian-mindset
 name: Olympian Mindset
 source: 20vc

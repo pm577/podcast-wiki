@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-inside-carnegie-mellons-4bn-endowment-why-90
 name: "20VC: Inside Carnegie Mellon's $4BN Endowment | Why 90%"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Inside Carnegie Mellon's $4BN Endowment | Why 90% of LPs Sh
 ## Summary
 
 Miles Dieffenbach is Managing Director of Investments at Carnegie Mellon University, where he helps oversee a $4 billion endowment with a focus on venture capital, private equity, and alternative investments."]
+subtype: article
 ---
 
 # 20VC: Inside Carnegie Mellon's $4BN Endowment | Why 90%

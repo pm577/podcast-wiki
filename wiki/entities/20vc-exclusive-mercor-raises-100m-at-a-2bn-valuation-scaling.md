@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-exclusive-mercor-raises-100m-at-a-2bn-valuation-scaling
 name: "20VC Exclusive: Mercor Raises $100M at a $2BN Valuation: Scaling to $70M in ARR in 24 Months | 9-9"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC Exclusive: Mercor Raises $100M at a $2BN Valuation: Scaling 
 ## Summary
 
 Adarsh Hiremath is the Co-Founder and CTO @ Mercor, an AI recruitment platform and one of the fastest-growing companies in technology."]
+subtype: article
 ---
 
 # 20VC Exclusive: Mercor Raises $100M at a $2BN Valuation: Scaling to $70M in ARR in 24 Months | 9-9

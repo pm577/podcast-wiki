@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-canva-will-not-direct-list
 name: Why Canva Will Not Direct List
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-09-04
 tags: ["ai-ml", "enterprise-saas", "venture-capital"]
 related_concepts: []
 key_views: ["Agenda: 04:00 – Anthropic Raises $13BN: The Analysis? 19:00 – Is Zuck's $14BN Scale bet the biggest blunder in AI? 27:00 – Lovable Raising at $4BN and Vercel at $9BN: Justified or Madness? 36:00 – Qua"]
+subtype: article
 ---
 
 # Why Canva Will Not Direct List

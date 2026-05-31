@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-should-startups-hire-advisors
 name: "20Growth: Should Startups Hire Advisors?"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: Should Startups Hire Advisors? When is the Right Time? 
 ## Summary
 
  Ely Lerner is an EIR at Reforge and an advisor for startups transitioning from traction to hypergrowth."]
+subtype: article
 ---
 
 # 20Growth: Should Startups Hire Advisors?

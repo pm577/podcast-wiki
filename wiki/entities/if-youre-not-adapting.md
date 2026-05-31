@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: if-youre-not-adapting
 name: If You're Not Adapting
 source: 20vc

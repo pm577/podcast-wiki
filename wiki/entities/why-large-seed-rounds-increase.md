@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-large-seed-rounds-increase
 name: Why Large Seed Rounds Increase
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-01-20
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Hussein Kanji is the Founder and Managing Partner of Hoxton Ventures, one of Europe's leading early-stage firms with mega wins in the form of Darktrace and Deliveroo."]
+subtype: article
 ---
 
 # Why Large Seed Rounds Increase

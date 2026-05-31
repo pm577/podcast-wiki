@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-fail-to-raise
 name: Cs Fail To Raise
 source: 20vc

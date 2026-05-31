@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-cursor-acquired-for-60bn-by-xai
 name: "20VC: Cursor Acquired for $60BN by xAI |"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Cursor Acquired for $60BN by xAI | Anthropic Hits $1TRN in 
 ## Summary
 
 AGENDA:  04:00 — 🤯 Cursor Acquired for $60B?!"]
+subtype: article
 ---
 
 # 20VC: Cursor Acquired for $60BN by xAI |

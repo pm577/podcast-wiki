@@ -1,4 +1,5 @@
 ---
+
 title: Nicolas Michaelsen
 created: 2026-05-31
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, y-combinator, venture-capital, founder-psychology, hiring-culture
 sources:
   - raw/transcripts/20vc/20vc-2015-04-30-20-vc-032-inside-y-combinator.md
 confidence: medium
+subtype: person
 ---
 
 # Nicolas Michaelsen

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: competing-against-open
 name: Competing Against Open
 source: 20vc

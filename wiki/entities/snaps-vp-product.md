@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: snaps-vp-product
 name: Snap's VP Product
 source: 20vc

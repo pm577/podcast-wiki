@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: growth-hire-pre-product-market-fit
 name: Growth Hire Pre Product-Market-Fit
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-will-revolut-and-monzo-list-in-the
 name: "20VC: Will Revolut and Monzo List in the"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Will Revolut and Monzo List in the UK | How Does London Com
 ## Summary
 
 Dame Julia Hoggett is the CEO of the London Stock Exchange."]
+subtype: article
 ---
 
 # 20VC: Will Revolut and Monzo List in the

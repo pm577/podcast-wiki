@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: from-near-death-experie
 name: From Near Death Experie
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-06-06
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Matt Pohlson is the co-founder and Chairman of Omaze, the most insane story in startups that you have never heard."]
+subtype: article
 ---
 
 # From Near Death Experie

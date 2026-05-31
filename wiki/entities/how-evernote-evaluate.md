@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-evernote-evaluate
 name: How Evernote Evaluate
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-12-05
 tags: ["hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Bending Spoons is the acquisition machine of the tech world."]
+subtype: article
 ---
 
 # How Evernote Evaluate

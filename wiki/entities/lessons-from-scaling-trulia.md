@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lessons-from-scaling-trulia
 name: Lessons From Scaling Trulia
 source: 20vc

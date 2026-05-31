@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-you-do-not-want-diversity-of-thought
 name: Why You Do Not Want Diversity Of Thought
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-06-30
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Ari Mir is the Founder @ Clutter, the startup that provides simple, painless solutions to your storage problems."]
+subtype: article
 ---
 
 # Why You Do Not Want Diversity Of Thought

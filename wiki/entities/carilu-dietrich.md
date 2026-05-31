@@ -1,4 +1,5 @@
 ---
+
 title: Carilu Dietrich
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, marketing, cmo, hypergrowth, atlassian, b2b-saas, career-advice, 
 sources:
   - raw/transcripts/lenny/carilu-dietrich.md
 confidence: high
+subtype: person
 ---
 
 # Carilu Dietrich

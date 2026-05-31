@@ -1,4 +1,5 @@
 ---
+
 title: Joe Hudson
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, executive-coaching, emotions, productivity, self-inquiry, art-of-
 sources:
   - raw/transcripts/lenny/joe-hudson.md
 confidence: high
+subtype: person
 ---
 
 # Joe Hudson

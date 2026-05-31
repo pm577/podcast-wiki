@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-most-intense-workplace-culture
 name: The Most Intense Workplace Culture
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-05-30
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Nico Laqua is the Co-Founder and CEO of Corgi Insurance, an AI-native insurance carrier built for startups."]
+subtype: article
 ---
 
 # The Most Intense Workplace Culture

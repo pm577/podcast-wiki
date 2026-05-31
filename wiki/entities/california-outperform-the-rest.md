@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: california-outperform-the-rest
 name: California Outperform The Rest
 source: 20vc

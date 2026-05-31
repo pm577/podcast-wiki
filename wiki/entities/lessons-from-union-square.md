@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lessons-from-union-square
 name: Lessons From Union Square
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fragile-venture-portfolios-today
 name: Fragile Venture Portfolios Today
 source: 20vc

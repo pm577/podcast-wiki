@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lessons-scaling-insight-partners
 name: Lessons Scaling Insight Partners
 source: 20vc

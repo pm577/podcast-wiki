@@ -1,4 +1,5 @@
 ---
+
 title: Sherwin Wu
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, openai, engineering, ai-code-generation, codex, engineering-manag
 sources:
   - raw/transcripts/lenny/lenny-2026-02-12-sherwin-wu-v2.md
 confidence: high
+subtype: person
 ---
 
 # Sherwin Wu

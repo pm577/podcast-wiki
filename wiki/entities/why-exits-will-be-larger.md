@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-exits-will-be-larger
 name: Why Exits Will Be Larger
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-03-25
 tags: ["venture-capital"]
 related_concepts: []
 key_views: ["David Clark is the CIO of Vencap, one of the leading fund of funds in the venture landscape."]
+subtype: article
 ---
 
 # Why Exits Will Be Larger

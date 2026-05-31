@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: meta-debuts-muse-sp
 name: Meta Debuts Muse Sp
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-cold-email-that-led
 name: The Cold Email That Led
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-11-24
 tags: ["ai-ml", "biotech-health", "enterprise-saas", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Christoph Janz is the Co-Founder and General Partner @ Point Nine, one of Europe's leading early-stage firms with a portfolio including the likes of Zendesk, Algolia, Revolut, Nex Health, Loom and of "]
+subtype: article
 ---
 
 # The Cold Email That Led

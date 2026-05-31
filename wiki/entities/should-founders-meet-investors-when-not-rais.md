@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: should-founders-meet-investors-when-not-rais
 name: Should Founders Meet Investors When Not Rais
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-10-16
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Spike Lipkin is the Founder & CEO @ Newfront Insurance, the modern insurance brokerage empowering risk management experts with advanced technology to deliver innovative solutions to their clients'."]
+subtype: article
 ---
 
 # Should Founders Meet Investors When Not Rais

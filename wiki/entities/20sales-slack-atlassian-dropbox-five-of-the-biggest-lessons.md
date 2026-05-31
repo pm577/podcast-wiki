@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-slack-atlassian-dropbox-five-of-the-biggest-lessons
 name: "20Sales: Slack, Atlassian, Dropbox: Five of the Biggest Lessons"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Slack, Atlassian, Dropbox: Five of the Biggest Lessons o
 ## Summary
 
  Kevin Egan is the Global Head of Enterprise Sales at Atlassian and brings more than 25 years of enterprise sales experience and leadership to the company."]
+subtype: article
 ---
 
 # 20Sales: Slack, Atlassian, Dropbox: Five of the Biggest Lessons

@@ -1,4 +1,5 @@
 ---
+
 title: Ryan Hoover
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,7 +9,7 @@ sources:
   - raw/transcripts/lenny/ryan-hoover.md
 confidence: high
 key_finding: The Mask of Entrepreneurship
-
+subtype: person
 ---
 
 # Ryan Hoover

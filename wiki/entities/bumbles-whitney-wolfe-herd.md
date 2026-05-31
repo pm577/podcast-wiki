@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bumbles-whitney-wolfe-herd
 name: Bumble's Whitney Wolfe Herd
 source: 20vc

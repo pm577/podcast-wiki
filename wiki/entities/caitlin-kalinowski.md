@@ -1,4 +1,5 @@
 ---
+
 title: Caitlin Kalinowski
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, hardware, ai, robotics, vr, ar, product-design, openai, meta, app
 sources:
   - raw/transcripts/lenny/lenny-2026-05-17-caitlin-kalinowski.md
 confidence: high
+subtype: person
 ---
 
 # Caitlin Kalinowski

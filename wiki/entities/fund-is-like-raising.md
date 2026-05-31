@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fund-is-like-raising
 name: Fund Is Like Raising
 source: 20vc

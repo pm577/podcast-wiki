@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cameos-steven-galanis
 name: Cameo's Steven Galanis
 source: 20vc

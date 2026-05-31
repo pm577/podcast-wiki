@@ -1,4 +1,5 @@
 ---
+
 title: Eli Schwartz
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/eli-schwartz.md
 confidence: medium
 key_finding: SEO Is a Product Question, Not a Marketing Tactic
+subtype: person
 ---
 
 # Eli Schwartz
@@ -37,3 +39,15 @@ Eli Schwartz is a leading SEO consultant and author of Product-Led SEO. He has w
 - [[product-management]]
 - [[ai-ml]]
 - [[marketing]]
+
+---
+
+*Merged from [[eli]]:*
+
+# Eli
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/eli-schwartz|Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)]] — *to be summarized*

@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/alex-hardimen.md
+
 title: Alex Hardiman
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +11,7 @@ sources:
   - episodes/lenny/alex-hardimen
 confidence: high
 key_finding: PMs thrive in chaotic, high-stakes environments — wartime product management is where core product skills (structuring chaos, prioritizing, rallying teams) are most valuable.
+subtype: person
 ---
 
 # Alex Hardiman

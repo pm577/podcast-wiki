@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-applovin-160bn-market-cap
 name: "20VC: Applovin: $160BN Market Cap"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Applovin: $160BN Market Cap, $5.48BN Revenue, $10M EBITDA P
 ## Summary
 
 Adam Foroughi is the Co-Founder and CEO @ Applovin, one of the most underdiscussed but incredible businesses."]
+subtype: article
 ---
 
 # 20VC: Applovin: $160BN Market Cap

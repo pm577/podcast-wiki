@@ -1,4 +1,5 @@
 ---
+
 title: Deepseek Special
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, deeptech-hardware, founder-psychology, hiring-culture, person, ven
 sources:
   - raw/transcripts/20vc/20vc-2025-01-30-20vc-deepseek-special-is-dee.md
 confidence: medium
+subtype: person
 ---
 
 

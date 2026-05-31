@@ -1,4 +1,5 @@
 ---
+
 title: Long Term Vision
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, go-to-market, product-strate
 sources:
   - raw/transcripts/20vc/20vc-2021-02-22-20vc-okta-ceo-todd-mckinnon-o.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-andrew-ng
 name: "20VC: Andrew NG"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Andrew NG on The Biggest Bottlenecks in AI | How LLMs Can B
 ## Summary
 
 Dr."]
+subtype: article
 ---
 
 # 20VC: Andrew NG

@@ -1,4 +1,5 @@
 ---
+
 title: Simon Menashy
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, enterprise-saas, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2015-05-25-how-to-pitch-a-top-vc-with-sim.md
 confidence: medium
+subtype: person
 ---
 
 

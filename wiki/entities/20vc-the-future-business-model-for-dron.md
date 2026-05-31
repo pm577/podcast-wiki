@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-future-business-model-for-dron
 name: "20VC: The Future Business Model For Dron"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Future Business Model For Drones & Why Enterprise Drone
 ## Summary
 
 Jonathan Downey is the Founder & CEO @ Airware, the startup that allows you to make better-informed decisions with aerial date, captured by drones."]
+subtype: article
 ---
 
 # 20VC: The Future Business Model For Dron

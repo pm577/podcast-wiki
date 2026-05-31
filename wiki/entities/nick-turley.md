@@ -1,4 +1,5 @@
 ---
+
 title: Nick Turley
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, openai, chatgpt, product-management, ai-consumer, hackathon]
 sources:
   - raw/transcripts/lenny/nick-turley.md
 confidence: high
+subtype: person
 ---
 
 # Nick Turley

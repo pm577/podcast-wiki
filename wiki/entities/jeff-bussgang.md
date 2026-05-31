@@ -1,4 +1,5 @@
 ---
+
 title: Jeff Bussgang
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2016-07-18-20vc-flybridges-jeff-bussgan.md
 confidence: medium
+subtype: person
 ---
 
 

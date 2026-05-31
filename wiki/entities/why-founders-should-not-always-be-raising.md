@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-founders-should-not-always-be-raising
 name: Why Founders Should Not Always Be Raising
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-12-14
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Dave Vasen is the Founder & CEO @ Brightwheel, the child management software solution you need and now the #1 platform for early education."]
+subtype: article
 ---
 
 # Why Founders Should Not Always Be Raising

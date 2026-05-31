@@ -1,4 +1,5 @@
 ---
+
 title: Mar Hershenson
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, hiring-culture, enterprise-saa
 sources:
   - raw/transcripts/20vc/20vc-2017-05-24-20vc-the-biggest-indicators-o.md
 confidence: medium
+subtype: person
 ---
 
 

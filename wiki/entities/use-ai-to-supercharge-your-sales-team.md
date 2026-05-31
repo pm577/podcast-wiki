@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: use-ai-to-supercharge-your-sales-team
 name: Use AI To Supercharge Your Sales Team
 source: 20vc

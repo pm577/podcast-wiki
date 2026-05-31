@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: daniel-gross-bought
 name: Daniel Gross Bought
 source: 20vc

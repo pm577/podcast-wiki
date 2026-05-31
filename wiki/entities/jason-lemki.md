@@ -1,4 +1,5 @@
 ---
+
 title: Jason Lemki
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, go-to-market, ai-ml, enterpr
 sources:
   - raw/transcripts/20vc/20vc-2022-05-06-20vc-why-the-traditional-seed.md
 confidence: medium
+subtype: person
 ---
 
 

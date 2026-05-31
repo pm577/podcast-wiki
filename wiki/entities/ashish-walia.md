@@ -1,4 +1,5 @@
 ---
+
 title: Ashish Walia
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, marketplaces
 sources:
   - raw/transcripts/20vc/20vc-2015-10-30-20-vc-ff-019-500-startups-wee.md
 confidence: medium
+subtype: person
 ---
 
 

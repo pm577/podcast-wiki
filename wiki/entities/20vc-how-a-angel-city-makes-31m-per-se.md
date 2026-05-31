@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-a-angel-city-makes-31m-per-se
 name: "20VC: How a Angel City Makes $31M per Se"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How a Angel City Makes $31M per Season | How Sports Teams C
 ## Summary
 
  Alexis Ohanian is the Founder and General Partner of Seven Seven Six, an early-stage venture capital firm with $970M AUM."]
+subtype: article
 ---
 
 # 20VC: How a Angel City Makes $31M per Se

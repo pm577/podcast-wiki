@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bessemers-jeremy-levine
 name: Bessemer's Jeremy Levine
 source: 20vc

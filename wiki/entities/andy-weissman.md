@@ -1,4 +1,5 @@
 ---
+
 title: Andy Weissman
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [consumer, enterprise-saas, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-09-11-20vc-usvs-andy-weissman-on-t.md
 confidence: medium
+subtype: person
 ---
 
 

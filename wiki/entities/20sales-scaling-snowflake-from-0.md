@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-scaling-snowflake-from-0
 name: "20Sales: Scaling Snowflake from $0"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Scaling Snowflake from $0-$3BN in ARR | Snowflake vs Dat
 ## Summary
 
 Chris Degnan is the former Chief Revenue Officer at Snowflake, where he was instrumental in scaling the company from less than $1M in ARR to over $3B in annual revenue."]
+subtype: article
 ---
 
 # 20Sales: Scaling Snowflake from $0

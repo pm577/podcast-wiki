@@ -1,4 +1,5 @@
 ---
+
 title: Pierre Valade
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, person, product-strategy]
 sources:
   - raw/transcripts/20vc/20vc-2015-08-14-ff-08-pierre-valade-ceo-su.md
 confidence: medium
+subtype: person
 ---
 
 

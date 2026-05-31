@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-most-venture-partnerships
 name: Why Most Venture Partnerships
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-03-10
 tags: ["founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Jake Saper is a General Partner @ Emergence Capital, one of the leading venture firms of the last 20 years."]
+subtype: article
 ---
 
 # Why Most Venture Partnerships

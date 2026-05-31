@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fastest-growing-sales-machine
 name: Fastest Growing Sales Machine
 source: 20vc

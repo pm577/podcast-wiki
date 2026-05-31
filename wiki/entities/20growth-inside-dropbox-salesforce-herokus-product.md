@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-inside-dropbox-salesforce-herokus-product
 name: "20Growth: Inside Dropbox, Salesforce & Heroku's Product"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: Inside Dropbox, Salesforce & Heroku's Product-Led Growt
 ## Summary
 
 Adam Gross is one of the masters of product-led growth (PLG)."]
+subtype: article
 ---
 
 # 20Growth: Inside Dropbox, Salesforce & Heroku's Product

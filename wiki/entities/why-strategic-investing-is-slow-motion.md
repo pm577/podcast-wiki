@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-strategic-investing-is-slow-motion
 name: Why Strategic Investing Is Slow Motion
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-11-22
 tags: ["ai-ml", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Chad Richard is the Senior Vice President of Business & Corporate Development @ Yelp, where he leads acquisition and investment activity."]
+subtype: article
 ---
 
 # Why Strategic Investing Is Slow Motion

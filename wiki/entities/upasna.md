@@ -1,4 +1,5 @@
 ---
+
 title: Upasna Gautam
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, news-media, mindfulness]
 sources:
   - raw/transcripts/lenny/upasna-gautam.md
 confidence: high
+subtype: person
 ---
 
 # Upasna Gautam

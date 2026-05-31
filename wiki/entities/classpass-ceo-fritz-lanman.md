@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: classpass-ceo-fritz-lanman
 name: ClassPass CEO Fritz Lanman
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-product-memes-are-more-important-than
 name: Why Product Memes Are More Important Than
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-09-29
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Kevin Niparko is the VP of Product @ Twilio."]
+subtype: article
 ---
 
 # Why Product Memes Are More Important Than

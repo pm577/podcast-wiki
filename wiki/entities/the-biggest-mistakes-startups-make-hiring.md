@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-biggest-mistakes-startups-make-hiring
 name: The Biggest Mistakes Startups Make Hiring
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-04-01
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Eduardo Vivas is the Co-Founder and CEO @ Curated, a network where product experts monetize their passion and help consumers make the perfect purchase."]
+subtype: article
 ---
 
 # The Biggest Mistakes Startups Make Hiring

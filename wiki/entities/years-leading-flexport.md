@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: years-leading-flexport
 name: Years Leading Flexport
 source: 20vc

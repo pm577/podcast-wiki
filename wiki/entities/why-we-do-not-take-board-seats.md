@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-we-do-not-take-board-seats
 name: Why We Do Not Take Board Seats
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-02-13
 tags: ["ai-ml", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Topher Conway is a Co-Managing Partner of SV Angel, one of Silicon Valley's leading seed funds with investments in the likes of Facebook, AirBnB, Twitter, Dropbox and many more."]
+subtype: article
 ---
 
 # Why We Do Not Take Board Seats

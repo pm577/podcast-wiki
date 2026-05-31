@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lightspeeds-arif-janmohamed
 name: Lightspeed's Arif Janmohamed
 source: 20vc

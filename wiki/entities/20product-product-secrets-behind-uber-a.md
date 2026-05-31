@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-product-secrets-behind-uber-a
 name: "20Product: Product Secrets Behind Uber a"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Product Secrets Behind Uber and Opendoor | How AI Chan
 ## Summary
 
 Brian Tolkin is the Head of Product @ Opendoor where he has spent the last 6 years and is responsible for product strategy and product and design teams."]
+subtype: article
 ---
 
 # 20Product: Product Secrets Behind Uber a

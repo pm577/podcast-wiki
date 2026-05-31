@@ -1,4 +1,5 @@
 ---
+
 title: Sean Ellis
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, growth, growth-hacking, product-market-fit, sean-ellis-score, exp
 sources:
   - raw/transcripts/lenny/sean-ellis.md
 confidence: high
+subtype: person
 ---
 
 # Sean Ellis

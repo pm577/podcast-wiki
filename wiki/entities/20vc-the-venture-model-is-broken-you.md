@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-venture-model-is-broken-you
 name: "20VC: The Venture Model is Broken | You"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Venture Model is Broken | You Need to be Greedy and Sel
 ## Summary
 
 Gili Raanan is the Founder of Cyberstarts, one of the best performing venture funds of the last decade."]
+subtype: article
 ---
 
 # 20VC: The Venture Model is Broken | You

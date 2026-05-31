@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: twitter-co-founder-biz-stone
 name: Twitter Co-Founder Biz Stone
 source: 20vc

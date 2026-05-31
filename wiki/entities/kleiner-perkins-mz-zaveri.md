@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: kleiner-perkins-mz-zaveri
 name: Kleiner Perkins' MZ Zaveri
 source: 20vc

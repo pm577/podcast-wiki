@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: anduril-co-founder
 name: Anduril Co-Founder
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: customer-acquisition-strategy-from-day
 name: Customer Acquisition Strategy From Day
 source: 20vc

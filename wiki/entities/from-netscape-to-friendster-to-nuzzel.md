@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: from-netscape-to-friendster-to-nuzzel
 name: From Netscape To Friendster To Nuzzel
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-04-15
 tags: ["consumer", "enterprise-saas", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Jonathan Abrams is the founder & CEO of the social news service Nuzzel."]
+subtype: article
 ---
 
 # From Netscape To Friendster To Nuzzel

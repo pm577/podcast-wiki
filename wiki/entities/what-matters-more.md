@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-matters-more
 name: What Matters More
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-08-31
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Noam Shazeer is the co-founder and CEO of Character."]
+subtype: article
 ---
 
 # What Matters More

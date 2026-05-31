@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-turning-peter-thiels-100k-into
 name: "20VC: Turning Peter Thiel's $100K into $"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Turning Peter Thiel's $100K into $10M Angel Portfolio | The
 ## Summary
 
 Josh Browder is my favourite emerging manager."]
+subtype: article
 ---
 
 # 20VC: Turning Peter Thiel's $100K into $

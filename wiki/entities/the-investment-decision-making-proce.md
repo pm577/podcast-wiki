@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-investment-decision-making-proce
 name: The Investment Decision Making Proce
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-08-03
 tags: ["deeptech-hardware", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Steve Schlafman is an early stage investor @ RRE Ventures, where he specialises on marketplaces, mobile services, and hardware."]
+subtype: article
 ---
 
 # The Investment Decision Making Proce

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: softtech-vcs-andy-mcloughlin
 name: SoftTech VC's Andy McLoughlin
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: safety-research-than-any-other-country
 name: Safety Research Than Any Other Country
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-predictions-for-2024-what-happens
 name: "20VC: Predictions for 2024: What Happens"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Predictions for 2024: What Happens to Early Stage VC Fundin
 ## Summary
 
  Joining Harry in the hot seat today is Jason Lemkin, Founder @ SaaStr and one of the OG SaaS investors of the last decade."]
+subtype: article
 ---
 
 # 20VC: Predictions for 2024: What Happens

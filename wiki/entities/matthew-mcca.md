@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: matthew-mcca
 name: Matthew McCa
 source: 20vc

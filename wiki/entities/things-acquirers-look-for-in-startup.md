@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: things-acquirers-look-for-in-startup
 name: Things Acquirers Look For In Startup
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: guy-kawasaki
 name: Guy Kawasaki
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-value-chain
 name: The Value Chain
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-12-06
 tags: ["ai-ml", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Jake Flomenberg is a Partner @ Accel, one of the top performing venture funds of the last decade with investments in the likes of Dropbox, Slack, Facebook, Deliveroo and Atlassian, just to name a few."]
+subtype: article
 ---
 
 # The Value Chain

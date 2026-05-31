@@ -1,4 +1,5 @@
 ---
+
 title: Brad Bao
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, go-to-market, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2019-06-14-20vc-lime-ceo-brad-bao-on-how.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: whether-the-high-employee-attrition-ra
 name: Whether The High Employee Attrition Ra
 source: 20vc

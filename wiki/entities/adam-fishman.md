@@ -1,4 +1,5 @@
 ---
+
 title: Adam Fishman
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, growth, product-management, onboarding, experimentation, team-bui
 sources:
   - raw/transcripts/lenny/adam-fishman.md
 confidence: high
+subtype: person
 ---
 
 # Adam Fishman

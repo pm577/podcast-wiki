@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-ripplings-cro
 name: "20Sales: Rippling's CRO"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Rippling's CRO on Why Founders Should Not Create Sales P
 ## Summary
 
 Matt Plank is Rippling's Chief Revenue Officer where he oversees all Sales and Account Management functions in the US and Internationally."]
+subtype: article
 ---
 
 # 20Sales: Rippling's CRO

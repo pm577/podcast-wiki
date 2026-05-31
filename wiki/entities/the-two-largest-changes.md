@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-two-largest-changes
 name: The Two Largest Changes
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-10-05
 tags: ["venture-capital"]
 related_concepts: []
 key_views: ["Anton Levy is Co-President, Managing Director and Global Head of General Atlantic's Technology sector."]
+subtype: article
 ---
 
 # The Two Largest Changes

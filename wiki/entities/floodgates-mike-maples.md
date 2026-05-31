@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: floodgates-mike-maples
 name: Floodgate's Mike Maples
 source: 20vc

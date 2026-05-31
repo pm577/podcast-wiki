@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-succe
 name: The Succe
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-12-04
 tags: ["founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["George Arison is the CEO of Grindr."]
+subtype: article
 ---
 
 # The Succe

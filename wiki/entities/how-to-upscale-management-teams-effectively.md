@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-upscale-management-teams-effectively
 name: How To Upscale Management Teams Effectively
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-12-15
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Matt Straz is the Founder & CEO @ Namely, the leading HR platform for mid-sized companies."]
+subtype: article
 ---
 
 # How To Upscale Management Teams Effectively

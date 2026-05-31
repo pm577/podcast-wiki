@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: matt-cliffor
 name: Matt Cliffor
 source: 20vc

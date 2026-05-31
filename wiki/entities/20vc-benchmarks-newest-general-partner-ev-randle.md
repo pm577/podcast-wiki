@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-benchmarks-newest-general-partner-ev-randle
 name: "20VC: Benchmark's Newest General Partner Ev Randle"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Benchmark's Newest General Partner Ev Randle on Why Margins
 ## Summary
 
 Ev Randle is a General Partner @ Benchmark, one of the best funds in venture capital."]
+subtype: article
 ---
 
 # 20VC: Benchmark's Newest General Partner Ev Randle

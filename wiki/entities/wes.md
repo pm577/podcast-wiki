@@ -1,4 +1,5 @@
 ---
+
 title: Wes Kao
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/wes-kao.md
   - raw/transcripts/lenny/wes-kao-20.md
 confidence: high
+subtype: person
 ---
 
 # Wes Kao

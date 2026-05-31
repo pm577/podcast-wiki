@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-you-should-not-always-get-customers-to
 name: Why You Should Not Always Get Customers To
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-07-21
 tags: ["fintech", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Jenna Brown is the Founder & CEO @ Shipamax, a data driven communications platform for brokers and operators."]
+subtype: article
 ---
 
 # Why You Should Not Always Get Customers To

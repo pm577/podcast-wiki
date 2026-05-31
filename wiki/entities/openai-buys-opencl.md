@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: openai-buys-opencl
 name: OpenAI Buys OpenCl
 source: 20vc

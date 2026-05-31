@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: combinator-week
 name: COMBINATOR WEEK
 source: 20vc

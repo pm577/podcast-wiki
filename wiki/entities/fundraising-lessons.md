@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fundraising-lessons
 name: Fundraising Lessons
 source: 20vc

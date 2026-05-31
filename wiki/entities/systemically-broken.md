@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: systemically-broken
 name: Systemically Broken
 source: 20vc

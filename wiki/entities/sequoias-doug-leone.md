@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sequoias-doug-leone
 name: Sequoia's Doug Leone
 source: 20vc

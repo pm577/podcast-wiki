@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-startup-adding-1m-arr-every-w
 name: "20VC: The Startup Adding $1M ARR Every W"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Startup Adding $1M ARR Every Week | Competing Against O
 ## Summary
 
 Zach Lloyd is the Founder and CEO of Warp, the next-generation developer terminal reinventing how engineers build and collaborate."]
+subtype: article
 ---
 
 # 20VC: The Startup Adding $1M ARR Every W

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-we-will-continue-to-see-an-exp
 name: "20VC: Why We Will Continue To See An Exp"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why We Will Continue To See An Explosion In Deep Tech Finan
 ## Summary
 
  Seth Bannon is a Founding Partner at Fifty Years, a San Francisco seed fund that backs entrepreneurs solving the world's biggest problems with technology."]
+subtype: article
 ---
 
 # 20VC: Why We Will Continue To See An Exp

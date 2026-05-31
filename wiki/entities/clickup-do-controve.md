@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: clickup-do-controve
 name: ClickUp Do Controve
 source: 20vc

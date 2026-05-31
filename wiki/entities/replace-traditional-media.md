@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: replace-traditional-media
 name: Replace Traditional Media
 source: 20vc

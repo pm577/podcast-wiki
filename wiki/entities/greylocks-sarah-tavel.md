@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: greylocks-sarah-tavel
 name: Greylock's Sarah Tavel
 source: 20vc

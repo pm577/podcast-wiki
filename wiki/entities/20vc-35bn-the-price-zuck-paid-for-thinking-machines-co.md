@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-35bn-the-price-zuck-paid-for-thinking-machines-co
 name: "20VC: $3.5BN - The Price Zuck Paid for Thinking Machines Co"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: $3.5BN - The Price Zuck Paid for Thinking Machines Co-Found
 ## Summary
 
 AGENDA: 03:44 Rory Is So Old He Worked with Arthur Rock!!!"]
+subtype: article
 ---
 
 # 20VC: $3.5BN - The Price Zuck Paid for Thinking Machines Co

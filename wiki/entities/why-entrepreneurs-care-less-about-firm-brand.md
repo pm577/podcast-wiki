@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-entrepreneurs-care-less-about-firm-brand
 name: Why Entrepreneurs Care Less About Firm Brand
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-08-17
 tags: ["ai-ml", "biotech-health", "venture-capital"]
 related_concepts: []
 key_views: ["Apurva Mehta is the Managing Partner @ Summit Peak Investments, investing in early stage venture capital funds and making direct co-investments."]
+subtype: article
 ---
 
 # Why Entrepreneurs Care Less About Firm Brand

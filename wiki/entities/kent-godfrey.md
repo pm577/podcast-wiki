@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: kent-godfrey
 name: Kent Godfrey
 source: 20vc

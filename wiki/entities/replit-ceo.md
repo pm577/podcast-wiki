@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: replit-ceo
 name: Replit CEO
 source: 20vc

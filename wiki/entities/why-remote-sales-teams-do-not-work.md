@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-remote-sales-teams-do-not-work
 name: Why Remote Sales Teams Do Not Work
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-11-07
 tags: ["enterprise-saas", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Chad Peets is one of the greatest sales leaders and recruiters of the last 25 years."]
+subtype: article
 ---
 
 # Why Remote Sales Teams Do Not Work

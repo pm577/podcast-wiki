@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: harry-stebbings
 name: Harry Stebbings
 source: 20vc

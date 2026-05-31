@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: models-will-change
 name: Models Will Change
 source: 20vc

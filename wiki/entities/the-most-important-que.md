@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-most-important-que
 name: The Most Important Que
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-11-17
 tags: ["go-to-market", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Andy Johns is one of the pre-eminent growth leaders of the last decade."]
+subtype: article
 ---
 
 # The Most Important Que

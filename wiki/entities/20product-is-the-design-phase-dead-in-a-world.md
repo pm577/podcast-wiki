@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-is-the-design-phase-dead-in-a-world
 name: "20Product: Is the Design Phase Dead in a World"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Is the Design Phase Dead in a World of AI | Has Claude
 ## Summary
 
 Noam Lovinsky is the CPO @ Superhuman (formerly Grammarly)."]
+subtype: article
 ---
 
 # 20Product: Is the Design Phase Dead in a World

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-revolut-structur
 name: How Revolut Structur
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-09-26
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["James Gibson is Head of Revolut Business."]
+subtype: article
 ---
 
 # How Revolut Structur

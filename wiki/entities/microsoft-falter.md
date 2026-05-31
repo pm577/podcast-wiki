@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: microsoft-falter
 name: Microsoft Falter
 source: 20vc

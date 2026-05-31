@@ -1,4 +1,5 @@
 ---
+
 title: Gergely Orosz
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, newsletter, pragmatice-engineer, writing, substack, software-engi
 sources:
   - raw/transcripts/lenny/gergely.md
 confidence: high
+subtype: person
 ---
 
 # Gergely Orosz

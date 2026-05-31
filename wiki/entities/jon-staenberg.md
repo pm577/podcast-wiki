@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: jon-staenberg
 name: Jon Staenberg
 source: 20vc

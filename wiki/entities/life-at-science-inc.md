@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: life-at-science-inc
 name: Life At Science Inc
 source: 20vc

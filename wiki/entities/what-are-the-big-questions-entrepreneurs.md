@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-are-the-big-questions-entrepreneurs
 name: What Are The Big Questions Entrepreneurs
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-08-23
 tags: ["fintech", "venture-capital"]
 related_concepts: []
 key_views: ["Allison Goldberg is a Managing Director & Senior Vice President @ Time Warner Investments, focusing on investment opportunities that directly enhance Time Warner's ability to meet specific strategic g"]
+subtype: article
 ---
 
 # What Are The Big Questions Entrepreneurs

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-klaviyos-andrew-bialecki
 name: "20VC: Klaviyo's Andrew Bialecki"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Klaviyo's Andrew Bialecki on Going Public in an IPO Winter,
 ## Summary
 
 Andrew Bialecki is the Co-Founder and CEO of Klaviyo, the platform that powers smarter digital relationships for businesses and their data."]
+subtype: article
 ---
 
 # 20VC: Klaviyo's Andrew Bialecki

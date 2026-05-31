@@ -1,4 +1,5 @@
 ---
+
 title: Scott Taylor
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, enterprise
 sources:
   - raw/transcripts/20vc/20vc-2015-05-28-20-vc-040-the-required-qualit.md
 confidence: medium
+subtype: person
 ---
 
 

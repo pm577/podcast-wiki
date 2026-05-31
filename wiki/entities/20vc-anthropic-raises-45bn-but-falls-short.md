@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anthropic-raises-45bn-but-falls-short
 name: "20VC: Anthropic Raises $45BN but Falls Short"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 00:00 $45B Floods into Anthropic from Google & Amazon 05:10 OpenAI Misse
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-anthropic-raises-45bn-but-falls-short-on-compute-openai-crushes-with-gpt55-and-codex-back-in-the-game-china-blocks-manus-2bn-deal-to-meta-thoma-bravo-hand-back-medallia-keys-to-creditors-why-google-is-a-bigger-buy-than-ever-before)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Anthropic Raises $45BN but Falls Short

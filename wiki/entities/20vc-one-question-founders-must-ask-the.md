@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-one-question-founders-must-ask-the
 name: "20VC: One Question Founders Must Ask The"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: One Question Founders Must Ask Themselves When Approaching 
 ## Summary
 
 Jeff Russakow is the CEO @ Boosted, the startup producing vehicle grade electric skateboards rethinking how we travel."]
+subtype: article
 ---
 
 # 20VC: One Question Founders Must Ask The

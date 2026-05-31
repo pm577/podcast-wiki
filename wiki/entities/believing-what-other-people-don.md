@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: believing-what-other-people-don
 name: Believing What Other People Don
 source: 20vc

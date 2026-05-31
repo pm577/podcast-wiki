@@ -1,4 +1,5 @@
 ---
+
 title: Scott Dorsey
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, product-strategy, enterprise-saas]
 sources:
   - raw/transcripts/20vc/20vc-2016-12-05-20vc-lessons-learnt-from-marc.md
 confidence: medium
+subtype: person
 ---
 
 

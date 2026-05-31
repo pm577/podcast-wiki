@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-founders-can-really-get-the-most-out
 name: How Founders Can Really Get The Most Out
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-01-11
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Avi Meir is the Founder & CEO @ TravelPerk, the startup that allows you to book, manage and report all your business travel in one place."]
+subtype: article
 ---
 
 # How Founders Can Really Get The Most Out

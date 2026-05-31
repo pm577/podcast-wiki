@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-founders-should-take-as-many-v
 name: "20VC: Why Founders Should Take as Many V"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Founders Should Take as Many VC Meetings as Possible, S
 ## Summary
 
  Sam Corcos is the Co-Founder & CEO @ Levels, the company helping you see how food affects your health with data from biosensors like continuous glucose monitors (CGMs)."]
+subtype: article
 ---
 
 # 20VC: Why Founders Should Take as Many V

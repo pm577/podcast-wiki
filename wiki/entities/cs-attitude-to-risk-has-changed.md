@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-attitude-to-risk-has-changed
 name: Cs Attitude To Risk Has Changed
 source: 20vc

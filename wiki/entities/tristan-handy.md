@@ -1,4 +1,5 @@
 ---
+
 title: Tristan Handy
 created: 2026-05-31
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, ai-ml, enter
 sources:
   - raw/transcripts/20vc/20vc-2022-10-14-20vc-why-the-ceo-should-make.md
 confidence: medium
+subtype: person
 ---
 
 # Tristan Handy

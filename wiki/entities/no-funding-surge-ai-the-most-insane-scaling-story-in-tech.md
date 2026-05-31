@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: no-funding-surge-ai-the-most-insane-scaling-story-in-tech
 name: "No Funding: Surge AI | The Most Insane Scaling Story in Tech"
 source: 20vc

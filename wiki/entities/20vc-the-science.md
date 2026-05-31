@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-science
 name: "20VC: The Science"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Science of Storytelling: Three Steps to Master the Perf
 ## Summary
 
 Matt Pohlson is the co-founder and Chairman of Omaze, the most insane story in startups that you have never heard."]
+subtype: article
 ---
 
 # 20VC: The Science

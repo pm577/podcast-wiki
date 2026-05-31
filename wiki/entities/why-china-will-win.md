@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-china-will-win
 name: Why China Will Win
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-03-07
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Mitchell Green is a legendary growth equity investor and the Founder and Managing Partner of Lead Edge Capital, a firm with over $5 billion in assets under management."]
+subtype: article
 ---
 
 # Why China Will Win

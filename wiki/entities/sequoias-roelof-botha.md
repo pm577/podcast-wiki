@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sequoias-roelof-botha
 name: Sequoia's Roelof Botha
 source: 20vc

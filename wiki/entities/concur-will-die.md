@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: concur-will-die
 name: Concur Will Die
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-what-i-learned-from-100-of-the-bes
 name: "20VC: What I Learned from 100 of the Bes"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-05-09
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Cliff Weitzman is the Founder & CEO of Speechify AI."]
+subtype: article
 ---
 
 # 20VC: What I Learned from 100 of the Bes

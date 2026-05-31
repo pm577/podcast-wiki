@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-brex-acquired-for-515bn-a16z-c
 name: "20VC: Brex Acquired for $5.15BN | a16z C"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 03:36 Brex Acquisition by Capital One for $5.15BN 10:54 Does Brex's Acqu
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-brex-acquired-for-515bn-a16z-companies-are-23-ai-revenues-anthropic-inference-costs-skyrocket-openevidence-raises-at-12bn-valuation-the-ipo-market-equipmentshare-wealthfront-and-ethos-insurance)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Brex Acquired for $5.15BN | a16z C

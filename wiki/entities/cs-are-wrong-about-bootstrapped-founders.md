@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-are-wrong-about-bootstrapped-founders
 name: Cs Are Wrong About Bootstrapped Founders
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-raising-400m-for-20vc-fundraisin
 name: "20VC: Raising $400M for 20VC: Fundraisin"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 00:03:00 – Harry's Wild Start: Making £1.75M at 19 in 36 Hours 00:06:
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-raising-400m-for-20vc-fundraising-lessons-getting-marc-benioff-through-53-cold-emails-how-to-master-cold-outbound-7-lessons-from-101-decacorn-founders-with-harry-stebbings-simon-squibb-edition)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Raising $400M for 20VC: Fundraisin

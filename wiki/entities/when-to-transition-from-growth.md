@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: when-to-transition-from-growth
 name: When To Transition From Growth
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-07-08
 tags: ["founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Frank Mycroft is the Founder & CEO @ Booster Fuels, the on-demand fuel delivery service backed by the likes of our friends at Maveron and Version One."]
+subtype: article
 ---
 
 # When To Transition From Growth

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-uk-prime-minister-rishi-sunak
 name: "20VC: UK Prime Minister, Rishi Sunak"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: UK Prime Minister, Rishi Sunak on Investing More in AI Safe
 ## Summary
 
  Rishi Sunak is the Prime Minister of the United Kingdom."]
+subtype: article
 ---
 
 # 20VC: UK Prime Minister, Rishi Sunak

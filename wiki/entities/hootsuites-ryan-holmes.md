@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: hootsuites-ryan-holmes
 name: Hootsuite's Ryan Holmes
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Itamar Gilad
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/itamar-gilad.md
 confidence: high
 key_finding: Evidence-guided decision making beats opinion-based development
+subtype: person
 ---
 
 # Itamar Gilad

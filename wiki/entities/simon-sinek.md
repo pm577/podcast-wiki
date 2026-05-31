@@ -1,4 +1,5 @@
 ---
+
 title: Simon Sinek
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2023-07-10-20vc-simon-sinek-on-trust-ho.md
 confidence: medium
+subtype: person
 ---
 
 

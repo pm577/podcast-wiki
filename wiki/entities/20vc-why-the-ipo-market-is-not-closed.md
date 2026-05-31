@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-the-ipo-market-is-not-closed
 name: "20VC: Why the IPO Market is not Closed |"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why the IPO Market is not Closed | Why Revenue Multiples ar
 ## Summary
 
  Imran Khan is the OG of IPOs having taken some of the biggest companies public including Alibaba, Snap, Box, Weibo and more."]
+subtype: article
 ---
 
 # 20VC: Why the IPO Market is not Closed |

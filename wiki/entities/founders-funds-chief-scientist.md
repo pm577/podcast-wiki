@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: founders-funds-chief-scientist
 name: Founders Fund's Chief Scientist
 source: 20vc

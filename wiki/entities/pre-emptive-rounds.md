@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: pre-emptive-rounds
 name: Pre-Emptive Rounds
 source: 20vc

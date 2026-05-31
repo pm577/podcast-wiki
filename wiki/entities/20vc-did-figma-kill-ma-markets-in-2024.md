@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-did-figma-kill-ma-markets-in-2024
 name: "20VC: Did Figma Kill M&A Markets in 2024"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Did Figma Kill M&A Markets in 2024, The Three Biggest Mista
 ## Summary
 
  Jamin Ball is a Partner @ Altimeter Capital where he sits on the board of Airbyte, Clickhouse, dbt Labs, Prisma, Tabular."]
+subtype: article
 ---
 
 # 20VC: Did Figma Kill M&A Markets in 2024

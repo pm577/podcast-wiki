@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: competitive-process-between-vcs
 name: Competitive Process Between VCs
 source: 20vc

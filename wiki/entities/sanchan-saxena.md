@@ -1,4 +1,5 @@
 ---
+
 title: Sanchan Saxena
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, coinbase, airbnb, instagram, product-leadership, silicon-valley]
 sources:
   - raw/transcripts/lenny/sanchan-saxena.md
 confidence: high
+subtype: person
 ---
 
 # Sanchan Saxena
@@ -46,3 +48,15 @@ When COVID hit and travel completely stopped, Saxena was at the center of Airbnb
 - [[coinbase]]
 - [[hiring]]
 - [[crisis-management]]
+
+---
+
+*Merged from [[sanchan]]:*
+
+# Sanchan
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/sanchan-saxena|Why Uber’s CPO delivers food on weekends | Sachin Kansal]] — *to be summarized*

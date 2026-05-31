@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: when-to-give-up-for-entrepreneurs
 name: When To Give Up For Entrepreneurs
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-02-21
 tags: ["founder-psychology", "hiring-culture", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Emmett Shear is the Co-Founder & CEO @ Twitch, the world's leading live streaming platform for gamers and the things we love."]
+subtype: article
 ---
 
 # When To Give Up For Entrepreneurs

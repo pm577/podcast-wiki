@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-insane-story
 name: The Insane Story
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-03-27
 tags: ["founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Oscar Pierre is the Founder and CEO @ Glovo, the food delivery site that will get you anything you want to your doorstep.", "Niklas Östberg is the Founder and CEO of Delivery Hero, a global juggernaut now present in over 70 countries across four continents."]
+subtype: article
 ---
 
 # The Insane Story

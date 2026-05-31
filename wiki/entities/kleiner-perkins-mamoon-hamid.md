@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: kleiner-perkins-mamoon-hamid
 name: Kleiner Perkins' Mamoon Hamid
 source: 20vc

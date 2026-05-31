@@ -1,4 +1,5 @@
 ---
+
 title: Imperfect Data
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, marketplaces, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2020-08-28-20vc-pagerduty-ceo-jennifer-t.md
 confidence: medium
+subtype: person
 ---
 
 

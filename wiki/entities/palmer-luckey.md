@@ -1,4 +1,5 @@
 ---
+
 title: Palmer Luckey
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml, dee
 sources:
   - raw/transcripts/20vc/20vc-2020-09-28-20vc-anduril-founder-palmer.md
 confidence: medium
+subtype: person
 ---
 
 # Palmer Luckey

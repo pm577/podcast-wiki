@@ -1,4 +1,5 @@
 ---
+
 title: Magic Johnson Changed His Approach
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, hiring-culture, ai-ml, biotech
 sources:
   - raw/transcripts/20vc/20vc-2023-05-05-20vc-alex-rodriguez-arod-on.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+
 title: Barry Eggers
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2020-11-02-20vc-the-implications-of-a-bi.md
 confidence: medium
+subtype: person
 ---
 
 

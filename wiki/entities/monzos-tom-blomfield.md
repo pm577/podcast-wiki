@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: monzos-tom-blomfield
 name: Monzo's Tom Blomfield
 source: 20vc

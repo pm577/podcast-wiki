@@ -1,4 +1,5 @@
 ---
+
 title: Christian Hernandez
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, go-to-market, marketplaces, person, product-strategy,
 sources:
   - raw/transcripts/20vc/20vc-2016-03-09-20vc-christian-hernandez-on-t.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: matt-lerner
 name: Matt Lerner
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Camille Ricketts
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/camille-ricketts.md
 confidence: medium
 key_finding: Community-Led Growth Starts with Content Market Fit
+subtype: person
 ---
 
 # Camille Ricketts

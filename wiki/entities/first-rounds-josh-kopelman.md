@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: first-rounds-josh-kopelman
 name: First Round's Josh Kopelman
 source: 20vc

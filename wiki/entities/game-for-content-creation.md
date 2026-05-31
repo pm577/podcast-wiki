@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: game-for-content-creation
 name: Game For Content Creation
 source: 20vc

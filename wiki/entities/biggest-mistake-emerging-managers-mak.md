@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: biggest-mistake-emerging-managers-mak
 name: Biggest Mistake Emerging Managers Mak
 source: 20vc

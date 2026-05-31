@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: guild-educations-rachel-carlson
 name: Guild Education's Rachel Carlson
 source: 20vc

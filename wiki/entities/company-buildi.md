@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: company-buildi
 name: Company Buildi
 source: 20vc

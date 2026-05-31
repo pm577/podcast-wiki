@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: rejoining-khosla-ventures
 name: Rejoining Khosla Ventures
 source: 20vc

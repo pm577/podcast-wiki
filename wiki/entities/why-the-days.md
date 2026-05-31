@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-the-days
 name: Why The Days
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-05-21
 tags: ["consumer", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Dan Scheinman is one of the West Coast's leading angel investors with a portfolio including the likes of Zoom."]
+subtype: article
 ---
 
 # Why The Days

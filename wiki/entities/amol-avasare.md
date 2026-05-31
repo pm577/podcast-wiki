@@ -1,4 +1,5 @@
 ---
+
 title: Amol Avasare
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, growth, anthropic, ai, startup, product-strategy, leadership, hyp
 sources:
   - raw/transcripts/lenny/lenny-2026-04-05-amol-avasare.md
 confidence: high
+subtype: person
 ---
 
 # Amol Avasare

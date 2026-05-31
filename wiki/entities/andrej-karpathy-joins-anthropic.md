@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: andrej-karpathy-joins-anthropic
 name: Andrej Karpathy Joins Anthropic
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: andy-mcloughlin
 name: Andy McLoughlin
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Nick Weaver
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2016-09-16-20vc-eeros-nick-weaver-on-wh.md
 confidence: medium
+subtype: person
 ---
 
 

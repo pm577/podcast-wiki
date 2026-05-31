@@ -1,4 +1,5 @@
 ---
+
 title: James Wise
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2015-03-12-20-vc-019-funding-the-future.md
 confidence: medium
+subtype: person
 ---
 
 

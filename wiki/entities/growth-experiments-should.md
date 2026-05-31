@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: growth-experiments-should
 name: Growth Experiments Should
 source: 20vc

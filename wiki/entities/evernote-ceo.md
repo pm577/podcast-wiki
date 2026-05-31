@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: evernote-ceo
 name: Evernote CEO
 source: 20vc

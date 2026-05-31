@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: malley-on-the-prioritisation-of-growth
 name: Malley On The Prioritisation Of Growth
 source: 20vc

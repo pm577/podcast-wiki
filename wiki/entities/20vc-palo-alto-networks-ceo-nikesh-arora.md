@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-palo-alto-networks-ceo-nikesh-arora
 name: "20VC: Palo Alto Networks CEO Nikesh Arora"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Palo Alto Networks CEO Nikesh Arora on How to Create and Su
 ## Summary
 
  Nikesh Arora is the CEO @ Palo Alto Networks, the leading cybersecurity company in the world with a market cap of $102BN."]
+subtype: article
 ---
 
 # 20VC: Palo Alto Networks CEO Nikesh Arora

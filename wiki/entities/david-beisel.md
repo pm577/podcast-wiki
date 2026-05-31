@@ -1,4 +1,5 @@
 ---
+
 title: David Beisel
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, marketplac
 sources:
   - raw/transcripts/20vc/20vc-2017-08-16-20vc-how-to-design-investment.md
 confidence: medium
+subtype: person
 ---
 
 

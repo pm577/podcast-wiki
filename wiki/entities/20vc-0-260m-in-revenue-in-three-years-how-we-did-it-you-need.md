@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-0-260m-in-revenue-in-three-years-how-we-did-it-you-need
 name: "20VC: $0-$260M in Revenue in Three Years: How We Did It | You Need to Work Weekends to Win"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: $0-$260M in Revenue in Three Years: How We Did It | You Nee
 ## Summary
 
 I have interviewed 1,000 entrepreneurs over 10 years."]
+subtype: article
 ---
 
 # 20VC: $0-$260M in Revenue in Three Years: How We Did It | You Need to Work Weekends to Win

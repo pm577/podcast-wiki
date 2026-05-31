@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: inside-anduril
 name: Inside Anduril
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-03-23
 tags: ["founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Matthew Steckman is the President and Chief Business Officer of Anduril."]
+subtype: article
 ---
 
 # Inside Anduril

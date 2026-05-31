@@ -1,4 +1,5 @@
 ---
+
 title: Sitar Teli
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, enterprise-saas, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2015-12-30-20-vc-how-to-say-no-fast-and.md
 confidence: medium
+subtype: person
 ---
 
 

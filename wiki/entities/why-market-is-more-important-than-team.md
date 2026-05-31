@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-market-is-more-important-than-team
 name: Why Market Is More Important Than Team
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-11-28
 tags: ["enterprise-saas", "founder-psychology", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Rory O'Driscoll is a founding member and Partner at Scale Venture Partners."]
+subtype: article
 ---
 
 # Why Market Is More Important Than Team

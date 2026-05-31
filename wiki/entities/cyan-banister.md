@@ -1,4 +1,5 @@
 ---
+
 title: Cyan Banister
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2020-10-19-20vc-cyan-banister-on-her-rel.md
 confidence: medium
+subtype: person
 ---
 
 

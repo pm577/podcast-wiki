@@ -1,4 +1,5 @@
 ---
+
 title: Bob Moesta (2.0)
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, jobs-to-be-done, jtbd, product-discovery, innovation, clay-christ
 sources:
   - raw/transcripts/lenny/bob-moesta-20.md
 confidence: high
+subtype: person
 ---
 
 # Bob Moesta (2.0)

@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/jessica-hische.md
+
 title: Jessica
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +10,7 @@ tags: [person]
 sources:
   - episodes/lenny/jessica-livingston|The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)
 confidence: medium
+subtype: person
 ---
 
 # Jessica

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-what-i-learned-scaling-datadog
 name: "20Sales: What I Learned Scaling Datadog"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: What I Learned Scaling Datadog from $60M to $1BN in ARR 
 ## Summary
 
 Dan Fougere is one of the most successful sales leaders of the last decade."]
+subtype: article
 ---
 
 # 20Sales: What I Learned Scaling Datadog

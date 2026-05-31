@@ -1,4 +1,5 @@
 ---
+
 title: Vijay Iyengar
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, mixpanel, analytics, product-strategy]
 sources:
   - raw/transcripts/lenny/vijay.md
 confidence: high
+subtype: person
 ---
 
 # Vijay Iyengar

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-grindr-the-most-insane-story-in-s
 name: "20VC: Grindr: The Most Insane Story in S"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Grindr: The Most Insane Story in Startups | How the Chinese
 ## Summary
 
 George Arison is the CEO of Grindr."]
+subtype: article
 ---
 
 # 20VC: Grindr: The Most Insane Story in S

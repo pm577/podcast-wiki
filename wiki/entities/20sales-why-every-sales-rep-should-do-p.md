@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-why-every-sales-rep-should-do-p
 name: "20Sales: Why Every Sales Rep Should Do P"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Why Every Sales Rep Should Do Pipeline Generation & How 
 ## Summary
 
 Carlos Delatorre is one of the legendary go-to-market leaders of the last 20 years."]
+subtype: article
 ---
 
 # 20Sales: Why Every Sales Rep Should Do P

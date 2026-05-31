@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-being-first-to-market-does-not-matter
 name: Why Being First To Market Does Not Matter
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-05-24
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Guy Podjarny is the Founder of Snyk, the leading Developer Security platform, helping developers secure as they build."]
+subtype: article
 ---
 
 # Why Being First To Market Does Not Matter

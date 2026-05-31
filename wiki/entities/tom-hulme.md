@@ -1,4 +1,5 @@
 ---
+
 title: Tom Hulme
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, enterprise-saas, hiring-culture, person, product-strategy, venture
 sources:
   - raw/transcripts/20vc/20vc-2024-05-08-20vc-gvs-tom-hulme-on-why-in.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sequoias-leadership-transition
 name: Sequoia's Leadership Transition
 source: 20vc

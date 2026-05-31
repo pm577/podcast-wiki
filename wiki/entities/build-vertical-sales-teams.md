@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: build-vertical-sales-teams
 name: Build Vertical Sales Teams
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-transition-from-bootstrapped-founder
 name: The Transition From Bootstrapped Founder
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-04-08
 tags: ["fintech", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Guillaume Pousaz is the Founder and CEO of Checkout."]
+subtype: article
 ---
 
 # The Transition From Bootstrapped Founder

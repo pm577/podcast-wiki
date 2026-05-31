@@ -1,4 +1,5 @@
 ---
+
 title: Matt Mullenweg
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/matt-mullenweg.md
 confidence: high
 key_finding: Open source requires occasionally standing up to bullies
+subtype: person
 ---
 
 # Matt Mullenweg

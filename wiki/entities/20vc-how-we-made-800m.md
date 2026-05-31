@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-we-made-800m
 name: "20VC: How We Made $800M"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How We Made $800M on Coursera | We Lost Money on Uber and M
 ## Summary
 
 Larry Aschebrook is the Founder and Managing Partner of G Squared in what is one of the wildest stories of venture capital."]
+subtype: article
 ---
 
 # 20VC: How We Made $800M

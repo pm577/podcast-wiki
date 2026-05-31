@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fintech-will-not-be
 name: Fintech Will Not Be
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-should-be-running-wall-st
 name: Cs Should Be Running Wall St
 source: 20vc

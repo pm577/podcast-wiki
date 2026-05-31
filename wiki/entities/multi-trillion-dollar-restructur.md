@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: multi-trillion-dollar-restructur
 name: Multi-Trillion Dollar Restructur
 source: 20vc

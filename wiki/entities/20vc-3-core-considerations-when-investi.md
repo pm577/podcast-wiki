@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-3-core-considerations-when-investi
 name: "20VC: 3 Core Considerations When Investi"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-08-06
 tags: ["ai-ml", "consumer", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Nick Brown is Managing Partner @ Imaginary, founded alongside Net-A-Porter founder, Natalie Massenet, Imaginary invests in early–stage opportunities at the intersection of retail and technology."]
+subtype: article
 ---
 
 # 20VC: 3 Core Considerations When Investi

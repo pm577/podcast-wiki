@@ -1,4 +1,5 @@
 ---
+
 title: Brian Ascher
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, enterprise
 sources:
   - raw/transcripts/20vc/20vc-2017-05-31-20vc-how-both-founders-gps.md
 confidence: medium
+subtype: person
 ---
 
 

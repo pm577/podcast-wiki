@@ -1,4 +1,5 @@
 ---
+
 title: Bill Clerico
 created: 2026-05-31
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, marketplaces
 sources:
   - raw/transcripts/20vc/20vc-2017-05-05-20vc-why-we-are-still-in-the.md
 confidence: medium
+subtype: person
 ---
 
 # Bill Clerico

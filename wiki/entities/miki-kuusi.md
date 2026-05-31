@@ -1,4 +1,5 @@
 ---
+
 title: Miki Kuusi
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, hiring-culture, person, product-strategy, venture-cap
 sources:
   - raw/transcripts/20vc/20vc-2022-11-28-20vc-wolt-ceo-miki-kuusi-on.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: luciana-lixandru-unveils-sequoia
 name: Luciana Lixandru Unveils Sequoia
 source: 20vc

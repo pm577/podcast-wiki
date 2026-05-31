@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: accels-sonali-de-rycker
 name: Accel's Sonali De Rycker
 source: 20vc

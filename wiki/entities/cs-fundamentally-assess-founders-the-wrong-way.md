@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-fundamentally-assess-founders-the-wrong-way
 name: Cs Fundamentally Assess Founders The Wrong Way
 source: 20vc

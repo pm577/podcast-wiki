@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-figmas-250-pop
 name: "20VC: Figma's 250% Pop"
 source: 20vc
@@ -23,6 +24,7 @@ Agenda: 00:00 – The Worst IPO Mis-Pricing Ever: What Really Happened at Figma 
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-figmas-250-pop-the-greatest-ipo-mispricing-ever-meta-and-microsoft-blowout-quarters-broken-down-cognition-raises-at-15bn-and-ramp-at-22bn-crv-downsizing-and-what-it-means-for-lps-and-gps)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Figma's 250% Pop

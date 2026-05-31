@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-enterprises-will-not-adopt-ai-without-forward
 name: "20VC: Enterprises Will Not Adopt AI without Forward"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Enterprises Will Not Adopt AI without Forward-Deployed Engi
 ## Summary
 
 Matt Fitzpatrick is the CEO of Invisible Technologies, leading the company's mission to make AI work."]
+subtype: article
 ---
 
 # 20VC: Enterprises Will Not Adopt AI without Forward

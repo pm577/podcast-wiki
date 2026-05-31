@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-hiring-inexperienced-people
 name: Why Hiring Inexperienced People
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-04-24
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Rujul Zaparde is the Co-Founder and CEO of Zip, the world's leading Intake-to-Pay solution, adopted by leading enterprises and startups including Snowflake, Canva, Airtable, Webflow, and others."]
+subtype: article
 ---
 
 # Why Hiring Inexperienced People

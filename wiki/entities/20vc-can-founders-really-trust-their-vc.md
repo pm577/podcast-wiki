@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-can-founders-really-trust-their-vc
 name: "20VC: Can Founders Really Trust Their VC"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Can Founders Really Trust Their VC & How To Navigate The Ac
 ## Summary
 
 Josh Felser is a Co-Founder and General Partner at Freestyle, one of SF's leading early stage seed funds with investments in the likes of About.me, Airtable, Intercom and Patreon just to name a few."]
+subtype: article
 ---
 
 # 20VC: Can Founders Really Trust Their VC

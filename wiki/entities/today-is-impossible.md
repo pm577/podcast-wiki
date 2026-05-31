@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: today-is-impossible
 name: Today Is Impossible
 source: 20vc

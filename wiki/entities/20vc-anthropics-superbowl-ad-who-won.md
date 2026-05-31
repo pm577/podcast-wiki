@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anthropics-superbowl-ad-who-won
 name: "20VC: Anthropic's Superbowl Ad: Who Won"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 03:43 Anthropic Predicts $149B in ARR in 2029 09:27 Will FDEs Become Mor
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-anthropics-superbowl-ad-who-won-who-lost-harvey-raises-200m-at-11bn-valuation-sierra-hits-150m-in-arr-is-customer-support-too-crowded)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Anthropic's Superbowl Ad: Who Won

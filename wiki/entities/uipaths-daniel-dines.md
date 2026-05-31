@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: uipaths-daniel-dines
 name: UiPath's Daniel Dines
 source: 20vc

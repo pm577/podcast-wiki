@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-having-no-follow-on-dramatically-al
 name: Why Having No Follow On Dramatically Al
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-07-26
 tags: ["founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Michael Ma is a Founding Partner @ Liquid 2 Ventures, one of San Francisco's younger and more exciting seed funds, also unique in having Hall of Fame quarter back, Joe Montana as another Founding Part"]
+subtype: article
 ---
 
 # Why Having No Follow On Dramatically Al

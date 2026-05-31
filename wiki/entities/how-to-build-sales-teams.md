@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-build-sales-teams
 name: How To Build Sales Teams
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-02-02
 tags: ["enterprise-saas", "go-to-market", "hiring-culture", "marketplaces", "product-strategy"]
 related_concepts: []
 key_views: ["Dannie Herzberg is a Partner @ Sequoia Capital and one of the great sales leaders of the last decade."]
+subtype: article
 ---
 
 # How To Build Sales Teams

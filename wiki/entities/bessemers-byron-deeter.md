@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bessemers-byron-deeter
 name: Bessemer's Byron Deeter
 source: 20vc

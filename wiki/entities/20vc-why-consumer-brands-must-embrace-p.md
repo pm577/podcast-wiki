@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-consumer-brands-must-embrace-p
 name: "20VC: Why Consumer Brands Must Embrace P"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Consumer Brands Must Embrace Physical Retail To Avoid I
 ## Summary
 
 Brendan Wallace is the Co-Founder and Managing Partner @ Fifth Wall, the fund with the core thesis being the physical world around us is colliding with technology."]
+subtype: article
 ---
 
 # 20VC: Why Consumer Brands Must Embrace P

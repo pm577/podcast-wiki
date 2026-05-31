@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-i-lost-airbnb
 name: "20VC: How I Lost Airbnb"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How I Lost Airbnb at Seed Because of an Exploding Term Shee
 ## Summary
 
  Kevin Hartz is a Co-Founder and General Partner at A*, an early-stage venture capital firm."]
+subtype: article
 ---
 
 # 20VC: How I Lost Airbnb

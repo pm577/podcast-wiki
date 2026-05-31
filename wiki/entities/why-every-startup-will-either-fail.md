@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-every-startup-will-either-fail
 name: Why Every Startup Will Either Fail
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-06-01
 tags: ["ai-ml", "consumer", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Jack Groetzinger is the Founder & CEO @ SeatGeek, the world's largest ticket inventory on the web serving more than 500,000 artists and teams in over 380,000 venues."]
+subtype: article
 ---
 
 # Why Every Startup Will Either Fail

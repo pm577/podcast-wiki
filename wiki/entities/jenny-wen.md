@@ -1,4 +1,5 @@
 ---
+
 title: Jenny Wen
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,7 +9,7 @@ sources:
   - raw/transcripts/lenny/lenny-2026-03-01-jenny-wen.md
 confidence: medium
 key_finding: The Design Process is Dead
-
+subtype: person
 ---
 
 # Jenny Wen

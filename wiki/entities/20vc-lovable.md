@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-lovable
 name: "20VC: Lovable"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Lovable on Hitting $17.5M in ARR in 3 Months | Adding $2.1M
 ## Summary
 
 Anton Osika is the Co-Founder and CEO @ Lovable, the fastest growing startup in Europe."]
+subtype: article
 ---
 
 # 20VC: Lovable

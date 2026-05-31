@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-monzo-the-greatest-turnaround-in
 name: "20VC: Monzo: The Greatest Turnaround in"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Monzo: The Greatest Turnaround in Tech: From £40M Revenues
 ## Summary
 
 TS Anil is the CEO @ Monzo, where he has been the mastermind behind the greatest turnaround in tech in the last 10 years."]
+subtype: article
 ---
 
 # 20VC: Monzo: The Greatest Turnaround in

@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/ami-vora.md
+
 title: Ami Vora
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +11,7 @@ sources:
   - episodes/lenny/ami-vora
 confidence: high
 key_finding: Replace the reflex to be "right" with genuine curiosity — "Fascinating, tell me more why you think that" — and you'll get better outcomes and learn more.
+subtype: person
 ---
 
 # Ami Vora

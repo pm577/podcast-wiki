@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: are-vcs-still-investing
 name: Are VCs Still Investing
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-01-13
 tags: ["enterprise-saas", "founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["The question is: "are VCs still investing?"."]
+subtype: article
 ---
 
 # Are VCs Still Investing

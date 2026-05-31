@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-how-to-scale-to-30m-arr-boots
 name: "20Growth: How to Scale to $30M ARR Boots"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: How to Scale to $30M ARR Bootstrapped through Content a
 ## Summary
 
 Guillaume Moubeche is the Founder of Lempire, a company he has bootstrapped in the most competitive market in technology and scaled to a staggering $30M in ARR."]
+subtype: article
 ---
 
 # 20Growth: How to Scale to $30M ARR Boots

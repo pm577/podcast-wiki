@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: binarys-justin-caldbeck
 name: Binary's Justin Caldbeck
 source: 20vc

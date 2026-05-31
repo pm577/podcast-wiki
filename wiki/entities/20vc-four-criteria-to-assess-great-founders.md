@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-four-criteria-to-assess-great-founders
 name: "20VC: Four Criteria to Assess Great Founders"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Four Criteria to Assess Great Founders, Why and How the Bes
 ## Summary
 
  Stephane Kurgan is widely considered one of the best operators in Europe."]
+subtype: article
 ---
 
 # 20VC: Four Criteria to Assess Great Founders

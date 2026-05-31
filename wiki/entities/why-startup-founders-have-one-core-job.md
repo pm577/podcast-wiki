@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-startup-founders-have-one-core-job
 name: Why Startup Founders Have One Core Job
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-04-26
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["David Rogier is the Founder & CEO @ Masterclass, the startup that brings you online classes taught by the world's greatest minds including Steve Martin, Natalie Portman, Margaret Attwood and more."]
+subtype: article
 ---
 
 # Why Startup Founders Have One Core Job

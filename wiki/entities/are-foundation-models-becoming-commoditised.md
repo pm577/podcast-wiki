@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: are-foundation-models-becoming-commoditised
 name: Are Foundation Models Becoming Commoditised
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-09-22
 tags: ["ai-ml", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Christian Kleinerman is the SVP of Product @ Snowflake."]
+subtype: article
 ---
 
 # Are Foundation Models Becoming Commoditised

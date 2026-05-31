@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sequoia-capital
 name: Sequoia Capital
 source: 20vc

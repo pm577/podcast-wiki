@@ -1,4 +1,5 @@
 ---
+
 title: Molly Graham
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, leadership, culture, career-growth, scaling, goal-setting, manage
 sources:
   - raw/transcripts/lenny/molly-graham.md
 confidence: high
+subtype: person
 ---
 
 # Molly Graham
@@ -59,3 +61,15 @@ Molly externalizes the emotional rollercoaster of scaling into a character calle
 - [[scaling]]
 - [[management]]
 - [[change-management]]
+
+---
+
+*Merged from [[molly]]:*
+
+# Molly
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/molly-graham|“I like being scared”: Molly Graham’s frameworks for rapid career growth | Molly Graham]] — *to be summarized*

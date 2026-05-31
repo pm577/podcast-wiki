@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: klarnas-ipo-broken-down
 name: Klarna's IPO Broken Down
 source: 20vc

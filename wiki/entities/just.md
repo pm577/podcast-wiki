@@ -1,4 +1,5 @@
 ---
+
 title: Just
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy]
 sources:
   - raw/transcripts/20vc/20vc-2023-10-23-20vc-scaling-to-50m-arr-in-3.md
 confidence: medium
+subtype: person
 ---
 
 

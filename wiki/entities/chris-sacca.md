@@ -1,4 +1,5 @@
 ---
+
 title: Chris Sacca
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, ai-ml, enterprise-saas, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2016-01-27-20vc-lessons-from-working-wit.md
 confidence: medium
+subtype: person
 ---
 
 

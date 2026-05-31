@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: founders-need
 name: Founders Need
 source: 20vc

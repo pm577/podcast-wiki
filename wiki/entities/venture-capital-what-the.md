@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: venture-capital-what-the
 name: Venture Capital | What the
 source: 20vc

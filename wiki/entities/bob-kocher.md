@@ -1,4 +1,5 @@
 ---
+
 title: Bob Kocher
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, biotech-health]
 sources:
   - raw/transcripts/20vc/20vc-2015-09-23-20-vc-074-the-future-of-healt.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-openai-spacex-s1-drops-nvidia
 name: "20VC: OpenAI & SpaceX S1 Drops | NVIDIA'"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: OpenAI & SpaceX S1 Drops | NVIDIA's $81BN Revenue Quarter |
 ## Summary
 
 AGENDA:  05:16 Nvidia Blowout Quarter: $81BN Revenues and Stock… Flat!"]
+subtype: article
 ---
 
 # 20VC: OpenAI & SpaceX S1 Drops | NVIDIA'

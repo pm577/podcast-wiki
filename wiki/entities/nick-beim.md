@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: nick-beim
 name: Nick Beim
 source: 20vc

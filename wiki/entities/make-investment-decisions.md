@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: make-investment-decisions
 name: Make Investment Decisions
 source: 20vc

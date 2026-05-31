@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: coinbases-brian-armstrong
 name: Coinbase's Brian Armstrong
 source: 20vc

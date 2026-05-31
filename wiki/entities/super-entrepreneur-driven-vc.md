@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: super-entrepreneur-driven-vc
 name: Super Entrepreneur Driven VC
 source: 20vc

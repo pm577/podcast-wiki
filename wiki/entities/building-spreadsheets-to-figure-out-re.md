@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: building-spreadsheets-to-figure-out-re
 name: Building Spreadsheets To Figure Out Re
 source: 20vc

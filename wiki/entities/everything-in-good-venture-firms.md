@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: everything-in-good-venture-firms
 name: Everything In Good Venture Firms
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-databricks
 name: The Databricks
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-08-04
 tags: ["ai-ml", "founder-psychology", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Ron Gabrisko is the Chief Revenue Officer at Databricks, where he joined in 2016."]
+subtype: article
 ---
 
 # The Databricks

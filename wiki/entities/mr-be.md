@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: mr-be
 name: Mr Be
 source: 20vc

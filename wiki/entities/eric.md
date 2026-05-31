@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/20vc/20vc-2021-06-02-20vc-ramps-eric-glyman-on-wh.md
+
 title: Eric
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +10,7 @@ tags: [person]
 sources:
   - episodes/lenny/eric-simons|Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons
 confidence: medium
+subtype: person
 ---
 
 # Eric

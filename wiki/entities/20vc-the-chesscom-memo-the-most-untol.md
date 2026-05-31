@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-chesscom-memo-the-most-untol
 name: "20VC: The Chess.com Memo: The Most Untol"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Chess.com Memo: The Most Untold Story in Startups; Scal
 ## Summary
 
  Erik Allebest is the CEO @ Chess.com, the #1 online chess service on the planet with more than 150+ million members and 15+ million games played each day."]
+subtype: article
 ---
 
 # 20VC: The Chess.com Memo: The Most Untol

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: can-vc-survi
 name: Can VC Survi
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-01-22
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["AGENDA: 03:30 Can VC Survive With Public Market Prices Today 15:20 The Implosion of Thinking Machines 21:13 Elon Musk vs."]
+subtype: article
 ---
 
 # Can VC Survi

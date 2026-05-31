@@ -1,4 +1,5 @@
 ---
+
 title: Harley Finkelstein
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, product-strategy, hiring-culture, 
 sources:
   - raw/transcripts/20vc/20vc-2017-05-12-20vc-building-shopify-from-5.md
 confidence: medium
+subtype: person
 ---
 
 

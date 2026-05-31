@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: great-leadership
 name: Great Leadership
 source: 20vc

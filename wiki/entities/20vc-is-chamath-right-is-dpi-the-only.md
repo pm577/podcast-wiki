@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-is-chamath-right-is-dpi-the-only
 name: "20VC: Is Chamath Right: Is DPI The Only"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Is Chamath Right: Is DPI The Only Thing That Matters | Does
 ## Summary
 
 Agenda: 00:00 – The Most Unfiltered Episode Ever Begins 03:30 – Does OpenAI Even Matter? Sam Lessin Says Maybe Not."]
+subtype: article
 ---
 
 # 20VC: Is Chamath Right: Is DPI The Only

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-metrics-that-matter-in-saas-to
 name: "20VC: The Metrics That Matter in SaaS To"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Metrics That Matter in SaaS Today; Why CaC Payback is F
 ## Summary
 
  Dave Kellogg is one of the OGs of Saas."]
+subtype: article
 ---
 
 # 20VC: The Metrics That Matter in SaaS To

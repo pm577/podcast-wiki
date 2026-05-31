@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-instagram-ceo-adam-mosseri
 name: "20VC: Instagram CEO, Adam Mosseri"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Instagram CEO, Adam Mosseri on Threads: The Journey from 0-
 ## Summary
 
  Adam Mosseri is the Head of Instagram, where he is responsible for overseeing the engineering, product, and business teams and leading Meta's efforts on creators and Reels."]
+subtype: article
 ---
 
 # 20VC: Instagram CEO, Adam Mosseri

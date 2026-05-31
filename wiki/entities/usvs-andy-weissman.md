@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: usvs-andy-weissman
 name: USV's Andy Weissman
 source: 20vc

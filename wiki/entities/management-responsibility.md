@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: management-responsibility
 name: Management Responsibility
 source: 20vc

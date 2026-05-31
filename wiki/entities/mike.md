@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/mike-krieger.md
+
 title: Mike
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +10,7 @@ tags: [person]
 sources:
   - episodes/lenny/mike-maples-jr|Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)
 confidence: medium
+subtype: person
 ---
 
 # Mike

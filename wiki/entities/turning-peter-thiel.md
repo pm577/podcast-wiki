@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: turning-peter-thiel
 name: Turning Peter Thiel
 source: 20vc

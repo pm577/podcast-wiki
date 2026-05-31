@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-from-selling-75
 name: "20VC: From Selling 75%"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: From Selling 75% of Trade Republic for €600K to Raising $
 ## Summary
 
  Christian Hecker is the Founder and CEO of Trade Republic, the company making it easy and inexpensive for everyone with a smartphone to invest."]
+subtype: article
 ---
 
 # 20VC: From Selling 75%

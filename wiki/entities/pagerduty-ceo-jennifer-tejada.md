@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: pagerduty-ceo-jennifer-tejada
 name: PagerDuty CEO Jennifer Tejada
 source: 20vc

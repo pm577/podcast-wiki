@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-roundtable-new-format-why-the-see
 name: "20VC Roundtable: NEW FORMAT: Why the See"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC Roundtable: NEW FORMAT: Why the Seed Investing Model is Brok
 ## Summary
 
  Sam Lessin is a Co-Founder and Partner @ Slow Ventures with a portfolio including the likes of Airtable, Robinhood, Slack, Solana, PillPack and many more unicorn companies."]
+subtype: article
 ---
 
 # 20VC Roundtable: NEW FORMAT: Why the See

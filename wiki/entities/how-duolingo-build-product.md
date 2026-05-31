@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-duolingo-build-product
 name: How Duolingo Build Product
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-06-20
 tags: ["ai-ml", "founder-psychology", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Cem Kansu is the Chief Product Officer at Duolingo, where he leads product strategy for over 90 million monthly active learners."]
+subtype: article
 ---
 
 # How Duolingo Build Product

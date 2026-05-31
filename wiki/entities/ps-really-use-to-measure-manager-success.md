@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ps-really-use-to-measure-manager-success
 name: Ps Really Use To Measure Manager Success
 source: 20vc

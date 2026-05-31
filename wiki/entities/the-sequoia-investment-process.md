@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-sequoia-investment-process
 name: The Sequoia Investment Process
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-07-08
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Pat Grady is one of the most successful growth investors of the last decade."]
+subtype: article
 ---
 
 # The Sequoia Investment Process

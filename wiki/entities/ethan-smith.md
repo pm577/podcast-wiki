@@ -1,4 +1,5 @@
 ---
+
 title: Ethan Smith
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, seo, aeo, answer-engine-optimization, content-marketing, growth, 
 sources:
   - raw/transcripts/lenny/lenny-2025-09-14-ethan-smith.md
 confidence: high
+subtype: person
 ---
 
 # Ethan Smith

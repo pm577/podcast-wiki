@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-the-deal-of-the-decade-originated
 name: How The Deal Of The Decade Originated
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-03-21
 tags: ["founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Rob Hayes is a partner at First Round Capital where he opened up the firm's San Francisco office."]
+subtype: article
 ---
 
 # How The Deal Of The Decade Originated

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ben-horowitz-all-have-in-common
 name: Ben Horowitz All Have In Common
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Chip Conley
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, airbnb, hospitality, modern-elder, midlife, leadership, wisdom, m
 sources:
   - raw/transcripts/lenny/chip-conley.md
 confidence: high
+subtype: person
 ---
 
 # Chip Conley

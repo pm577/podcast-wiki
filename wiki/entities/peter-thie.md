@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: peter-thie
 name: Peter Thie
 source: 20vc

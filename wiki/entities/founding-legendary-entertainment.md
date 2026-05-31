@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: founding-legendary-entertainment
 name: Founding Legendary Entertainment
 source: 20vc

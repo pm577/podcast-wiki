@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-state
 name: The State
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-08-09
 tags: ["enterprise-saas", "founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Jason Lemkin is the Founder @ SaaStr one of the best-performing early-stage venture funds focused on SaaS."]
+subtype: article
 ---
 
 # The State

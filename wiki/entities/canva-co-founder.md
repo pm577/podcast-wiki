@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: canva-co-founder
 name: Canva Co-Founder
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: from-sequoia-to-accel-to-general-catalyst
 name: From Sequoia To Accel To General Catalyst
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-06-08
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Paul English is the Co-Founder of both Lola and Kayak."]
+subtype: article
 ---
 
 # From Sequoia To Accel To General Catalyst

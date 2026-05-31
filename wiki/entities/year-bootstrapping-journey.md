@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: year-bootstrapping-journey
 name: Year Bootstrapping Journey
 source: 20vc

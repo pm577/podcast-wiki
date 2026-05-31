@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: from-penniless-printing-shop-offices
 name: From Penniless Printing Shop Offices
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-02-14
 tags: ["ai-ml", "consumer", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Founder and CEO of LADbible Group, Solly Solomou has built one of the largest and most engaged digital media entertainment companies in the world."]
+subtype: article
 ---
 
 # From Penniless Printing Shop Offices

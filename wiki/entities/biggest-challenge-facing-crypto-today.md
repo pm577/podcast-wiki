@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: biggest-challenge-facing-crypto-today
 name: Biggest Challenge Facing Crypto Today
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Ben Williams
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-led-growth, developer-tools, security, saas, snyk, plg, c
 sources:
   - raw/transcripts/lenny/ben-williams.md
 confidence: high
+subtype: person
 ---
 
 # Ben Williams

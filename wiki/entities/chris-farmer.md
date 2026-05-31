@@ -1,4 +1,5 @@
 ---
+
 title: Chris Farmer
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2016-11-30-20vc-why-there-is-a-revolutio.md
 confidence: medium
+subtype: person
 ---
 
 

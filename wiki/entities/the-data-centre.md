@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-data-centre
 name: The Data Centre
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-03-12
 tags: ["ai-ml", "enterprise-saas", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["AGENDA: 00:00 - ANTHROPIC VS. THE PENTAGON: The Billion Dollar Supply Chain War 07:11 - B2B PANIC: Why Leading Companies Are Losing Deals to OpenAI 12:19 - THE ANTHROPIC ENDGAME: Will Claude Eclipse C"]
+subtype: article
 ---
 
 # The Data Centre

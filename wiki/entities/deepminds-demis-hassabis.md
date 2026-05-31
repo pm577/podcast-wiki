@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: deepminds-demis-hassabis
 name: DeepMind's Demis Hassabis
 source: 20vc

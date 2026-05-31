@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: inside-the-mind
 name: Inside The Mind
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-11-04
 tags: ["hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Lisa Edgar is a Managing Director @ Top Tier Capital Partners, one of the leading venture fund of funds over the last decade."]
+subtype: article
 ---
 
 # Inside The Mind

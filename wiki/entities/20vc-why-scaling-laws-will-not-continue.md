@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-scaling-laws-will-not-continue
 name: "20VC: Why Scaling Laws Will Not Continue"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Scaling Laws Will Not Continue | OpenAI vs Anthropic vs
 ## Summary
 
 Victor Riparbelli is the CEO and Co-founder of Synthesia, the world's leading AI video communications platform for enterprises."]
+subtype: article
 ---
 
 # 20VC: Why Scaling Laws Will Not Continue

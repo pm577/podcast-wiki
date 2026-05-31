@@ -1,4 +1,5 @@
 ---
+
 title: Camille Fournier
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/camille-fournier.md
 confidence: medium
 key_finding: PMs Must Share Credit and Respect Engineering Details
+subtype: person
 ---
 
 # Camille Fournier

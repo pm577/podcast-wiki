@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: twilios-jeff-lawson
 name: Twilio's Jeff Lawson
 source: 20vc

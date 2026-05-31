@@ -1,4 +1,5 @@
 ---
+
 title: Michael Dearing
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-10-09-20vc-michael-dearing-on-5-key.md
 confidence: medium
+subtype: person
 ---
 
 

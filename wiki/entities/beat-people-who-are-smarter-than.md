@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: beat-people-who-are-smarter-than
 name: Beat People Who Are Smarter Than
 source: 20vc

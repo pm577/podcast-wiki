@@ -1,4 +1,5 @@
 ---
+
 title: Nicolas Dessaigne
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/20vc/20vc-2016-04-22-20vc-fundraising-is-also-busi.md
   - raw/transcripts/20vc/20vc-2017-06-16-20vc-is-series-b-really-the-h.md
 confidence: medium
+subtype: person
 ---
 
 # Nicolas Dessaigne

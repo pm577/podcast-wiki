@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-does-the-integration-of
 name: What Does The Integration Of
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-11-18
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Ed Cooke is the Founder & CEO @ Memrise, the app that makes learning languages joyful and they have funding from some of the best including Lerer Hippeau, Balderton Capital and Wordpress founder Matt "]
+subtype: article
 ---
 
 # What Does The Integration Of

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: record-become
 name: Record Become
 source: 20vc

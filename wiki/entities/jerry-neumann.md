@@ -1,4 +1,5 @@
 ---
+
 title: Jerry Neumann
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2018-04-30-20vc-why-follow-on-investment.md
 confidence: medium
+subtype: person
 ---
 
 

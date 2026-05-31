@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: youngest-founder
 name: Youngest Founder
 source: 20vc

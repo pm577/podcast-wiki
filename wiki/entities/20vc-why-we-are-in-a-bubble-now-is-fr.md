@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-we-are-in-a-bubble-now-is-fr
 name: "20VC: Why We Are in a Bubble & Now is Fr"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why We Are in a Bubble & Now is Frothier Than 2021 | Why $1
 ## Summary
 
  Saam Motamedi is a General Partner at Greylock, where he has led investments in Abnormal Security (incubated at Greylock), Apiiro Security and Opal Security, as well as AI companies like Adept, Braintrst, Cresta, Predibase, Snorkel, and more."]
+subtype: article
 ---
 
 # 20VC: Why We Are in a Bubble & Now is Fr

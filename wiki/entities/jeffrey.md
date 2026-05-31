@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/jeffrey-pfeffer.md
+
 title: Jeffrey
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +10,7 @@ tags: [person]
 sources:
   - episodes/lenny/jeffrey-pfeffer|The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (Stanford)
 confidence: medium
+subtype: person
 ---
 
 # Jeffrey

@@ -1,4 +1,5 @@
 ---
+
 title: Itamar Gilad
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, evidence-guided, gist, google, gmail, youtube
 sources:
   - raw/transcripts/lenny/itamar-gilad.md
 confidence: high
+subtype: person
 ---
 
 # Itamar Gilad

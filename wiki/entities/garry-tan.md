@@ -1,4 +1,5 @@
 ---
+
 title: Garry Tan
 created: 2026-05-31
 updated: 2026-06-01
@@ -9,6 +10,7 @@ sources:
   - raw/transcripts/20vc/20vc-2019-04-01-20vc-initializeds-garry-tan.md
   - raw/transcripts/stanford-ai-frontier/garry-tan-diana-hu-yc-stanford-ai-frontier.md
 confidence: high
+subtype: person
 ---
 
 # Garry Tan

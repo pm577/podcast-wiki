@@ -1,4 +1,5 @@
 ---
+
 title: Oren Zeev
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, deeptech-hardware, hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-11-06-20vc-oren-zeev-on-why-diversi.md
 confidence: medium
+subtype: person
 ---
 
 

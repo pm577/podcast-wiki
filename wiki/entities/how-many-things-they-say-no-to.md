@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-many-things-they-say-no-to
 name: How Many Things They Say No To
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-10-06
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Guillermo Rauch is the Founder and CEO @ Vercel, giving developers the frameworks, workflows, and infrastructure to build a faster, more personalized Web."]
+subtype: article
 ---
 
 # How Many Things They Say No To

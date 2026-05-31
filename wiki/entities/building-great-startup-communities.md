@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: building-great-startup-communities
 name: Building Great Startup Communities
 source: 20vc

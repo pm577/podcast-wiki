@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: benchmarks-victor-lazarte
 name: Benchmark's Victor Lazarte
 source: 20vc

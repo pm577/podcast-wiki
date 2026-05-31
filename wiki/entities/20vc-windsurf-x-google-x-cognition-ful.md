@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-windsurf-x-google-x-cognition-ful
 name: "20VC: Windsurf x Google x Cognition: Ful"
 source: 20vc
@@ -23,6 +24,7 @@ Agenda: 00:00 Windsurf was dead—then this deal changed everything 05:00 The Wi
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-windsurf-x-google-x-cognition-full-breakdown-who-made-money-who-did-not-lovable-vs-replit-will-these-be-100bn-businesses-why-elon-could-beat-sam-altman-with-the-new-grok-why-every-sp-500-company-will-buy-bitcoin)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Windsurf x Google x Cognition: Ful

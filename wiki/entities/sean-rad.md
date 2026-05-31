@@ -1,4 +1,5 @@
 ---
+
 title: Sean Rad
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-05-26-20vc-tinders-sean-rad-on-why.md
 confidence: medium
+subtype: person
 ---
 
 

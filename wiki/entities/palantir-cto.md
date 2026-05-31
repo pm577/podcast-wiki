@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: palantir-cto
 name: Palantir CTO
 source: 20vc

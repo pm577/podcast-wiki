@@ -1,4 +1,5 @@
 ---
+
 title: Sarah Guo
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, hiring-culture, ai-ml, enterprise-saas]
 sources:
   - raw/transcripts/20vc/20vc-2023-04-28-20vc-in-ai-who-wins-startups.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+
 title: Patrick Campbell
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/patrick-campbell.md
 confidence: high
 key_finding: Bootstrapping limits ambition — and pricing is the most neglected growth lever
+subtype: person
 ---
 
 # Patrick Campbell

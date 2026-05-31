@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-jake-paul
 name: "20VC: Jake Paul"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Jake Paul on Why Traditional VC is Toast and Attention is M
 ## Summary
 
 Jake Paul is one of the most influential creators of the digital era, with over 70M+ followers across platforms."]
+subtype: article
 ---
 
 # 20VC: Jake Paul

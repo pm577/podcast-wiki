@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-prior-experience-is-not-required-for-founder
 name: Why Prior Experience Is Not Required For Founder
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-04-18
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Neeraj Agrawal is a general partner at Battery Ventures investing in SaaS and Internet companies across all stages."]
+subtype: article
 ---
 
 # Why Prior Experience Is Not Required For Founder

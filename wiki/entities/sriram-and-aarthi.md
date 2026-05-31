@@ -1,4 +1,5 @@
 ---
+
 title: Sriram and Aarthi
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, a16z, netflix, meta, snap, twitter, clubhouse, techno-optimism, p
 sources:
   - raw/transcripts/lenny/sriram-and-aarthi.md
 confidence: high
+subtype: person
 ---
 
 # Sriram Krishnan and Aarthi Ramamurthy
@@ -46,3 +48,15 @@ Sriram and Aarthi are both individual product icons as well as a couple. Their a
 - [[community-building]]
 - [[product-leadership]]
 - [[personal-brand]]
+
+---
+
+*Merged from [[sriram]]:*
+
+# Sriram
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/sriram-and-aarthi|Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi]] — *to be summarized*

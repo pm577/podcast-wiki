@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: frothier-than
 name: Frothier Than
 source: 20vc

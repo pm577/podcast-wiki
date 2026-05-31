@@ -1,4 +1,5 @@
 ---
+
 title: Dr. Fei-Fei Li
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/dr-fei-fei-li.md
   - raw/transcripts/lenny/lenny-2025-11-16-dr-fei-fei-li.md
 confidence: high
+subtype: person
 ---
 
 # Dr. Fei-Fei Li

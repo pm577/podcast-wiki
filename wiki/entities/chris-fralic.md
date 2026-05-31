@@ -1,4 +1,5 @@
 ---
+
 title: Chris Fralic
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [consumer, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2021-04-29-20vc-the-roblox-memo-first-r.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: software-development
 name: Software Development
 source: 20vc

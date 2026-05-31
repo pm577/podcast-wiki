@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: airbnb-used-rituals
 name: Airbnb Used Rituals
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-the-best-founders-approach-bet
 name: "20VC: How The Best Founders Approach Bet"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How The Best Founders Approach Bet The Company Decisions, H
 ## Summary
 
 Maynard Webb is truly unique, he has worn 3 different hats and excelled in all of them."]
+subtype: article
 ---
 
 # 20VC: How The Best Founders Approach Bet

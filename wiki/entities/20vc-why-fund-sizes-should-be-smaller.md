@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-fund-sizes-should-be-smaller
 name: "20VC: Why Fund Sizes Should Be Smaller"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Fund Sizes Should Be Smaller, Should Founders Also Have
 ## Summary
 
  Sheel Mohnot is a Co-Founder and General Partner @ Better Tomorrow Ventures, a $225M fund that leads rounds in pre-seed and seed-stage fintech companies globally."]
+subtype: article
 ---
 
 # 20VC: Why Fund Sizes Should Be Smaller

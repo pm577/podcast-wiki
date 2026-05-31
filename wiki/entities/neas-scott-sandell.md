@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: neas-scott-sandell
 name: NEA's Scott Sandell
 source: 20vc

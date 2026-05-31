@@ -1,4 +1,5 @@
 ---
+
 title: Graham Weaver
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, stanford, teaching, career, private-equity, alpine, life-advice]
 sources:
   - raw/transcripts/lenny/graham-weaver.md
 confidence: high
+subtype: person
 ---
 
 # Graham Weaver
@@ -53,3 +55,15 @@ Graham emphasizes that insight without accountability is useless. His students c
 - [[life-advice]]
 - [[leadership]]
 - [[teaching]]
+
+---
+
+*Merged from [[graham]]:*
+
+# Graham
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/graham-weaver|How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor)]] — *to be summarized*

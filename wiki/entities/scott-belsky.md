@@ -1,4 +1,5 @@
 ---
+
 title: Scott Belsky
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, adobe, behance, product-sense, messy-middle, author, investor]
 sources:
   - raw/transcripts/lenny/scott-belsky.md
 confidence: high
+subtype: person
 ---
 
 # Scott Belsky

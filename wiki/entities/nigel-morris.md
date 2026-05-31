@@ -1,4 +1,5 @@
 ---
+
 title: Nigel Morris
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, fintech, biotech-health]
 sources:
   - raw/transcripts/20vc/20vc-2021-05-24-20vc-why-bundling-does-not-wo.md
 confidence: medium
+subtype: person
 ---
 
 

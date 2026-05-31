@@ -1,4 +1,5 @@
 ---
+
 title: Julia Schottenstein
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, dbt, m-and-a, pricing, open-source, data-infr
 sources:
   - raw/transcripts/lenny/julia-schottenstein.md
 confidence: high
+subtype: person
 ---
 
 # Julia Schottenstein

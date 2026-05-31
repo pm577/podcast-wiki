@@ -1,4 +1,5 @@
 ---
+
 title: Ian McAllister
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, amazon, uber, airbnb, working-backwards, pm-c
 sources:
   - raw/transcripts/lenny/ian-mcallister.md
 confidence: high
+subtype: person
 ---
 
 # Ian McAllister

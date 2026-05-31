@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-coheres-chief-ai-officer
 name: "20VC: Cohere's Chief AI Officer"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Cohere's Chief AI Officer on Why Scaling Laws Will Continue
 ## Summary
 
 Joelle Pineau is the Chief AI Officer at Cohere, where she leads research on advancing large language models and practical AI systems."]
+subtype: article
 ---
 
 # 20VC: Cohere's Chief AI Officer

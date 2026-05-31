@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-mark-suster
 name: "20VC: Mark Suster"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Mark Suster on The Biggest Fundraising Lessons for VCs, Why
 ## Summary
 
  Mark Suster is a General Partner @ Upfront Ventures, one of LA's leading early-stage venture firms."]
+subtype: article
 ---
 
 # 20VC: Mark Suster

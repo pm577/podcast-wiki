@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sprigs-gagan-biyani
 name: Sprig's Gagan Biyani
 source: 20vc

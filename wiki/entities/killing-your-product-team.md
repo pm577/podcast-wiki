@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: killing-your-product-team
 name: Killing Your Product Team
 source: 20vc

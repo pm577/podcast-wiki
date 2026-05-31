@@ -1,4 +1,5 @@
 ---
+
 title: The Tiger Global Memo
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, startups]
 sources:
   - raw/transcripts/20vc/20vc-2022-02-23-the-tiger-global-memo-from-se.md
 confidence: medium
+subtype: person
 ---
 
 

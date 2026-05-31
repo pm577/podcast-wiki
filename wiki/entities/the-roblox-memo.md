@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-roblox-memo
 name: The Roblox Memo
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-04-29
 tags: ["consumer", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Chris Fralic is a Board Partner @ First Round Capital, one of the leading seed-stage venture firms of the last decade with investments in the likes of Uber, Square, Notion, Warby Parker and more."]
+subtype: article
 ---
 
 # The Roblox Memo

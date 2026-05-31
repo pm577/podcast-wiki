@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: venture-landscapes
 name: Venture Landscapes
 source: 20vc

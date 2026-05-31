@@ -1,4 +1,5 @@
 ---
+
 title: Scale From Team To Product
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, hiring-cul
 sources:
   - raw/transcripts/20vc/20vc-2020-08-21-20vc-biggest-lessons-from-sca.md
 confidence: medium
+subtype: person
 ---
 
 

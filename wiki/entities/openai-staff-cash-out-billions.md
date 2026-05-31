@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: openai-staff-cash-out-billions
 name: OpenAI Staff Cash Out Billions
 source: 20vc

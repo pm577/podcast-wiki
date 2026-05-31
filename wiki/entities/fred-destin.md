@@ -1,4 +1,5 @@
 ---
+
 title: Fred Destin
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology]
 sources:
   - raw/transcripts/20vc/20vc-2020-04-08-20vc-are-vcs-still-open-for.md
 confidence: medium
+subtype: person
 ---
 
 

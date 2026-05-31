@@ -1,4 +1,5 @@
 ---
+
 title: Eric Feng
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, consumer, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-07-03-20vc-kleiner-perkins-gp-eric.md
 confidence: medium
+subtype: person
 ---
 
 

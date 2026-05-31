@@ -1,4 +1,5 @@
 ---
+
 title: Marc Benioff
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/marc-benioff.md
 confidence: high
 key_finding: Find the winning tactic and turn it into a winning strategy
+subtype: person
 ---
 
 # Marc Benioff

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-no-founders-unde
 name: What No Founders Unde
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-04-25
 tags: ["fintech", "founder-psychology", "go-to-market", "marketplaces", "product-strategy"]
 related_concepts: []
 key_views: ["Mayur Gupta is currently the CMO at Kraken, one of the largest crypto platforms in the world."]
+subtype: article
 ---
 
 # What No Founders Unde

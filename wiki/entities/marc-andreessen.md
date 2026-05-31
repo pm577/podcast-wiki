@@ -1,4 +1,5 @@
 ---
+
 title: Marc Andreessen
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,7 +9,7 @@ sources:
   - raw/transcripts/lenny/lenny-2026-01-29-marc-andreessen.md
 confidence: medium
 key_finding: AI is the Philosopher's Stone
-
+subtype: person
 ---
 
 # Marc Andreessen

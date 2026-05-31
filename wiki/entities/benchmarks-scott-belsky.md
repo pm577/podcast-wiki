@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: benchmarks-scott-belsky
 name: Benchmark's Scott Belsky
 source: 20vc

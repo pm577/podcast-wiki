@@ -1,4 +1,5 @@
 ---
+
 title: Delian Asparouhov
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [biotech-health, founder-psychology, go-to-market, person, product-strateg
 sources:
   - raw/transcripts/20vc/20vc-2024-07-29-20vc-twitters-most-controver.md
 confidence: medium
+subtype: person
 ---
 
 

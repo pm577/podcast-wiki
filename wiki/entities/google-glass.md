@@ -1,4 +1,5 @@
 ---
+
 title: Google Glass
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [consumer, hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2015-01-22-20-vc-006-google-glass-foun.md
 confidence: medium
+subtype: person
 ---
 
 

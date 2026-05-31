@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: capitalgs-laela-sturdy
 name: CapitalG's Laela Sturdy
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-why-most-cpos-are-bad-why-y
 name: "20Product: Why Most CPOs are Bad | Why Y"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Why Most CPOs are Bad | Why You Do Not Need PMs in a W
 ## Summary
 
 Jason James is the Co-Founder of Tezi and one of the leading product minds in the valley."]
+subtype: article
 ---
 
 # 20Product: Why Most CPOs are Bad | Why Y

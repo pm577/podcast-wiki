@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: financial-incentive-for-truth-in
 name: Financial Incentive For Truth In
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Larry Summers
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2023-06-12-20vc-larry-summers-on-how-to.md
 confidence: medium
+subtype: person
 ---
 
 

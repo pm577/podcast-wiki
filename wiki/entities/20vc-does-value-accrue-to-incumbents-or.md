@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-does-value-accrue-to-incumbents-or
 name: "20VC: Does Value Accrue to Incumbents or"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Does Value Accrue to Incumbents or Startups in the AI Race,
 ## Summary
 
  Richard Socher is the founder and CEO of You.com."]
+subtype: article
 ---
 
 # 20VC: Does Value Accrue to Incumbents or

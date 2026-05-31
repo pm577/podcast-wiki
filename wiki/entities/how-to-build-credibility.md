@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-build-credibility
 name: How To Build Credibility
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-09-21
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Amol Deshpande is the Co-Founder and CEO at Farmers Business Network, the farmer-to-farmer agronomic information network improving the livelihood of farmers by making data useful and accessible."]
+subtype: article
 ---
 
 # How To Build Credibility

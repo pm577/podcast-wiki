@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-cerebras-ceo
 name: "20VC: Cerebras CEO"
 source: 20vc
@@ -25,6 +26,7 @@ Andrew Feldman is Co-Founder & CEO of Cerebras, building the world's fastest AI 
 ## Summary
 
 Andrew Feldman is the co-founder and CEO of Cerebras Systems."]
+subtype: article
 ---
 
 # 20VC: Cerebras CEO

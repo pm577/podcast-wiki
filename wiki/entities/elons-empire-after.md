@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: elons-empire-after
 name: Elon's Empire After
 source: 20vc

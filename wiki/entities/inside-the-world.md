@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: inside-the-world
 name: Inside The World
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-12-11
 tags: ["ai-ml", "fintech", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Olaf Carlson-Wee is the Founder & CEO @ Polychain Capital, one of the world's premier funds actively managing a portfolio of blockchain assets."]
+subtype: article
 ---
 
 # Inside The World

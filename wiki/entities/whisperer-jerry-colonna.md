@@ -1,4 +1,5 @@
 ---
+
 title: Whisperer Jerry Colonna
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, go-to-market, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2016-11-04-20vc-ceo-whisperer-jerry-colo.md
 confidence: medium
+subtype: person
 ---
 
 

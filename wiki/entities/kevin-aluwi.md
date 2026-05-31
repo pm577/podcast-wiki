@@ -1,4 +1,5 @@
 ---
+
 title: Kevin Aluwi
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, gojek, super-app, branding, growth, southeast-asia, ride-hailing,
 sources:
   - raw/transcripts/lenny/kevin-aluwi.md
 confidence: high
+subtype: person
 ---
 
 # Kevin Aluwi

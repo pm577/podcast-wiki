@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-evolution-of-content
 name: The Evolution Of Content
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-02-26
 tags: ["consumer", "go-to-market", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Gary Liu is the CEO @ Digg, the incredibly famous platform that allows users to find, read and share the most talked about stories on the internet."]
+subtype: article
 ---
 
 # The Evolution Of Content

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: first-companies-will-win
 name: First Companies Will Win
 source: 20vc

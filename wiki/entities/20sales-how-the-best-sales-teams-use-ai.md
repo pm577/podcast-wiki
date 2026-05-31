@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-how-the-best-sales-teams-use-ai
 name: "20Sales: How the Best Sales Teams Use AI"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: How the Best Sales Teams Use AI to Win Enterprise Deals 
 ## Summary
 
 Ishan Mukherjee is the Co-Founder/CEO of Rox, a Sequoia-backed AI-powered sales productivity platform."]
+subtype: article
 ---
 
 # 20Sales: How the Best Sales Teams Use AI

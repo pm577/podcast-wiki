@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: meet-first-round-capitals-newest-partner
 name: Meet First Round Capital's Newest Partner
 source: 20vc

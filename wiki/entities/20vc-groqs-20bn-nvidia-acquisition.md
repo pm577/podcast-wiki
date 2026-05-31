@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-groqs-20bn-nvidia-acquisition
 name: "20VC: Groq's $20BN NVIDIA Acquisition |"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 04:30 Groq Acquired by NVIDIA for $20BN: The Breakdown 17:13 Meta's $2BN
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-groqs-20bn-nvidia-acquisition-manus-acquired-by-meta-for-2bn-why-sam-altman-does-not-care-about-dilution-navan-trading-at-4x-arr-why-going-public-does-not-make-sense-anymore-the-rise-of-invisible-unemployment-and-labour-markets-in-2026)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Groq's $20BN NVIDIA Acquisition |

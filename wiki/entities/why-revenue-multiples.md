@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-revenue-multiples
 name: Why Revenue Multiples
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-08-26
 tags: ["fintech", "founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Imran Khan is the OG of IPOs having taken some of the biggest companies public including Alibaba, Snap, Box, Weibo and more."]
+subtype: article
 ---
 
 # Why Revenue Multiples

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-happens-to-growth-rounds
 name: What Happens To Growth Rounds
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-04-08
 tags: ["go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Eric Liaw is a General Partner @ IVP, one of the leading later-stage venture capital and growth equity firms of the last decade with $8."]
+subtype: article
 ---
 
 # What Happens To Growth Rounds

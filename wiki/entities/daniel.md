@@ -1,4 +1,5 @@
 ---
+
 title: Daniel Lereya
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, monday-dot-com, leadership, saas, radical-tra
 sources:
   - raw/transcripts/lenny/daniel-lereya.md
 confidence: high
+subtype: person
 ---
 
 # Daniel Lereya

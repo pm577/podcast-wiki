@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sequoias-david-cahn
 name: Sequoia's David Cahn
 source: 20vc

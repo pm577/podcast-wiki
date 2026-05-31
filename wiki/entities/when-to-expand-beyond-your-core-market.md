@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: when-to-expand-beyond-your-core-market
 name: When To Expand Beyond Your Core Market
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-08-19
 tags: ["ai-ml", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Angela Strange is a General Partner at Andreessen Horowitz, one of the leading venture firms of the last decade with a portfolio including the likes of Facebook, Github, Slack, Airbnb, Asana and more."]
+subtype: article
 ---
 
 # When To Expand Beyond Your Core Market

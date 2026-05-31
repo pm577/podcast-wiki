@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: craft-ventures-david-sacks
 name: Craft Ventures' David Sacks
 source: 20vc

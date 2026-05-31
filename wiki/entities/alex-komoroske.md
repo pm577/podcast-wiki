@@ -1,4 +1,5 @@
 ---
+
 title: Alex Komoroske
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, strategy, product-management, ai, systems-thinking, google]
 sources:
   - raw/transcripts/lenny/alex-komoroske.md
 confidence: high
+subtype: person
 ---
 
 # Alex Komoroske

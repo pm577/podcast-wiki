@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: scaling-startups-into-unicorns
 name: Scaling Startups Into Unicorns
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-08-31
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Mattias launched Atomico in 2006 alongside Niklas Zennström."]
+subtype: article
 ---
 
 # Scaling Startups Into Unicorns

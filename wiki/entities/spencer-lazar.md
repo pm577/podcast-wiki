@@ -1,4 +1,5 @@
 ---
+
 title: Spencer Lazar
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, marketplaces, ai-ml, enterpr
 sources:
   - raw/transcripts/20vc/20vc-2015-06-29-20-vc-049-vc-is-getting-young.md
 confidence: medium
+subtype: person
 ---
 
 

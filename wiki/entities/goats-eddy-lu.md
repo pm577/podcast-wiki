@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: goats-eddy-lu
 name: GOAT's Eddy Lu
 source: 20vc

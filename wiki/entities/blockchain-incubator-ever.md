@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: blockchain-incubator-ever
 name: Blockchain Incubator Ever
 source: 20vc

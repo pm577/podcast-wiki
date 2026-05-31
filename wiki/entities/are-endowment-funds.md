@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: are-endowment-funds
 name: Are Endowment Funds
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-04-24
 tags: ["ai-ml", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["In Today's Show We Discuss:  04:49 Breaking Down the $3BN Windsurf Acquisition 06:18 Why Sam Altman is Playing a Master Game 12:40 Why Multi-Stage Funds are Destroying Seed Managers 21:52 Are Endowmen"]
+subtype: article
 ---
 
 # Are Endowment Funds

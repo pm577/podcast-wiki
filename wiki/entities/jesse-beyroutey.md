@@ -1,4 +1,5 @@
 ---
+
 title: Jesse Beyroutey
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2019-07-22-20vc-ia-ventures-jesse-beyro.md
 confidence: medium
+subtype: person
 ---
 
 

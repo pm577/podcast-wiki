@@ -1,4 +1,5 @@
 ---
+
 title: Oliver Jay
 created: 2026-05-31
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, go-to-market, product-strategy, hiring-culture, enterprise-saas]
 sources:
   - raw/transcripts/20vc/20vc-2022-05-25-20-sales-how-to-create-and-ex.md
 confidence: medium
+subtype: person
 ---
 
 # Oliver Jay (OJ)

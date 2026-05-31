@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-most-downloaded-founder-episode
 name: The Most Downloaded Founder Episode
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-01-03
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Rahul Vohra is the Founder and CEO @ Superhuman, the fastest email experience in the world."]
+subtype: article
 ---
 
 # The Most Downloaded Founder Episode

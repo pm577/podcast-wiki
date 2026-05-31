@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-do-all-pr
 name: How Do All Pr
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-07-24
 tags: ["ai-ml", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Agenda: 00:00 – Did Jason Just Kill Replit?  03:45 – Why Claude Lies To You and Cannot Be Trusted 06:50 – You Cannot Trust Agents."]
+subtype: article
 ---
 
 # How Do All Pr

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: brex-ceo-pedro-franceschi
 name: Brex CEO Pedro Franceschi
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: relationship-of-trust-with-your
 name: Relationship Of Trust With Your
 source: 20vc

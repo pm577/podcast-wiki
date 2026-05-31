@@ -1,4 +1,5 @@
 ---
+
 title: Jen Abel
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, sales, founder-led-sales, startup, saas, go-to-market, customer-d
 sources:
   - raw/transcripts/lenny/jen-abel.md
 confidence: high
+subtype: person
 ---
 
 # Jen Abel

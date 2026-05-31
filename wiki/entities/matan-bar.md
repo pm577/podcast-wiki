@@ -1,4 +1,5 @@
 ---
+
 title: Matan Bar
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, marketplac
 sources:
   - raw/transcripts/20vc/20vc-2021-02-11-20vc-scaling-to-a-13bn-valu.md
 confidence: medium
+subtype: person
 ---
 
 

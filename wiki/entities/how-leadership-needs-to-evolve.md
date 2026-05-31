@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-leadership-needs-to-evolve
 name: How Leadership Needs To Evolve
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-12-14
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Dylan Field is the Founder & CEO @ Figma, the company that helps teams create, test, and ship better designs from start to finish and is one of 2020's fastest-growing companies."]
+subtype: article
 ---
 
 # How Leadership Needs To Evolve

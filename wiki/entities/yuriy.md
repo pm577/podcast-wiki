@@ -1,4 +1,5 @@
 ---
+
 title: Yuriy Timen
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, growth, subscription-business, grammarly, canva, airtable, market
 sources:
   - raw/transcripts/lenny/yuriy-timen.md
 confidence: high
+subtype: person
 ---
 
 # Yuriy Timen

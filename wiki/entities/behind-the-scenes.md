@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: behind-the-scenes
 name: Behind The Scenes
 source: 20vc

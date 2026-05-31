@@ -1,4 +1,5 @@
 ---
+
 title: Barry Schuler
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, hiring-culture, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2017-07-05-20vc-how-to-get-back-to-200-t.md
 confidence: medium
+subtype: person
 ---
 
 

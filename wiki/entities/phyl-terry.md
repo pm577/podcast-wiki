@@ -1,4 +1,5 @@
 ---
+
 title: Phyl Terry
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, job-search, career, never-search-alone, negotiation, creative-goo
 sources:
   - raw/transcripts/lenny/phyl-terry.md
 confidence: high
+subtype: person
 ---
 
 # Phyl Terry
@@ -46,3 +48,15 @@ Most people skip the most critical step: determining what they actually want (an
 - [[negotiation]]
 - [[interviewing]]
 - [[personal-brand]]
+
+---
+
+*Merged from [[phyl]]:*
+
+# Phyl
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/phyl-terry|Land your dream job in today’s market: negotiation tactics, job search councils, more | Phyl Terry]] — *to be summarized*

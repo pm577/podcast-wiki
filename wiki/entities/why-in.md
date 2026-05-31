@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-in
 name: Why In
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-09-06
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Nick Chirls is the Founder of Asylum Ventures, a new venture firm dedicated to the creative act of building companies; treating founders like artists, not assets."]
+subtype: article
 ---
 
 # Why In

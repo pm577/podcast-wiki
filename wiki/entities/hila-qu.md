@@ -1,4 +1,5 @@
 ---
+
 title: Hila Qu
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, growth, plg, product-led-growth, reforge, gitlab, data-led-growth
 sources:
   - raw/transcripts/lenny/hila-qu.md
 confidence: high
+subtype: person
 ---
 
 # Hila Qu
@@ -54,3 +56,15 @@ Hila walks through GitLab's process for finding their activation metric: brainst
 - [[data-led-growth]]
 - [[plg]]
 - [[saas]]
+
+---
+
+*Merged from [[hila]]:*
+
+# Hila
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/hila-qu|The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)]] — *to be summarized*

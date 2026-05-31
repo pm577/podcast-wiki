@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ycs-daniel-gross
 name: YC's Daniel Gross
 source: 20vc

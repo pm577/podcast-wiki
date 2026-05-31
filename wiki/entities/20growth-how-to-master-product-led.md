@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-how-to-master-product-led
 name: "20Growth: How to Master Product-Led"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: How to Master Product-Led-Growth, The Biggest Mistakes 
 ## Summary
 
  Martin Gontovnikas, a.k.a Gonto, is a software engineer at heart who moved to the "dark side" to focus on Marketing."]
+subtype: article
 ---
 
 # 20Growth: How to Master Product-Led

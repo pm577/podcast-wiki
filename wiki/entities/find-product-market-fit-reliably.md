@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: find-product-market-fit-reliably
 name: Find Product Market Fit Reliably
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: could-encourage-bad-behaviour
 name: Could Encourage Bad Behaviour
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: No Venture Funding
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, go-to-market, marketplaces, 
 sources:
   - raw/transcripts/20vc/20vc-2023-04-05-20vc-the-memo-scaling-to-60.md
 confidence: medium
+subtype: person
 ---
 
 

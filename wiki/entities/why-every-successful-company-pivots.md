@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-every-successful-company-pivots
 name: Why Every Successful Company Pivots
 source: 20vc
@@ -13,6 +14,7 @@ Frankel is the founding partner of ff Venture Capital and
 has been an early-stage investor since 1999. He has served on the
 boards of more than 35 companies and has led investments in more
 than 8"]
+subtype: article
 ---
 
 # Why Every Successful Company Pivots

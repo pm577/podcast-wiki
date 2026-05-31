@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lessons-china-taught-about-how-to-invest-bet
 name: Lessons China Taught About How To Invest Bet
 source: 20vc

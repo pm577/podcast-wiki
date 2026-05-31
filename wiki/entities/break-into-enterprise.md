@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: break-into-enterprise
 name: Break Into Enterprise
 source: 20vc

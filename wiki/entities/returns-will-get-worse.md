@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: returns-will-get-worse
 name: Returns Will Get Worse
 source: 20vc

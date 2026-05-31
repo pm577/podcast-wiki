@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-meta-cmo-alex-schultz
 name: "20Growth: Meta CMO Alex Schultz"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: Meta CMO Alex Schultz on How All Founders Have to Chang
 ## Summary
 
 Alex Schultz is the Chief Marketing Officer and VP of Analytics at Meta, where he has spent nearly two decades shaping the company's growth and marketing strategy."]
+subtype: article
 ---
 
 # 20Growth: Meta CMO Alex Schultz

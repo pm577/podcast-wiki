@@ -1,4 +1,5 @@
 ---
+
 title: Jackie Bavaro
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, strategy, career-development, pm-interviews, 
 sources:
   - raw/transcripts/lenny/jackie-bavaro.md
 confidence: high
+subtype: person
 ---
 
 # Jackie Bavaro

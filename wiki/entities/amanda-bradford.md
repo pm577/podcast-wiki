@@ -1,4 +1,5 @@
 ---
+
 title: Amanda Bradford
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2018-06-15-20vc-why-vcs-are-wrong-about.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: different-network-effects-within
 name: Different Network Effects Within
 source: 20vc

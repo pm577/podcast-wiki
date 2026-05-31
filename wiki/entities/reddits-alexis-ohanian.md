@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: reddits-alexis-ohanian
 name: Reddit's Alexis Ohanian
 source: 20vc

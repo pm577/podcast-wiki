@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: okta-ceo-todd-mckinnon
 name: Okta CEO Todd McKinnon
 source: 20vc

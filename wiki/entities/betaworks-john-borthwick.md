@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: betaworks-john-borthwick
 name: Betaworks' John Borthwick
 source: 20vc

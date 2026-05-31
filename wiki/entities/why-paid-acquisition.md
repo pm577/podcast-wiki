@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-paid-acquisition
 name: Why Paid Acquisition
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-11-15
 tags: ["ai-ml", "go-to-market", "hiring-culture"]
 related_concepts: []
 key_views: ["Raman Malik is the Head of Growth at Perplexity where he is responsible for growth marketing, onboarding, activation, retention, and monetisation."]
+subtype: article
 ---
 
 # Why Paid Acquisition

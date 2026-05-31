@@ -1,4 +1,5 @@
 ---
+
 title: Oji Udezue
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/oji-udezue.md
 confidence: high
 key_finding: Sharp problems and the zone of benefit
+subtype: person
 ---
 
 # Oji Udezue

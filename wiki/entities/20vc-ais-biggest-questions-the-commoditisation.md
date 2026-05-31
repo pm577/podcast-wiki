@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-ais-biggest-questions-the-commoditisation
 name: "20VC: AI's Biggest Questions: The Commoditisation"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: AI's Biggest Questions: The Commoditisation of LLMs, Open v
 ## Summary
 
  Des Traynor is a Co-Founder of Intercom, and has built and led many teams within the company, including Product, Marketing, and Customer Support."]
+subtype: article
 ---
 
 # 20VC: AI's Biggest Questions: The Commoditisation

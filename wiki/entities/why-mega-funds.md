@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-mega-funds
 name: Why Mega Funds
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-11-10
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Ev Randle is a General Partner @ Benchmark, one of the best funds in venture capital."]
+subtype: article
 ---
 
 # Why Mega Funds

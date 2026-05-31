@@ -1,4 +1,5 @@
 ---
+
 title: Eddy Lu
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, consumer, founder-psychology, marketplaces, person, product-strate
 sources:
   - raw/transcripts/20vc/20vc-2018-07-27-20vc-goats-eddy-lu-on-pivoti.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-information
 name: The Information
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-05-27
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Jessica Lessin founder and Editor in Chief of The Information."]
+subtype: article
 ---
 
 # The Information

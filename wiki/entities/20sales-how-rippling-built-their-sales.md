@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-how-rippling-built-their-sales
 name: "20Sales: How Rippling Built Their Sales"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: How Rippling Built Their Sales Machine: How to Hire, Tra
 ## Summary
 
 Ashley Kelly is the VP of Global Sales Development at Rippling, the all-in-one platform for HR, IT, and finance."]
+subtype: article
 ---
 
 # 20Sales: How Rippling Built Their Sales

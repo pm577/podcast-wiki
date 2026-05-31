@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-the-future-of-retail-is-not-online
 name: Why The Future Of Retail Is Not Online
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-05-12
 tags: ["go-to-market", "hiring-culture", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Harley Finkelstein is the COO @ Shopify, the e-commerce platform that has allowed a generation of people to become entrepreneurs and business owners."]
+subtype: article
 ---
 
 # Why The Future Of Retail Is Not Online

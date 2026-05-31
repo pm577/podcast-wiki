@@ -1,4 +1,5 @@
 ---
+
 title: Jason Feifer
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, press, pr, entrepreneur-magazine, media, storytelling, public-rel
 sources:
   - raw/transcripts/lenny/jason-feifer.md
 confidence: high
+subtype: person
 ---
 
 # Jason Feifer

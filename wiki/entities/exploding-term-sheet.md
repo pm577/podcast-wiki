@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: exploding-term-sheet
 name: Exploding Term Sheet
 source: 20vc

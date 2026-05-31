@@ -1,4 +1,5 @@
 ---
+
 title: Marty Cagan (2.0)
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, svpg, empowered-teams, product-discovery, pro
 sources:
   - raw/transcripts/lenny/marty-cagan-20.md
 confidence: high
+subtype: person
 ---
 
 # Marty Cagan (2.0)

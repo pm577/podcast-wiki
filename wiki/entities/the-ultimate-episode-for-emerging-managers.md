@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-ultimate-episode-for-emerging-managers
 name: The Ultimate Episode For Emerging Managers
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-10-07
 tags: ["ai-ml", "biotech-health", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["John Fein is the Founder and Managing Partner @ Firebrand Ventures, one of the leading early-stage funds in the midwest with a portfolio including the likes of ScaleFactor, Replica, Dwolla and more fa"]
+subtype: article
 ---
 
 # The Ultimate Episode For Emerging Managers

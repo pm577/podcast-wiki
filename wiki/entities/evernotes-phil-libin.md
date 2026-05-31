@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: evernotes-phil-libin
 name: Evernote's Phil Libin
 source: 20vc

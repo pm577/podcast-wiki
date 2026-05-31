@@ -1,4 +1,5 @@
 ---
+
 title: Kamal Ravikant
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2015-10-05-20-vc-077-part-1-kamal-ravik.md
 confidence: medium
+subtype: person
 ---
 
 

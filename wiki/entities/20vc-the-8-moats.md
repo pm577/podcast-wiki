@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-8-moats
 name: "20VC: The 8 Moats"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The 8 Moats of Enduring Software Companies: How to Analyse 
 ## Summary
 
 Gokul Rajaram is one of the greatest operators turned investors of the last 2 decades."]
+subtype: article
 ---
 
 # 20VC: The 8 Moats

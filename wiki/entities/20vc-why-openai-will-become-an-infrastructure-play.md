@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-openai-will-become-an-infrastructure-play
 name: "20VC: Why OpenAI Will Become an Infrastructure Play"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why OpenAI Will Become an Infrastructure Play, Why Apple Wi
 ## Summary
 
  Jeff Seibert is the Founder & CEO @ Digits, building the future of AI-powered accounting."]
+subtype: article
 ---
 
 # 20VC: Why OpenAI Will Become an Infrastructure Play

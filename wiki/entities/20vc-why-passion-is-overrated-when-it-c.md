@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-passion-is-overrated-when-it-c
 name: "20VC: Why Passion Is Overrated When It C"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Passion Is Overrated When It Comes To Starting Companie
 ## Summary
 
 Waseem Daher is the Founder and CEO @ Pilot, the startup that takes care of your bookkeeping from start to finish so you can focus 100% on making your business succeed."]
+subtype: article
 ---
 
 # 20VC: Why Passion Is Overrated When It C

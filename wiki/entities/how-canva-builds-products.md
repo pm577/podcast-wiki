@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-canva-builds-products
 name: How Canva Builds Products
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-07-19
 tags: ["enterprise-saas", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Cameron Adams is Chief Product Officer and co-founder of Canva where he is responsible for heading up the design and product teams."]
+subtype: article
 ---
 
 # How Canva Builds Products

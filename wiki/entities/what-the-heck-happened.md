@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-the-heck-happened
 name: What The Heck Happened
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-05-01
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Beezer Clarkson is Managing Director @ Sapphire Ventures where she leads Sapphire's investments in venture funds domestically and internationally."]
+subtype: article
 ---
 
 # What The Heck Happened

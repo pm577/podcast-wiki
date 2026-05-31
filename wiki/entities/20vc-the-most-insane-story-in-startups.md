@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-most-insane-story-in-startups
 name: "20VC: The Most Insane Story in Startups:"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Most Insane Story in Startups: Airwallex: The Angel Tha
 ## Summary
 
 Airwallex is the most insane story in startups:  The best angel investment ever: The angel that turned $1M into $1BN."]
+subtype: article
 ---
 
 # 20VC: The Most Insane Story in Startups:

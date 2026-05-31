@@ -1,4 +1,5 @@
 ---
+
 title: Hunter Walk
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [consumer, go-to-market, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-04-03-20vc-homebrews-hunter-walk-o.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-it-takes-to-standout-in
 name: What It Takes To Standout In
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-08-17
 tags: ["consumer", "venture-capital"]
 related_concepts: []
 key_views: ["Ezra Galston is a VC @ Chicago Ventures, where he focuses on consumer facing and marketing tech investments and is actively involved with Blitsy, BloomNation, Kapow Events, Luxury Garage Sale, Shiftgi"]
+subtype: article
 ---
 
 # What It Takes To Standout In

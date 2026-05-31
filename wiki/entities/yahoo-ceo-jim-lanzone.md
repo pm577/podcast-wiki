@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: yahoo-ceo-jim-lanzone
 name: Yahoo CEO Jim Lanzone
 source: 20vc

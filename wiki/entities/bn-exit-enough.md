@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bn-exit-enough
 name: BN Exit Enough
 source: 20vc

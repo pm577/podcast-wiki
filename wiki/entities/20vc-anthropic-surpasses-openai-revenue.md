@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anthropic-surpasses-openai-revenue
 name: "20VC: Anthropic Surpasses OpenAI Revenue"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 03:59 — Anthropic Surpasses OpenAI in Revenue 12:43 — OpenAI Managem
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-anthropic-surpasses-openai-revenue-openai-acquisition-of-tbpn-analysed-openai-management-team-reboot-yc-kicks-delve-out-mercor-hack-and-why-now-is-the-time-for-cyber-supabase-raising-at-10bn-doug-leone-returns-to-sequoia)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Anthropic Surpasses OpenAI Revenue

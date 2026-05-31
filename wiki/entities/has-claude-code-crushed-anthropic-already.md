@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: has-claude-code-crushed-anthropic-already
 name: Has Claude Code Crushed Anthropic Already
 source: 20vc

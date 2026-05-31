@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-capitalgs-laela-sturdy
 name: "20VC: CapitalG's Laela Sturdy"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: CapitalG's Laela Sturdy on The Current State of Growth with
 ## Summary
 
  Laela Sturdy is a General Partner @ CapitalG, Alphabet's independent growth fund with investments in the likes of Stripe, UiPath, Looker, Robinhood and Lyft to name a few."]
+subtype: article
 ---
 
 # 20VC: CapitalG's Laela Sturdy

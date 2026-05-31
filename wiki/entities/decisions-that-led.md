@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: decisions-that-led
 name: Decisions That Led
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: imposter-sy
 name: Imposter Sy
 source: 20vc

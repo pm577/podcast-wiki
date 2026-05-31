@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-price-sensitivity-is-bs-why
 name: "20VC: Why Price Sensitivity is BS | Why"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Price Sensitivity is BS | Why "Portfolios" are Merely a
 ## Summary
 
 Klaus Hommels is one of Europe's leading start investors of the last decade with a portfolio including the likes of Spotify, Airbnb, Facebook, Coinbase, Revolut and more."]
+subtype: article
 ---
 
 # 20VC: Why Price Sensitivity is BS | Why

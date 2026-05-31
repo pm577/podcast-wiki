@@ -1,4 +1,5 @@
 ---
+
 title: Mac Vc
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2021-11-01-20vc-mac-the-vc-on-the-journe.md
 confidence: medium
+subtype: person
 ---
 
 

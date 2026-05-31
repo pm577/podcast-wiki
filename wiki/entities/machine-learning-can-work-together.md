@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: machine-learning-can-work-together
 name: Machine Learning Can Work Together
 source: 20vc

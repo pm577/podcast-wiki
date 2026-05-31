@@ -1,4 +1,5 @@
 ---
+
 title: Lyon Wong
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2016-10-26-20vc-why-you-dont-have-to-ha.md
 confidence: medium
+subtype: person
 ---
 
 

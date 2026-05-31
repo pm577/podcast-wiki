@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-fund-returners-are-not-enough-anymore
 name: Why Fund Returners Are Not Enough Anymore
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-05-01
 tags: ["ai-ml", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["In Today's Episode We Discuss: 03:56 Why The Risk Lever Has Been Turned Higher than Ever in VC 06:04 Why IRR is the Hardest Thing to Control 09:36 Is Lack of Liquidity Short Term Temporary or Long Ter"]
+subtype: article
 ---
 
 # Why Fund Returners Are Not Enough Anymore

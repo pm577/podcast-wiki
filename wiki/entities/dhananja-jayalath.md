@@ -1,4 +1,5 @@
 ---
+
 title: Dhananja Jayalath
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml, con
 sources:
   - raw/transcripts/20vc/20vc-2016-08-05-20vc-turning-down-apple-get.md
 confidence: medium
+subtype: person
 ---
 
 

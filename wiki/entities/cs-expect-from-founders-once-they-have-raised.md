@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-expect-from-founders-once-they-have-raised
 name: Cs Expect From Founders Once They Have Raised
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Eoghan McCabe
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, intercom, ai, founder, ceo, customer-service, pivoting]
 sources:
   - raw/transcripts/lenny/eoghan-mccabe.md
 confidence: high
+subtype: person
 ---
 
 # Eoghan McCabe
@@ -54,3 +56,15 @@ Intercom had a working Fin prototype just six weeks after GPT-3.5 launched. Eogh
 - [[saas-pivoting]]
 - [[pricing]]
 - [[founder-mode]]
+
+---
+
+*Merged from [[eoghan]]:*
+
+# Eoghan
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/eoghan-mccabe|How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)]] — *to be summarized*

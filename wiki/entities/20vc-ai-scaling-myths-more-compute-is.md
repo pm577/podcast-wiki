@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-ai-scaling-myths-more-compute-is
 name: "20VC: AI Scaling Myths: More Compute is"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: AI Scaling Myths: More Compute is not the Answer | The Core
 ## Summary
 
  Arvind Narayanan is a professor of Computer Science at Princeton and the director of the Center for Information Technology Policy."]
+subtype: article
 ---
 
 # 20VC: AI Scaling Myths: More Compute is

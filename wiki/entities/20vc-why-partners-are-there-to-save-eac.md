@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-partners-are-there-to-save-eac
 name: "20VC: Why Partners Are There To Save Eac"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Partners Are There To Save Each Other From Themselves, 
 ## Summary
 
 Jeff Fagnan is Founding Partner @ Accomplice, one of the East Coast's leading early-stage funds with a portfolio including the likes of AngelList, PillPack (acq by Amazon), Freshbooks, Hopper, Secret Escapes and many more incredible companies."]
+subtype: article
 ---
 
 # 20VC: Why Partners Are There To Save Eac

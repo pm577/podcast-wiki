@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: deel-ceo-alex-bouaziz
 name: Deel CEO Alex Bouaziz
 source: 20vc

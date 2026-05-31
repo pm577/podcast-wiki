@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-stripe-sales-playbook
 name: The Stripe Sales Playbook
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-03-09
 tags: ["enterprise-saas", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Jeanne DeWitt Grosser is Head of Americas Revenue & Growth @ Stripe."]
+subtype: article
 ---
 
 # The Stripe Sales Playbook

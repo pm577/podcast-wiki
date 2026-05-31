@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-inside-bending-spoons-acquisition-machine-evernote
 name: "20VC: Inside Bending Spoons Acquisition Machine: Evernote"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Inside Bending Spoons Acquisition Machine: Evernote, Eventb
 ## Summary
 
 Bending Spoons is the acquisition machine of the tech world."]
+subtype: article
 ---
 
 # 20VC: Inside Bending Spoons Acquisition Machine: Evernote

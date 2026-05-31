@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-add-value-once-invested
 name: How To Add Value Once Invested
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-12-09
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["David Teten is a Partner at ff Venture Capital and is also Founder and Chairman of Harvard Business School Alumni Angels of Greater New York, the largest angel group in New York."]
+subtype: article
 ---
 
 # How To Add Value Once Invested

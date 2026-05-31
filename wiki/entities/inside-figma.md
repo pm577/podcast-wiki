@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: inside-figma
 name: Inside Figma
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-03-21
 tags: ["ai-ml", "go-to-market", "hiring-culture"]
 related_concepts: []
 key_views: ["Shaunt Voskanian is the CRO @ Figma, where he has scaled the sales machine to over $1BN in ARR and over 400 people."]
+subtype: article
 ---
 
 # Inside Figma

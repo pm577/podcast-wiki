@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-instil-radical-candor-in-your-organisation
 name: How To Instil Radical Candor In Your Organisation
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-04-28
 tags: ["consumer", "fintech", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Jason Brown is the Founder & CEO @ Tally, the startup that is building a better credit card experience giving power to the consumer."]
+subtype: article
 ---
 
 # How To Instil Radical Candor In Your Organisation

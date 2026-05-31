@@ -1,4 +1,5 @@
 ---
+
 title: Denise Tilles
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/melissa-perri-denise-tilles.md
 confidence: medium
 key_finding: Product ops creates the infrastructure for PMs to focus on strategic work
+subtype: person
 ---
 
 # Denise Tilles

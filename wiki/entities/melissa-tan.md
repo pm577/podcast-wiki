@@ -1,4 +1,5 @@
 ---
+
 title: Melissa Tan
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/melissa-tan.md
 confidence: high
 key_finding: First principles thinking and hiring smart generalists drives growth innovation
+subtype: person
 ---
 
 # Melissa Tan

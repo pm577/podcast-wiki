@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-startups-should-react-to-today
 name: How Startups Should React To Today
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-05-18
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Jenny Lefcourt is a Partner @ Freestyle where she invests in early stage tech companies."]
+subtype: article
 ---
 
 # How Startups Should React To Today

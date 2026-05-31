@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: seed-investments
 name: Seed Investments
 source: 20vc

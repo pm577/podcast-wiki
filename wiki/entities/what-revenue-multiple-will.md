@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-revenue-multiple-will
 name: What Revenue Multiple Will
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-02-16
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Sebastian Siemiatkowski is the co-founder and CEO of Klarna, the global digital bank with over 114 million global active users and 3."]
+subtype: article
 ---
 
 # What Revenue Multiple Will

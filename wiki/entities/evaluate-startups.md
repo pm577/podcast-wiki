@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: evaluate-startups
 name: Evaluate Startups
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-ultimate-equation
 name: The Ultimate Equation
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-12-13
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Guillaume Moubeche is the Founder of Lempire, a company he has bootstrapped in the most competitive market in technology and scaled to a staggering $30M in ARR."]
+subtype: article
 ---
 
 # The Ultimate Equation

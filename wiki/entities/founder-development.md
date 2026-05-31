@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: founder-development
 name: Founder Development
 source: 20vc

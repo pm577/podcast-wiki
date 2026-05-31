@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: top-five-growth-lessons-scaling-stitchfix
 name: Top Five Growth Lessons Scaling Stitchfix
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-02-15
 tags: ["ai-ml", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Mike Duboe is a Partner @ Greylock where he sits on the board of Builder, Inventa, Novi, Pepper, Postscript."]
+subtype: article
 ---
 
 # Top Five Growth Lessons Scaling Stitchfix

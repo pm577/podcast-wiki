@@ -1,4 +1,5 @@
 ---
+
 title: Combinator President
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2018-01-17-20vc-sam-altman-y-combinator.md
 confidence: medium
+subtype: person
 ---
 
 

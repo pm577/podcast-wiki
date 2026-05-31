@@ -1,4 +1,5 @@
 ---
+
 title: Mega Funds Will Come
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [enterprise-saas, founder-psychology, go-to-market, person, product-strate
 sources:
   - raw/transcripts/20vc/20vc-2023-08-23-20vc-new-format-mega-funds-w.md
 confidence: medium
+subtype: person
 ---
 
 

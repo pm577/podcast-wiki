@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lowercases-matt-mazzeo
 name: Lowercase's Matt Mazzeo
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-15-term-sheets-in-7-days-and-choos
 name: "20VC: 15 Term Sheets in 7 Days and Choos"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: 15 Term Sheets in 7 Days and Choosing Benchmark | Harvey vs
 ## Summary
 
 Max Junestrand is the Co-Founder and CEO @ Legora, the collaborative AI powering the next generation of lawyers."]
+subtype: article
 ---
 
 # 20VC: 15 Term Sheets in 7 Days and Choos

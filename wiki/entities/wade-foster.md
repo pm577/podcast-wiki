@@ -1,4 +1,5 @@
 ---
+
 title: Wade Foster
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2021-04-15-20vc-scaling-zapier-to-140m.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+
 title: Paul Buchheit
 created: 2026-05-31
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, y-combinator, venture-capital, ai-ml, google, gmail, founder-psyc
 sources:
   - raw/transcripts/20vc/20vc-2017-11-01-20vc-y-combinators-paul-buch.md
 confidence: medium
+subtype: person
 ---
 
 # Paul Buchheit

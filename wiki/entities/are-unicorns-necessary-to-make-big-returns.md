@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: are-unicorns-necessary-to-make-big-returns
 name: Are Unicorns Necessary To Make Big Returns
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-12-23
 tags: ["consumer", "venture-capital"]
 related_concepts: []
 key_views: ["Sumeet Shah is an investor @ Brand Foundry Ventures, who have investments in the likes of Warby Parker, Birchbox and Contently."]
+subtype: article
 ---
 
 # Are Unicorns Necessary To Make Big Returns

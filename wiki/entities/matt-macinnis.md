@@ -1,4 +1,5 @@
 ---
+
 title: Matt MacInnis
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/matt-macinnis.md
 confidence: high
 key_finding: Extraordinary results require extraordinary effort
+subtype: person
 ---
 
 # Matt MacInnis
@@ -37,3 +39,15 @@ Matt MacInnis is Chief Product Officer (formerly longtime Chief Operating Office
 - [[matt-mochary]]
 - [[nikhyl-singhal]]
 - [[brian-chesky]]
+
+---
+
+*Merged from [[matt]]:*
+
+# Matt
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/matt-mullenweg|The one question that saves product careers | Matt LeMay]] — *to be summarized*

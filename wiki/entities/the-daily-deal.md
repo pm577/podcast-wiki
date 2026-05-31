@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-daily-deal
 name: The Daily Deal
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-04-03
 tags: ["ai-ml", "enterprise-saas", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Welcome to The Daily Deal — the new show with Harry Stebbings and Jason Lemkin, where we break down the biggest stories in tech, venture, and B2B."]
+subtype: article
 ---
 
 # The Daily Deal

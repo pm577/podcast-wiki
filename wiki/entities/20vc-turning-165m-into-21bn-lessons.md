@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-turning-165m-into-21bn-lessons
 name: "20VC: Turning $16.5M into $2.1BN; Lessons"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Turning $16.5M into $2.1BN; Lessons from the Greatest Ventu
 ## Summary
 
 Cem Sertoglu is one of the great venture investors of the last decade."]
+subtype: article
 ---
 
 # 20VC: Turning $16.5M into $2.1BN; Lessons

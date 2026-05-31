@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: has-become-the-primary-method
 name: Has Become The Primary Method
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-what-it-takes-to-be-top-1-in-priv
 name: "20VC: What it Takes to be Top 1% in Priv"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: What it Takes to be Top 1% in Private Equity | Why the Best
 ## Summary
 
  Justin is the Founder and Managing Partner of one of the nation's best-performing private equity firms, Shore Capital Partners ("Shore")."]
+subtype: article
 ---
 
 # 20VC: What it Takes to be Top 1% in Priv

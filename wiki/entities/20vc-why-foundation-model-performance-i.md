@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-foundation-model-performance-i
 name: "20VC: Why Foundation Model Performance i"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Foundation Model Performance is Not Diminishing But Mod
 ## Summary
 
  David Luan is the CEO and Co-Founder at Adept, a company building AI agents for knowledge workers."]
+subtype: article
 ---
 
 # 20VC: Why Foundation Model Performance i

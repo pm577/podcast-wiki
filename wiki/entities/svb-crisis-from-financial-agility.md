@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: svb-crisis-from-financial-agility
 name: SVB Crisis From Financial Agility
 source: 20vc

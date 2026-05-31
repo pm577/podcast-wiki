@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: richard-hanson
 name: Richard Hanson,
 source: 20vc

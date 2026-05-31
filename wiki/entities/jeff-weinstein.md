@@ -1,4 +1,5 @@
 ---
+
 title: Jeff Weinstein
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, stripe, customer-obsession, metrics, zero-to-
 sources:
   - raw/transcripts/lenny/jeff-weinstein.md
 confidence: high
+subtype: person
 ---
 
 # Jeff Weinstein

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: buffers-joel-gascoigne
 name: Buffer's Joel Gascoigne
 source: 20vc

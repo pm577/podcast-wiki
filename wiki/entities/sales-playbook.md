@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sales-playbook
 name: Sales Playbook
 source: 20vc

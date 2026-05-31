@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: growth-hacking-ruined
 name: Growth Hacking Ruined
 source: 20vc

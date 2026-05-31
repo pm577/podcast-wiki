@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-the-7-core-levers-to-win
 name: "20Growth: The 7 Core Levers to Win"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: The 7 Core Levers to Win at Consumer Subscription: Grow
 ## Summary
 
  Phil Carter is one of the best growth leaders of the last decade helping world-class companies like Faire, Quizlet, and Ibotta accelerate their growth."]
+subtype: article
 ---
 
 # 20Growth: The 7 Core Levers to Win

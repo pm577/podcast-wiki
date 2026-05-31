@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-codex-vs-claude-code-vs-cursor-who-wins-who-loses-will
 name: "20VC: Codex vs Claude Code vs Cursor: Who Wins, Who Loses | Will All Coding Be Automated"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Codex vs Claude Code vs Cursor: Who Wins, Who Loses | Will 
 ## Summary
 
 Alexander Embiricos is the Head of Codex at OpenAI, leading the development of the company's flagship AI coding systems that power automated software generation, debugging and developer workflows."]
+subtype: article
 ---
 
 # 20VC: Codex vs Claude Code vs Cursor: Who Wins, Who Loses | Will All Coding Be Automated

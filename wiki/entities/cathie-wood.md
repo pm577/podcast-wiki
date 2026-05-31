@@ -1,4 +1,5 @@
 ---
+
 title: Cathie Wood
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2022-11-14-20vc-ark-invests-cathie-wood.md
 confidence: medium
+subtype: person
 ---
 
 

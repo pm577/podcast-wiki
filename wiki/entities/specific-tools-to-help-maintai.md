@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: specific-tools-to-help-maintai
 name: Specific Tools To Help Maintai
 source: 20vc

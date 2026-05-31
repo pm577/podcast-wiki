@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: deliveroo-founder-will-shu
 name: Deliveroo Founder Will Shu
 source: 20vc

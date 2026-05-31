@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-ai-sdrs-are-bs-and-do-not-work
 name: "20VC: Why AI SDRs are BS and Do Not Work"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why AI SDRs are BS and Do Not Work | How to Use AI in Your 
 ## Summary
 
 Amit Bendov is Co-Founder & CEO of Gong, the leading AI-sales platform."]
+subtype: article
 ---
 
 # 20VC: Why AI SDRs are BS and Do Not Work

@@ -1,4 +1,5 @@
 ---
+
 title: Vikrama Dhiman
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, career-growth, gojek, pm-skills]
 sources:
   - raw/transcripts/lenny/vikrama-dhiman.md
 confidence: high
+subtype: person
 ---
 
 # Vikrama Dhiman

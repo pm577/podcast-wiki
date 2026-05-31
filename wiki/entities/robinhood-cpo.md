@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: robinhood-cpo
 name: Robinhood CPO
 source: 20vc

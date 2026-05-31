@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fastest-depreciating-asset
 name: Fastest Depreciating Asset
 source: 20vc

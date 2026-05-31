@@ -1,4 +1,5 @@
 ---
+
 title: Misha Esipov
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, fintech, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2020-03-20-20vc-how-to-assess-risk-and-v.md
 confidence: medium
+subtype: person
 ---
 
 

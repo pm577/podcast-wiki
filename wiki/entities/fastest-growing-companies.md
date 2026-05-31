@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fastest-growing-companies
 name: Fastest Growing Companies
 source: 20vc

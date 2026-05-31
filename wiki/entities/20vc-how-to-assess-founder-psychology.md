@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-to-assess-founder-psychology
 name: "20VC: How To Assess Founder Psychology"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How To Assess Founder Psychology, Why Talking About Financi
 ## Summary
 
 Kara Nortman is a Partner @ Upfront Ventures, one of LA's leading venture funds."]
+subtype: article
 ---
 
 # 20VC: How To Assess Founder Psychology

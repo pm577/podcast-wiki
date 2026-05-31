@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-musks-trn-pay-package-broken-dow
 name: "20VC: Musk's $TRN Pay Package Broken Dow"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: [00:05] Musk's $1 Trillion Pay Package: The Breakdown? [00:15] Scale, Wi
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-musks-trn-pay-package-broken-down-ramp-hits-1bn-arr-and-brex-hits-700m-who-wins-openais-10bn-secondary-sale-atlassian-buys-the-browser-company-for-610m-asml-lead-roun-into-mistral-at-14bn-valuation)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Musk's $TRN Pay Package Broken Dow

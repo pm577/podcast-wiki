@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: investing-lessons-from-observing-doug-leone
 name: Investing Lessons From Observing Doug Leone
 source: 20vc

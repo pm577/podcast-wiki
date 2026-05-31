@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sales-teams-will-be-dramatically
 name: Sales Teams Will Be Dramatically
 source: 20vc

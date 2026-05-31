@@ -1,4 +1,5 @@
 ---
+
 title: Katie Dill
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, design, product-design, stripe, airbnb, lyft, beauty, design-lead
 sources:
   - raw/transcripts/lenny/katie-dill.md
 confidence: high
+subtype: person
 ---
 
 # Katie Dill

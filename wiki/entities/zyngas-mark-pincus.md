@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: zyngas-mark-pincus
 name: Zynga's Mark Pincus
 source: 20vc

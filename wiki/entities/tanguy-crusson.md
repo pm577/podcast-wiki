@@ -1,4 +1,5 @@
 ---
+
 title: Tanguy Crusson
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, zero-to-one, enterprise-saas, innovation, atl
 sources:
   - raw/transcripts/lenny/tanguy-crusson.md
 confidence: high
+subtype: person
 ---
 
 # Tanguy Crusson
@@ -61,3 +63,15 @@ Key principles: treat it like the team is being hired, not the business being bo
 - [[internal-innovation]]
 - [[enterprise-saas]]
 - [[product-discovery]]
+
+---
+
+*Merged from [[tanguy]]:*
+
+# Tanguy
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/tanguy-crusson|Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)]] — *to be summarized*

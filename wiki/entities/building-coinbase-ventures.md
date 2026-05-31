@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: building-coinbase-ventures
 name: Building Coinbase Ventures
 source: 20vc

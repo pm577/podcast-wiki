@@ -1,4 +1,5 @@
 ---
+
 title: Roger Martin
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, strategy, playing-to-win, author, rotman, management-thinking, ad
 sources:
   - raw/transcripts/lenny/roger-martin.md
 confidence: high
+subtype: person
 ---
 
 # Roger Martin

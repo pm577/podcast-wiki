@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: im-not-your-traditional-vc
 name: I'm Not Your Traditional VC'
 source: 20vc

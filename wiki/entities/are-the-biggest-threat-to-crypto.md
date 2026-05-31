@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: are-the-biggest-threat-to-crypto
 name: Are The Biggest Threat To Crypto
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-09-15
 tags: ["fintech", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Charlie Lee is the creator of Litecoin, the most popular alternative currency to Bitcoin, which Charlie created as a side project in 2011 while working at Google."]
+subtype: article
 ---
 
 # Are The Biggest Threat To Crypto

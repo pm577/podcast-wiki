@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: best-product-people-actually-build-less
 name: Best Product People Actually Build Less
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Henry Schuck
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, enterprise-s
 sources:
   - raw/transcripts/20vc/20vc-2023-01-09-20vc-from-a-5000-college-fu.md
 confidence: medium
+subtype: person
 ---
 
 

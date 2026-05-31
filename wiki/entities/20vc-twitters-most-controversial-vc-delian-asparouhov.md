@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-twitters-most-controversial-vc-delian-asparouhov
 name: "20VC: Twitter's Most Controversial VC Delian Asparouhov"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Twitter's Most Controversial VC Delian Asparouhov on Inside
 ## Summary
 
  Delian Asparouhov is a Partner at Founders Fund and Co-Founder and President of Varda Space Industries, which is building the world's first space factories."]
+subtype: article
 ---
 
 # 20VC: Twitter's Most Controversial VC Delian Asparouhov

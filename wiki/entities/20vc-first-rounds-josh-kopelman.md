@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-first-rounds-josh-kopelman
 name: "20VC: First Round's Josh Kopelman"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: First Round's Josh Kopelman on Why Price Is Both An Art and
 ## Summary
 
 Josh Kopelman is Founder & Partner @ First Round, one of the world's leading seed funds with a portfolio including the likes of Uber, Warby Parker, Flatiron Health, Square, HotelTonight, GOAT and more incredible companies."]
+subtype: article
 ---
 
 # 20VC: First Round's Josh Kopelman

@@ -1,4 +1,5 @@
 ---
+
 title: Hamel Husain & Shreya Shankar
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/hamel-husain-shreya-shankar.md
   - raw/transcripts/lenny/hamelshreya.md
 confidence: high
+subtype: person
 ---
 
 # Hamel Husain & Shreya Shankar
@@ -55,3 +57,15 @@ Hamel and Shreya emphasize that the eval process is a skill that, once learned, 
 - [[product-development]]
 - [[data-science]]
 - [[eval]]
+
+---
+
+*Merged from [[hamel]]:*
+
+# Hamel
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/hamel-husain-shreya-shankar|Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar]] — *to be summarized*

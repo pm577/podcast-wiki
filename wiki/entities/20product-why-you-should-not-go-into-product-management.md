@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-why-you-should-not-go-into-product-management
 name: "20Product: Why You Should Not Go Into Product Management"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Why You Should Not Go Into Product Management, Why the
 ## Summary
 
  David Meyer is the SVP Products at Databricks where he drives product strategy and execution."]
+subtype: article
 ---
 
 # 20Product: Why You Should Not Go Into Product Management

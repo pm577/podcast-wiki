@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-how-to-layer-enterprise-sales
 name: "20Sales: How to Layer Enterprise Sales"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: How to Layer Enterprise Sales on PLG | How to Sell AI To
 ## Summary
 
 Kim Graves is GM, Americas at Notion, where she oversees all Sales and Customer Success efforts across the region."]
+subtype: article
 ---
 
 # 20Sales: How to Layer Enterprise Sales

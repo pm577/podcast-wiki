@@ -1,4 +1,5 @@
 ---
+
 title: Judith Elsea
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology]
 sources:
   - raw/transcripts/20vc/20vc-2016-09-26-20vc-the-3-things-lps-want-to.md
 confidence: medium
+subtype: person
 ---
 
 

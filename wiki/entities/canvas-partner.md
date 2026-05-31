@@ -1,4 +1,5 @@
 ---
+
 title: Canvas Partner
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, fintech, biotech-health, enterpris
 sources:
   - raw/transcripts/20vc/20vc-2016-12-19-20vc-learnings-from-mary-meek.md
 confidence: medium
+subtype: person
 ---
 
 

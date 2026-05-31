@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: eight-pieces
 name: Eight Pieces
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-06-26
 tags: ["ai-ml", "founder-psychology", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Akin Babayigit is a serial entrepreneur and an active angel investor."]
+subtype: article
 ---
 
 # Eight Pieces

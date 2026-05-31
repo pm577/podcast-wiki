@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-public-markets-have-written-allbirds-off
 name: Why Public Markets Have Written Allbirds Off
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-11-06
 tags: ["biotech-health", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Joey Zwillinger is the Co-Founder & CEO @ Allbirds, the company behind the world's most comfortable shoe."]
+subtype: article
 ---
 
 # Why Public Markets Have Written Allbirds Off

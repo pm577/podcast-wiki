@@ -1,4 +1,5 @@
 ---
+
 title: Kathleen Utecht
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2017-09-13-20vc-why-vc-is-a-lifestyle-no.md
 confidence: medium
+subtype: person
 ---
 
 

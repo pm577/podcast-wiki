@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-single-question-that-defines-the-art
 name: The Single Question That Defines The Art
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-03-29
 tags: ["venture-capital"]
 related_concepts: []
 key_views: ["Peter Fenton is a General Partner @ Benchmark, one of the great venture firms of the last 3 decades with a portfolio including the likes of SNAP, Twitter, eBay, New Relic, Stitchfix and many more."]
+subtype: article
 ---
 
 # The Single Question That Defines The Art

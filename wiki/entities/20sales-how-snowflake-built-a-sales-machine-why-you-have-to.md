@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-how-snowflake-built-a-sales-machine-why-you-have-to
 name: "20Sales: How Snowflake Built a Sales Machine | Why You Have to Hire a CRO Pre"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: How Snowflake Built a Sales Machine | Why You Have to Hi
 ## Summary
 
  Chad Peets is one of the greatest sales leaders and recruiters of the last 25 years."]
+subtype: article
 ---
 
 # 20Sales: How Snowflake Built a Sales Machine | Why You Have to Hire a CRO Pre

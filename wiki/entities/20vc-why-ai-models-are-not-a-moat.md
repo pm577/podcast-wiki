@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-ai-models-are-not-a-moat
 name: "20VC: Why AI Models are not a Moat"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why AI Models are not a Moat, Where Does the Value in AI Ac
 ## Summary
 
  Cris Valenzuela is the CEO and co-founder of Runway, the company that trains and builds generative AI models for content creation."]
+subtype: article
 ---
 
 # 20VC: Why AI Models are not a Moat

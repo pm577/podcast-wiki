@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ripplings-cro
 name: Rippling's CRO
 source: 20vc

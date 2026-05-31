@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-elevenlabs-hits-200m-arr-the-untold-story
 name: "20VC: ElevenLabs Hits $200M ARR: The Untold Story"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: ElevenLabs Hits $200M ARR: The Untold Story of Europe's Fas
 ## Summary
 
 Mati Staniszewski is the Co-Founder and CEO of ElevenLabs, the world's leading AI voice platform."]
+subtype: article
 ---
 
 # 20VC: ElevenLabs Hits $200M ARR: The Untold Story

@@ -38,3 +38,5 @@
 ## [2026-05-31 08:23] ingest | Bulk migration from guest/topic stubs
 - Pages created: 180
 - Details: concept: 180 (Ab Testing, Acquisition, Activation, Analytics, Churn...)
+
+2026-05-31 | Created synthesis-quality-standard concept page — quality benchmark for good answers. Exemplar: 19-year-old AI career advice. Includes anti-patterns list and evaluation criteria.

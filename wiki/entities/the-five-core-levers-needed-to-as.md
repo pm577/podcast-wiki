@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-five-core-levers-needed-to-as
 name: The Five Core Levers Needed To As
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-09-12
 tags: ["ai-ml", "fintech", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Will Quist is a Partner @ Slow Ventures."]
+subtype: article
 ---
 
 # The Five Core Levers Needed To As

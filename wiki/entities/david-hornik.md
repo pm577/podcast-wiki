@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: david-hornik
 name: David Hornik
 source: 20vc

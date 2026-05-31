@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: shopifys-vp-product
 name: Shopify's VP Product
 source: 20vc

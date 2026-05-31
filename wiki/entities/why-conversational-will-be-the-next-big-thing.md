@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-conversational-will-be-the-next-big-thing
 name: Why Conversational Will Be The Next Big Thing
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-01-25
 tags: ["venture-capital"]
 related_concepts: []
 key_views: ["Sarah Guo is an investor @ Greylock Partners, which she joined in 2013."]
+subtype: article
 ---
 
 # Why Conversational Will Be The Next Big Thing

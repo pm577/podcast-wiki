@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-right-way-for-founders-to-thin
 name: "20VC: The Right Way For Founders To Thin"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Right Way For Founders To Think About Capital Efficienc
 ## Summary
 
 Mariam Naficy has pioneered consumer Internet models since 1998, when she co-founded the first online cosmetics retailer, Eve.com, which was sold for over $100 million."]
+subtype: article
 ---
 
 # 20VC: The Right Way For Founders To Thin

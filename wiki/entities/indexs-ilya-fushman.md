@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: indexs-ilya-fushman
 name: Index's Ilya Fushman
 source: 20vc

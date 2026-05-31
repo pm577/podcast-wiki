@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fundamentally-misaligned
 name: Fundamentally Misaligned
 source: 20vc

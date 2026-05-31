@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/lenny-2026-03-01-jenny-wen.md
+
 title: Jen
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +10,7 @@ tags: [person]
 sources:
   - episodes/lenny/jen-abel-20|$1M to $10M: The enterprise sales playbook with Jen Abel
 confidence: medium
+subtype: person
 ---
 
 # Jen

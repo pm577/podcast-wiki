@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-crypto-is-the-biggest-disruptor-to-hit
 name: Why Crypto Is The Biggest Disruptor To Hit
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-05-14
 tags: ["ai-ml", "fintech", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Boris Wertz is the Founding Partner @ Version One Ventures, one of North America's leading early-stage funds with a portfolio including the likes of previous guests Coinbase, AngelList, Shippo, TopHat"]
+subtype: article
 ---
 
 # Why Crypto Is The Biggest Disruptor To Hit

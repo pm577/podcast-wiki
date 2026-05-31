@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-does-it-take-to-raise
 name: What Does It Take To Raise
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-10-11
 tags: ["ai-ml", "fintech", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Samir Kaji is what one might call, a master of all things seed stage and micro VC financing."]
+subtype: article
 ---
 
 # What Does It Take To Raise

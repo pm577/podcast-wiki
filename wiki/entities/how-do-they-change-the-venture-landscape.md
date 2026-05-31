@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-do-they-change-the-venture-landscape
 name: How Do They Change The Venture Landscape
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-08-31
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Kevin Hartz is Co-Founder & Partner @ A*, a newly listed special acquisition company which raised $200M to acquire and take public a tech startup."]
+subtype: article
 ---
 
 # How Do They Change The Venture Landscape

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-you-should-lo
 name: Why You Should Lo
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-10-12
 tags: ["hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Gustav Söderström is Spotify's Chief Research & Development Officer."]
+subtype: article
 ---
 
 # Why You Should Lo

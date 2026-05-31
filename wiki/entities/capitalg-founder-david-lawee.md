@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: capitalg-founder-david-lawee
 name: CapitalG Founder David Lawee
 source: 20vc

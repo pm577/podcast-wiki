@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: revenue-does-not-create-usage
 name: Revenue Does Not Create Usage
 source: 20vc

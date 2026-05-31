@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-frontier-labs-will-be-way
 name: Why Frontier Labs Will Be Way
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-04-20
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Aaron Levie is one of the most forward-thinking public company CEOs when it comes to enterprise adoption of AI."]
+subtype: article
 ---
 
 # Why Frontier Labs Will Be Way

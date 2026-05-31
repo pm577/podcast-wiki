@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: scaling-marketplaces
 name: Scaling Marketplaces
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-02-12
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Thomas Plantenga is the CEO @ Vinted, one of the fastest-growing marketplaces in the world with a  valuation of $4."]
+subtype: article
 ---
 
 # Scaling Marketplaces

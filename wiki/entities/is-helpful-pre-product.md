@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: is-helpful-pre-product
 name: Is Helpful Pre Product
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-12-17
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["David Hsu is the Founder & CEO @ Retool, the company that allows you to build internal tools, remarkably fast."]
+subtype: article
 ---
 
 # Is Helpful Pre Product

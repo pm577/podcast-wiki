@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: oaktree-capitals-howard-marks
 name: Oaktree Capital's Howard Marks
 source: 20vc

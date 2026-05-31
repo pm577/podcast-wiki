@@ -1,4 +1,5 @@
 ---
+
 title: Kieran Flanagan
 created: 2026-06-01
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, hubspot, growth, marketing, product-led-growth, cmo, communities,
 sources:
   - raw/transcripts/20vc/20vc-2022-08-10-20-growth-why-you-need-a-grow.md
 confidence: medium
+subtype: person
 ---
 
 # Kieran Flanagan

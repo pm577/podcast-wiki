@@ -1,4 +1,5 @@
 ---
+
 title: Alex Hardiman
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, media, subscription, leadership, journalism]
 sources:
   - raw/transcripts/lenny/alex-hardimen.md
 confidence: high
+subtype: person
 ---
 
 # Alex Hardiman

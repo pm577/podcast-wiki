@@ -1,4 +1,5 @@
 ---
+
 title: Kurt Rathmann
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2020-01-10-20vc-raising-105m-in-just-13.md
 confidence: medium
+subtype: person
 ---
 
 

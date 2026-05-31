@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-strategy-behind
 name: The Strategy Behind
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-07-03
 tags: ["founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Avi Eyal is Co-Founder and Managing Partner of Entrée Capital, an early-stage VC fund with a portfolio including the likes of Monday."]
+subtype: article
 ---
 
 # The Strategy Behind

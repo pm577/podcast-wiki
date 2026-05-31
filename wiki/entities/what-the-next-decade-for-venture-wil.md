@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-the-next-decade-for-venture-wil
 name: What The Next Decade For Venture Wil
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-10-20
 tags: ["ai-ml", "biotech-health", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Ankur Nagpal is the Founding Partner @ Vibe Capital, today announcing his new $70M solo GP fund and with a track record that includes the likes of Roam Research, Eight Sleep, Circle, Hone Health and M"]
+subtype: article
 ---
 
 # What The Next Decade For Venture Wil

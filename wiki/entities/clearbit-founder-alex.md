@@ -1,4 +1,5 @@
 ---
+
 title: Clearbit Founder Alex
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, go-to-market, hiring-culture, person, venture-
 sources:
   - raw/transcripts/20vc/20vc-2019-09-13-20vc-clearbit-founder-alex-ma.md
 confidence: medium
+subtype: person
 ---
 
 

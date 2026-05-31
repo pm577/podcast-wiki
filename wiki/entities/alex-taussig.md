@@ -1,4 +1,5 @@
 ---
+
 title: Alex Taussig
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2018-03-12-20vc-lightspeeds-alex-taussi.md
 confidence: medium
+subtype: person
 ---
 
 

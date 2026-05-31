@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ps-open-for-business
 name: Ps Open For Business
 source: 20vc

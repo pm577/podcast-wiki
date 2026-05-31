@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: operating-lessons-scaling-products
 name: Operating Lessons Scaling Products
 source: 20vc

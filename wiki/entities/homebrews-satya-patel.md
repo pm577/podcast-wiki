@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: homebrews-satya-patel
 name: Homebrew's Satya Patel
 source: 20vc

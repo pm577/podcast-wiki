@@ -1,4 +1,5 @@
 ---
+
 title: Zoelle Egner
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, growth, marketing, airtable, startup-marketing, customer-success]
 sources:
   - raw/transcripts/lenny/zoelle-egner.md
 confidence: high
+subtype: person
 ---
 
 # Zoelle Egner

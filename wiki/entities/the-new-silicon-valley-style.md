@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-new-silicon-valley-style
 name: The New Silicon Valley Style
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-07-06
 tags: ["ai-ml", "consumer", "enterprise-saas", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Alessandra Sollberger is a VC at Mosaic Ventures, a new Silicon Valley style venture firm based in London, focussing on Series A rounds."]
+subtype: article
 ---
 
 # The New Silicon Valley Style

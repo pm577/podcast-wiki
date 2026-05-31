@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bob-ghoorah
 name: Bob Ghoorah
 source: 20vc

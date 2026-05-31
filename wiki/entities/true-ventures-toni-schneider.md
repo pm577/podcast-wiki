@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: true-ventures-toni-schneider
 name: True Ventures' Toni Schneider
 source: 20vc

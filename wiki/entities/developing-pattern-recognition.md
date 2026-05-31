@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: developing-pattern-recognition
 name: Developing Pattern Recognition
 source: 20vc

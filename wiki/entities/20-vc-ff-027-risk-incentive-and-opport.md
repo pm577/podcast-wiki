@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20-vc-ff-027-risk-incentive-and-opport
 name: "20 VC FF 027: Risk, Incentive and Opport"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-12-18
 tags: ["ai-ml", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Daniel van Binsbergen is CEO and co-founder of Lexoo, an online marketplace that connects businesses with lawyers."]
+subtype: article
 ---
 
 # 20 VC FF 027: Risk, Incentive and Opport

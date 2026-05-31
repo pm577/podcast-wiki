@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-entrepreneurs-should-let-every
 name: "20VC: Why Entrepreneurs Should Let Every"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Entrepreneurs Should Let Everyone Rip Apart Their Busin
 ## Summary
 
 Afton Vechery is the Co-Founder & CEO @ Modern Fertility, the startup that guides you through your fertility hormones now so you have options later."]
+subtype: article
 ---
 
 # 20VC: Why Entrepreneurs Should Let Every

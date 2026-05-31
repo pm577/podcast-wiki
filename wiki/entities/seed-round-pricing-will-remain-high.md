@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: seed-round-pricing-will-remain-high
 name: Seed Round Pricing Will Remain High
 source: 20vc

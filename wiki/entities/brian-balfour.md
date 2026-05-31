@@ -1,4 +1,5 @@
 ---
+
 title: Brian Balfour
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,7 +9,7 @@ sources:
   - raw/transcripts/lenny/brian-balfour.md
 confidence: high
 key_finding: Every platform follows a four-step death cycle
-
+subtype: person
 ---
 
 # Brian Balfour

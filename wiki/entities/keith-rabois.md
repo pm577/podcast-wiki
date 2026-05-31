@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: keith-rabois
 name: Keith Rabois
 source: 20vc

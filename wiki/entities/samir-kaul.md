@@ -1,4 +1,5 @@
 ---
+
 title: Samir Kaul
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [biotech-health, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2020-01-13-20vc-khosla-ventures-founding.md
 confidence: medium
+subtype: person
 ---
 
 

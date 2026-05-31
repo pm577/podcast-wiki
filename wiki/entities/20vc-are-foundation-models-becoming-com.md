@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-are-foundation-models-becoming-com
 name: "20VC: Are Foundation Models Becoming Com"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Are Foundation Models Becoming Commoditised? Do OpenAI and 
 ## Summary
 
  Christian Kleinerman is the SVP of Product @ Snowflake."]
+subtype: article
 ---
 
 # 20VC: Are Foundation Models Becoming Com

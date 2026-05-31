@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-mindset-the-best-investors-ass
 name: "20VC: The Mindset The Best Investors Ass"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Mindset The Best Investors Assume When Assessing Opport
 ## Summary
 
 Andrew Farah is the Founder & CEO @ Density, the startup that measures real-time occupancy of every room in your office."]
+subtype: article
 ---
 
 # 20VC: The Mindset The Best Investors Ass

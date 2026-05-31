@@ -1,4 +1,5 @@
 ---
+
 title: Tak Lo
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology]
 sources:
   - raw/transcripts/20vc/20vc-2015-05-18-20-vc-037-how-to-get-a-job-at.md
 confidence: medium
+subtype: person
 ---
 
 

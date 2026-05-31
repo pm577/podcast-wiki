@@ -1,4 +1,5 @@
 ---
+
 title: Mike Volpi
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [enterprise-saas, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-09-18-20vc-indexs-mike-volpi-on-ma.md
 confidence: medium
+subtype: person
 ---
 
 

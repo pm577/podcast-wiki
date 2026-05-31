@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: palo-alto-networks-ceo-nikesh-arora
 name: Palo Alto Networks CEO Nikesh Arora
 source: 20vc

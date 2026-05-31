@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-meteoric-rise
 name: The Meteoric Rise
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-12-22
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Dave Powers serves as President and CEO of Deckers Brands, a global footwear and apparel company where he focuses on the company's five high-performing brands: UGG®, Teva®, Sanuk®, HOKA One One® and K"]
+subtype: article
 ---
 
 # The Meteoric Rise

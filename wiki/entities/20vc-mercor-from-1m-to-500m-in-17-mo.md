@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-mercor-from-1m-to-500m-in-17-mo
 name: "20VC: Mercor: From $1M to $500M in 17 Mo"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Mercor: From $1M to $500M in 17 Months: The Fastest Growing
 ## Summary
 
 Brendan Foody is the Co-Founder and CEO @ Mercor, the fastest growing company in history."]
+subtype: article
 ---
 
 # 20VC: Mercor: From $1M to $500M in 17 Mo

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: will-scaling-laws-continue
 name: Will Scaling Laws Continue
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-10-07
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Eiso Kant is the Co-Founder and CTO of Poolside."]
+subtype: article
 ---
 
 # Will Scaling Laws Continue

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-three-types
 name: "20VC: The Three Types"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Three Types of Seed Round Today, Why Seed Has Never Bee
 ## Summary
 
  Ed Sim is one of the best seed round investors in venture as the Founder and Managing Partner @ Boldstart, Ed focuses specifically on developer, infra and SaaS at pre-seed and seed round."]
+subtype: article
 ---
 
 # 20VC: The Three Types

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ycs-justin-kan
 name: YC's Justin Kan
 source: 20vc

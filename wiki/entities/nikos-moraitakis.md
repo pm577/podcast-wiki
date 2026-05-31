@@ -1,4 +1,5 @@
 ---
+
 title: Nikos Moraitakis
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, go-to-market, hiring-culture
 sources:
   - raw/transcripts/20vc/20vc-2015-11-27-20-vc-ff-024-raising-33m-in.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-simon-sinek
 name: "20VC: Simon Sinek"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Simon Sinek on Trust; How it is Gained and Lost | Why Mille
 ## Summary
 
  Simon Sinek is an optimist and author, as we discuss in the show today."]
+subtype: article
 ---
 
 # 20VC: Simon Sinek

@@ -1,4 +1,5 @@
 ---
+
 title: Sarah Tavel
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, benchmark, growth, engagement-hierarchy, pintere
 sources:
   - raw/transcripts/lenny/sarah-tavel.md
 confidence: high
+subtype: person
 ---
 
 # Sarah Tavel

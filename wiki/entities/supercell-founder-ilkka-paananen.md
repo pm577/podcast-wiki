@@ -1,4 +1,5 @@
 ---
+
 title: Supercell Founder Ilkka Paananen
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2021-02-01-20vc-supercell-founder-ilkka.md
 confidence: medium
+subtype: person
 ---
 
 

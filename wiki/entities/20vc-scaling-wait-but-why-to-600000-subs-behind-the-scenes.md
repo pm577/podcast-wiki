@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-scaling-wait-but-why-to-600000-subs-behind-the-scenes
 name: "20VC: Scaling Wait But Why to 600,000 Subs; Behind the Scenes"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Scaling Wait But Why to 600,000 Subs; Behind the Scenes on 
 ## Summary
 
  Tim Urban is the writer/illustrator and co-founder of Wait But Why, a long-form, stick-figure-illustrated website with over 600,000 subscribers and a monthly average of half a million visitors."]
+subtype: article
 ---
 
 # 20VC: Scaling Wait But Why to 600,000 Subs; Behind the Scenes

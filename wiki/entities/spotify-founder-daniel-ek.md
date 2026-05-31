@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: spotify-founder-daniel-ek
 name: Spotify Founder Daniel Ek
 source: 20vc

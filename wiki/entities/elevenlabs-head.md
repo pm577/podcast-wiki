@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: elevenlabs-head
 name: ElevenLabs Head
 source: 20vc

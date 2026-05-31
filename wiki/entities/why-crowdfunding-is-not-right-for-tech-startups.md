@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-crowdfunding-is-not-right-for-tech-startups
 name: Why Crowdfunding Is Not Right For Tech Startups
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-02-12
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Ryan Caldbeck is the Founder & CEO @ CircleUp, the online investing platform that allows you to invest in innovative consumer companies."]
+subtype: article
 ---
 
 # Why Crowdfunding Is Not Right For Tech Startups

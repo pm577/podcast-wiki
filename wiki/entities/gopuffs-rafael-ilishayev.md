@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: gopuffs-rafael-ilishayev
 name: GoPuff's Rafael Ilishayev
 source: 20vc

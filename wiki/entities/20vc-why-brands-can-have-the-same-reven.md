@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-brands-can-have-the-same-reven
 name: "20VC: Why Brands Can Have The Same Reven"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Brands Can Have The Same Revenue Multiples As Enterpris
 ## Summary
 
 Eurie Kim is a General Partner @ Forerunner Ventures, the early stage firm dedicated to investing in entrepreneurs defining the next generation of commerce."]
+subtype: article
 ---
 
 # 20VC: Why Brands Can Have The Same Reven

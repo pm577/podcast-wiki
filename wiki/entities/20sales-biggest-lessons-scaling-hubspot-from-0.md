@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-biggest-lessons-scaling-hubspot-from-0
 name: "20Sales: Biggest Lessons Scaling Hubspot from $0"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Biggest Lessons Scaling Hubspot from $0-$100M in ARR, Th
 ## Summary
 
  Mark Roberge is a Co-Founder and Managing Director at Stage 2 Capital and a Senior Lecturer at the Harvard Business School."]
+subtype: article
 ---
 
 # 20Sales: Biggest Lessons Scaling Hubspot from $0

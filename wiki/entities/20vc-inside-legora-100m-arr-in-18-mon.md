@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-inside-legora-100m-arr-in-18-mon
 name: "20VC: Inside Legora: $100M ARR in 18 Mon"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Inside Legora: $100M ARR in 18 Months | Jude Law Generated 
 ## Summary
 
 Patrick Forquer is the Chief Revenue Officer at Legora, the fastest growing enterprise business to ever hit $100M in ARR and now on track to hit over $250M in ARR by the end of the year."]
+subtype: article
 ---
 
 # 20VC: Inside Legora: $100M ARR in 18 Mon

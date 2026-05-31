@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-future-of-venture-capital
 name: The Future Of Venture Capital
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-10-07
 tags: ["hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["For your chance to win a signed copy of Venture Deals by previous guest and legend, Brad Feld all you have to do is click the Click To Tweet Link here: http://ctt."]
+subtype: article
 ---
 
 # The Future Of Venture Capital

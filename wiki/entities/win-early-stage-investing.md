@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: win-early-stage-investing
 name: Win Early Stage Investing
 source: 20vc

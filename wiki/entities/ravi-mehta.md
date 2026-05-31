@@ -1,4 +1,5 @@
 ---
+
 title: Ravi Mehta
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, product-strategy, leadership, startups, refor
 sources:
   - raw/transcripts/lenny/lenny-2025-09-29-ravi-mehta.md
 confidence: high
+subtype: person
 ---
 
 # Ravi Mehta

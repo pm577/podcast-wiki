@@ -1,4 +1,5 @@
 ---
+
 title: Andy Raskin
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/andy-raskin.md
 confidence: medium
 key_finding: Strategic Narrative Beats Arrogant Doctor Pitching
+subtype: person
 ---
 
 # Andy Raskin

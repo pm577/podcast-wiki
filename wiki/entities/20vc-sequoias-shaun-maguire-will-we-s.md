@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-sequoias-shaun-maguire-will-we-s
 name: "20VC: Sequoia's Shaun Maguire: Will We S"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Sequoia's Shaun Maguire: Will We See WW3 Shortly | Why DEI 
 ## Summary
 
  Shaun Maguire is a Partner at Sequoia Capital."]
+subtype: article
 ---
 
 # 20VC: Sequoia's Shaun Maguire: Will We S

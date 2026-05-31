@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-sam-altman
 name: "20VC: Sam Altman"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Sam Altman on The Trajectory of Model Capability Improvemen
 ## Summary
 
 Sam Altman is the CEO of OpenAI, one of the most important companies in history."]
+subtype: article
 ---
 
 # 20VC: Sam Altman

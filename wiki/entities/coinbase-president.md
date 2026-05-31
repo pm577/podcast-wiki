@@ -1,4 +1,5 @@
 ---
+
 title: Coinbase President
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, fintech, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2021-08-23-20vc-coinbase-president-coo.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+
 title: Imposter Syndrome
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2020-03-09-20vc-matt-mochary-coach-to-s.md
 confidence: medium
+subtype: person
 ---
 
 

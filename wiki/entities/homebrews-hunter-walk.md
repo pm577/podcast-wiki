@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: homebrews-hunter-walk
 name: Homebrew's Hunter Walk
 source: 20vc

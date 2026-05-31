@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: round-makes-your-life-harder-not-easier
 name: Round Makes Your Life Harder Not Easier
 source: 20vc

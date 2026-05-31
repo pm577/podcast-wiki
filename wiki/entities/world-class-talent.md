@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: world-class-talent
 name: World-Class Talent
 source: 20vc

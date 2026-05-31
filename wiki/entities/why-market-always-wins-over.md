@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-market-always-wins-over
 name: Why Market Always Wins Over
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-08-22
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Wes Chan is the Co-Founder and Managing Partner at FPV Ventures, a $450M early-stage fund, launched earlier this year."]
+subtype: article
 ---
 
 # Why Market Always Wins Over

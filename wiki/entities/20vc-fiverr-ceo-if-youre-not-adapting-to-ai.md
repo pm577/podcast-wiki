@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-fiverr-ceo-if-youre-not-adapting-to-ai
 name: "20VC: Fiverr CEO: 'If You're Not Adapting to AI"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-06-09
 tags: ["ai-ml", "founder-psychology", "go-to-market", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["# 20VC: Fiverr CEO: 'If You're Not Adapting to AI, F* You."]
+subtype: article
 ---
 
 # 20VC: Fiverr CEO: 'If You're Not Adapting to AI

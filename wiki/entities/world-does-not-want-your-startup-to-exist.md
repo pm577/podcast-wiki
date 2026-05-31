@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: world-does-not-want-your-startup-to-exist
 name: World Does Not Want Your Startup To Exist
 source: 20vc

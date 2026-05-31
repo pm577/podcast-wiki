@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: scales-alex-wang
 name: Scale's Alex Wang
 source: 20vc

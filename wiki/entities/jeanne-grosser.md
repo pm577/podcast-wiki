@@ -1,4 +1,5 @@
 ---
+
 title: Jeanne Grosser
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, go-to-market, sales, plg, ai-agents, b2b-saas, leadership]
 sources:
   - raw/transcripts/lenny/lenny-2025-11-30-jeanne-grosser.md
 confidence: high
+subtype: person
 ---
 
 # Jeanne Grosser

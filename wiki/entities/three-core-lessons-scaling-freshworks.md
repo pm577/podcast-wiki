@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: three-core-lessons-scaling-freshworks
 name: Three Core Lessons Scaling Freshworks
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-04-19
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Girish Mathrubootham is the founder and CEO of Freshworks, India's first SaaS company to list on NASDAQ."]
+subtype: article
 ---
 
 # Three Core Lessons Scaling Freshworks

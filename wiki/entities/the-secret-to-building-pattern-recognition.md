@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-secret-to-building-pattern-recognition
 name: The Secret To Building Pattern Recognition
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-10-05
 tags: ["founder-psychology", "hiring-culture", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Hardi Meybaum is a General Partner @ Matrix Partners and similar to Josh Hardi is a natural born entrepreneur."]
+subtype: article
 ---
 
 # The Secret To Building Pattern Recognition

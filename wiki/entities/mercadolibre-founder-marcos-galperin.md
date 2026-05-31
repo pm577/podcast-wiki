@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: mercadolibre-founder-marcos-galperin
 name: MercadoLibre Founder Marcos Galperin
 source: 20vc

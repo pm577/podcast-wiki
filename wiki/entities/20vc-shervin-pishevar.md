@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-shervin-pishevar
 name: "20VC: Shervin Pishevar"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Shervin Pishevar on The Epic Uber War and What Really Happe
 ## Summary
 
 Shervin Pishevar is a serial entrepreneur and investor."]
+subtype: article
 ---
 
 # 20VC: Shervin Pishevar

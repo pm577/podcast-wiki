@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-there-is-no-incumbency-advantage
 name: Why There Is No Incumbency Advantage
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-06-24
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Dennis Mortensen is the CEO and Founder of X."]
+subtype: article
 ---
 
 # Why There Is No Incumbency Advantage

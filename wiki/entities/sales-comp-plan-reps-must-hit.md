@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sales-comp-plan-reps-must-hit
 name: Sales Comp Plan Reps Must Hit
 source: 20vc

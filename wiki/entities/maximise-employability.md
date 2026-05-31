@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: maximise-employability
 name: Maximise Employability
 source: 20vc

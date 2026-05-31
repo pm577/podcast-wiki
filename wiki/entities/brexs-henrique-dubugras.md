@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: brexs-henrique-dubugras
 name: Brex's Henrique Dubugras
 source: 20vc

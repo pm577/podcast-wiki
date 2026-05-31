@@ -1,4 +1,5 @@
 ---
+
 title: Jake Knapp and John Zeratsky
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, design-sprint, product-development, foundation-sprint, startups, 
 sources:
   - raw/transcripts/lenny/jake-knapp-john-zeratsky-20.md
 confidence: high
+subtype: person
 ---
 
 # Jake Knapp and John Zeratsky

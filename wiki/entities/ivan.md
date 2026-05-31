@@ -1,4 +1,5 @@
 ---
+
 title: Ivan Zhao
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/ivan-zhao.md
 confidence: high
 key_finding: Sugar-coated broccoli — hiding vision inside products people want
+subtype: person
 ---
 
 # Ivan Zhao

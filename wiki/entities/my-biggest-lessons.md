@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: my-biggest-lessons
 name: My Biggest Lessons
 source: 20vc

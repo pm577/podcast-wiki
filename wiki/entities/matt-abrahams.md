@@ -1,4 +1,5 @@
 ---
+
 title: Matt Abrahams
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/matt-abrahams.md
 confidence: high
 key_finding: Strive for connection over perfection by daring to be dull
+subtype: person
 ---
 
 # Matt Abrahams

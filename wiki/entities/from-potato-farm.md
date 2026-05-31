@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: from-potato-farm
 name: From Potato Farm
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-09-23
 tags: ["ai-ml", "biotech-health", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Dmitry Gurski is the Co-Founder and CEO of Flo Health, the leading women's health app and the first European femtech unicorn."]
+subtype: article
 ---
 
 # From Potato Farm

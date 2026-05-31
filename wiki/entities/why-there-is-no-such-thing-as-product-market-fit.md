@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-there-is-no-such-thing-as-product-market-fit
 name: Why There Is No Such Thing As Product Market Fit
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-02-22
 tags: ["founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Ben Blumenfeld is the Co-Founder & General Partner @ Designer Fund, they invest in startups co-founded by designers and build and educate design teams through their program, Bridge."]
+subtype: article
 ---
 
 # Why There Is No Such Thing As Product Market Fit

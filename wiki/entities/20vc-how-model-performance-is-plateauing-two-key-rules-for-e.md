@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-model-performance-is-plateauing-two-key-rules-for-e
 name: "20VC: How Model Performance is Plateauing | Two Key Rules for Effective Deal"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How Model Performance is Plateauing | Two Key Rules for Eff
 ## Summary
 
 Winston Weinberg is the CEO and Co-Founder of Harvey, the leading professional services platform engineered with AI for law, tax, and finance."]
+subtype: article
 ---
 
 # 20VC: How Model Performance is Plateauing | Two Key Rules for Effective Deal

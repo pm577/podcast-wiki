@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-shein-got-so-big-so-fast-behind-the-scenes
 name: "20VC: How SHEIN Got So Big So Fast: Behind the Scenes"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How SHEIN Got So Big So Fast: Behind the Scenes at One of t
 ## Summary
 
  Donald Tang is the Executive Chairman of SHEIN, with oversight of public affairs, business strategy, corporate development, and finance."]
+subtype: article
 ---
 
 # 20VC: How SHEIN Got So Big So Fast: Behind the Scenes

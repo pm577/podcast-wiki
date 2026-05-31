@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-how-to-build-vertical-sales-teams
 name: "20Sales: How to Build Vertical Sales Teams"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: How to Build Vertical Sales Teams, Why No Customer Succe
 ## Summary
 
 Larry Shurtz is the Chief Sales Officer at Genesys where he oversees the company's global go-to-market strategies, including commercial activities, field sales and partner ecosystem operations."]
+subtype: article
 ---
 
 # 20Sales: How to Build Vertical Sales Teams

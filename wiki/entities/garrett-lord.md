@@ -1,4 +1,5 @@
 ---
+
 title: Garrett Lord
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, handshake, ai, data-labeling, marketplace, entrepreneurship]
 sources:
   - raw/transcripts/lenny/garrett-lord.md
 confidence: high
+subtype: person
 ---
 
 # Garrett Lord

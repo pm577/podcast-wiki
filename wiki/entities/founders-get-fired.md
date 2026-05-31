@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: founders-get-fired
 name: Founders Get Fired
 source: 20vc

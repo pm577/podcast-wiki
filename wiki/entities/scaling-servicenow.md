@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: scaling-servicenow
 name: Scaling ServiceNow
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-09-11
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["David Schneider is a General Partner @ Coatue and one of the great operators of the last 20 years."]
+subtype: article
 ---
 
 # Scaling ServiceNow

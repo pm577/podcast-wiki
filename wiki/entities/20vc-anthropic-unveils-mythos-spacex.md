@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anthropic-unveils-mythos-spacex
 name: "20VC: Anthropic Unveils Mythos | SpaceX'"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Anthropic Unveils Mythos | SpaceX's Financials Leaked: Is i
 ## Summary
 
 AGENDA: 00:00 — Anthropic Unveils Mythos: The Model "Too Good at Hacking" to Release 05:56 — Why Mythos is a Quantum Leap in Cyber Risk 10:11 — The "Boy Who Cried Wolf": Jason's Critique of Dario Amodei 14:00 — The Oppenheimer Moment: Are Founders Using Doom as a Marketing Tool? 19:22 — Amazon's $20B Secret: Is NVIDIA's Chip Stranglehold Finally Loosening? 22:28 — Claude vs."]
+subtype: article
 ---
 
 # 20VC: Anthropic Unveils Mythos | SpaceX'

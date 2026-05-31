@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-run-the-perfect-fundraising-process
 name: How To Run The Perfect Fundraising Process
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-09-08
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Wayne Chang is a serial entrepreneur and angel investor."]
+subtype: article
 ---
 
 # How To Run The Perfect Fundraising Process

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: with-such-large-incumbents-chasing-early
 name: With Such Large Incumbents Chasing Early
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: social-capitals-mamoon-hamid
 name: Social Capital's Mamoon Hamid
 source: 20vc

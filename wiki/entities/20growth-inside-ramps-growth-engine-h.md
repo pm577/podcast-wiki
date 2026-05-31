@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-inside-ramps-growth-engine-h
 name: "20Growth: Inside Ramp's Growth Engine: H"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: Inside Ramp's Growth Engine: How Ramp Became the Fastes
 ## Summary
 
 George Bonaci is the VP of Growth at Ramp, where he's helping one of the fastest-growing fintech companies scale even further."]
+subtype: article
 ---
 
 # 20Growth: Inside Ramp's Growth Engine: H

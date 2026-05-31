@@ -1,4 +1,5 @@
 ---
+
 title: Meltem Kuran Berkowitz
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/meltem-kuran.md
 confidence: high
 key_finding: Build the skeleton before you put on the makeup — start with basics before scaling growth channels
+subtype: person
 ---
 
 # Meltem Kuran Berkowitz

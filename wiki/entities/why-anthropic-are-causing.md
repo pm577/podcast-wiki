@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-anthropic-are-causing
 name: Why Anthropic Are Causing
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-05-23
 tags: ["ai-ml", "founder-psychology", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Chad Peets is one of the most straight-talking, no BS sales leaders of our time."]
+subtype: article
 ---
 
 # Why Anthropic Are Causing

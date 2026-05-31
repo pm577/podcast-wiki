@@ -1,4 +1,5 @@
 ---
+
 title: David Lieb
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, founder-psychology, product-strategy, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2022-09-21-20-product-the-no-1-metric-yo.md
 confidence: medium
+subtype: person
 ---
 
 

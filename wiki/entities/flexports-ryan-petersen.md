@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: flexports-ryan-petersen
 name: Flexport's Ryan Petersen
 source: 20vc

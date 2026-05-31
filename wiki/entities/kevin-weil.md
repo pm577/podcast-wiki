@@ -1,4 +1,5 @@
 ---
+
 title: Kevin Weil
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, openai, ai, product-management, evals, chatgpt, artificial-intell
 sources:
   - raw/transcripts/lenny/kevin-weil.md
 confidence: high
+subtype: person
 ---
 
 # Kevin Weil

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: time-have-in-common
 name: Time Have In Common
 source: 20vc

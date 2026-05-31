@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: being-too-honest
 name: Being Too Honest
 source: 20vc

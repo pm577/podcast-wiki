@@ -1,4 +1,5 @@
 ---
+
 title: Jason Lemkin
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, saas, sales, b2b, saastr, startup, founder, echosign]
 sources:
   - raw/transcripts/lenny/jason-m-lemkin.md
 confidence: high
+subtype: person
 ---
 
 # Jason Lemkin

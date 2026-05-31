@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: balderton-capitals-general-partner-suranga-chandratillake
 name: Balderton Capital's General Partner, Suranga Chandratillake
 source: 20vc

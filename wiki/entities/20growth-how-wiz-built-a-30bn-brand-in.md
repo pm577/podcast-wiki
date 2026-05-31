@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-how-wiz-built-a-30bn-brand-in
 name: "20Growth: How Wiz Built a $30BN Brand in"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: How Wiz Built a $30BN Brand in Enterprise | What Worked
 ## Summary
 
 Raaz Herberg is the Chief Marketing Officer and VP Product Strategy at Wiz, the fastest-growing cloud security company in history."]
+subtype: article
 ---
 
 # 20Growth: How Wiz Built a $30BN Brand in

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: partners-that-look-beyond-the-numbers
 name: Partners That Look Beyond The Numbers
 source: 20vc

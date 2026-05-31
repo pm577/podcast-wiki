@@ -1,4 +1,5 @@
 ---
+
 title: Kaz Nejatian
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, fintech]
 sources:
   - raw/transcripts/20vc/20vc-2024-08-14-20vc-lessons-from-mark-zucker.md
 confidence: medium
+subtype: person
 ---
 
 

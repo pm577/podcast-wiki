@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-know-pre-investment-whethe
 name: How To Know Pre-Investment Whethe
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-11-18
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Oana Olteanu is a Partner @ SignalFire where she focuses on enterprise software at Seed, Series A and Series B."]
+subtype: article
 ---
 
 # How To Know Pre-Investment Whethe

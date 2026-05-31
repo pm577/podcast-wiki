@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: inside-union-square-ventures
 name: Inside Union Square Ventures
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-07-13
 tags: ["ai-ml", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Quote of the Day: 'Keep an open mind from an early age'."]
+subtype: article
 ---
 
 # Inside Union Square Ventures

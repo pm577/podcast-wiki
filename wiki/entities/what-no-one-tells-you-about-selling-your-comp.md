@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-no-one-tells-you-about-selling-your-comp
 name: What No One Tells You About Selling Your Comp
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-03-21
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Elias Torres is the Co-Founder and CEO of Agency, the AI agent for customer success teams."]
+subtype: article
 ---
 
 # What No One Tells You About Selling Your Comp

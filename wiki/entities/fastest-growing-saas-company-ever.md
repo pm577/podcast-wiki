@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fastest-growing-saas-company-ever
 name: Fastest Growing SaaS Company Ever
 source: 20vc

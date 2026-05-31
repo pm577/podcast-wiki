@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: atlassian-co-founder-scott-farquhar
 name: Atlassian Co-Founder Scott Farquhar
 source: 20vc

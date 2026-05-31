@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-google-will-win
 name: Why Google Will Win
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-02-24
 tags: ["ai-ml", "deeptech-hardware", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Steeve Morin is the Founder & CEO @ ZML, a next-generation inference engine enabling peak performance on a wide range of chips."]
+subtype: article
 ---
 
 # Why Google Will Win

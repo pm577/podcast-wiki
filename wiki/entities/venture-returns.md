@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: venture-returns
 name: Venture Returns
 source: 20vc

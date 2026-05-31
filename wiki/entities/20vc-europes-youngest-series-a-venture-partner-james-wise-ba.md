@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-europes-youngest-series-a-venture-partner-james-wise-ba
 name: "20VC: Europe's Youngest Series A Venture Partner, James Wise @ Balderton Capital"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Europe's Youngest Series A Venture Partner, James Wise @ Ba
 ## Summary
 
 James Wise is a partner at Balderton Capital, one of Europe's leading early stage venture funds with $2.5B in funds."]
+subtype: article
 ---
 
 # 20VC: Europe's Youngest Series A Venture Partner, James Wise @ Balderton Capital

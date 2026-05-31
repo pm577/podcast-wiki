@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-growth-investors-ruined
 name: Why Growth Investors Ruined
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-03-17
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Ophelia Brown is the Founder of Blossom Capital, one of Europe's newest but leading early-stage venture firms."]
+subtype: article
 ---
 
 # Why Growth Investors Ruined

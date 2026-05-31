@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-small-funds-outperform-large-funds
 name: Why Small Funds Outperform Large Funds
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-09-06
 tags: ["ai-ml", "biotech-health", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Mo Koyfman is the Founder and General Partner @ Shine Capital, who announced earlier this year Shine II, a $200M early-stage fund, and Shine Opportunities I, a $100M vehicle.", "Nikhil Basu Trivedi is Co-Founder & General Partner at Footwork, an early-stage focused venture firm investing its first fund."]
+subtype: article
 ---
 
 # Why Small Funds Outperform Large Funds

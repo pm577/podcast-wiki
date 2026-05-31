@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-most-founder-friendly
 name: The Most Founder Friendly
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-11-16
 tags: ["founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["David Frankel is the Managing Partner at Founder Collective, one of the world's most successful seed funds with investments in the likes of Uber, Hunch, Makerbot and About."]
+subtype: article
 ---
 
 # The Most Founder Friendly

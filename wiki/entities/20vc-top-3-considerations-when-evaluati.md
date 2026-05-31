@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-top-3-considerations-when-evaluati
 name: "20VC: Top 3 Considerations When Evaluati"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Top 3 Considerations When Evaluating Consumer Businesses To
 ## Summary
 
 Anu Duggal is the Founding Partner @ Female Founders Fund, a leading early-stage fund investing in female-founded technology companies."]
+subtype: article
 ---
 
 # 20VC: Top 3 Considerations When Evaluati

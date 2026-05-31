@@ -1,4 +1,5 @@
 ---
+
 title: Linda Xjie
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, fintech, founder-psychology, person, product-strategy, venture-cap
 sources:
   - raw/transcripts/20vc/20vc-2018-10-22-20vc-scalar-capitals-linda-x.md
 confidence: medium
+subtype: person
 ---
 
 

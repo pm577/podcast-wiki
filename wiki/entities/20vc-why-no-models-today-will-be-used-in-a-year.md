@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-no-models-today-will-be-used-in-a-year
 name: "20VC: Why No Models Today Will Be Used in a Year"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why No Models Today Will Be Used in a Year, Why Open Will A
 ## Summary
 
  Alex Lebrun is the Co-Founder and CEO of Nabla, an AI assistant for doctors."]
+subtype: article
 ---
 
 # 20VC: Why No Models Today Will Be Used in a Year

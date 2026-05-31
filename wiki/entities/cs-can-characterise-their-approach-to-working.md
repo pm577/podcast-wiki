@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-can-characterise-their-approach-to-working
 name: Cs Can Characterise Their Approach To Working
 source: 20vc

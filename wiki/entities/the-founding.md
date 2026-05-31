@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-founding
 name: The Founding
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-05-16
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["David Fialkow is the Co-Founder and Managing Director @ General Catalyst, one of the leading venture firms of the last decade with a portfolio including Stripe, Snap, Airbnb, Anduril, Canva and many m"]
+subtype: article
 ---
 
 # The Founding

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-lessons-building-nubank-to-the-lar
 name: "20VC: Lessons Building Nubank to the Lar"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Lessons Building Nubank to the Largest Neobank in the World
 ## Summary
 
  David Velez is the Founder and CEO of Nubank, one of the largest and fastest-growing financial institutions in the world."]
+subtype: article
 ---
 
 # 20VC: Lessons Building Nubank to the Lar

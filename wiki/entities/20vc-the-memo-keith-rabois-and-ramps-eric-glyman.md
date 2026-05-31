@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-memo-keith-rabois-and-ramps-eric-glyman
 name: "20VC: The Memo: Keith Rabois and Ramp's Eric Glyman"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Memo: Keith Rabois and Ramp's Eric Glyman on Behind The
 ## Summary
 
 Eric Glyman is the Co-Founder and CEO of Ramp, America's fastest growing corporate card and finance automation platform."]
+subtype: article
 ---
 
 # 20VC: The Memo: Keith Rabois and Ramp's Eric Glyman

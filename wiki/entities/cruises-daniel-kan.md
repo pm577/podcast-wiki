@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cruises-daniel-kan
 name: Cruise's Daniel Kan
 source: 20vc

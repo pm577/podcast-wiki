@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: greenoaks-backed-protein-bar
 name: Greenoaks Backed Protein Bar
 source: 20vc

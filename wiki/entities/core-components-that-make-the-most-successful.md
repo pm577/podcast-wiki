@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: core-components-that-make-the-most-successful
 name: Core Components That Make The Most Successful
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-the-best-funds-use-tech
 name: How The Best Funds Use Tech
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-07-03
 tags: ["ai-ml", "consumer", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Eric Feng is a Partner @ Kleiner Perkins, one of the world's leading venture capital firms with prior investments in the likes of Google, Amazon, Snapchat, Uber, Twitter and more."]
+subtype: article
 ---
 
 # How The Best Funds Use Tech

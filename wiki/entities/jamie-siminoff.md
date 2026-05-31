@@ -1,4 +1,5 @@
 ---
+
 title: Jamie Siminoff
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, hiring-cul
 sources:
   - raw/transcripts/20vc/20vc-2023-03-01-20vc-the-story-of-ring-scali.md
 confidence: medium
+subtype: person
 ---
 
 

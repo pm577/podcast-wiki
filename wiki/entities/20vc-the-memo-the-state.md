@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-memo-the-state
 name: "20VC: The Memo: The State"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Memo: The State of the VC Market: Why Seed Funds Can't 
 ## Summary
 
  Jason Lemkin is the Founder @ SaaStr one of the best-performing early-stage venture funds focused on SaaS."]
+subtype: article
 ---
 
 # 20VC: The Memo: The State

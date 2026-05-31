@@ -1,4 +1,5 @@
 ---
+
 title: Allison Goldberg
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, fintech]
 sources:
   - raw/transcripts/20vc/20vc-2017-08-23-20vc-what-are-the-big-questio.md
 confidence: medium
+subtype: person
 ---
 
 

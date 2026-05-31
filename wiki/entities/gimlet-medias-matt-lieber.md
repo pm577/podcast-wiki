@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: gimlet-medias-matt-lieber
 name: Gimlet Media's Matt Lieber
 source: 20vc

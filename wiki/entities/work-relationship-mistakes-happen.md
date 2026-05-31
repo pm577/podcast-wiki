@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: work-relationship-mistakes-happen
 name: Work Relationship Mistakes Happen
 source: 20vc

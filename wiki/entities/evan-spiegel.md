@@ -1,4 +1,5 @@
 ---
+
 title: Evan Spiegel
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,7 +9,7 @@ sources:
   - raw/transcripts/lenny/lenny-2026-04-26-evan-spiegel.md
 confidence: medium
 key_finding: Distribution > Product
-
+subtype: person
 ---
 
 # Evan Spiegel

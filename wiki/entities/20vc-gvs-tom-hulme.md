@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-gvs-tom-hulme
 name: "20VC: GV's Tom Hulme"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: GV's Tom Hulme on Why Investing in Foundation Models is lik
 ## Summary
 
  Tom Hulme is a Managing Partner of GV (Google Ventures), and leads the European team."]
+subtype: article
 ---
 
 # 20VC: GV's Tom Hulme

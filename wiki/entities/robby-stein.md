@@ -1,4 +1,5 @@
 ---
+
 title: Robby Stein
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/lenny-2025-10-10-robby-stein.md
 confidence: high
 key_finding: Relentless improvement combined with urgency compounds into product tipping points
+subtype: person
 ---
 
 # Robby Stein
@@ -43,3 +45,15 @@ Robby believes outsiders dramatically underestimate the range of things people u
 - [[consumer-products]]
 - [[instagram]]
 - [[compounding-improvement]]
+
+---
+
+*Merged from [[robby]]:*
+
+# Robby
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/robby-stein|Inside Google's AI turnaround: AI Mode, AI Overviews, and vision for AI-powered search | Robby Stein]] — *to be summarized*

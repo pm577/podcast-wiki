@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: doordash-ceo-tony-xu
 name: DoorDash CEO Tony Xu
 source: 20vc

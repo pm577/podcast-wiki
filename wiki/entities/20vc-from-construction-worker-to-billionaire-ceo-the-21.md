@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-from-construction-worker-to-billionaire-ceo-the-21
 name: "20VC: From Construction Worker to Billionaire CEO; The 21"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: From Construction Worker to Billionaire CEO; The 21-Year Ep
 ## Summary
 
  Tooey Courtemanche, Jr."]
+subtype: article
 ---
 
 # 20VC: From Construction Worker to Billionaire CEO; The 21

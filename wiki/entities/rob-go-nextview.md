@@ -1,4 +1,5 @@
 ---
+
 title: Rob Go Nextview
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, consumer, founder-psychology, person, product-strategy, venture-ca
 sources:
   - raw/transcripts/20vc/20vc-2016-05-16-20vc-rob-go-nextview-on-wtf.md
 confidence: medium
+subtype: person
 ---
 
 

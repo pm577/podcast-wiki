@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-iran
 name: Why Iran
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-08-12
 tags: ["venture-capital"]
 related_concepts: []
 key_views: ["Shaun Maguire is a Partner at Sequoia Capital."]
+subtype: article
 ---
 
 # Why Iran

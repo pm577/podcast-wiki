@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-vc-returns-will-get-worse
 name: "20VC: Why VC Returns Will Get Worse"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why VC Returns Will Get Worse, Why LP Incentive Structures 
 ## Summary
 
  Roger Ehrenberg is a legend of the venture industry as the Founder of IA Ventures, among the most successful seed-stage venture firms of this generation, having seeded companies including Datadog (NASDAQ: DDOG), Digital Ocean (NYSE: DOCN), The Trade Desk (NASDAQ: TTD) and Wise (LSE: WISE.L)."]
+subtype: article
 ---
 
 # 20VC: Why VC Returns Will Get Worse

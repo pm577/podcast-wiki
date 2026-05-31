@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-valley-investors-are-really-gamblers
 name: Why Valley Investors Are Really Gamblers
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-11-17
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["David Barrett is the Founder & CEO @ Expensify, the startup relieving the world's frustrations, one expense report at a time."]
+subtype: article
 ---
 
 # Why Valley Investors Are Really Gamblers

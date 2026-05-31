@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: best-marketers-think-like-vcs
 name: Best Marketers Think Like VCs
 source: 20vc

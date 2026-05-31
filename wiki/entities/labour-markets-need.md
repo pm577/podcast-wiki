@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: labour-markets-need
 name: Labour Markets Need
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Wes Kao
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,7 +9,7 @@ sources:
   - raw/transcripts/lenny/wes-kao.md
 confidence: high
 key_finding: MOO (Most Obvious Objection)
-
+subtype: person
 ---
 
 # Wes Kao

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-it-is-all-still-about-user-growth
 name: Why It Is All Still About User Growth
 source: 20vc
@@ -13,6 +14,7 @@ Mignano is the Co-Founder & CEO @ Anchor, the app that
 allows you to share and engage with your network via audio,
 essentially radio for the people. Prior to founding Anchor, Mike
 was Head of Pro"]
+subtype: article
 ---
 
 # Why It Is All Still About User Growth

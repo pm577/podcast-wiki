@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: loom-cpo-janie-lee
 name: Loom CPO Janie Lee
 source: 20vc

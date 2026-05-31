@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-postmates-founder-basti-lehmann
 name: "20VC: Postmates Founder Basti Lehmann"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Postmates Founder Basti Lehmann on How the Uber Deal Went D
 ## Summary
 
 Basti Lehmann is the co-founder and former CEO of Postmates, the on-demand delivery service that raised over $900M from the likes of Tiger Global, Founders Fund, Spark Capital and Andreesen Horowitz."]
+subtype: article
 ---
 
 # 20VC: Postmates Founder Basti Lehmann

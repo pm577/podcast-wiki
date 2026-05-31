@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sam-altmans-masterplan
 name: Sam Altman's Masterplan
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ps-should-construct-their-pitch
 name: Ps Should Construct Their Pitch
 source: 20vc

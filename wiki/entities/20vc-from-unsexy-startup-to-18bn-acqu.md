@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-from-unsexy-startup-to-18bn-acqu
 name: "20VC: From Unsexy Startup to $1.8BN Acqu"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: From Unsexy Startup to $1.8BN Acquisition | Why VCs and Fou
 ## Summary
 
 Zachary Bookman is Co-Founder and CEO of OpenGov, the GovTech cloud software leader that was acquired for a staggering $1.8BN earlier this year."]
+subtype: article
 ---
 
 # 20VC: From Unsexy Startup to $1.8BN Acqu

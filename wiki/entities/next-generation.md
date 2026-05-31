@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: next-generation
 name: Next Generation
 source: 20vc

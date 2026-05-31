@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: anthropic-will-build-their-own-chips
 name: Anthropic Will Build Their Own Chips
 source: 20vc

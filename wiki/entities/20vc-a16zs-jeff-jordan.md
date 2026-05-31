@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-a16zs-jeff-jordan
 name: "20VC: a16z's Jeff Jordan"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: a16z's Jeff Jordan on The Ultimate Guide to Investing in Ma
 ## Summary
 
  Jeff Jordan is a General Partner @ a16z where he serves on the boards of Airbnb, Incredible Health, Instacart, Lookout, and Pinterest, just to name a few."]
+subtype: article
 ---
 
 # 20VC: a16z's Jeff Jordan

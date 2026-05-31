@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-how-wix-built-a-100m-marketin
 name: "20Growth: How Wix Built a $100M Marketin"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: How Wix Built a $100M Marketing Machine | Why LTV is BS
 ## Summary
 
 Omer Shai serves as the CMO at Wix."]
+subtype: article
 ---
 
 # 20Growth: How Wix Built a $100M Marketin

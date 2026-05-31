@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: greylocks-john-lilly
 name: Greylock's John Lilly
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: will-lps-pull-out
 name: Will LPs Pull Out
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-03-03
 tags: ["go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Hunter Somerville is a Partner @ Stepstone, one of the largest secondary buyers, fund investors and players in our ecosystem with over $600BN in capital responsibility and over $100BN AUM."]
+subtype: article
 ---
 
 # Will LPs Pull Out

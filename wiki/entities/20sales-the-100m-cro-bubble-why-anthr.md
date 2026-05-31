@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-the-100m-cro-bubble-why-anthr
 name: "20Sales: The $100M CRO Bubble: Why Anthr"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: The $100M CRO Bubble: Why Anthropic Are Causing a Comp C
 ## Summary
 
 Chad Peets is one of the most straight-talking, no BS sales leaders of our time."]
+subtype: article
 ---
 
 # 20Sales: The $100M CRO Bubble: Why Anthr

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bn-just-five-years-later
 name: BN Just Five Years Later
 source: 20vc

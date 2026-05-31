@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anthropic-cpo-mike-krieger-where
 name: "20VC: Anthropic CPO Mike Krieger: Where"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Anthropic CPO Mike Krieger: Where Will Value Be Created in 
 ## Summary
 
 Mike Krieger is the Co-Founder of Instagram and now CPO @ Anthropic."]
+subtype: article
 ---
 
 # 20VC: Anthropic CPO Mike Krieger: Where

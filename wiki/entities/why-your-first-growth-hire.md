@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-your-first-growth-hire
 name: Why Your First Growth Hire
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-11-29
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "go-to-market"]
 related_concepts: []
 key_views: ["Guillaume Cabane is a growth advisor to high-growth SaaS Startups, including Ramp, Spot, Airbyte, G2, Gorgias, Metadata, Madkudu, and others."]
+subtype: article
 ---
 
 # Why Your First Growth Hire

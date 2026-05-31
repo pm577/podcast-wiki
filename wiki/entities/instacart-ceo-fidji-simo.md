@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: instacart-ceo-fidji-simo
 name: Instacart CEO Fidji Simo
 source: 20vc

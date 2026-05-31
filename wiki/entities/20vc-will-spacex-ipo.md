@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-will-spacex-ipo
 name: "20VC: Will SpaceX IPO"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 03:32 Lightspeed's $9 Billion Fundraise 05:20 The Impact of Mega Funds o
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-will-spacex-ipo-at-15trn-will-cursor-kill-figma-lightspeed-raises-9bn-openai-1bn-from-disney-new-cro-1-app-in-app-store-oracle-and-broadcom-hit-now-the-time-to-buy)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Will SpaceX IPO

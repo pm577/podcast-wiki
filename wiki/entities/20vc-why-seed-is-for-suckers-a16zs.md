@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-seed-is-for-suckers-a16zs
 name: "20VC: Why Seed is for Suckers | a16z's $"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Seed is for Suckers | a16z's $20BN Fund & Founders Fund
 ## Summary
 
 Jason Lemkin is one of the leading SaaS investors of the last decade with a portfolio including the likes of Algolia, Talkdesk, Owner, RevenueCat, Saleloft and more."]
+subtype: article
 ---
 
 # 20VC: Why Seed is for Suckers | a16z's $

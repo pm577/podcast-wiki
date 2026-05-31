@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: clearbit-founder-alex-maccaw
 name: Clearbit Founder Alex MacCaw
 source: 20vc

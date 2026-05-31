@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-virtually-all-companies-hire-the-wrong-way
 name: Why Virtually All Companies Hire The Wrong Way
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-03-16
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Mike Silagadze is the Founder & CEO @ Top Hat, the market leader in student engagement software, and is used by millions of students at three-quarters of the top 1,000 colleges and universities in Nor"]
+subtype: article
 ---
 
 # Why Virtually All Companies Hire The Wrong Way

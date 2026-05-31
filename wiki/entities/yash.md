@@ -1,4 +1,5 @@
 ---
+
 title: Yash Bottla (Applied Compute)
 created: 2026-05-31
 updated: 2026-06-01
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/applied-compute-yash.md
   - raw/transcripts/stanford-ai-frontier/yash-bottla-applied-compute-stanford-ai-frontier.md
 confidence: high
+subtype: person
 ---
 
 # Yash Bottla (Applied Compute)

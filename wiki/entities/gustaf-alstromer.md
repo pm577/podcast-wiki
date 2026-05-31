@@ -1,4 +1,5 @@
 ---
+
 title: Gustaf Alströmer
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, y-combinator, airbnb, growth, climate-tech, startups, venture-cap
 sources:
   - raw/transcripts/lenny/gustaf-alstromer.md
 confidence: high
+subtype: person
 ---
 
 # Gustaf Alströmer

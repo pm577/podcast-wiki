@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-intelligence-is-overrated
 name: Why Intelligence Is Overrated
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-06-07
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Anthony Pompliano is the General Partner @ Full Tilt Capital, the firm that wants to reinvent friends and family investingby democratizing access to opportunity for the thousands of founders who are u"]
+subtype: article
 ---
 
 # Why Intelligence Is Overrated

@@ -1,4 +1,5 @@
 ---
+
 title: Daniel Yan
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, ai-ml, enter
 sources:
   - raw/transcripts/20vc/20vc-2022-07-01-20vc-hiring-101-the-biggest.md
 confidence: medium
+subtype: person
 ---
 
 

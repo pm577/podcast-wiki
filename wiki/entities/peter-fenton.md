@@ -1,4 +1,5 @@
 ---
+
 title: Peter Fenton
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-06-19-20vc-benchmarks-peter-fenton.md
 confidence: medium
+subtype: person
 ---
 
 

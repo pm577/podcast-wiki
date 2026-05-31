@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-biggest-lessons-starting-uber
 name: The Biggest Lessons Starting Uber
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-02-16
 tags: ["go-to-market", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Ed Baker is an angel investor and growth advisor to various startups including Lime, Zwift, Whoop, Crimson Education, GoPeer, and Playbook."]
+subtype: article
 ---
 
 # The Biggest Lessons Starting Uber

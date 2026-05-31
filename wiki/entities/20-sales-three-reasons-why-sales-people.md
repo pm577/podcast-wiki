@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20-sales-three-reasons-why-sales-people
 name: "20 Sales: Three Reasons Why Sales People"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20 Sales: Three Reasons Why Sales People Fail | The Two Things Th
 ## Summary
 
  Jordan Van Horn is a Revenue Leader @ Monte Carlo, the world's first data observability company."]
+subtype: article
 ---
 
 # 20 Sales: Three Reasons Why Sales People

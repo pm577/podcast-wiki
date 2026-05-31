@@ -1,4 +1,5 @@
 ---
+
 title: Eric Hippeau
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2015-12-21-20-vc-running-lerer-hippeau-v.md
 confidence: medium
+subtype: person
 ---
 
 

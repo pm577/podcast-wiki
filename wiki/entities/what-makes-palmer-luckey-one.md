@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-makes-palmer-luckey-one
 name: What Makes Palmer Luckey One
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-11-11
 tags: ["ai-ml", "biotech-health", "enterprise-saas", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Brian Singerman is a General Partner @ Founders Fund, one of the most prominent venture firms of the last decade with a portfolio including Anduril, SpaceX, Tesla, Palantir, Stripe, Affirm, Airbnb, Fa"]
+subtype: article
 ---
 
 # What Makes Palmer Luckey One

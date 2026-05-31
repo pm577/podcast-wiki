@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-lambda-school-founder-austen-allr
 name: "20VC: Lambda School Founder, Austen Allr"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-03-08
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Austen Allred is the Founder & CEO @ Lambda School, a 9 month, immersive program that gives you the tools and training you need to launch your new career—from the comfort of your own home."]
+subtype: article
 ---
 
 # 20VC: Lambda School Founder, Austen Allr

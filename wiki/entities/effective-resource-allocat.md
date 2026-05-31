@@ -1,4 +1,5 @@
 ---
+
 title: Effective Resource Allocat
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [fintech, founder-psychology, go-to-market, person, product-strategy, vent
 sources:
   - raw/transcripts/20vc/20vc-2021-05-07-20vc-mercadolibre-founder-mar.md
 confidence: medium
+subtype: person
 ---
 
 

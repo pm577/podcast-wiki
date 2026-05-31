@@ -1,4 +1,5 @@
 ---
+
 title: Puneet Agarwal
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2019-08-12-20vc-true-ventures-puneet-ag.md
 confidence: medium
+subtype: person
 ---
 
 

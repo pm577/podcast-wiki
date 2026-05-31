@@ -1,4 +1,5 @@
 ---
+
 title: Ayan Mitra
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, go-to-market, marketplaces, 
 sources:
   - raw/transcripts/20vc/20vc-2015-11-20-20-vc-ff-022-crowdfunding-is.md
 confidence: medium
+subtype: person
 ---
 
 

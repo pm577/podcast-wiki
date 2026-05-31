@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: scalar-capitals-linda-xjie
 name: Scalar Capital's Linda Xjie
 source: 20vc

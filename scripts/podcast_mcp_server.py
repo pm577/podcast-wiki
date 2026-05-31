@@ -285,11 +285,28 @@ def handle_mcp_request(request):
         return get_podcast_stats()
     elif tool == 'ask':
         query = params.get('query', '')
-        episodes = search_episodes(query, limit=5)
+        # Use semantic search for better results, fall back to keyword
+        semantic_results = search_by_meaning(query, limit=3)
+        keyword_results = search_episodes(query, limit=3)
+        
+        # Get entity context: find related people from the top results
+        related_entities = []
+        all_results = (semantic_results.get('results', []) if isinstance(semantic_results, dict) else []) + keyword_results
+        for r in all_results[:5]:
+            guest = r.get('guest', r.get('entity_name', ''))
+            if guest and guest not in related_entities and guest != 'unknown-guest':
+                related_entities.append(guest)
+            # Also check the results structure from semantic search
+            source_id = r.get('source_id', '')
+            if source_id and source_id not in related_entities and '_' not in source_id:
+                related_entities.append(source_id)
+        
         return {
             'query': query,
-            'results': episodes,
-            'note': 'Pass these results to your LLM for synthesis. Each result has title, date, guest, and a content snippet.'
+            'semantic_matches': semantic_results.get('results', semantic_results)[:5] if isinstance(semantic_results, dict) else semantic_results[:5],
+            'keyword_matches': keyword_results[:3],
+            'related_entities': related_entities[:5],
+            'note': 'Results from semantic and keyword search. Use semantic_matches for meaning-based queries, keyword_matches for exact matches.'
         }
     elif tool == 'search_by_meaning':
         return search_by_meaning(

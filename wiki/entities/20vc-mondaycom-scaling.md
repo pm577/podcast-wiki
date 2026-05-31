@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-mondaycom-scaling
 name: "20VC: Monday.com: Scaling"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Monday.com: Scaling from $6M to $120M in ARR in 3 Years | H
 ## Summary
 
 The story of Monday.com is insane, turned down by most VCs, then scaled from $6M to $120M ARR in just three years."]
+subtype: article
 ---
 
 # 20VC: Monday.com: Scaling

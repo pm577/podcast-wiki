@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-capital-gains-tax
 name: Why Capital Gains Tax
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-05-08
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Chris Paik is a General Partner @ Pace Capital, an early-stage venture firm in NYC."]
+subtype: article
 ---
 
 # Why Capital Gains Tax

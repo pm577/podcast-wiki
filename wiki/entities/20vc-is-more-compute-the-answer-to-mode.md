@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-is-more-compute-the-answer-to-mode
 name: "20VC: Is More Compute the Answer to Mode"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Is More Compute the Answer to Model Performance | Why OpenA
 ## Summary
 
  Ethan Mollick is the Co-Director of the Generative AI Lab at Wharton, which builds prototypes and conducts research to discover how AI can help humans thrive while mitigating risks."]
+subtype: article
 ---
 
 # 20VC: Is More Compute the Answer to Mode

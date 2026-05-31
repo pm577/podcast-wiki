@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fundraising-wisdom
 name: Fundraising Wisdom
 source: 20vc

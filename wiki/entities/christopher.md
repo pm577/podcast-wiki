@@ -1,4 +1,5 @@
 ---
+
 title: Christopher Miller
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-led-growth, hubspot, b2b-saas, growth, ai]
 sources:
   - raw/transcripts/lenny/christopher-miller.md
 confidence: high
+subtype: person
 ---
 
 # Christopher Miller

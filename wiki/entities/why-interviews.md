@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-interviews
 name: Why Interviews
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-06-15
 tags: ["ai-ml", "go-to-market", "product-strategy"]
 related_concepts: []
 key_views: ["Adam Fishman is one of the leading growth practitioners of the last decade."]
+subtype: article
 ---
 
 # Why Interviews

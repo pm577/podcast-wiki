@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-you-must-do-post
 name: Why You Must Do Post
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-09-13
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Kathleen Utecht is a General Partner @ Core Innovation Capital, I would say one of the most under the radar but immensely exciting funds in market and they are looking to revolutionize financial servi"]
+subtype: article
 ---
 
 # Why You Must Do Post

@@ -1,4 +1,5 @@
 ---
+
 title: Apurva Mehta
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, ai-ml, biotech-health]
 sources:
   - raw/transcripts/20vc/20vc-2020-08-17-20vc-why-entrepreneurs-care-l.md
 confidence: medium
+subtype: person
 ---
 
 

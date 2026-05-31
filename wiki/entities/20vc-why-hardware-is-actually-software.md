@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-hardware-is-actually-software
 name: "20VC: Why Hardware Is Actually Software"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Hardware Is Actually Software Wrapped In Plastic & "Of 
 ## Summary
 
 Ben Einstein is Founder and General Partner @ Bolt, Bolt is a fund designed to address the unique needs of early-stage startups at the intersection of hardware and software, investing up to $500K in pre-seed, pre-product companies."]
+subtype: article
 ---
 
 # 20VC: Why Hardware Is Actually Software

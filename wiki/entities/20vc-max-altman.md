@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-max-altman
 name: "20VC: Max Altman"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Max Altman on The New Seed War: Can Anyone Compete with Seq
 ## Summary
 
 Max Altman is Co‑Founder & Managing Partner at Saga Ventures, a US$125 M early‑stage fund."]
+subtype: article
 ---
 
 # 20VC: Max Altman

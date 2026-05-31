@@ -1,4 +1,5 @@
 ---
+
 title: Grammy Nominee Aloe Blacc
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2023-02-17-20vc-grammy-nominee-aloe-blac.md
 confidence: medium
+subtype: person
 ---
 
 

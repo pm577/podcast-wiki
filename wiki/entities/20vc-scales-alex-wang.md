@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-scales-alex-wang
 name: "20VC: Scale's Alex Wang"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Scale's Alex Wang on Why Data Not Compute is the Bottleneck
 ## Summary
 
  Alex Wang is the Founder and CEO @ Scale.ai, the company that allows you to make the best models with the best data."]
+subtype: article
 ---
 
 # 20VC: Scale's Alex Wang

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-right-way-to-assess-market-timing
 name: The Right Way To Assess Market Timing
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-10-12
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Patrick Morley is the President and CEO @ Carbon Black, the company that combines unfiltered data collection, predictive analytics, and cloud-based delivery to provide superior endpoint protection."]
+subtype: article
 ---
 
 # The Right Way To Assess Market Timing

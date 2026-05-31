@@ -1,4 +1,5 @@
 ---
+
 title: Zhenya Loginov
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, founder-psychology, go-to-market, product-strategy, hiring-cultur
 sources:
   - raw/transcripts/20vc/20vc-2022-06-22-20-sales-why-founders-should.md
 confidence: medium
+subtype: person
 ---
 
 

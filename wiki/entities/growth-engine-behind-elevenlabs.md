@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: growth-engine-behind-elevenlabs
 name: Growth Engine Behind ElevenLabs
 source: 20vc

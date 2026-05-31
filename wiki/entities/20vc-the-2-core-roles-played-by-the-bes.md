@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-2-core-roles-played-by-the-bes
 name: "20VC: The 2 Core Roles Played By The Bes"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-10-29
 tags: ["founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Ron Bouganim is the Founding Partner @ Govtech Fund, the first-ever venture capital fund dedicated to government technology startups."]
+subtype: article
 ---
 
 # 20VC: The 2 Core Roles Played By The Bes

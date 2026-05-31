@@ -1,4 +1,5 @@
 ---
+
 title: Jack Dorsey
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2020-12-21-20vc-why-the-theory-of-pro-ra.md
 confidence: medium
+subtype: person
 ---
 
 

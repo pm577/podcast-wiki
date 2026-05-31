@@ -1,4 +1,5 @@
 ---
+
 title: David Helgason
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, marketplaces, person, product-strategy, venture-capit
 sources:
   - raw/transcripts/20vc/20vc-2016-07-22-20vc-unity-3ds-david-helgaso.md
 confidence: medium
+subtype: person
 ---
 
 

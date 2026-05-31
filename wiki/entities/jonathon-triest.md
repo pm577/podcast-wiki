@@ -1,4 +1,5 @@
 ---
+
 title: Jonathon Triest
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy]
 sources:
   - raw/transcripts/20vc/20vc-2015-07-20-20-vc-055-vc-done-right-with.md
 confidence: medium
+subtype: person
 ---
 
 

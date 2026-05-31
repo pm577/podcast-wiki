@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-notions-founder
 name: "20VC: Notion's Founder"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Notion's Founder on "Founder Mode": When it Works & When it
 ## Summary
 
  Akshay Kothari is Co-Founder at Notion, one of the fastest-growing companies of the last decade."]
+subtype: article
 ---
 
 # 20VC: Notion's Founder

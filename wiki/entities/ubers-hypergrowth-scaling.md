@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ubers-hypergrowth-scaling
 name: Uber's Hypergrowth Scaling
 source: 20vc

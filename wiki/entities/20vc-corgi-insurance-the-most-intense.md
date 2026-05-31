@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-corgi-insurance-the-most-intense
 name: "20VC: Corgi Insurance: The Most Intense"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Corgi Insurance: The Most Intense Workplace Culture in Amer
 ## Summary
 
 Nico Laqua is the Co-Founder and CEO of Corgi Insurance, an AI-native insurance carrier built for startups."]
+subtype: article
 ---
 
 # 20VC: Corgi Insurance: The Most Intense

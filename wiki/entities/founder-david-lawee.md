@@ -1,4 +1,5 @@
 ---
+
 title: Founder David Lawee
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, go-to-market, hiring-culture, person, venture-
 sources:
   - raw/transcripts/20vc/20vc-2020-10-08-20vc-capitalg-founder-david-l.md
 confidence: medium
+subtype: person
 ---
 
 

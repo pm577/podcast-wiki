@@ -1,4 +1,5 @@
 ---
+
 title: Jude Gomila
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2020-02-11-20vc-lessons-from-150-angel-i.md
 confidence: medium
+subtype: person
 ---
 
 

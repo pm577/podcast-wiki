@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-innovate-in-highly-regulated-market
 name: How To Innovate In Highly Regulated Market
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-09-22
 tags: ["ai-ml", "biotech-health", "consumer", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Mario Schlosser is the Founder & CEO @ Oscar, the startup that makes health insurance easy."]
+subtype: article
 ---
 
 # How To Innovate In Highly Regulated Market

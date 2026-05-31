@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-there-should-always-be-availability-to
 name: Why There Should Always Be Availability To
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-08-26
 tags: ["ai-ml", "fintech", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Sean Brecker is the CEO @ Headspace where he is the driving force behind all financial and commercial matters including overseeing the company's growth of it's product line which now has over 8m downl"]
+subtype: article
 ---
 
 # Why There Should Always Be Availability To

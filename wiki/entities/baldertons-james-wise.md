@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: baldertons-james-wise
 name: Balderton's James Wise
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Tech
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology]
 sources:
   - raw/transcripts/20vc/20vc-2015-04-20-20-vc-029-the-potential-upsid.md
 confidence: medium
+subtype: person
 ---
 
 

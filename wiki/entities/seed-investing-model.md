@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: seed-investing-model
 name: Seed Investing Model
 source: 20vc

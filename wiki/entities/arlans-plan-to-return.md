@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: arlans-plan-to-return
 name: Arlan's Plan To Return
 source: 20vc

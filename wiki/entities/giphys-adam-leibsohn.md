@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: giphys-adam-leibsohn
 name: Giphy's Adam Leibsohn
 source: 20vc

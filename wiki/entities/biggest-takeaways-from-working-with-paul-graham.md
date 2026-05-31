@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: biggest-takeaways-from-working-with-paul-graham
 name: Biggest Takeaways From Working With Paul Graham
 source: 20vc

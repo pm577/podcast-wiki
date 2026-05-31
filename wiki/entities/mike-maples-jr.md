@@ -1,4 +1,5 @@
 ---
+
 title: Mike Maples Jr.
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, floodgate, pattern-breakers, startup-investing, 
 sources:
   - raw/transcripts/lenny/mike-maples-jr.md
 confidence: high
+subtype: person
 ---
 
 # Mike Maples Jr.

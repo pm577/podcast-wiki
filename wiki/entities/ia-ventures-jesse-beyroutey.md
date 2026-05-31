@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ia-ventures-jesse-beyroutey
 name: IA Ventures' Jesse Beyroutey
 source: 20vc

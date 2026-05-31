@@ -1,4 +1,5 @@
 ---
+
 title: Eric Simons
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, stackblitz, bolt, ai-coding, startup, entrepreneurship]
 sources:
   - raw/transcripts/lenny/eric-simons.md
 confidence: high
+subtype: person
 ---
 
 # Eric Simons

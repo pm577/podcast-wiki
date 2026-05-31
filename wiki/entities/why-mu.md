@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-mu
 name: Why Mu
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-05-29
 tags: ["ai-ml", "biotech-health", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Adam Besvinick is the Founder of Looking Glass Capital, a pre-seed-focused firm started in 2020."]
+subtype: article
 ---
 
 # Why Mu

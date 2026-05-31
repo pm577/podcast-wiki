@@ -1,4 +1,5 @@
 ---
+
 title: Mike Vernal
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, go-to-market, hiring-culture, person, product-strategy, venture-ca
 sources:
   - raw/transcripts/20vc/20vc-2019-08-26-20vc-sequoias-mike-vernal-on.md
 confidence: medium
+subtype: person
 ---
 
 

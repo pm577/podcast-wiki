@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bessemers-byron-deeter-on-lessons-from-investing
 name: Bessemer's Byron Deeter On Lessons From Investing
 source: 20vc

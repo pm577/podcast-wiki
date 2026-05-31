@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-should-large-crypto-funds-give-mon
 name: "20VC: Should Large Crypto Funds Give Mon"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Should Large Crypto Funds Give Money Back to LPs | What Wil
 ## Summary
 
  Nick Tomaino is the Founder and General Partner @ 1confirmation, one of the leading seed firms fueling the decentralization of the web and society."]
+subtype: article
 ---
 
 # 20VC: Should Large Crypto Funds Give Mon

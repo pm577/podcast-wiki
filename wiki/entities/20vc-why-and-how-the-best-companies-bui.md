@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-and-how-the-best-companies-bui
 name: "20VC: Why and How The Best Companies Bui"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why and How The Best Companies Build Economies Around Thems
 ## Summary
 
  Jay Simons is a General Partner @ Bond Capital, with their $1.25Bn debut growth fund in 2019 they made their mark on the venture landscape and have since made investments in the likes of Revolut, Canva, NextDoor, IronClad and my favourite, On Running."]
+subtype: article
 ---
 
 # 20VC: Why and How The Best Companies Bui

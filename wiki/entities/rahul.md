@@ -1,4 +1,5 @@
 ---
+
 title: Rahul Vohra
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/rahul-vohra.md
 confidence: high
 key_finding: There's no such thing as a truly viral product — word of mouth is the real growth engine
+subtype: person
 ---
 
 # Rahul Vohra

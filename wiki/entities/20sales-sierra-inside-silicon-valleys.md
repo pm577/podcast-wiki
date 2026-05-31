@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-sierra-inside-silicon-valleys
 name: "20Sales: Sierra: Inside Silicon Valley's"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Sierra: Inside Silicon Valley's Fastest Growing Sales Ma
 ## Summary
 
 Reggie Marable is the Head of Global Sales at Sierra, a conversational AI platform for businesses."]
+subtype: article
 ---
 
 # 20Sales: Sierra: Inside Silicon Valley's

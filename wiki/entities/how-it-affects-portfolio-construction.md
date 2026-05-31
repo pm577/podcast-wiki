@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-it-affects-portfolio-construction
 name: How It Affects Portfolio Construction
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-12-17
 tags: ["venture-capital"]
 related_concepts: []
 key_views: ["Ted Wang is a Partner @ Cowboy Ventures, one of Silicon Valley's leading early-stage funds with the likes of Philz Coffee, Dollar Shave Club, Brandless, DocSend, Accompany and Brit + Co all in their p"]
+subtype: article
 ---
 
 # How It Affects Portfolio Construction

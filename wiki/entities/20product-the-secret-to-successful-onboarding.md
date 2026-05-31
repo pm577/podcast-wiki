@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-the-secret-to-successful-onboarding
 name: "20Product: The Secret to Successful Onboarding"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: The Secret to Successful Onboarding from Notion and Ai
 ## Summary
 
  Lauryn Isford is the Head of Product Growth at Notion, managing Notion's product-led growth engine and self-serve business."]
+subtype: article
 ---
 
 # 20Product: The Secret to Successful Onboarding

@@ -1,4 +1,5 @@
 ---
+
 title: Seth Levine
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [go-to-market, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2015-08-26-20-vc-066-foundry-group-week.md
 confidence: medium
+subtype: person
 ---
 
 

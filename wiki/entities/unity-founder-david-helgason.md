@@ -1,4 +1,5 @@
 ---
+
 title: Unity Founder David Helgason
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, consumer, founder-psychology, go-to-market, person, venture-capita
 sources:
   - raw/transcripts/20vc/20vc-2020-10-29-20vc-unity-founder-david-helg.md
 confidence: medium
+subtype: person
 ---
 
 

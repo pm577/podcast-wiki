@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-seed-pricing
 name: Why Seed Pricing
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-10-20
 tags: ["ai-ml", "founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Harry Stebbings is the Founder of 20VC, building the next great financial institution at the intersection of media and venture capital."]
+subtype: article
 ---
 
 # Why Seed Pricing

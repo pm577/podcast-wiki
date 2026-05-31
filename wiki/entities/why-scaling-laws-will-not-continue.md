@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-scaling-laws-will-not-continue
 name: Why Scaling Laws Will Not Continue
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-01-15
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Victor Riparbelli is the CEO and Co-founder of Synthesia, the world's leading AI video communications platform for enterprises."]
+subtype: article
 ---
 
 # Why Scaling Laws Will Not Continue

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: angellists-parker-thompson
 name: AngelList's Parker Thompson
 source: 20vc

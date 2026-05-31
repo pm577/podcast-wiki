@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-data-size-matters-more-than-model-size
 name: "20VC: Why Data Size Matters More Than Model Size"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Data Size Matters More Than Model Size, Why The Google 
 ## Summary
 
  Douwe Kiela is the CEO of Contextual AI, building the contextual language model to power the future of businesses."]
+subtype: article
 ---
 
 # 20VC: Why Data Size Matters More Than Model Size

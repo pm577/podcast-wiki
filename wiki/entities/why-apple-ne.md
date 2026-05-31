@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-apple-ne
 name: Why Apple Ne
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-07-31
 tags: ["ai-ml", "enterprise-saas", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Agenda: 00:00 - Why Benchmark Is Bleeding Partners (and Why That's the New Normal) 04:57 - "I Wouldn't Leave Benchmark… Unless I Had THIS" — Jason on Brand vs Autonomy 09:01 - The Rise of the Solo GP "]
+subtype: article
 ---
 
 # Why Apple Ne

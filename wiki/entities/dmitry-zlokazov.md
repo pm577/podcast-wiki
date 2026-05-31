@@ -36,3 +36,15 @@ confidence: medium
 - [[revolut]]
 - [[org-design]]
 - [[product-quality]]
+
+---
+
+*Merged from [[dmitry]]:*
+
+# Dmitry
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/dmitry-zlokazov|How Revolut trains world-class PMs: The “Local CEO” model, raw intellect & building wow products]] — *to be summarized*

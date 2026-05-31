@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: its-approach-to-crypto-should-gensler-step-down-how-do-us-el
 name: its Approach to Crypto? Should Gensler Step Down? How do US Elec
 source: 20vc

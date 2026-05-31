@@ -1,4 +1,5 @@
 ---
+
 title: Jonathan Libov
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, hiring-culture, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2015-07-13-20-vc-053-inside-union-square.md
 confidence: medium
+subtype: person
 ---
 
 

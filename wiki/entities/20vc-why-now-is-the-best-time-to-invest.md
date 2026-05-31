@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-now-is-the-best-time-to-invest
 name: "20VC: Why Now is the Best Time to Invest"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Now is the Best Time to Invest in Emerging Managers, Bi
 ## Summary
 
  Peter Lacaillade is a Managing Director @ SCS Financial Services where he leads its private investment program where he oversees the firm's activities in private equity, opportunistic credit and private real assets."]
+subtype: article
 ---
 
 # 20VC: Why Now is the Best Time to Invest

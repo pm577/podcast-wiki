@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-biggest-growth-lessons
 name: The Biggest Growth Lessons
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-12-16
 tags: ["ai-ml", "go-to-market", "hiring-culture", "marketplaces", "product-strategy"]
 related_concepts: []
 key_views: ["Bangaly Kaba is the Head of Platform Growth @ Popshop Live, a live streaming mobile marketplace that combines commerce, entertainment, and social."]
+subtype: article
 ---
 
 # The Biggest Growth Lessons

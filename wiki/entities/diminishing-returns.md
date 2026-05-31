@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: diminishing-returns
 name: Diminishing Returns
 source: 20vc

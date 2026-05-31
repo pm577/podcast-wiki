@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-raising-too-much-money-can-harm-your
 name: Why Raising Too Much Money Can Harm Your
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-05-16
 tags: ["ai-ml", "consumer", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Rob Go is a co-founder and Partner at NextView Ventures, Next View are hands on, high conviction true seed stage investors."]
+subtype: article
 ---
 
 # Why Raising Too Much Money Can Harm Your

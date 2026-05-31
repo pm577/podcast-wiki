@@ -1,4 +1,5 @@
 ---
+
 title: Jackie Reses
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, fintech, ai-
 sources:
   - raw/transcripts/20vc/20vc-2023-03-31-20vc-the-secret-to-negotiatin.md
 confidence: medium
+subtype: person
 ---
 
 

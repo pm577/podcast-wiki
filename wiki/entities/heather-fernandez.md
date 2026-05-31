@@ -1,4 +1,5 @@
 ---
+
 title: Heather Fernandez
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, go-to-market, product-strate
 sources:
   - raw/transcripts/20vc/20vc-2018-08-24-20vc-lessons-from-scaling-tru.md
 confidence: medium
+subtype: person
 ---
 
 

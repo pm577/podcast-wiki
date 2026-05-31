@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-why-product
 name: "20Growth: Why Product"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: Why Product-Market Fit is Not Enough, Revenue Does Not 
 ## Summary
 
  Brian Balfour is the Founder and CEO of Reforge."]
+subtype: article
 ---
 
 # 20Growth: Why Product

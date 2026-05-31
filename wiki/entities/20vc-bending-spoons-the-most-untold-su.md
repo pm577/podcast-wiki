@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-bending-spoons-the-most-untold-su
 name: "20VC: Bending Spoons: The Most Untold Su"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-03-15
 tags: ["ai-ml", "founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["# 20VC: Bending Spoons: The Most Untold Success Story in Startups: Lessons Scaling to 500M Downloads, $360M in Reported 2023 Sales and a $2.55BN Valuation..."]
+subtype: article
 ---
 
 # 20VC: Bending Spoons: The Most Untold Su

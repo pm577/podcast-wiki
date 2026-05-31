@@ -1,4 +1,5 @@
 ---
+
 title: Marc Lore
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, hiring-culture, person, product-strategy, venture-cap
 sources:
   - raw/transcripts/20vc/20vc-2021-07-12-20vc-jetcoms-marc-lore-on-h.md
 confidence: medium
+subtype: person
 ---
 
 

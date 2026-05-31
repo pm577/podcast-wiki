@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-fundraising-wisdom-that-is-total-bs-dilution
 name: "20VC: Fundraising Wisdom that is Total BS; Dilution"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Fundraising Wisdom that is Total BS; Dilution, Meeting Asso
 ## Summary
 
  Dan Siroker is the Co-Founder and CEO @ Limitless, a personalized AI powered by what you've seen, said, or heard."]
+subtype: article
 ---
 
 # 20VC: Fundraising Wisdom that is Total BS; Dilution

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-future-of-the-music-industry
 name: The Future Of The Music Industry
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-07-15
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Quote of the Day: 'A great entrepreneur has the ability to bend the world to their will'."]
+subtype: article
 ---
 
 # The Future Of The Music Industry

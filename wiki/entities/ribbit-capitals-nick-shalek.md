@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ribbit-capitals-nick-shalek
 name: Ribbit Capital's Nick Shalek
 source: 20vc

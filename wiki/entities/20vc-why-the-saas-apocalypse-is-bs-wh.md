@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-the-saas-apocalypse-is-bs-wh
 name: "20VC: Why the SaaS Apocalypse is BS | Wh"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why the SaaS Apocalypse is BS | Why China Will Win the AI W
 ## Summary
 
 Mitchell Green is a legendary growth equity investor and the Founder and Managing Partner of Lead Edge Capital, a firm with over $5 billion in assets under management."]
+subtype: article
 ---
 
 # 20VC: Why the SaaS Apocalypse is BS | Wh

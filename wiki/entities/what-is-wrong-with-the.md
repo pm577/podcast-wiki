@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-is-wrong-with-the
 name: What Is Wrong With The
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-09-07
 tags: ["ai-ml", "consumer", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Brett DeMarrais is a Partner @ Ludlow Ventures, who have investments in the likes of ProductHunt, Sprig, AngelList and uBeam."]
+subtype: article
 ---
 
 # What Is Wrong With The

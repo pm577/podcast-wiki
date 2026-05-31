@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-your-upbringing-can-make-you
 name: Why Your Upbringing Can Make You
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-08-04
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Ilir Sela is the Founder and CEO of Slice, the all-in-one ordering and marketing tech platform for local pizzerias."]
+subtype: article
 ---
 
 # Why Your Upbringing Can Make You

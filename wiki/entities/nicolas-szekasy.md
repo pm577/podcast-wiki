@@ -1,4 +1,5 @@
 ---
+
 title: Nicolas Szekasy
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, marketplaces, fintech]
 sources:
   - raw/transcripts/20vc/20vc-2021-08-16-20vc-latam-latams-largest-fu.md
 confidence: medium
+subtype: person
 ---
 
 

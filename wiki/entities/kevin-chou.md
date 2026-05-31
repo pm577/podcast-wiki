@@ -1,4 +1,5 @@
 ---
+
 title: Kevin Chou
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, go-to-market, product-strate
 sources:
   - raw/transcripts/20vc/20vc-2017-03-17-20vc-why-success-in-gaming-is.md
 confidence: medium
+subtype: person
 ---
 
 

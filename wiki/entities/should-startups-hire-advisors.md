@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: should-startups-hire-advisors
 name: Should Startups Hire Advisors
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-10-25
 tags: ["ai-ml", "founder-psychology", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Ely Lerner is an EIR at Reforge and an advisor for startups transitioning from traction to hypergrowth."]
+subtype: article
 ---
 
 # Should Startups Hire Advisors

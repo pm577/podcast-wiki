@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-most-companies-su
 name: Why Most Companies Su
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-01-19
 tags: ["consumer", "venture-capital"]
 related_concepts: []
 key_views: ["Zaria Parvez is Duolingo's Senior Global Social Media Manager where she is famed for scaling Duolingo's TikTok from 50K followers in September 2021 to 8M followers today."]
+subtype: article
 ---
 
 # Why Most Companies Su

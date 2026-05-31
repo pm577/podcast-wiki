@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-will-seed-pricing-remain-high-whe
 name: 20VC Will Seed Pricing Remain High | Whe
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC Will Seed Pricing Remain High | Where is the Funding Crunch?
 ## Summary
 
  Rebecca Kaden is a Managing Partner @ Union Square Ventures, one of the leading early-stage firms of the last decade with investments in Twitter, Twilio, Coinbase and many more."]
+subtype: article
 ---
 
 # 20VC Will Seed Pricing Remain High | Whe

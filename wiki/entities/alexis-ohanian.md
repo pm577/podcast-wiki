@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: alexis-ohanian
 name: Alexis Ohanian
 source: 20vc

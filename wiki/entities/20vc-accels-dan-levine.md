@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-accels-dan-levine
 name: "20VC: Accel's Dan Levine"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Accel's Dan Levine on The Current State of Seed & Series A,
 ## Summary
 
  Dan Levine is a Partner @ Accel, one of the world's leading venture firms with a portfolio including the likes of Facebook, Slack, Qualtrics, UiPath and Deliveroo."]
+subtype: article
 ---
 
 # 20VC: Accel's Dan Levine

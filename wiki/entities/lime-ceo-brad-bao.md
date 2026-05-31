@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lime-ceo-brad-bao
 name: Lime CEO Brad Bao
 source: 20vc

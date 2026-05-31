@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-andreesen-have-added-the-same
 name: How Andreesen Have Added The Same
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-09-29
 tags: ["ai-ml", "founder-psychology", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Roger Dickey is the Founder & CEO @ Gigster, the smart development service combining top developers and designers with artificial intelligence."]
+subtype: article
 ---
 
 # How Andreesen Have Added The Same

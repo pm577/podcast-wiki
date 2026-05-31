@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-selling-drift-for-12bn-is-the-bi
 name: "20VC: Selling Drift for $1.2BN is the Bi"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Selling Drift for $1.2BN is the Biggest Failure: What No On
 ## Summary
 
 Elias Torres is the Co-Founder and CEO of Agency, the AI agent for customer success teams."]
+subtype: article
 ---
 
 # 20VC: Selling Drift for $1.2BN is the Bi

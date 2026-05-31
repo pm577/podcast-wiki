@@ -1,4 +1,5 @@
 ---
+
 title: Dara Khosrowshahi
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2023-03-27-20vc-uber-ceo-dara-khosrowsh.md
 confidence: medium
+subtype: person
 ---
 
 

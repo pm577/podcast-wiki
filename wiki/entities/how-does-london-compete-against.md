@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-does-london-compete-against
 name: How Does London Compete Against
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-03-28
 tags: ["ai-ml", "fintech", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Dame Julia Hoggett is the CEO of the London Stock Exchange."]
+subtype: article
 ---
 
 # How Does London Compete Against

@@ -1,4 +1,5 @@
 ---
+
 title: Max Motschwiller
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, product-strategy, ai-ml, enterpris
 sources:
   - raw/transcripts/20vc/20vc-2018-06-25-20vc-the-4-key-skills-all-vcs.md
 confidence: medium
+subtype: person
 ---
 
 

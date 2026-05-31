@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: scaling-wait-but-why
 name: Scaling Wait But Why
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-08-14
 tags: ["ai-ml", "founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Tim Urban is the writer/illustrator and co-founder of Wait But Why, a long-form, stick-figure-illustrated website with over 600,000 subscribers and a monthly average of half a million visitors."]
+subtype: article
 ---
 
 # Scaling Wait But Why

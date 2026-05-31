@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: when-to-make-your-first-growth-hire
 name: When To Make Your First Growth Hire
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-01-18
 tags: ["biotech-health", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Hila Qu is one of the leading growth execs of the last decade."]
+subtype: article
 ---
 
 # When To Make Your First Growth Hire

@@ -1,4 +1,5 @@
 ---
+
 title: Tony Fadell
 created: 2026-05-31
 updated: 2026-05-31
@@ -9,6 +10,7 @@ sources:
   - raw/transcripts/20vc/20vc-2022-05-11-20-product-iphone-creator-to.md
   - raw/transcripts/20vc/20vc-2022-07-25-20vc-tony-fadell-on-the-3-hat.md
 confidence: medium
+subtype: person
 ---
 
 # Tony Fadell

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: have-foundation-mod
 name: Have Foundation Mod
 source: 20vc

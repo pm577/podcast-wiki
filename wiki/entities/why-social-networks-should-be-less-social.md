@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-social-networks-should-be-less-social
 name: Why Social Networks Should Be Less Social
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-02-22
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Kevin Systrom and Mike Krieger are the co-founders of Instagram."]
+subtype: article
 ---
 
 # Why Social Networks Should Be Less Social

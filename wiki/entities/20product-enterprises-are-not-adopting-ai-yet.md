@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-enterprises-are-not-adopting-ai-yet
 name: "20Product: Enterprises are not Adopting AI Yet"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Enterprises are not Adopting AI Yet, When Will AI Brea
 ## Summary
 
  Howie Liu is the Founder and CEO @ Airtable, the fastest way to build apps for your business."]
+subtype: article
 ---
 
 # 20Product: Enterprises are not Adopting AI Yet

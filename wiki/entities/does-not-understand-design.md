@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: does-not-understand-design
 name: Does Not Understand Design
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-02-26
 tags: ["consumer", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Steve Vassallo is a General Partner @ Foundation Capital where he sits or has sat on the boards of Pocket (acquired by Mozilla), PrivateCore (acquired by Facebook), Sunrun [RUN], Sentient Energy and m"]
+subtype: article
 ---
 
 # Does Not Understand Design

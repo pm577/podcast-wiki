@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: do-vc
 name: Do VC
 source: 20vc

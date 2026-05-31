@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: databricks-ceo
 name: Databricks CEO
 source: 20vc

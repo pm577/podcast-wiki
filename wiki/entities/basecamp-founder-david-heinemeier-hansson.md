@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: basecamp-founder-david-heinemeier-hansson
 name: Basecamp Founder David Heinemeier Hansson
 source: 20vc

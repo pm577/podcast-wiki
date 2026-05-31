@@ -1,4 +1,5 @@
 ---
+
 title: Wes Chan
 created: 2026-05-31
 updated: 2026-06-01
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2022-08-22-20vc-why-market-always-wins-o.md
 confidence: medium
+subtype: person
 ---
 
 # Wes Chan

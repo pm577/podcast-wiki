@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-most-insane-scaling-story
 name: The Most Insane Scaling Story
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-07-21
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Edwin Chen is the Founder and CEO of Surge."]
+subtype: article
 ---
 
 # The Most Insane Scaling Story

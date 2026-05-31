@@ -1,4 +1,5 @@
 ---
+
 title: Sean Brecker
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, product-strategy, fintech, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2016-08-26-20vc-maximising-engagement-an.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-services-model
 name: "20VC: The Services Model"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Services Model of Venture Capital is Broken, The Best F
 ## Summary
 
  Phin Barnes is the Co-founder and Managing Partner of The General Partnership (TheGP), a venture capital firm that's redefining what partnership means for founders."]
+subtype: article
 ---
 
 # 20VC: The Services Model

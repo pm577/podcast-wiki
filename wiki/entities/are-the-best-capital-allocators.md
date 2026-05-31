@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: are-the-best-capital-allocators
 name: Are The Best Capital Allocators
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-10-03
 tags: ["ai-ml", "go-to-market", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Josh Hannah is a General Partner @ Matrix Partners where he has led investments in the likes of Canva, Quora and Huddle just to name a few."]
+subtype: article
 ---
 
 # Are The Best Capital Allocators

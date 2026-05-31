@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-sequoias-leadership-transition
 name: "20VC: Sequoia's Leadership Transition |"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 04:22 Sequoia's Leadership Transition 09:46 Michael Burry's Big Short on
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-sequoias-leadership-transition-michael-burry-shorts-nvidia-and-palantir-gamma-raises-100m-at-2bn-has-defensibility-died-in-a-world-of-ai-datadog-surges-as-duolingo-plummets-what-is-happening)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Sequoia's Leadership Transition |

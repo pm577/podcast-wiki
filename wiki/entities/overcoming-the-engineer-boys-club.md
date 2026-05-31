@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: overcoming-the-engineer-boys-club
 name: Overcoming The Engineer Boys Club
 source: 20vc

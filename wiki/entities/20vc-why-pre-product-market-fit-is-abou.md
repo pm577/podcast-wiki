@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-pre-product-market-fit-is-abou
 name: "20VC: Why Pre-Product Market Fit Is Abou"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-11-08
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Ryan Denehy is the Founder & CEO @ Electric."]
+subtype: article
 ---
 
 # 20VC: Why Pre-Product Market Fit Is Abou

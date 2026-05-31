@@ -1,4 +1,5 @@
 ---
+
 title: Rod Drury
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [enterprise-saas, founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2016-05-20-20vc-xeros-rod-drury-on-ipo.md
 confidence: medium
+subtype: person
 ---
 
 

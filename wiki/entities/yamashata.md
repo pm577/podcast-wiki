@@ -1,4 +1,5 @@
 ---
+
 title: Yuhki Yamashita
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, figma, design, product-led-growth, cpo]
 sources:
   - raw/transcripts/lenny/yamashata.md
 confidence: high
+subtype: person
 ---
 
 # Yuhki Yamashita

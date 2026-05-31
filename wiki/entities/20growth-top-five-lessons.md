@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-top-five-lessons
 name: "20Growth: Top Five Lessons"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: Top Five Lessons from Leading Analytics at Facebook and
 ## Summary
 
  Chandra Narayanan is one of the growth and analytics OGs having spent 7 years at Facebook leading analytics for the Facebook App and for Instagram."]
+subtype: article
 ---
 
 # 20Growth: Top Five Lessons

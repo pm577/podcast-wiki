@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-founders-funds-trae-stephens
 name: "20VC: Founders Fund's Trae Stephens"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Founders Fund's Trae Stephens on Why The Most Competitive D
 ## Summary
 
  Trae Stephens is a Partner at Founders Fund, one of the world's leading funds where he has worked with some of the best and backed the likes of Palmer Luckey with Oculus and Ryan Peterson @ Flexport since the very early days."]
+subtype: article
 ---
 
 # 20VC: Founders Fund's Trae Stephens

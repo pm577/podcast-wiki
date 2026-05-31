@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: thoma-bravos-orlando-bravo
 name: Thoma Bravo's Orlando Bravo
 source: 20vc

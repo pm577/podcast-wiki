@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-capital-gs-laela-sturdy
 name: "20VC: Capital G's Laela Sturdy"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Capital G's Laela Sturdy on What Stripe, UiPath and Duoling
 ## Summary
 
  Laela Sturdy is Managing Partner of CapitalG, Alphabet's $7 billion independent growth fund, where she has invested in Stripe, Duolingo (DUOL), Gusto, UiPath (PATH), Webflow and Whatnot."]
+subtype: article
 ---
 
 # 20VC: Capital G's Laela Sturdy

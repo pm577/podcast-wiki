@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: mercury-founder-launches-first
 name: Mercury Founder Launches First
 source: 20vc

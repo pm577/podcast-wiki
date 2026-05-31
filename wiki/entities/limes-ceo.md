@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: limes-ceo
 name: Lime's CEO
 source: 20vc

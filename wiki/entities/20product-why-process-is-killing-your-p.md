@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-why-process-is-killing-your-p
 name: "20Product: Why Process is Killing Your P"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Why Process is Killing Your Product Team and How to Re
 ## Summary
 
 Jean-Michel Lemieux is one of the OGs of engineering and product having been the CTO at Shopify and the VP Engineering at Atlassian."]
+subtype: article
 ---
 
 # 20Product: Why Process is Killing Your P

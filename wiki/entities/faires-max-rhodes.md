@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: faires-max-rhodes
 name: Faire's Max Rhodes
 source: 20vc

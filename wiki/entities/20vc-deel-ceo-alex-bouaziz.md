@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-deel-ceo-alex-bouaziz
 name: "20VC: Deel CEO Alex Bouaziz"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Deel CEO Alex Bouaziz on Raising $300M+ at a $17BN Valuatio
 ## Summary
 
 Alex Bouaziz is the Co-Founder and CEO @ Deel, the $17BN global payroll juggernaut that just last week announced their latest $300M fundraise led by Ribbit, a16z and Coatue."]
+subtype: article
 ---
 
 # 20VC: Deel CEO Alex Bouaziz

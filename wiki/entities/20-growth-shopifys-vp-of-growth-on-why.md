@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20-growth-shopifys-vp-of-growth-on-why
 name: "20 Growth: Shopify's VP of Growth on Why"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-07-13
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "marketplaces", "product-strategy"]
 related_concepts: []
 key_views: ["Luc Levesque is currently the VP of Growth at Shopify and also advises companies like Twitter, Pinterest, and Quora."]
+subtype: article
 ---
 
 # 20 Growth: Shopify's VP of Growth on Why

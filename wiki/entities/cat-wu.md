@@ -1,4 +1,5 @@
 ---
+
 title: Cat Wu
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, anthropic, claude-code, ai, leadership, shipp
 sources:
   - raw/transcripts/lenny/lenny-2026-04-23-cat-wu.md
 confidence: high
+subtype: person
 ---
 
 # Cat Wu

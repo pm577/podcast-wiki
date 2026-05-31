@@ -1,4 +1,5 @@
 ---
+
 title: Lulu Cheng Meservey
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/lulu-cheng-meservey.md
 confidence: high
 key_finding: Cultural erogenous zones and concentric circles for message spread
+subtype: person
 ---
 
 # Lulu Cheng Meservey

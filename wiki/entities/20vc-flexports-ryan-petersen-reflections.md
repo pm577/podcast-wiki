@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-flexports-ryan-petersen-reflections
 name: "20VC: Flexport's Ryan Petersen: Reflections"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Flexport's Ryan Petersen: Reflections on Leadership from 13
 ## Summary
 
  Ryan Petersen is Founder & CEO @ Flexport, a leader in global supply chain technology."]
+subtype: article
 ---
 
 # 20VC: Flexport's Ryan Petersen: Reflections

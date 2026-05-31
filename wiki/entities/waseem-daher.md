@@ -1,4 +1,5 @@
 ---
+
 title: Waseem Daher
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2019-08-02-20vc-why-passion-is-overrated.md
 confidence: medium
+subtype: person
 ---
 
 

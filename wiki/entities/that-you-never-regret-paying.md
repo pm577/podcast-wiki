@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: that-you-never-regret-paying
 name: That You Never Regret Paying
 source: 20vc

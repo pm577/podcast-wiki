@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-radical-changes-in-public-market-expectations
 name: The Radical Changes In Public Market Expectations
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-02-08
 tags: ["founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Randy Glein is a Co-Founder & Partner @ DFJ Growth where he looks to partner with entrepreneurs that have achieved market validation and are looking to scale rapidly."]
+subtype: article
 ---
 
 # The Radical Changes In Public Market Expectations

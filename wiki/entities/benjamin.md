@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/benjamin-mann.md
+
 title: Benjamin
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +10,7 @@ tags: [person]
 sources:
   - episodes/lenny/benjamin-mann|How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)
 confidence: medium
+subtype: person
 ---
 
 # Benjamin

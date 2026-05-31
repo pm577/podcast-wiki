@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-navan-ipo-winners
 name: "20VC: Navan IPO: Winners"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 04:27 Navan's IPO: Winners, Losers and 20% Crater 12:55 Harvey Raises $1
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-navan-ipo-winners-losers-and-is-a-45bn-exit-enough-in-vc-today-harvey-raises-150m-at-8bn-price-why-google-is-a-buy-and-amazon-is-a-sell-meta-down-10-is-zuck-struggling)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Navan IPO: Winners

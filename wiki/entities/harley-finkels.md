@@ -1,4 +1,5 @@
 ---
+
 title: Harley Finkels
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2022-05-04-20vc-the-memo-chris-sacca-on.md
 confidence: medium
+subtype: person
 ---
 
 

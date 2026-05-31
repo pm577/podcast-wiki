@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: is-more-artificial-than-intelligent
 name: Is More Artificial Than Intelligent
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-08-30
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Alina Cohen is a General Partner @ Initialized Capital, one of Silicon Valleys leading early stage seed funds."]
+subtype: article
 ---
 
 # Is More Artificial Than Intelligent

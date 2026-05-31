@@ -1,4 +1,5 @@
 ---
+
 title: Sahil Lavingia
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, hiring-culture, person, product-strategy, vent
 sources:
   - raw/transcripts/20vc/20vc-2020-08-24-20vc-sahil-lavingia-on-rollin.md
 confidence: medium
+subtype: person
 ---
 
 
@@ -30,3 +32,15 @@ confidence: medium
 ## Episodes
 
 - **20VC: Sahil Lavingia on Rolling Funds and Their Impact on The Future of Venture, How To Evaluate Mar** (2020-08-24)
+
+---
+
+*Merged from [[sahil]]:*
+
+# Sahil
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/sahil-mansuri|How to hit revenue targets in a recession | Sahil Mansuri (Bravado)]] — *to be summarized*

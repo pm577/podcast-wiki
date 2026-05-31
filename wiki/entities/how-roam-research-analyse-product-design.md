@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-roam-research-analyse-product-design
 name: How Roam Research Analyse Product Design
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-05-08
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Conor White-Sullivan is the Founder & CEO @ Roam Research, the tool taking over our industry providing a seamless note-taking tool for networked thought."]
+subtype: article
 ---
 
 # How Roam Research Analyse Product Design

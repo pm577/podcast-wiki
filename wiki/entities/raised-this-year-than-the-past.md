@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: raised-this-year-than-the-past
 name: Raised This Year Than The Past
 source: 20vc

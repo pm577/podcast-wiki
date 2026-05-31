@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: tripactions-ceo-ariel-cohen
 name: TripActions CEO Ariel Cohen
 source: 20vc

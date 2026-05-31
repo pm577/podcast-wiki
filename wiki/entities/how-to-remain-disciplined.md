@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-remain-disciplined
 name: How To Remain Disciplined
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-11-11
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Martín Escobari is Co-President, Managing Director and Head of General Atlantic's business in Latin America."]
+subtype: article
 ---
 
 # How To Remain Disciplined

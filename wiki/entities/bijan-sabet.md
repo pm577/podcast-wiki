@@ -1,4 +1,5 @@
 ---
+
 title: Bijan Sabet
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, hiring-culture, person, product-strategy, venture-cap
 sources:
   - raw/transcripts/20vc/20vc-2016-06-06-20vc-sparks-bijan-sabet-on-i.md
 confidence: medium
+subtype: person
 ---
 
 

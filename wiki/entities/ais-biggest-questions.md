@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ais-biggest-questions
 name: AI's Biggest Questions
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Debbie Sterling
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2017-12-01-20vc-overcoming-the-engineer.md
 confidence: medium
+subtype: person
 ---
 
 

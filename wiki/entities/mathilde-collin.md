@@ -1,4 +1,5 @@
 ---
+
 title: Mathilde Collin
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, hiring-culture, person, product-strategy, vent
 sources:
   - raw/transcripts/20vc/20vc-2019-05-24-20vc-fronts-mathilde-collin.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: susan-lyne
 name: Susan Lyne
 source: 20vc

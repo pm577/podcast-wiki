@@ -1,4 +1,5 @@
 ---
+
 title: Bill Gates
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2020-12-28-20vc-lessons-from-working-wit.md
 confidence: medium
+subtype: person
 ---
 
 

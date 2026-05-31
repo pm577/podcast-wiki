@@ -1,4 +1,5 @@
 ---
+
 title: Chris Paik
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2023-05-08-20vc-why-vc-subsidizes-the-wr.md
 confidence: medium
+subtype: person
 ---
 
 

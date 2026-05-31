@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-moats-matter-more-than-brand-today
 name: Why Moats Matter More Than Brand Today
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-07-23
 tags: ["consumer", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Jason Stoffer is Managing Partner @ Maveron, the consumer-only venture fund backing a new breed of brands."]
+subtype: article
 ---
 
 # Why Moats Matter More Than Brand Today

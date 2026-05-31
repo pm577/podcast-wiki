@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: change-their-approach
 name: Change Their Approach
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: appdynamics-jyoti-bansal
 name: AppDynamic's Jyoti Bansal
 source: 20vc

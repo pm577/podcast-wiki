@@ -1,4 +1,5 @@
 ---
+
 title: Sumeet Shah
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2015-12-23-20-vc-are-unicorns-necessary.md
 confidence: medium
+subtype: person
 ---
 
 

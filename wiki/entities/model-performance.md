@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: model-performance
 name: Model Performance
 source: 20vc

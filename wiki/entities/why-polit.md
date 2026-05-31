@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-polit
 name: Why Polit
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-10-25
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Mark Goldberg is a Managing Partner and Co-Founder at Chemistry, a $350M fund announced just yesterday with the mission to lead the best seed and Series A rounds."]
+subtype: article
 ---
 
 # Why Polit

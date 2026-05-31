@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-from-only-openai-to-die
 name: "20VC: From Only OpenAI to Die"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: From Only OpenAI to Die-Hard Anthropic: The Downfall of Ope
 ## Summary
 
 Max Junestrand is the Co-Founder and CEO @ Legora, the legal AI company that has scaled to 750 of the world's leading law firms as customers and over 300 employees in just 2 years."]
+subtype: article
 ---
 
 # 20VC: From Only OpenAI to Die

@@ -1,4 +1,5 @@
 ---
+
 title: Matt Mochary
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/matt-mochary.md
 confidence: high
 key_finding: Fears give you terrible advice — learn to recognize when you're in fear
+subtype: person
 ---
 
 # Matt Mochary

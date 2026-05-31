@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-lovabl
 name: How Lovabl
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-03-14
 tags: ["ai-ml", "consumer", "founder-psychology", "go-to-market", "product-strategy"]
 related_concepts: []
 key_views: ["Elena Verna is the Head of Growth at Lovable, one of the fastest growing companies in the world having hit $400M in ARR in just 18 months."]
+subtype: article
 ---
 
 # How Lovabl

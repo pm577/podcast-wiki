@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: goal-should-be-to-be-the-laziest
 name: Goal Should Be To Be The Laziest
 source: 20vc

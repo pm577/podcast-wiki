@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/adam-grenier.md
+
 title: Adam Grenier
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +11,7 @@ sources:
   - episodes/lenny/adam-grenier
 confidence: high
 key_finding: When the market shifts, assume you no longer have product-market fit — your entire customer base may have changed, not just the next 10%.
+subtype: person
 ---
 
 # Adam Grenier

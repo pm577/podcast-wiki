@@ -1,4 +1,5 @@
 ---
+
 title: Jeremy Henrickson
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, rippling, coinbase, leadership, velocity, sca
 sources:
   - raw/transcripts/lenny/jeremy-henrickson.md
 confidence: high
+subtype: person
 ---
 
 # Jeremy Henrickson

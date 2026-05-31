@@ -1,4 +1,5 @@
 ---
+
 title: Will Larson
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, engineering, leadership, cto, engineering-management, writing]
 sources:
   - raw/transcripts/lenny/will-larson.md
 confidence: high
+subtype: person
 ---
 
 # Will Larson

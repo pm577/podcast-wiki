@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-replit-ceo
 name: "20Product: Replit CEO"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Replit CEO on Why Coding Models Are Plateauing | Why t
 ## Summary
 
 Amjad Masad is the Co-Founder and CEO of Replit, one of the leading "vibe-coding" platforms."]
+subtype: article
 ---
 
 # 20Product: Replit CEO

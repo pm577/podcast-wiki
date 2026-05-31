@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anthropic-buys-compute-from-elon
 name: "20VC: Anthropic Buys Compute From Elon &"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Anthropic Buys Compute From Elon & Commits $200BN to Google
 ## Summary
 
 AGENDA: 00:05:11 — Anthropic freezes secondary sales, requiring board approval for all transfers."]
+subtype: article
 ---
 
 # 20VC: Anthropic Buys Compute From Elon &

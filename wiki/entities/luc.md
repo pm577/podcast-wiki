@@ -1,4 +1,5 @@
 ---
+
 title: Luc Levesque
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/luc-levesque.md
 confidence: high
 key_finding: Impact is the only metric that matters
+subtype: person
 ---
 
 # Luc Levesque

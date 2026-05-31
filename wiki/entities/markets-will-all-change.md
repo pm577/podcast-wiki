@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: markets-will-all-change
 name: Markets Will All Change
 source: 20vc

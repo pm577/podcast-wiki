@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: make-bets-and-believe-in-what-you-are-doing
 name: Make Bets And Believe In What You Are Doing
 source: 20vc

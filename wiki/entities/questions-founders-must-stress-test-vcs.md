@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: questions-founders-must-stress-test-vcs
 name: Questions Founders Must Stress Test VCs
 source: 20vc

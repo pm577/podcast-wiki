@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: startup-investing
 name: Startup Investing
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Kenneth Berger
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, executive-coaching, burnout, ask-for-what-you-want, slack, leader
 sources:
   - raw/transcripts/lenny/kenneth-berger.md
 confidence: high
+subtype: person
 ---
 
 # Kenneth Berger

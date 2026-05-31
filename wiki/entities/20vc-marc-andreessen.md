@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-marc-andreessen
 name: "20VC: Marc Andreessen"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Marc Andreessen on The Future of Venture Capital: Will a16z
 ## Summary
 
 Marc Andreessen is a Co-Founder and General Partner at Andreessen Horowitz."]
+subtype: article
 ---
 
 # 20VC: Marc Andreessen

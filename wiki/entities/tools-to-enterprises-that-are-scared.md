@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: tools-to-enterprises-that-are-scared
 name: Tools To Enterprises That Are Scared
 source: 20vc

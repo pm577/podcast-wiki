@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-full-breakdown
 name: The Full Breakdown
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-07-03
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["AGENDA: 00:00 – $400B in AI CapEx: Rational Investment or Madness? 05:00 – Figma's IPO: Rule of 80, $1."]
+subtype: article
 ---
 
 # The Full Breakdown

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-every-founder-should-bootstrap-their-startup
 name: Why Every Founder Should Bootstrap Their Startup
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-03-31
 tags: ["ai-ml", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Melody McCloskey is the Founder & CEO @ StyleSeat, the largest and fastest growing marketplace in the $78b beauty and wellness industry."]
+subtype: article
 ---
 
 # Why Every Founder Should Bootstrap Their Startup

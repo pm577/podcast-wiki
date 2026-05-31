@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: tech-leaders-running-from
 name: Tech Leaders Running From
 source: 20vc

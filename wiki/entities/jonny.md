@@ -1,4 +1,5 @@
 ---
+
 title: Jonny Miller
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, nervous-system, anxiety, burnout, breathwork, resilience, leaders
 sources:
   - raw/transcripts/lenny/jonny-miller.md
 confidence: high
+subtype: person
 ---
 
 # Jonny Miller

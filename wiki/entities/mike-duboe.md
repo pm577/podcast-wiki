@@ -1,4 +1,5 @@
 ---
+
 title: Mike Duboe
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, go-to-market, product-strategy, hiring-culture, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2023-02-15-20growth-top-five-growth-less.md
 confidence: medium
+subtype: person
 ---
 
 

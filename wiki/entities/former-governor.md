@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: former-governor
 name: Former Governor
 source: 20vc

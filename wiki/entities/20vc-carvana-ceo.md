@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-carvana-ceo
 name: "20VC: Carvana CEO"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Carvana CEO on Buiding a $50B Company, Losing 99% and Comin
 ## Summary
 
 Ernest Garcia is the Co-Founder and CEO @ Carvana."]
+subtype: article
 ---
 
 # 20VC: Carvana CEO

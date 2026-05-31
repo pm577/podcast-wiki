@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-from-potato-farm-to-200m-in-revenue-the-never-before
 name: "20VC: From Potato Farm to $200M in Revenue: The Never-Before"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: From Potato Farm to $200M in Revenue: The Never-Before-Told
 ## Summary
 
  Dmitry Gurski is the Co-Founder and CEO of Flo Health, the leading women's health app and the first European femtech unicorn."]
+subtype: article
 ---
 
 # 20VC: From Potato Farm to $200M in Revenue: The Never-Before

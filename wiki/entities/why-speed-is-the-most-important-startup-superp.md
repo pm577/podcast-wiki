@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-speed-is-the-most-important-startup-superp
 name: Why Speed Is The Most Important Startup Superp
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-12-13
 tags: ["founder-psychology", "go-to-market", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["James Currier is the Managing Partner @ NFX and one of Silicon Valley's foremost experts in growth and network effects."]
+subtype: article
 ---
 
 # Why Speed Is The Most Important Startup Superp

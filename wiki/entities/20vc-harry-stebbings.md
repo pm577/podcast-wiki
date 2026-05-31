@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-harry-stebbings
 name: "20VC: Harry Stebbings"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-05-08
 tags: ["founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["# 20VC: Harry Stebbings on The Biggest Takeaways From Interviewing The World's Best Investors, What Makes A Truly Great Interview & Some Big News..."]
+subtype: article
 ---
 
 # 20VC: Harry Stebbings

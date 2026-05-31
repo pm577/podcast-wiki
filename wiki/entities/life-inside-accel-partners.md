@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: life-inside-accel-partners
 name: Life Inside Accel Partners
 source: 20vc

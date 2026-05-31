@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-gusto-co-founder-tomer-london-on
 name: "20VC: Gusto Co-Founder, Tomer London on"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-02-28
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Tomer London is the Co-Founder @ Gusto, the people platform for small businesses providing one place to run payroll, manage benefits, and support your team."]
+subtype: article
 ---
 
 # 20VC: Gusto Co-Founder, Tomer London on

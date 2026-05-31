@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-turning-a-15m-investment-in-monda
 name: "20VC: Turning a $15M Investment in Monda"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Turning a $15M Investment in Monday into $1.5BN in Cash | T
 ## Summary
 
  Avi Eyal is Co-Founder and Managing Partner of Entrée Capital, an early-stage VC fund with a portfolio including the likes of Monday.com, Stripe, Coupang, PillPack, and Snap."]
+subtype: article
 ---
 
 # 20VC: Turning a $15M Investment in Monda

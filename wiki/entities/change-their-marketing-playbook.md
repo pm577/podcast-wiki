@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: change-their-marketing-playbook
 name: Change Their Marketing Playbook
 source: 20vc

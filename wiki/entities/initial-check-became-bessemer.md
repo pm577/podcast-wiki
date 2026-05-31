@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: initial-check-became-bessemer
 name: Initial Check Became Bessemer
 source: 20vc

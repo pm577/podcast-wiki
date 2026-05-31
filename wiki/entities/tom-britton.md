@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: tom-britton
 name: Tom Britton
 source: 20vc

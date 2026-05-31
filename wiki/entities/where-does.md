@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: where-does
 name: Where Does
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-08-28
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Cris Valenzuela is the CEO and co-founder of Runway, the company that trains and builds generative AI models for content creation."]
+subtype: article
 ---
 
 # Where Does

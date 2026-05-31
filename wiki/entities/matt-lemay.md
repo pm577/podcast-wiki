@@ -1,4 +1,5 @@
 ---
+
 title: Matt LeMay
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/matt-lemay.md
 confidence: high
 key_finding: "If you were the CEO, would you fully fund your own team?"
+subtype: person
 ---
 
 # Matt LeMay

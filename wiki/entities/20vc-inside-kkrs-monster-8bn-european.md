@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-inside-kkrs-monster-8bn-european
 name: "20VC: Inside KKR's Monster $8BN European"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Inside KKR's Monster $8BN European Fund | The $500M Turkey 
 ## Summary
 
 Philipp Freise is Co-Head of European Private Equity at KKR, where he manages the largest private fund in Europe with $8BN in the latest fund."]
+subtype: article
 ---
 
 # 20VC: Inside KKR's Monster $8BN European

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: do-margins-matter-anymore
 name: Do Margins Matter Anymore
 source: 20vc

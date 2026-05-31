@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-valuation-does-not-matter-at-seed-stage
 name: Why Valuation Does Not Matter At Seed Stage
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-12-28
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Kent Goldman is the Founder of Upside Partnership, one of the leading seed-stage investment firms in SF with investments in the likes of Laurel and Wolf, Digit and Lily."]
+subtype: article
 ---
 
 # Why Valuation Does Not Matter At Seed Stage

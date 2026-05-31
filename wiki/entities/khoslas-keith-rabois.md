@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: khoslas-keith-rabois
 name: Khosla's Keith Rabois
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: most-downloaded-founder-episode
 name: Most Downloaded Founder Episode
 source: 20vc

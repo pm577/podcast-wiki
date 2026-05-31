@@ -1,4 +1,5 @@
 ---
+
 title: Gary Liu
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [consumer, founder-psychology, go-to-market, marketplaces, person, product
 sources:
   - raw/transcripts/20vc/20vc-2016-02-26-20vc-digg-ceo-gary-liu-on-th.md
 confidence: medium
+subtype: person
 ---
 
 

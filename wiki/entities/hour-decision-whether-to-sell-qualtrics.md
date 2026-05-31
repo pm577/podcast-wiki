@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: hour-decision-whether-to-sell-qualtrics
 name: Hour Decision Whether To Sell Qualtrics
 source: 20vc

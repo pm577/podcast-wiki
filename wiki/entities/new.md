@@ -1,4 +1,5 @@
 ---
+
 title: New
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2023-01-11-20vc-the-memo-how-to-raise-a.md
 confidence: medium
+subtype: person
 ---
 
 

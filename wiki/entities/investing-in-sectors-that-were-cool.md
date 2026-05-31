@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: investing-in-sectors-that-were-cool
 name: Investing In Sectors That Were Cool
 source: 20vc

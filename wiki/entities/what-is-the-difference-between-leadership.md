@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-is-the-difference-between-leadership
 name: What Is The Difference Between Leadership
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-02-03
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Tim Junio is the Co-Founder and CEO @ Qadium, the startup that creates and organizes knowledge about the world's devices."]
+subtype: article
 ---
 
 # What Is The Difference Between Leadership

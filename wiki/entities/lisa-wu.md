@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lisa-wu
 name: Lisa Wu
 source: 20vc

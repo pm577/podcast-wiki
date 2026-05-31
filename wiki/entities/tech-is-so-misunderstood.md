@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: tech-is-so-misunderstood
 name: Tech Is So Misunderstood
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-test-the-strength-of-co
 name: How To Test The Strength Of Co
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-01-18
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Rishi Garg is a General Partner @ Mayfield Fund, where he focuses on new media platforms, disruptive financial services and new marketplaces."]
+subtype: article
 ---
 
 # How To Test The Strength Of Co

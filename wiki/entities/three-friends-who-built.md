@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: three-friends-who-built
 name: Three Friends Who Built
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-05-31
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["David Alleman is the Co-Founder and Co-Chairman @ On Running one of the fastest-growing global sports brands with over 17 million products sold in 60+ countries."]
+subtype: article
 ---
 
 # Three Friends Who Built

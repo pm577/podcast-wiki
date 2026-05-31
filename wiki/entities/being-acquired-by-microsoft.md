@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: being-acquired-by-microsoft
 name: Being Acquired By Microsoft
 source: 20vc

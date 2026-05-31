@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: founders-should-be-obsessed
 name: Founders Should Be Obsessed
 source: 20vc

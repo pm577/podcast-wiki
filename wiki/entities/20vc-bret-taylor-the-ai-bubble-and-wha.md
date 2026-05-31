@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-bret-taylor-the-ai-bubble-and-wha
 name: "20VC: Bret Taylor: The AI Bubble and Wha"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Bret Taylor: The AI Bubble and What Happens Now | How the C
 ## Summary
 
  Bret Taylor is CEO and Co-Founder of Sierra, a conversational AI platform for businesses."]
+subtype: article
 ---
 
 # 20VC: Bret Taylor: The AI Bubble and Wha

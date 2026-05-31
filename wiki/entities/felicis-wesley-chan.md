@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: felicis-wesley-chan
 name: Felicis' Wesley Chan
 source: 20vc

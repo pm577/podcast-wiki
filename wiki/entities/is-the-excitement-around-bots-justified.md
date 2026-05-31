@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: is-the-excitement-around-bots-justified
 name: Is The Excitement Around Bots Justified
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-07-27
 tags: ["ai-ml", "consumer", "enterprise-saas", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Sean Flynn is a Managing Partner @ Shasta Ventures where he invests in mobile-enabled consumer Internet and enterprise software companies."]
+subtype: article
 ---
 
 # Is The Excitement Around Bots Justified

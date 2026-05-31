@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: data-collectives-matt-ocko
 name: Data Collective's Matt Ocko
 source: 20vc

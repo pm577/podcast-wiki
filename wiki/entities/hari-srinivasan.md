@@ -1,4 +1,5 @@
 ---
+
 title: Hari Srinivasan
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, linkedin, product, hiring, talent, skills, enterprise-saas]
 sources:
   - raw/transcripts/lenny/hari-srinivasan.md
 confidence: high
+subtype: person
 ---
 
 # Hari Srinivasan
@@ -51,3 +53,15 @@ Having taught PM courses at Stanford, Hari emphasizes that product management is
 - [[hiring]]
 - [[product-management]]
 - [[talent-marketplace]]
+
+---
+
+*Merged from [[hari]]:*
+
+# Hari
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/hari-srinivasan|LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)]] — *to be summarized*

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-founders-should-think-through-distribution
 name: How  Founders Should Think Through Distribution
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-02-14
 tags: ["ai-ml", "founder-psychology", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Gabriel Weinberg is the Founder & CEO @ DuckDuckGo, the Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs."]
+subtype: article
 ---
 
 # How  Founders Should Think Through Distribution

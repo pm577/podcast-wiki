@@ -1,4 +1,5 @@
 ---
+
 title: Marc Benioff
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, salesforce, enterprise-saas, entrepreneurship, leadership, cloud-
 sources:
   - raw/transcripts/lenny/marc-benioff.md
 confidence: high
+subtype: person
 ---
 
 # Marc Benioff

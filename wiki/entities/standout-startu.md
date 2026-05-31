@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: standout-startu
 name: Standout Startu
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Ari Helgason
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, marketplaces, enterprise-saas]
 sources:
   - raw/transcripts/20vc/20vc-2015-07-08-20-vc-052-how-to-make-the-lea.md
 confidence: medium
+subtype: person
 ---
 
 

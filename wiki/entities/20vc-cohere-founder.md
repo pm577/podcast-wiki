@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-cohere-founder
 name: "20VC: Cohere Founder"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Cohere Founder on How Cohere Compete with OpenAI and Anthro
 ## Summary
 
 Nick Frosst is a Canadian AI researcher and entrepreneur, best known as co-founder of Cohere, the enterprise-focused LLM."]
+subtype: article
 ---
 
 # 20VC: Cohere Founder

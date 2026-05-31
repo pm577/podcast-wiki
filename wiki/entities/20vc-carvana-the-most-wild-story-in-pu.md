@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-carvana-the-most-wild-story-in-pu
 name: "20VC: Carvana: The Most Wild Story in Pu"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Carvana: The Most Wild Story in Public Markets: From $60BN 
 ## Summary
 
 Carvana is one of the most wild stories in the public markets."]
+subtype: article
 ---
 
 # 20VC: Carvana: The Most Wild Story in Pu

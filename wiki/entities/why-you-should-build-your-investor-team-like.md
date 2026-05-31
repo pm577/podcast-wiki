@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-you-should-build-your-investor-team-like
 name: Why You Should Build Your Investor Team Like
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-01-27
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Ted Blosser is the founder and CEO of WorkRamp, the startup that is transforming how the best companies like PayPal, Twilio, and Optimizely train and develop their employees."]
+subtype: article
 ---
 
 # Why You Should Build Your Investor Team Like

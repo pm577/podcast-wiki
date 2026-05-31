@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-most-ai-investments-will-do-wo
 name: "20VC: Why Most AI Investments Will Do Wo"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Most AI Investments Will Do Worse than the S&P 500 | Wh
 ## Summary
 
 Eoghan McCabe is the Co-Founder and CEO @ Intercom, one of the largest private software companies in the valley with hundreds of millions in revenue and thousands of customers."]
+subtype: article
 ---
 
 # 20VC: Why Most AI Investments Will Do Wo

@@ -1,4 +1,5 @@
 ---
+
 title: Rich Liu
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, enterprise-saas]
 sources:
   - raw/transcripts/20vc/20vc-2023-06-07-20sales-plg-and-early-adopter.md
 confidence: medium
+subtype: person
 ---
 
 

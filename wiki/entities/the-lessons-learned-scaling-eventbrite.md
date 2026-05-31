@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-lessons-learned-scaling-eventbrite
 name: The Lessons Learned Scaling Eventbrite
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-10-20
 tags: ["ai-ml", "founder-psychology", "go-to-market", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Julia Hartz is the Co-Founder & CEO @ Eventbrite, the unicorn startup that is the world's largest event technology platform, powering over 2 million events around the world each year."]
+subtype: article
 ---
 
 # The Lessons Learned Scaling Eventbrite

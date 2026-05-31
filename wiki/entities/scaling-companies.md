@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: scaling-companies
 name: Scaling Companies
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-07-29
 tags: ["enterprise-saas", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Christa Quarles is the CEO @ Corel Corporation, building software solutions that simplify the task journey for knowledge workers."]
+subtype: article
 ---
 
 # Scaling Companies

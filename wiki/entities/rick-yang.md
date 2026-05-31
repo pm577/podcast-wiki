@@ -1,4 +1,5 @@
 ---
+
 title: Rick Yang
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, ai-ml, enterprise-saas, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2022-01-28-20vc-the-robinhood-memo-the.md
 confidence: medium
+subtype: person
 ---
 
 

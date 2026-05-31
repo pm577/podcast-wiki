@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bains-matt-harris
 name: Bain's Matt Harris
 source: 20vc

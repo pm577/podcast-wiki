@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-questions-founders-must-ask
 name: The Questions Founders Must Ask
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-03-02
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Mark Goldberg is a Partner @ Index Ventures, one of the leading venture firms of the last decade with a portfolio including the likes of Dropbox, Revolut, Supercell, Plaid and Transferwise to name a f"]
+subtype: article
 ---
 
 # The Questions Founders Must Ask

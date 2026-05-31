@@ -1,4 +1,5 @@
 ---
+
 title: Little
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml, bio
 sources:
   - raw/transcripts/20vc/20vc-2023-01-20-20vc-turning-canned-water-int.md
 confidence: medium
+subtype: person
 ---
 
 

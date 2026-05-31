@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-outbound-sales-is-dead-today-w
 name: "20Sales: Outbound Sales is Dead Today, W"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-03-08
 tags: ["enterprise-saas", "go-to-market", "hiring-culture"]
 related_concepts: []
 key_views: ["Brendon Cassidy is one of the OG of enterprise sales of the last decade, having advised the likes of Gong."]
+subtype: article
 ---
 
 # 20Sales: Outbound Sales is Dead Today, W

@@ -1,4 +1,5 @@
 ---
+
 title: Doug Leone
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2022-03-21-20vc-exclusive-sequoias-luci.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-linkedin-does-product-reviews
 name: How Linkedin Does Product Reviews
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-05-26
 tags: ["ai-ml", "consumer", "founder-psychology", "go-to-market", "product-strategy"]
 related_concepts: []
 key_views: ["Tomer Cohen is the CPO @ Linkedin."]
+subtype: article
 ---
 
 # How Linkedin Does Product Reviews

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: paid-marketing-machine
 name: Paid Marketing Machine
 source: 20vc

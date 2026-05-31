@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-scaling-story
 name: The Scaling Story
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-06-17
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Nick Jones is the Founder & CEO @ Soho House, it all started in 1995 when Nick opened the first location above his restaurant, Cafe Boheme, a members' club for the local artists and actors of London."]
+subtype: article
 ---
 
 # The Scaling Story

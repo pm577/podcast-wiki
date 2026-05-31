@@ -1,4 +1,5 @@
 ---
+
 title: Alex Clayton
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [go-to-market, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2019-03-25-20vc-spark-capitals-alex-cla.md
 confidence: medium
+subtype: person
 ---
 
 

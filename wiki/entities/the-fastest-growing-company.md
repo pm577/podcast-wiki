@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-fastest-growing-company
 name: The Fastest Growing Company
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-09-15
 tags: ["ai-ml", "founder-psychology", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Brendan Foody is the Co-Founder and CEO @ Mercor, the fastest growing company in history."]
+subtype: article
 ---
 
 # The Fastest Growing Company

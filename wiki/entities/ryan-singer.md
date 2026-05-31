@@ -1,4 +1,5 @@
 ---
+
 title: Ryan Singer
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-development, shape-up, 37signals, basecamp, methodology, 
 sources:
   - raw/transcripts/lenny/ryan-singer.md
 confidence: high
+subtype: person
 ---
 
 # Ryan Singer

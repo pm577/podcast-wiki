@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-lightspeeds-jeremy-liew-on-why-it
 name: "20VC: Lightspeed's Jeremy Liew on Why It"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-04-22
 tags: ["go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Jeremy Liew is a Partner @ Lightspeed Venture Partners, one of the leading firms of the last decade with a portfolio including the likes of Snapchat, Mulesoft, Max Levchin's Affirm, AppDynamics and ma"]
+subtype: article
 ---
 
 # 20VC: Lightspeed's Jeremy Liew on Why It

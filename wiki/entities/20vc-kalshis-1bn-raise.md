@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-kalshis-1bn-raise
 name: "20VC: Kalshi's $1BN Raise"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Kalshi's $1BN Raise, the Polymarket Feud, and the Battle to
 ## Summary
 
 Tarek Mansour is the Co-Founder and CEO @ Kalshi, the leader in the world of prediction markets."]
+subtype: article
 ---
 
 # 20VC: Kalshi's $1BN Raise

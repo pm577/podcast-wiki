@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: mongo-hit-hard
 name: Mongo Hit Hard
 source: 20vc

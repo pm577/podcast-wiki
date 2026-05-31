@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: twitters-former-head
 name: Twitter's Former Head
 source: 20vc

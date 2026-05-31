@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-move-into-enterpri
 name: How To Move Into Enterpri
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-01-25
 tags: ["enterprise-saas", "go-to-market", "hiring-culture"]
 related_concepts: []
 key_views: ["Stevie Case is the CRO @ Vanta where she oversees Vanta's go-to-market team to support the company's rapid growth."]
+subtype: article
 ---
 
 # How To Move Into Enterpri

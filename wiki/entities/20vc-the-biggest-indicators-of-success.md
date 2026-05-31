@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-biggest-indicators-of-success
 name: "20VC: The Biggest Indicators Of Success"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-05-24
 tags: ["deeptech-hardware", "enterprise-saas", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Mar Hershenson is a Founding Managing Partner @ Pear."]
+subtype: article
 ---
 
 # 20VC: The Biggest Indicators Of Success

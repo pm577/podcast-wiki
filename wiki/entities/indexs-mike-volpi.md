@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: indexs-mike-volpi
 name: Index's Mike Volpi
 source: 20vc

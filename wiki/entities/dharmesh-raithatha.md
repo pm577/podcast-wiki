@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: dharmesh-raithatha
 name: Dharmesh Raithatha
 source: 20vc

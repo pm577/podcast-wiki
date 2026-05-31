@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: revenue-club
 name: Revenue Club
 source: 20vc

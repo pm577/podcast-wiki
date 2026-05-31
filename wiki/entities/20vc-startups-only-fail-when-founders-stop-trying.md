@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-startups-only-fail-when-founders-stop-trying
 name: "20VC: Startups Only Fail When Founders Stop Trying"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Startups Only Fail When Founders Stop Trying, Why the Two W
 ## Summary
 
  Sami Inkinen is the Co-Founder and CEO of Virta Health, the company reversing type 2 diabetes."]
+subtype: article
 ---
 
 # 20VC: Startups Only Fail When Founders Stop Trying

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-lovable-raises
 name: "20VC: Lovable Raises"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Lovable Raises at $2BN & Hits $100M ARR | Is Cursor Worth $
 ## Summary
 
 Agenda: 00:00 – Did Jason Just Kill Replit?  03:45 – Why Claude Lies To You and Cannot Be Trusted 06:50 – You Cannot Trust Agents."]
+subtype: article
 ---
 
 # 20VC: Lovable Raises

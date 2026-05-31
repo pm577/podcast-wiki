@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-could-happen-from-here
 name: What Could Happen From Here
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-05-09
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Fabrice Grinda is the Founding Partner @ FJ Labs, with over 700 investments, Fabrice has had over 250 exits and built a portfolio including Alibaba, Coupang, Airbnb, Instacart, Flexport, and Delivery "]
+subtype: article
 ---
 
 # What Could Happen From Here

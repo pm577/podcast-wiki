@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-figma-cpo
 name: "20Product: Figma CPO"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Figma CPO on How Figma Builds Products: What Works, Wh
 ## Summary
 
 Yuhki Yamashita is the Chief Product Officer at Figma, where he leads the development of one of the world's most beloved design platforms."]
+subtype: article
 ---
 
 # 20Product: Figma CPO

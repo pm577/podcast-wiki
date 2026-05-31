@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: must-always-be-at-the-core-of-what-you-do
 name: Must Always Be At The Core Of What You Do
 source: 20vc

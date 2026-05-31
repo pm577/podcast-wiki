@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: robinhoods-baiju-bhatt
 name: RobinHood's Baiju Bhatt
 source: 20vc

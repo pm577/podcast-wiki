@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-pitching-process
 name: The Pitching Process
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-05-14
 tags: ["ai-ml", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Stephan von Perger is an Early Stage VC at Wellington Partners where his primary role is identifying investment opportunities and building lasting relationships with the entrepreneurs behind these com"]
+subtype: article
 ---
 
 # The Pitching Process

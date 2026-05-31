@@ -1,4 +1,5 @@
 ---
+
 title: Ezra Galston
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2015-08-17-20-vc-063-what-it-takes-to-st.md
 confidence: medium
+subtype: person
 ---
 
 

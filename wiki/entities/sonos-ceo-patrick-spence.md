@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sonos-ceo-patrick-spence
 name: Sonos CEO Patrick Spence
 source: 20vc

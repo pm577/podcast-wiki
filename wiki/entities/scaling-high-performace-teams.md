@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: scaling-high-performace-teams
 name: Scaling High Performace Teams
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-03-15
 tags: ["go-to-market", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Carl Eschenbach is a Partner @ Sequoia Capital, one of the world's leading funds with investments in the likes of Google, Apple, Whatsapp, Paypal and Stripe just to name a few."]
+subtype: article
 ---
 
 # Scaling High Performace Teams

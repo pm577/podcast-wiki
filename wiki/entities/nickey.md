@@ -1,4 +1,5 @@
 ---
+
 title: Nickey Skarstad
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/nickey-skarstad.md
 confidence: high
 key_finding: Obsession with product quality above all else
+subtype: person
 ---
 
 # Nickey Skarstad

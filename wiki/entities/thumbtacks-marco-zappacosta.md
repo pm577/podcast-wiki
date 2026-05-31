@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: thumbtacks-marco-zappacosta
 name: Thumbtack's Marco Zappacosta
 source: 20vc

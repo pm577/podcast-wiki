@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: leading-analytics
 name: Leading Analytics
 source: 20vc

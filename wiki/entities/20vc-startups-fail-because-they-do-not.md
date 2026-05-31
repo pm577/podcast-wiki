@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-startups-fail-because-they-do-not
 name: "20VC: Startups Fail Because They Do Not"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-03-23
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Grant LaFontaine is the Founder & CEO @ Whatnot, the fastest-growing marketplace in the US, empowering people to make a living off their passion."]
+subtype: article
 ---
 
 # 20VC: Startups Fail Because They Do Not

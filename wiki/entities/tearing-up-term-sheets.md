@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: tearing-up-term-sheets
 name: Tearing Up Term Sheets
 source: 20vc

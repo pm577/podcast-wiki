@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: early-stage-vc-funding
 name: Early Stage VC Funding
 source: 20vc

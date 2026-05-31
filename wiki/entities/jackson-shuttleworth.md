@@ -1,4 +1,5 @@
 ---
+
 title: Jackson Shuttleworth
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, duolingo, retention, streaks, gamification, growth, experimentati
 sources:
   - raw/transcripts/lenny/jackson-shuttleworth.md
 confidence: high
+subtype: person
 ---
 
 # Jackson Shuttleworth
@@ -50,3 +52,15 @@ Adding an **opt-out button** (instead of just "Continue") was counterintuitively
 - [[duolingo]]
 - [[growth]]
 - [[user-psychology]]
+
+---
+
+*Merged from [[jackson]]:*
+
+# Jackson
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/jackson-shuttleworth|Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)]] — *to be summarized*

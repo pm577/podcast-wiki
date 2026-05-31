@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: tiger-global-saved
 name: Tiger Global Saved
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Noam Lovinsky
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/noam-lovinsky.md
 confidence: high
 key_finding: The 0-to-1 to -1-to-1 product leader
+subtype: person
 ---
 
 # Noam Lovinsky

@@ -1,4 +1,5 @@
 ---
+
 title: Rahul Mehta
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2017-07-24-20vc-investing-200m-in-faceb.md
 confidence: medium
+subtype: person
 ---
 
 

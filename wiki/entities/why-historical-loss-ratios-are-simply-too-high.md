@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-historical-loss-ratios-are-simply-too-high
 name: Why Historical Loss Ratios Are Simply Too High
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-06-17
 tags: ["ai-ml", "consumer", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Jonathan Hsu is Co-Founder & General Partner @ Tribe Capital, one of Silicon Valley's newest funds on the block being founded by Jonathan, Arjun Sethi and Ted Maidenberg."]
+subtype: article
 ---
 
 # Why Historical Loss Ratios Are Simply Too High

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: michael-eisenberg
 name: Michael Eisenberg
 source: 20vc

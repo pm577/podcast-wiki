@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: benchmarks-eric-vishria
 name: Benchmark's Eric Vishria
 source: 20vc

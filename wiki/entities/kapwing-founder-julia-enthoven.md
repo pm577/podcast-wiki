@@ -1,4 +1,5 @@
 ---
+
 title: Kapwing Founder Julia Enthoven
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, go-to-market, marketplaces, person, product-st
 sources:
   - raw/transcripts/20vc/20vc-2019-09-27-20vc-kapwing-founder-julia-en.md
 confidence: medium
+subtype: person
 ---
 
 

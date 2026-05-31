@@ -1,4 +1,5 @@
 ---
+
 title: Kevin Yien
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, stripe, square, mutiny, hiring, decision-logs
 sources:
   - raw/transcripts/lenny/kevin-yien.md
 confidence: high
+subtype: person
 ---
 
 # Kevin Yien

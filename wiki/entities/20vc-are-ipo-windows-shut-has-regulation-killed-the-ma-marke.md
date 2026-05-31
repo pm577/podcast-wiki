@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-are-ipo-windows-shut-has-regulation-killed-the-ma-marke
 name: "20VC: Are IPO Windows Shut? Has Regulation Killed the M&A Market? M&A OG Frank Quattrone"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Are IPO Windows Shut? Has Regulation Killed the M&A Market?
 ## Summary
 
  Frank Quattrone is the Founder and Executive Chairman of Qatalyst and served as its CEO from the Firm's founding until January 2016."]
+subtype: article
 ---
 
 # 20VC: Are IPO Windows Shut? Has Regulation Killed the M&A Market? M&A OG Frank Quattrone

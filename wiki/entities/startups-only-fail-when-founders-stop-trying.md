@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: startups-only-fail-when-founders-stop-trying
 name: Startups Only Fail When Founders Stop Trying
 source: 20vc

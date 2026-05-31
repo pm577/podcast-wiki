@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-openais-3bn-acquisition
 name: "20VC: OpenAI's $3BN Acquisition"
 source: 20vc
@@ -23,6 +24,7 @@ In Today's Show We Discuss:  04:49 Breaking Down the $3BN Windsurf Acquisition 
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-openais-3bn-acquisition-of-windsurf-the-breakdown-are-endowment-funds-f-how-lp-deployment-to-venture-will-change-in-2025-why-revenue-multiples-are-bs-the-rise-of-ai-rollups-and-multi-stage-funds-destroying-seed-investing)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: OpenAI's $3BN Acquisition

@@ -1,4 +1,5 @@
 ---
+
 title: Keith Yandell
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, leadership, culture, doordash, empathy, hiring, team-building]
 sources:
   - raw/transcripts/lenny/keith-yandell.md
 confidence: high
+subtype: person
 ---
 
 # Keith Yandell

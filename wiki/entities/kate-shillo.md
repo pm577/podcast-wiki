@@ -1,4 +1,5 @@
 ---
+
 title: Kate Shillo
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, deeptech-hardware]
 sources:
   - raw/transcripts/20vc/20vc-2016-01-13-20-vc-investing-in-hardware-a.md
 confidence: medium
+subtype: person
 ---
 
 

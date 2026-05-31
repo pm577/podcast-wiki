@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: opensea-founder
 name: Opensea Founder
 source: 20vc

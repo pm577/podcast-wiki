@@ -1,4 +1,5 @@
 ---
+
 title: Eugene Wei
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, consumer, hiring-culture, person, product-strategy, venture-capita
 sources:
   - raw/transcripts/20vc/20vc-2021-11-22-20vc-eugene-wei-on-status-as.md
 confidence: medium
+subtype: person
 ---
 
 

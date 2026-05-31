@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: usvs-rebecca-kaden
 name: USV's Rebecca Kaden
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-spending-2m-to-train-a-single-ai
 name: "20VC: Spending $2M to Train a Single AI"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Spending $2M to Train a Single AI Model: What Matters More;
 ## Summary
 
  Noam Shazeer is the co-founder and CEO of Character.AI, a full-stack AI computing platform that gives people access to their own flexible superintelligence."]
+subtype: article
 ---
 
 # 20VC: Spending $2M to Train a Single AI

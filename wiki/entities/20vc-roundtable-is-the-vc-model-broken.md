@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-roundtable-is-the-vc-model-broken
 name: "20VC Roundtable: Is the VC Model Broken?"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC Roundtable: Is the VC Model Broken? The Biggest Disconnect E
 ## Summary
 
  Eric Paley is the Managing Partner at Founder Collective, one of the world's most successful seed funds with investments in the likes of Uber, The Trade Desk, Coupang and Airtable."]
+subtype: article
 ---
 
 # 20VC Roundtable: Is the VC Model Broken?

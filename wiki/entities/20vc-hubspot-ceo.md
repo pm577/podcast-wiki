@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-hubspot-ceo
 name: "20VC: HubSpot CEO"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: HubSpot CEO on Where Value Accrues in SaaS AI | How HubSpot
 ## Summary
 
 Yamini Rangan is the CEO at HubSpot."]
+subtype: article
 ---
 
 # 20VC: HubSpot CEO

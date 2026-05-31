@@ -1,4 +1,5 @@
 ---
+
 title: Hugo Barra
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [biotech-health, consumer, deeptech-hardware, hiring-culture, person, prod
 sources:
   - raw/transcripts/20vc/20vc-2022-11-09-20-product-hugo-barra-on-less.md
 confidence: medium
+subtype: person
 ---
 
 

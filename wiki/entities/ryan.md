@@ -1,4 +1,5 @@
 ---
+
 title: Ryan Singer
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/ryan-singer.md
 confidence: high
 key_finding: Shape development around appetites, not estimates
+subtype: person
 ---
 
 # Ryan Singer

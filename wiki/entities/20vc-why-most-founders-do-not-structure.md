@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-most-founders-do-not-structure
 name: "20VC: Why Most Founders Do Not Structure"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Most Founders Do Not Structure Their Fundraise Correctl
 ## Summary
 
 Iman Abuzeid is the Founder & CEO @ Incredible Health, the startup that connects hospitals with nurses and other high shortage healthcare professionals to dramatically speed up the hiring process."]
+subtype: article
 ---
 
 # 20VC: Why Most Founders Do Not Structure

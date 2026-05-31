@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-pejman-nozad-techs-most-unlikely
 name: "20VC: Pejman Nozad: Tech's Most Unlikely"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Pejman Nozad: Tech's Most Unlikely VC: From Yoghurt Shop To
 ## Summary
 
 Pejman Nozad is the Founding Managing Partner @ Pear.vc, one of the leading seed stage funds in the valley."]
+subtype: article
 ---
 
 # 20VC: Pejman Nozad: Tech's Most Unlikely

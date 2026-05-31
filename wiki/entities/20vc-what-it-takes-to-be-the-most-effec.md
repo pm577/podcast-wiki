@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-what-it-takes-to-be-the-most-effec
 name: "20VC: What It Takes To Be The Most Effec"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: What It Takes To Be The Most Effective Coach To Startup Fou
 ## Summary
 
 Victoria Treyger is a General Partner & Managing Director @ Felicis Ventures, one of the leading venture firms of the last decade backing 2 unicorns per year since founding including Shopify, OpenDoor, Flexport, Adyen, Twitch, Fitbit and many more."]
+subtype: article
 ---
 
 # 20VC: What It Takes To Be The Most Effec

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-raising-126m-across-3-rounds-in-just-6-months
 name: "20VC: Raising $126M Across 3 Rounds in Just 6 Months"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Raising $126M Across 3 Rounds in Just 6 Months, Being the Y
 ## Summary
 
  Samir Vasavada is the Co-Founder & CEO of Vise, a technology-powered asset manager."]
+subtype: article
 ---
 
 # 20VC: Raising $126M Across 3 Rounds in Just 6 Months

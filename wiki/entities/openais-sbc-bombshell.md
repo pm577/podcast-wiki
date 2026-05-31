@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: openais-sbc-bombshell
 name: OpenAI's SBC Bombshell
 source: 20vc

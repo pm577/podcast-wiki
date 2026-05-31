@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: merci-victoria-grace
 name: Merci Victoria Grace
 source: 20vc

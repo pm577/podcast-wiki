@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lessons-building-nubank
 name: Lessons Building Nubank
 source: 20vc

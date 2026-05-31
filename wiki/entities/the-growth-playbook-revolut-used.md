@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-growth-playbook-revolut-used
 name: The Growth Playbook Revolut Used
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-10-18
 tags: ["fintech", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Antoine Le Nel is the Chief Growth and Marketing Officer at Revolut, one of the fastest growing fintechs on the planet."]
+subtype: article
 ---
 
 # The Growth Playbook Revolut Used

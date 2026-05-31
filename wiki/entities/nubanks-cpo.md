@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: nubanks-cpo
 name: Nubank's CPO
 source: 20vc

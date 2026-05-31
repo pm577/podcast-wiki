@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-new-format-harry-stebbings
 name: "20VC: NEW FORMAT: Harry Stebbings"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: NEW FORMAT: Harry Stebbings on Why Seed Pricing is as High 
 ## Summary
 
  Harry Stebbings is the Founder of 20VC, building the next great financial institution at the intersection of media and venture capital."]
+subtype: article
 ---
 
 # 20VC: NEW FORMAT: Harry Stebbings

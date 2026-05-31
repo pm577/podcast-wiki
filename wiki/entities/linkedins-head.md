@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: linkedins-head
 name: LinkedIn's Head
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-are-wrong-about-single-founders
 name: Cs Are Wrong About Single Founders
 source: 20vc

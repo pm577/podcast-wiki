@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-great-companies-are-defined-by
 name: "20VC: Why Great Companies are Defined by"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Great Companies are Defined by How Many Things They Say
 ## Summary
 
  Guillermo Rauch is the Founder and CEO @ Vercel, giving developers the frameworks, workflows, and infrastructure to build a faster, more personalized Web."]
+subtype: article
 ---
 
 # 20VC: Why Great Companies are Defined by

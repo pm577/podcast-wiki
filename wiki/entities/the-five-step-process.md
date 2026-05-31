@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-five-step-process
 name: The Five Step Process
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-02-21
 tags: ["go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Scott Williamson was most recently Chief Product Officer for GitLab, where he led a team of 65 in Product Management, Product Operations, Growth, Pricing, and Corporate Development functions."]
+subtype: article
 ---
 
 # The Five Step Process

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-warm-intros-are-mostly-dumb
 name: Why Warm Intros Are Mostly Dumb
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-11-12
 tags: ["venture-capital"]
 related_concepts: []
 key_views: ["Leo Polovets is a General Partner @ Susa Ventures, one of the valley's leading early-stage seed funds with a portfolio including the likes of Flexport, Robinhood, Lendup, Qadium, Rigetti, the list goe"]
+subtype: article
 ---
 
 # Why Warm Intros Are Mostly Dumb

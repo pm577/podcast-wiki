@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-dubsmash-memo-scaling-to-43m-users-in-10-days
 name: "20VC: The Dubsmash Memo: Scaling to 43M Users in 10 Days"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Dubsmash Memo: Scaling to 43M Users in 10 Days, Why Tik
 ## Summary
 
  Suchit Dash is the VP of Core Product Experience at Reddit, responsible for the surfaces that millions of users interact with daily."]
+subtype: article
 ---
 
 # 20VC: The Dubsmash Memo: Scaling to 43M Users in 10 Days

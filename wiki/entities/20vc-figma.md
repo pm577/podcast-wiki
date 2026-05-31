@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-figma
 name: "20VC: Figma"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Figma, Scale, Wiz: Inside Index's Decacorn Factory | Decisi
 ## Summary
 
 Martin Mignot is a Partner at Index Ventures, the best-performing fund in the world right now."]
+subtype: article
 ---
 
 # 20VC: Figma

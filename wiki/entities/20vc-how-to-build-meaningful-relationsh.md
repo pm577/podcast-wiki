@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-to-build-meaningful-relationsh
 name: "20VC: How To Build Meaningful Relationsh"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How To Build Meaningful Relationships With Your Investors, 
 ## Summary
 
 Joel Flory is the Founder & CEO @ VSCO, the startup that allows you to take your photography to the next level, with the mission to help everybody fall in love with their own creativity."]
+subtype: article
 ---
 
 # 20VC: How To Build Meaningful Relationsh

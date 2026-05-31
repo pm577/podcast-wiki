@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20-product-scott-belsky
 name: "20 Product: Scott Belsky"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20 Product: Scott Belsky on How to Hire Your Product Leader and T
 ## Summary
 
  Scott Belsky is an entrepreneur, author, investor, and currently serves as Adobe's Chief Product Officer and Executive Vice President, Creative Cloud."]
+subtype: article
 ---
 
 # 20 Product: Scott Belsky

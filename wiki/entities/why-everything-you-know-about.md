@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-everything-you-know-about
 name: Why Everything You Know About
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-03-31
 tags: ["ai-ml", "fintech", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Jackie Reses is the Chair and CEO of Lead Bank, a community bank in Kansas City."]
+subtype: article
 ---
 
 # Why Everything You Know About

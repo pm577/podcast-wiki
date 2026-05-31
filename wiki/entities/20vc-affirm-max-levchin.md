@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-affirm-max-levchin
 name: "20VC: Affirm Max Levchin"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Affirm Max Levchin on Why Grading Talent by Letter (A or B)
 ## Summary
 
 Max Levchin is one of the great founders and technologists of our time."]
+subtype: article
 ---
 
 # 20VC: Affirm Max Levchin

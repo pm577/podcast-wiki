@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-analyse-platform-shifts-effectively
 name: How To Analyse Platform Shifts Effectively
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-01-26
 tags: ["founder-psychology", "go-to-market", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Neil Young is the Founder & CEO @ N3twork, the next generation mobile games maker and publisher with their services already touching millions of customers."]
+subtype: article
 ---
 
 # How To Analyse Platform Shifts Effectively

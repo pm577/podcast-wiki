@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: capital-efficiency
 name: Capital Efficiency
 source: 20vc

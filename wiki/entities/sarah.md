@@ -1,4 +1,5 @@
 ---
+
 title: Sarah Tavel
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/sarah-tavel.md
 confidence: high
 key_finding: The Hierarchy of Engagement — core action, retention, self-perpetuation
+subtype: person
 ---
 
 # Sarah Tavel

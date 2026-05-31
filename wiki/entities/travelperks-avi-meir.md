@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: travelperks-avi-meir
 name: TravelPerk's Avi Meir
 source: 20vc

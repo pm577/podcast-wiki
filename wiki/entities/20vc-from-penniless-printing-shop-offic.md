@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-from-penniless-printing-shop-offic
 name: "20VC: From Penniless Printing Shop Offic"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: From Penniless Printing Shop Offices to Public Company and 
 ## Summary
 
 Founder and CEO of LADbible Group, Solly Solomou has built one of the largest and most engaged digital media entertainment companies in the world."]
+subtype: article
 ---
 
 # 20VC: From Penniless Printing Shop Offic

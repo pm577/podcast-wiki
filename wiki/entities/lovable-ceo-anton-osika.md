@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lovable-ceo-anton-osika
 name: Lovable CEO Anton Osika
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Nicole Forsgren
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/nicole-forsgren-20.md
 confidence: high
 key_finding: Most productivity metrics are a lie — focus on developer experience and flow
+subtype: person
 ---
 
 # Nicole Forsgren

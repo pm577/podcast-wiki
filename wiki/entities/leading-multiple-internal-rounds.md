@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: leading-multiple-internal-rounds
 name: Leading Multiple Internal Rounds
 source: 20vc

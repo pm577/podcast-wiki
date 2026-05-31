@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-are-more-conservative-than
 name: Cs Are More Conservative Than
 source: 20vc

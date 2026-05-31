@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-founders-misunderst
 name: What Founders Misunderst
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-04-15
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Wade Foster is the Co-Founder & CEO @ Zapier, the company that moves info between your web apps automatically, so you can focus on your most important work."]
+subtype: article
 ---
 
 # What Founders Misunderst

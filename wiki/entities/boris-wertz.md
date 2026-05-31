@@ -1,4 +1,5 @@
 ---
+
 title: Boris Wertz
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/20vc/20vc-2015-12-28-20-vc-the-ultimate-guide-to-m.md
   - raw/transcripts/20vc/20vc-2018-05-14-20vc-why-crypto-is-the-bigges.md
 confidence: medium
+subtype: person
 ---
 
 # Boris Wertz

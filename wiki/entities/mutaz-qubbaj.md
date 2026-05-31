@@ -1,4 +1,5 @@
 ---
+
 title: Mutaz Qubbaj
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, founder-psychology, marketplaces, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2015-07-24-founding-wired-2014s-winner.md
 confidence: medium
+subtype: person
 ---
 
 

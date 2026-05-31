@@ -1,4 +1,5 @@
 ---
+
 title: Sri Batchu
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, growth, saas, fintech, product-management]
 sources:
   - raw/transcripts/lenny/sri-batchu.md
 confidence: high
+subtype: person
 ---
 
 # Sri Batchu

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-scott-galloway
 name: "20VC: Scott Galloway"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Scott Galloway on Are Billionaires Happy & The Impact of Mo
 ## Summary
 
 Scott Galloway is a Professor of Marketing at NYU Stern, where he's taught for over two decades."]
+subtype: article
 ---
 
 # 20VC: Scott Galloway

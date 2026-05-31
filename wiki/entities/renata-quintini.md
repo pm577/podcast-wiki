@@ -1,4 +1,5 @@
 ---
+
 title: Renata Quintini
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, deeptech-hardware]
 sources:
   - raw/transcripts/20vc/20vc-2017-08-09-20vc-the-7-requirements-for-s.md
 confidence: medium
+subtype: person
 ---
 
 

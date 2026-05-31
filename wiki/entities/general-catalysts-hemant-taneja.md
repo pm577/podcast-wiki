@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: general-catalysts-hemant-taneja
 name: General Catalyst's Hemant Taneja
 source: 20vc

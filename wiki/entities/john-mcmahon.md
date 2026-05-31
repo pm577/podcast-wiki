@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: john-mcmahon
 name: John McMahon
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-palantir-cto
 name: "20VC: Palantir CTO"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Palantir CTO on The Broken Incentive Structure of How Gover
 ## Summary
 
  Shyam Sankar is Chief Technology Officer and Executive Vice President of Palantir Technologies in addition to the Chairman of Ginkgo Bioworks."]
+subtype: article
 ---
 
 # 20VC: Palantir CTO

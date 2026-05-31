@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-revolut-acquired-their-first
 name: How Revolut Acquired Their First
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-06-21
 tags: ["go-to-market", "marketplaces", "product-strategy"]
 related_concepts: []
 key_views: ["Val Scholz is the former Head of Growth @ Revolut, where he led the company to their first 10M users."]
+subtype: article
 ---
 
 # How Revolut Acquired Their First

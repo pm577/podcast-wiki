@@ -1,4 +1,5 @@
 ---
+
 title: Tim Junio
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2017-02-03-20vc-why-i-do-not-regret-taki.md
 confidence: medium
+subtype: person
 ---
 
 

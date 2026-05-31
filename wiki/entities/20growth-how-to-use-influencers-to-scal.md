@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-how-to-use-influencers-to-scal
 name: "20Growth: How to Use Influencers to Scal"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: How to Use Influencers to Scale Growth Insanely Fast | 
 ## Summary
 
 Ketty Slonimsky is Chief Growth Officer at Palta, the platform behind apps like Flo (the #1 female health app with 77M+ MAU), Simple, and Zing AI, where she leads a centralized growth function across the portfolio."]
+subtype: article
 ---
 
 # 20Growth: How to Use Influencers to Scal

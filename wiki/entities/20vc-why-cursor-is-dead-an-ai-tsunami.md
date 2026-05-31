@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-cursor-is-dead-an-ai-tsunami
 name: "20VC: Why Cursor is Dead | An AI Tsunami"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Cursor is Dead | An AI Tsunami is Coming & You Need to 
 ## Summary
 
 Jerry Murdock is the Co-Founder of Insight Partners, one of the most formidable growth investors of the last three decades, with over $90 billion in AUM and a portfolio that has shaped the modern software economy."]
+subtype: article
 ---
 
 # 20VC: Why Cursor is Dead | An AI Tsunami

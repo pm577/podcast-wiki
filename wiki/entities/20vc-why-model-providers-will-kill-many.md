@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-model-providers-will-kill-many
 name: "20VC: Why Model Providers Will Kill Many"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Model Providers Will Kill Many Startups Moving into the
 ## Summary
 
 Sridhar Ramaswamy is the CEO @ Snowflake, the $60BN public company with $3.5BN in revenue growing 30% per year."]
+subtype: article
 ---
 
 # 20VC: Why Model Providers Will Kill Many

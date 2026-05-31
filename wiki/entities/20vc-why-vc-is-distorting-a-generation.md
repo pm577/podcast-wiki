@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-vc-is-distorting-a-generation
 name: "20VC: Why VC is Distorting a Generation"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why VC is Distorting a Generation of SaaS Companies & With 
 ## Summary
 
  Dax Dasilva is the Founder & CEO Lightspeed Commerce, one of the most incredible stories in startups."]
+subtype: article
 ---
 
 # 20VC: Why VC is Distorting a Generation

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-rent-the-runway-memo-how-paid
 name: "20VC: The Rent the Runway Memo: How Paid"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Rent the Runway Memo: How Paid Marketing & Growth Hacki
 ## Summary
 
  Jennifer Hyman is the Co-Founder and CEO of Rent the Runway, the world's first and largest shared designer closet."]
+subtype: article
 ---
 
 # 20VC: The Rent the Runway Memo: How Paid

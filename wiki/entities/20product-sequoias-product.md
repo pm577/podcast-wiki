@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-sequoias-product
 name: "20Product: Sequoia's Product"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Sequoia's Product-Market Fit Framework | Why the Best 
 ## Summary
 
 Vickie Peng is a Product Partner at Sequoia and the co-creator of Arc, their company-building immersion programme for pre-seed and seed stage founders."]
+subtype: article
 ---
 
 # 20Product: Sequoia's Product

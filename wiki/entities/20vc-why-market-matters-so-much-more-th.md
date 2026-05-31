@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-market-matters-so-much-more-th
 name: "20VC: Why Market Matters So Much More Th"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Market Matters So Much More Than Founding Team | Why Cr
 ## Summary
 
  Kyle Samani is the Co-Founder and Managing Partner @ Multicoin Capital, one of the leading crypto native funds of the last decade with positions in Solana, FTX, Fractal, and Helium to name a few."]
+subtype: article
 ---
 
 # 20VC: Why Market Matters So Much More Th

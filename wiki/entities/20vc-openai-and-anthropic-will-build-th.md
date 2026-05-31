@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-openai-and-anthropic-will-build-th
 name: "20VC: OpenAI and Anthropic Will Build Th"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-09-29
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["# 20VC: OpenAI and Anthropic Will Build Their Own Chips | NVIDIA Will Be Worth $10TRN | How to Solve the Energy Required for AI..."]
+subtype: article
 ---
 
 # 20VC: OpenAI and Anthropic Will Build Th

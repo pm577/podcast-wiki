@@ -1,4 +1,5 @@
 ---
+
 title: Clem Delangue
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2023-05-12-20vc-why-the-future-of-ai-is.md
 confidence: medium
+subtype: person
 ---
 
 

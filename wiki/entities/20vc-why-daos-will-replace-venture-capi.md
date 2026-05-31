@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-daos-will-replace-venture-capi
 name: "20VC: Why DAOs Will Replace Venture Capi"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-06-06
 tags: ["ai-ml", "fintech", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Ian Lee is the Co-Founder of Syndicate, a web3 startup that has raised over $28M from a16z, Kleiner Perkins, IDEO, and 300+ investors."]
+subtype: article
 ---
 
 # 20VC: Why DAOs Will Replace Venture Capi

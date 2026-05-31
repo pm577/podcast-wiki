@@ -1,4 +1,5 @@
 ---
+
 title: Phil Black
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2017-09-04-20vc-true-ventures-founder-p.md
 confidence: medium
+subtype: person
 ---
 
 

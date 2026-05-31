@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-portfolio-construction-is-inef
 name: "20VC: Why Portfolio Construction Is Inef"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-06-03
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Zach Coelius is Managing Partner @ Coelius Capital and in his own words, "a pretty eclectic investor who loves to see just about any deal"."]
+subtype: article
 ---
 
 # 20VC: Why Portfolio Construction Is Inef

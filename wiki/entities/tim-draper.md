@@ -1,4 +1,5 @@
 ---
+
 title: Tim Draper
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2016-02-22-20vc-tim-draper-on-investing.md
 confidence: medium
+subtype: person
 ---
 
 

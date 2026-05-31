@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-multi-stage-funds-investing-at-see
 name: "20VC: Multi-Stage Funds Investing At See"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-03-23
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Manu Kumar is the Founder @ K9 Ventures, one of the leading seed firms of the last decade with a portfolio including the likes of Carta, Lyft, Twilio, Auth0 and Lucidchart to name a few incredible com"]
+subtype: article
 ---
 
 # 20VC: Multi-Stage Funds Investing At See

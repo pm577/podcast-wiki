@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: this-week-in-saas-should-wiz-have-accep
 name: "This Week in SaaS: Should Wiz Have Accep"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# This Week in SaaS: Should Wiz Have Accepted Google's $23BN Acquis
 ## Summary
 
  Jason Lemkin is one of the OG SaaS investors with all of his first five investments turning into unicorns with Pipedrive, Algolia, Talkdesk, Salesloft and RevenueCat all in his portfolio."]
+subtype: article
 ---
 
 # This Week in SaaS: Should Wiz Have Accep

@@ -1,4 +1,5 @@
 ---
+
 title: Dr. Fei-Fei Li
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, ai, imagenet, world-models, computer-vision, stanford, robotics, 
 sources:
   - raw/transcripts/lenny/fei-fei.md
 confidence: high
+subtype: person
 ---
 
 # Dr. Fei-Fei Li

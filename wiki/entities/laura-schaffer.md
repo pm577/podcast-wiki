@@ -1,4 +1,5 @@
 ---
+
 title: Laura Schaffer
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, growth, amplitude, twilio, experimentation, career-frameworks]
 sources:
   - raw/transcripts/lenny/laura-schaffer.md
 confidence: high
+subtype: person
 ---
 
 # Laura Schaffer

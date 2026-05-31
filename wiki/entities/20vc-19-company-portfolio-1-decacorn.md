@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-19-company-portfolio-1-decacorn
 name: "20VC: 19 Company Portfolio: 1 Decacorn"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: 19 Company Portfolio: 1 Decacorn, 7 Unicorns, 4 Acquisition
 ## Summary
 
  Gili Raanan is the Founder of Cyberstarts and one of the most successful seed investors ever."]
+subtype: article
 ---
 
 # 20VC: 19 Company Portfolio: 1 Decacorn

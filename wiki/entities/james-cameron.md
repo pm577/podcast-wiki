@@ -1,4 +1,5 @@
 ---
+
 title: James Cameron
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [fintech, hiring-culture, marketplaces, person, product-strategy, venture-
 sources:
   - raw/transcripts/20vc/20vc-2016-01-20-20vc-james-cameron-accel-on.md
 confidence: medium
+subtype: person
 ---
 
 

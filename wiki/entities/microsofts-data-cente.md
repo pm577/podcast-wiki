@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: microsofts-data-cente
 name: Microsoft's Data Cente
 source: 20vc

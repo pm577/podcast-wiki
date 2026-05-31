@@ -1,4 +1,5 @@
 ---
+
 title: John Lilly
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [enterprise-saas, hiring-culture, person, product-strategy, venture-capita
 sources:
   - raw/transcripts/20vc/20vc-2017-01-23-20vc-greylocks-john-lilly-on.md
 confidence: medium
+subtype: person
 ---
 
 

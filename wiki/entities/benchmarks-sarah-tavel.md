@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: benchmarks-sarah-tavel
 name: Benchmark's Sarah Tavel
 source: 20vc

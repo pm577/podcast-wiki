@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-the-biggest-sales-lessons-scali
 name: "20Sales: The Biggest Sales Lessons Scali"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: The Biggest Sales Lessons Scaling Brex to $400M ARR, Why
 ## Summary
 
  Sam Blond is the former CRO at Brex, where he led the company from near $0-$400M in ARR and a $12.5B valuation."]
+subtype: article
 ---
 
 # 20Sales: The Biggest Sales Lessons Scali

@@ -1,4 +1,5 @@
 ---
+
 title: Baiju Bhatt
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, fintech, founder-psychology, person, product-strategy, venture-cap
 sources:
   - raw/transcripts/20vc/20vc-2016-04-01-20vc-robinhoods-baiju-bhatt.md
 confidence: medium
+subtype: person
 ---
 
 

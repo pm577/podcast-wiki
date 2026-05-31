@@ -1,4 +1,5 @@
 ---
+
 title: Kelly Peeler
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, fintech, a
 sources:
   - raw/transcripts/20vc/20vc-2016-02-05-20-vc-ff-034-what-fintech-can.md
 confidence: medium
+subtype: person
 ---
 
 

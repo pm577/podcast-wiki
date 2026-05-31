@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: figma-cpo
 name: Figma CPO
 source: 20vc

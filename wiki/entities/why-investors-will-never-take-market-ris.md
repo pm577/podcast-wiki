@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-investors-will-never-take-market-ris
 name: Why Investors Will Never Take Market Ris
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-01-06
 tags: ["founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Henry Ward is the Founder & CEO @ eShares, the No 1 cap table management platform providing equity management, 409A valuations and liquidity all in one place."]
+subtype: article
 ---
 
 # Why Investors Will Never Take Market Ris

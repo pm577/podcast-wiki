@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: dollar-shave-club
 name: Dollar Shave Club
 source: 20vc

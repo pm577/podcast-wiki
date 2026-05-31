@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: key-elements-to-consider-when-evaluating
 name: Key Elements To Consider When Evaluating
 source: 20vc

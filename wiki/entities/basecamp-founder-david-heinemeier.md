@@ -1,4 +1,5 @@
 ---
+
 title: Basecamp Founder David Heinemeier
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2020-04-14-20vc-basecamp-founder-david-h.md
 confidence: medium
+subtype: person
 ---
 
 

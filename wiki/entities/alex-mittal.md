@@ -1,4 +1,5 @@
 ---
+
 title: Alex Mittal
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, marketplaces, ai-ml, enterpr
 sources:
   - raw/transcripts/20vc/20vc-2017-03-22-20vc-how-every-vc-firm-is-a-m.md
 confidence: medium
+subtype: person
 ---
 
 

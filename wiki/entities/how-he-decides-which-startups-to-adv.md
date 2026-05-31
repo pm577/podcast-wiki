@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-he-decides-which-startups-to-adv
 name: How He Decides Which Startups To Adv
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-03-04
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Hiten Shah is one of the most prominent players in the data marketing industry having co-Founded both KissMetrics (raised $10m+ VC Funding) and Crazy Egg (bootstrapped), both wildly successful busines"]
+subtype: article
 ---
 
 # How He Decides Which Startups To Adv

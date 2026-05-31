@@ -1,4 +1,5 @@
 ---
+
 title: April Dunford
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/april-dunford-20.md
   - raw/transcripts/lenny/april-dunford.md
 confidence: high
+subtype: person
 ---
 
 # April Dunford

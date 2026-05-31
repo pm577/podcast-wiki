@@ -1,4 +1,5 @@
 ---
+
 title: Uri Levine
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, founder, crisis-management, entrepreneurship]
 sources:
   - raw/transcripts/lenny/uri-levine-20.md
 confidence: high
+subtype: person
 ---
 
 # Uri Levine

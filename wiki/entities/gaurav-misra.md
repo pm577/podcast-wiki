@@ -1,4 +1,5 @@
 ---
+
 title: Gaurav Misra
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, captions, ai, consumer, snap, startup, ceo]
 sources:
   - raw/transcripts/lenny/gaurav-misra.md
 confidence: high
+subtype: person
 ---
 
 # Gaurav Misra

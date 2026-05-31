@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bold-product-visions-can-be-dangerous
 name: Bold Product Visions Can Be Dangerous
 source: 20vc

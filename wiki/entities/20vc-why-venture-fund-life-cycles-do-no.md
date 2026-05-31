@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-venture-fund-life-cycles-do-no
 name: "20VC: Why Venture Fund Life Cycles Do No"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Venture Fund Life Cycles Do Not Align To Companies Toda
 ## Summary
 
       Blake Scholl is the Founder & CEO @ Boom Supersonic, the world's fastest commercial aeroplane, aspiring to bring back supersonic passenger flight at an affordable price."]
+subtype: article
 ---
 
 # 20VC: Why Venture Fund Life Cycles Do No

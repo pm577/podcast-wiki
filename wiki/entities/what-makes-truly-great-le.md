@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-makes-truly-great-le
 name: What Makes Truly Great Le
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-11-20
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Matteo Franceschetti is the Co-Founder and CEO @ Eight Sleep, a company dedicated to fueling human potential through optimal sleep."]
+subtype: article
 ---
 
 # What Makes Truly Great Le

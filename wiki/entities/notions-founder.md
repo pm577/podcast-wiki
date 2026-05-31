@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: notions-founder
 name: Notion's Founder
 source: 20vc

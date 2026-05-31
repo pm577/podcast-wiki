@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: key-questions-entrepreneurs-must-ask
 name: Key Questions Entrepreneurs Must Ask
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-bi
 name: The Bi
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-01-08
 tags: ["venture-capital"]
 related_concepts: []
 key_views: ["Carvana is one of the most wild stories in the public markets."]
+subtype: article
 ---
 
 # The Bi

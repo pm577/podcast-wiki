@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: benchmarks-peter-fenton
 name: Benchmark's Peter Fenton
 source: 20vc

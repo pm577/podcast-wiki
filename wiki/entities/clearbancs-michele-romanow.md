@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: clearbancs-michele-romanow
 name: Clearbanc's Michele Romanow
 source: 20vc

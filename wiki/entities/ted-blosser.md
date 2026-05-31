@@ -1,4 +1,5 @@
 ---
+
 title: Ted Blosser
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, hiring-cul
 sources:
   - raw/transcripts/20vc/20vc-2017-01-27-20vc-why-you-should-build-you.md
 confidence: medium
+subtype: person
 ---
 
 

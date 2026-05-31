@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-hire-product-teams
 name: How To Hire Product Teams
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-12-06
 tags: ["consumer", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Geoff Charles is the VP of Product at Ramp, leading the product management, operations, and support teams."]
+subtype: article
 ---
 
 # How To Hire Product Teams

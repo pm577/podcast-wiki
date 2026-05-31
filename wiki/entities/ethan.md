@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/ethan-smith.md
+
 title: Ethan
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +10,7 @@ tags: [person]
 sources:
   - episodes/lenny/ethan-smith|The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)
 confidence: medium
+subtype: person
 ---
 
 # Ethan

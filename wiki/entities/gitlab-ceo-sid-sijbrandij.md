@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: gitlab-ceo-sid-sijbrandij
 name: Gitlab CEO Sid Sijbrandij
 source: 20vc

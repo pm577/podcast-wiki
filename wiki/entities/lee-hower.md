@@ -1,4 +1,5 @@
 ---
+
 title: Lee Hower
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy]
 sources:
   - raw/transcripts/20vc/20vc-2017-03-08-20vc-why-valuation-is-of-crit.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,4 +1,7 @@
 ---
+sources:
+  - raw/transcripts/lenny/andy-johns.md
+
 title: John
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +10,7 @@ tags: [person]
 sources:
   - episodes/lenny/john-mark-nickels|Conscious leadership: Unlocking vision, strategy and purpose | JM Nickels (Uber, Waymo, DoorDash)
 confidence: medium
+subtype: person
 ---
 
 # John

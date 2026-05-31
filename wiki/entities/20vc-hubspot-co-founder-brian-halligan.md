@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-hubspot-co-founder-brian-halligan
 name: "20VC: Hubspot Co-Founder Brian Halligan"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Hubspot Co-Founder Brian Halligan on Leadership Lessons Sca
 ## Summary
 
  Brian Halligan is the Co-Founder and Executive Chairperson of HubSpot."]
+subtype: article
 ---
 
 # 20VC: Hubspot Co-Founder Brian Halligan

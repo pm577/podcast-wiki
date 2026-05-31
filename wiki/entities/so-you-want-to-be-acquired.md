@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: so-you-want-to-be-acquired
 name: So You Want To Be Acquired
 source: 20vc

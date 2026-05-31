@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-founders-should-strategically-think-through
 name: How Founders Should Strategically Think Through
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-03-13
 tags: ["ai-ml", "fintech", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Adena Hefets is Co-Founder @ Divvy Homes, the startup that turns your monthly rent into a down payment allowing you to get on the property ladder, sooner."]
+subtype: article
 ---
 
 # How Founders Should Strategically Think Through

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-daily-deal-coreweave-ipo-scale-hits-25bn
 name: "20VC: The Daily Deal: Coreweave IPO | Scale Hits $25BN"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Daily Deal: Coreweave IPO | Scale Hits $25BN on $2BN EO
 ## Summary
 
 Welcome to The Daily Deal — the new show with Harry Stebbings and Jason Lemkin, where we break down the biggest stories in tech, venture, and B2B."]
+subtype: article
 ---
 
 # 20VC: The Daily Deal: Coreweave IPO | Scale Hits $25BN

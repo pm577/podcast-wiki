@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-you-will-likely-be-unable-to-hire-throug
 name: Why You Will Likely Be Unable To Hire Throug
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-01-25
 tags: ["ai-ml", "founder-psychology", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Olof Mathé is the Founder & CEO @ Mixmax, the startup that provides powerful analytics, automation and enhancements for your outbound communications."]
+subtype: article
 ---
 
 # Why You Will Likely Be Unable To Hire Throug

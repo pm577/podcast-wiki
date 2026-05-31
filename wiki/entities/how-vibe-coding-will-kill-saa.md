@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-vibe-coding-will-kill-saa
 name: How Vibe Coding Will Kill Saa
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-11-24
 tags: ["founder-psychology", "go-to-market", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Maor Shlomo is the Founder and CEO of Base44, the AI building platform that Maor built from idea to $80M acquisition by Wix, in just 8 months."]
+subtype: article
 ---
 
 # How Vibe Coding Will Kill Saa

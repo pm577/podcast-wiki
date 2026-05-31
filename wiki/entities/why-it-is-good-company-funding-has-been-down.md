@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-it-is-good-company-funding-has-been-down
 name: Why It Is Good Company Funding Has Been Down
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-05-17
 tags: ["ai-ml", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Scott Raney is a Partner @ Redpoint Ventures, one of the valley's leading multi-stage funds with over 434 investments, close to $4bn in assets under management and 136 IPOs and M&A."]
+subtype: article
 ---
 
 # Why It Is Good Company Funding Has Been Down

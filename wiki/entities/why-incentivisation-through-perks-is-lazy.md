@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-incentivisation-through-perks-is-lazy
 name: Why Incentivisation Through Perks Is Lazy
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-12-23
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["David Politis is the Founder & CEO @ Bettercloud, the first ever unified SaaS management platform."]
+subtype: article
 ---
 
 # Why Incentivisation Through Perks Is Lazy

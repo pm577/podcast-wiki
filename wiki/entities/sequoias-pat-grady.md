@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sequoias-pat-grady
 name: Sequoia's Pat Grady
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: successful-venture-partnership
 name: Successful Venture Partnership
 source: 20vc

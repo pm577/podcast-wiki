@@ -1,4 +1,5 @@
 ---
+
 title: Sid Sijbrandji
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, hiring-culture, person, product-strategy, vent
 sources:
   - raw/transcripts/20vc/20vc-2019-07-19-20vc-gitlab-founder-sid-sijb.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-why-the-founder-should-not-be-t
 name: "20Sales: Why the Founder Should Not Be t"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Why the Founder Should Not Be the One to Create the Sale
 ## Summary
 
  Matt Rosenberg is Grammarly's Chief Revenue Officer and Head of Grammarly Business."]
+subtype: article
 ---
 
 # 20Sales: Why the Founder Should Not Be t

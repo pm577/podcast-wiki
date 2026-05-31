@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-biggest-misconceptions-harde
 name: "20VC: The Biggest Misconceptions & Harde"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Biggest Misconceptions & Hardest Truths About Seed Inve
 ## Summary
 
  David Tisch is the Managing Partner of BoxGroup, one of the leading seed-stage investment firms of the last decade having invested in over 500 seed-stage startups, including Plaid, Ro, Ramp, PillPack, Amplitude, Stripe, Warby Parker, Harry's, Flexport, Classpass, Airtable and more."]
+subtype: article
 ---
 
 # 20VC: The Biggest Misconceptions & Harde

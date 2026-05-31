@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: benchmarks-chetan-puttagunta
 name: Benchmark's Chetan Puttagunta
 source: 20vc

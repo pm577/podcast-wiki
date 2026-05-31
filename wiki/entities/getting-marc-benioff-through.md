@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: getting-marc-benioff-through
 name: Getting Marc Benioff Through
 source: 20vc

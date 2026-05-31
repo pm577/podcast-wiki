@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-you-will-learn-more-from-study
 name: Why You Will Learn More From Study
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-04-03
 tags: ["founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Tobi Lütke is the CEO and Co-Founder of Shopify, the powerhouse company allowing anyone to start and grow their e-commerce business."]
+subtype: article
 ---
 
 # Why You Will Learn More From Study

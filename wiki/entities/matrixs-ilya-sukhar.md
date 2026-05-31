@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: matrixs-ilya-sukhar
 name: Matrix's Ilya Sukhar
 source: 20vc

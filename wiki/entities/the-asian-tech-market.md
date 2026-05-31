@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-asian-tech-market
 name: The Asian Tech Market
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2015-02-20
 tags: ["founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Frank is Co-Founder and General Partner at Spark Labs Global seed fund where he has invested in 40 companies in the US, UK and Asia."]
+subtype: article
 ---
 
 # The Asian Tech Market

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-ther
 name: Why Ther
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-10-03
 tags: ["ai-ml", "deeptech-hardware", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Parker Conrad is the Founder & CEO @ Rippling, the company that lets you easily manage your employees' payroll, benefits, expenses, devices, apps & more—in one place."]
+subtype: article
 ---
 
 # Why Ther

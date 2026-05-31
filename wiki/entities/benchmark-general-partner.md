@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: benchmark-general-partner
 name: Benchmark General Partner
 source: 20vc

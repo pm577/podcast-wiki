@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: will-kill-many-saa
 name: Will Kill Many Saa
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-03-14
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "marketplaces", "product-strategy"]
 related_concepts: []
 key_views: ["Matt Biilmann is the Co-Founder and CEO @ Netlify."]
+subtype: article
 ---
 
 # Will Kill Many Saa

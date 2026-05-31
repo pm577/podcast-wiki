@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: true-ventures-puneet-agarwal
 name: True Ventures' Puneet Agarwal
 source: 20vc

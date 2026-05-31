@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-need-to-be-successful
 name: Cs Need To Be Successful
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Jerry Colonna
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, executive-coaching, leadership, radical-self-inquiry, founder-psy
 sources:
   - raw/transcripts/lenny/jerry-colonna.md
 confidence: high
+subtype: person
 ---
 
 # Jerry Colonna

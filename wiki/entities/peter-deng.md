@@ -1,4 +1,5 @@
 ---
+
 title: Peter Deng
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/peter-deng.md
 confidence: medium
 key_finding: In 6 Months, If I'm Telling You What to Do, I Hired the Wrong Person
+subtype: person
 ---
 
 # Peter Deng

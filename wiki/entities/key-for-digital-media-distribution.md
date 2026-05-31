@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: key-for-digital-media-distribution
 name: Key For Digital Media Distribution
 source: 20vc

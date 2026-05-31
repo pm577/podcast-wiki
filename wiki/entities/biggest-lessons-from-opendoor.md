@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: biggest-lessons-from-opendoor
 name: Biggest Lessons From Opendoor
 source: 20vc

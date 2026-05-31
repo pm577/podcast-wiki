@@ -1,4 +1,5 @@
 ---
+
 title: Lisa Edgar
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, hiring-culture]
 sources:
   - raw/transcripts/20vc/20vc-2019-11-04-20vc-inside-the-mind-of-a-lea.md
 confidence: medium
+subtype: person
 ---
 
 

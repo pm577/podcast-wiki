@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lerer-hippeaus-ben-lerer
 name: Lerer Hippeau's Ben Lerer
 source: 20vc

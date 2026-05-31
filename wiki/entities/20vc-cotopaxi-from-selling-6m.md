@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-cotopaxi-from-selling-6m
 name: "20VC: Cotopaxi: From Selling $6M"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Cotopaxi: From Selling $6M of Pool Tables to Scaling $150M 
 ## Summary
 
  Davis Smith is the Founder and Chairman of Cotopaxi, an outdoor brand with a humanitarian mission."]
+subtype: article
 ---
 
 # 20VC: Cotopaxi: From Selling $6M

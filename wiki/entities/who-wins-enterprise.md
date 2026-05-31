@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: who-wins-enterprise
 name: Who Wins Enterprise
 source: 20vc

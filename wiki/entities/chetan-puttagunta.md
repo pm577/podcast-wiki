@@ -1,4 +1,5 @@
 ---
+
 title: Chetan Puttagunta
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2019-08-05-20vc-benchmarks-chetan-putta.md
 confidence: medium
+subtype: person
 ---
 
 

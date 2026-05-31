@@ -1,4 +1,5 @@
 ---
+
 title: Yahoo
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2022-01-21-20vc-how-i-lost-a-125m-deal.md
 confidence: medium
+subtype: person
 ---
 
 

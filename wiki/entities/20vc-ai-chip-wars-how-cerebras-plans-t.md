@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-ai-chip-wars-how-cerebras-plans-t
 name: "20VC: AI Chip Wars: How Cerebras Plans t"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: AI Chip Wars: How Cerebras Plans to Topple NVIDIA's Dominan
 ## Summary
 
 Andrew Feldman is the Co-Founder and CEO @ Cerebras, the fastest AI inference + training platform in the world."]
+subtype: article
 ---
 
 # 20VC: AI Chip Wars: How Cerebras Plans t

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-mongodb-ceo-dev-ittycheria-on-why
 name: "20VC: MongoDB CEO, Dev Ittycheria on Why"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-08-10
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Dev Ittycheria is the President and CEO @ MongoDB, recognized as the world's most popular next-generation database and the first database company to go public in over 26 years."]
+subtype: article
 ---
 
 # 20VC: MongoDB CEO, Dev Ittycheria on Why

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-scaling-servicenow-to-5bn-in-arr
 name: "20VC: Scaling ServiceNow to $5BN in ARR"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Scaling ServiceNow to $5BN in ARR | Leadership Lessons from
 ## Summary
 
  David Schneider is a General Partner @ Coatue and one of the great operators of the last 20 years."]
+subtype: article
 ---
 
 # 20VC: Scaling ServiceNow to $5BN in ARR

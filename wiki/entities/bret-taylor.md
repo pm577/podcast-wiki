@@ -1,4 +1,5 @@
 ---
+
 title: Bret Taylor
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, ai, agents, product-management, leadership, google-maps, salesfor
 sources:
   - raw/transcripts/lenny/bret-taylor.md
 confidence: high
+subtype: person
 ---
 
 # Bret Taylor

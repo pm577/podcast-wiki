@@ -1,4 +1,5 @@
 ---
+
 title: Matt Dixon
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/matt-dixon.md
 confidence: high
 key_finding: Customers don't lose deals to competition — they lose to indecision
+subtype: person
 ---
 
 # Matt Dixon

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-everyone-is-wrong-we-will-have-mo
 name: "20VC: Everyone is Wrong; We Will Have Mo"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Everyone is Wrong; We Will Have More Developers in Five Yea
 ## Summary
 
 Aaron Levie is one of the most forward-thinking public company CEOs when it comes to enterprise adoption of AI."]
+subtype: article
 ---
 
 # 20VC: Everyone is Wrong; We Will Have Mo

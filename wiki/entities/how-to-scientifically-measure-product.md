@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-scientifically-measure-product
 name: How To Scientifically Measure Product
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-06-05
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Daniel Erickson is the Founder & CEO @ Viable Fit, the startup that allows you to find product-market fit faster than ever by collecting structured user feedback to measure PMF on an ongoing basis."]
+subtype: article
 ---
 
 # How To Scientifically Measure Product

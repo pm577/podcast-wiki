@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-chips
 name: "20VC: Chips"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Chips, Models or Applications; Where is the Value in AI | I
 ## Summary
 
  Aidan Gomez is the Co-founder & CEO at Cohere, the leading AI platform for enterprise, having raised over $1BN from some of the best with their last round pricing the company at a whopping $5.5BN."]
+subtype: article
 ---
 
 # 20VC: Chips

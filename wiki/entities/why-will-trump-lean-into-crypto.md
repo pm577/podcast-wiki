@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-will-trump-lean-into-crypto
 name: Why Will Trump Lean Into Crypto
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-01-08
 tags: ["ai-ml", "fintech", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Nick Tomaino is the Founder and General Partner @ 1confirmation, one of the leading seed firms fueling the decentralization of the web and society."]
+subtype: article
 ---
 
 # Why Will Trump Lean Into Crypto

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20-growth-why-you-need-a-growth-hire-pre-product-market
 name: "20 Growth: Why You Need a Growth Hire Pre Product-Market"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20 Growth: Why You Need a Growth Hire Pre Product-Market-Fit? Why
 ## Summary
 
  Kieran Flanagan is SVP Marketing at HubSpot, where he has helped the business grow internationally, move to a product-led business, quadrupled its marketing demand, and built out its media team, including the acquisition of 'The Hustle.' He is also an advisor and investor in early-stage companies."]
+subtype: article
 ---
 
 # 20 Growth: Why You Need a Growth Hire Pre Product-Market

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: walked-away-from-angel-investing-after-uber
 name: Walked Away From Angel Investing After Uber
 source: 20vc

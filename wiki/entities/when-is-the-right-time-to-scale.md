@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: when-is-the-right-time-to-scale
 name: When Is The Right Time To Scale
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-12-04
 tags: ["product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Rich Wong is a General Partner @ Accel, one of the world's leading venture funds with investments in the likes of Dropbox, Slack, Facebook, Deliveroo and Atlassian, just to name a few."]
+subtype: article
 ---
 
 # When Is The Right Time To Scale

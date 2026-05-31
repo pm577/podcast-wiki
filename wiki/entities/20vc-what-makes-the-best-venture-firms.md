@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-what-makes-the-best-venture-firms
 name: "20VC: What Makes The Best Venture Firms"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-02-08
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Anjney Midha is the Founder & CEO @ Ubiquity6, the startup that allows you to edit reality together, turning any location into a space for real-time, shared AR and VR experiences."]
+subtype: article
 ---
 
 # 20VC: What Makes The Best Venture Firms

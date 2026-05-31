@@ -1,4 +1,5 @@
 ---
+
 title: Hamilton Helmer
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, strategy, 7-powers, business, competitive-advantage, author, cons
 sources:
   - raw/transcripts/lenny/hamilton-helmer.md
 confidence: high
+subtype: person
 ---
 
 # Hamilton Helmer
@@ -53,3 +55,15 @@ Hamilton is a disciple of mathematician John von Neumann's view that concepts mu
 - [[competitive-advantage]]
 - [[7-powers]]
 - [[business-model]]
+
+---
+
+*Merged from [[hamilton]]:*
+
+# Hamilton
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/hamilton-helmer|Business strategy with Hamilton Helmer (author of 7 Powers)]] — *to be summarized*

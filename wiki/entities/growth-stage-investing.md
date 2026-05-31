@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: growth-stage-investing
 name: Growth Stage Investing
 source: 20vc

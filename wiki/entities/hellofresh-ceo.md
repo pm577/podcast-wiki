@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: hellofresh-ceo
 name: HelloFresh CEO
 source: 20vc

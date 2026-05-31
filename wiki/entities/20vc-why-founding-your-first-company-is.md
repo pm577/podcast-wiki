@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-founding-your-first-company-is
 name: "20VC: Why Founding Your First Company Is"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Founding Your First Company Is Like Learning Through A 
 ## Summary
 
 Armon Dadgar is the Founder & CTO @ Hashicorp, the open-source software company that provides consistent workflows to provision, secure, connect and run any infrastructure for any application."]
+subtype: article
 ---
 
 # 20VC: Why Founding Your First Company Is

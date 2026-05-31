@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: coheres-chief-ai-officer
 name: Cohere's Chief AI Officer
 source: 20vc

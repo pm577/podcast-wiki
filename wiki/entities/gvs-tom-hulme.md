@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: gvs-tom-hulme
 name: GV's Tom Hulme
 source: 20vc

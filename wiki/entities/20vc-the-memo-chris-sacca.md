@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-memo-chris-sacca
 name: "20VC: The Memo: Chris Sacca"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Memo: Chris Sacca on Why We Are Breeding a Generation o
 ## Summary
 
       Chris Sacca is the Founder and Chairman @ Lowercase Capital, one of the best performing funds in the history of venture capital with a portfolio including Uber, Stripe, Twitter, Instagram, Twilio, Docker and many more."]
+subtype: article
 ---
 
 # 20VC: The Memo: Chris Sacca

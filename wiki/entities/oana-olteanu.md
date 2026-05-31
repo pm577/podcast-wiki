@@ -1,4 +1,5 @@
 ---
+
 title: Oana Olteanu
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, ai-ml, enter
 sources:
   - raw/transcripts/20vc/20vc-2022-11-18-20vc-rising-star-why-founders.md
 confidence: medium
+subtype: person
 ---
 
 

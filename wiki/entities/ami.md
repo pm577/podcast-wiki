@@ -1,4 +1,5 @@
 ---
+
 title: Ami Vora
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, leadership, authenticity, curiosity, meta, fa
 sources:
   - raw/transcripts/lenny/ami-vora.md
 confidence: high
+subtype: person
 ---
 
 # Ami Vora

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-figmas-ipo-the-full-breakdown-index-returns-35bn
 name: "20VC: Figma's IPO: The Full Breakdown | Index Returns $3.5BN"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Figma's IPO: The Full Breakdown | Index Returns $3.5BN on T
 ## Summary
 
 AGENDA: 00:00 – $400B in AI CapEx: Rational Investment or Madness? 05:00 – Figma's IPO: Rule of 80, $1.5B in cash, 40% margins."]
+subtype: article
 ---
 
 # 20VC: Figma's IPO: The Full Breakdown | Index Returns $3.5BN

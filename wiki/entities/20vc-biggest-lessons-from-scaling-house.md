@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-biggest-lessons-from-scaling-house
 name: "20VC: Biggest Lessons From Scaling House"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-08-21
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Ben Rubin is the Founder & CEO @ /talk, the anti-meeting tool for fast, decentralised conversations."]
+subtype: article
 ---
 
 # 20VC: Biggest Lessons From Scaling House

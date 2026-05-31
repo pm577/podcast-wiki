@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-thrive-openai-partnership-even
 name: "20VC: Thrive & OpenAI Partnership | Even"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 04:20 Thrive and OpenAI Partnership  07:14 Databricks Raising $5BN at $
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-thrive-openai-partnership-eventbrite-acquired-for-500m-databricks-raising-5bn-at-134bn-valuation-cheap-or-not-why-saas-is-like-japan-and-the-tam-trap-in-software)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Thrive & OpenAI Partnership | Even

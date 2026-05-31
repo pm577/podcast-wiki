@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: indexs-martin-mignot
 name: Index's Martin Mignot
 source: 20vc

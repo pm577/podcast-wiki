@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-how-ai-changes-product-design
 name: "20Product: How AI Changes Product Design"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: How AI Changes Product Design | Does the Design Phase 
 ## Summary
 
 Carl Rivera is the Chief Design Officer at Shopify, where he previously led both Merchant Services and the Shop App as VP of Product."]
+subtype: article
 ---
 
 # 20Product: How AI Changes Product Design

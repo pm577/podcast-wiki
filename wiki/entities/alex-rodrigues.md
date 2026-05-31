@@ -1,4 +1,5 @@
 ---
+
 title: Alex Rodrigues
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, hiring-culture, ai-ml, deept
 sources:
   - raw/transcripts/20vc/20vc-2019-07-05-20vc-why-self-driving-is-stil.md
 confidence: medium
+subtype: person
 ---
 
 

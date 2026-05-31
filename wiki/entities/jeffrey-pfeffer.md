@@ -1,4 +1,5 @@
 ---
+
 title: Jeffrey Pfeffer
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, power, leadership, organizational-behavior, stanford, career-adva
 sources:
   - raw/transcripts/lenny/jeffrey-pfeffer.md
 confidence: high
+subtype: person
 ---
 
 # Jeffrey Pfeffer

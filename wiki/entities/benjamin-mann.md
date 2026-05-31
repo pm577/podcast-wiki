@@ -1,4 +1,5 @@
 ---
+
 title: Benjamin Mann
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/benjamin-mann.md
 confidence: medium
 key_finding: Superintelligence Alignment Must Be Solved Before It Arrives
+subtype: person
 ---
 
 # Benjamin Mann

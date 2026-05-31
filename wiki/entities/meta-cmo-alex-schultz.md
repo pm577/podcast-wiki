@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: meta-cmo-alex-schultz
 name: Meta CMO Alex Schultz
 source: 20vc

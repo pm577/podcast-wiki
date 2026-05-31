@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: better-than-big-markets
 name: Better Than Big Markets
 source: 20vc

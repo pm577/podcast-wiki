@@ -1,4 +1,5 @@
 ---
+
 title: Hilary Gridley
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, leadership, ai-adoption, habit-formation, who
 sources:
   - raw/transcripts/lenny/hilary-gridley.md
 confidence: high
+subtype: person
 ---
 
 # Hilary Gridley

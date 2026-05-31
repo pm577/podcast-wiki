@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-perplexitys-aravind-srinivas
 name: "20VC: Perplexity's Aravind Srinivas"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Perplexity's Aravind Srinivas on Will Foundation Models Com
 ## Summary
 
 Aravind Srinivas is the Co-Founder & CEO of Perplexity, the conversational "answer engine" that provides precise, user-focused answers to queries."]
+subtype: article
 ---
 
 # 20VC: Perplexity's Aravind Srinivas

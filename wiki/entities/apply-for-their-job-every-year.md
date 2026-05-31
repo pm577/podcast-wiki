@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: apply-for-their-job-every-year
 name: Apply For Their Job Every Year
 source: 20vc

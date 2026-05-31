@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-saas-is-dead-why-ai-first-co
 name: "20VC: Why SaaS is Dead | Why AI First Co"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why SaaS is Dead | Why AI First Companies Will Win | We are
 ## Summary
 
 Daniel Khachab is the co-founder and CEO of Choco."]
+subtype: article
 ---
 
 # 20VC: Why SaaS is Dead | Why AI First Co

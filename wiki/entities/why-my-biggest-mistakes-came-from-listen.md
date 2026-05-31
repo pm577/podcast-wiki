@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-my-biggest-mistakes-came-from-listen
 name: Why My Biggest Mistakes Came From Listen
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-06-23
 tags: ["ai-ml", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Johannes Reck is the Founder and CEO of GetYourGuide, the $2BN company that started with a holiday to China and nothing to do."]
+subtype: article
 ---
 
 # Why My Biggest Mistakes Came From Listen

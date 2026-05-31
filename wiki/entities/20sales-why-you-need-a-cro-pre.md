@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-why-you-need-a-cro-pre
 name: "20Sales: Why You Need a CRO Pre"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Why You Need a CRO Pre-Product | Why Remote Sales Teams 
 ## Summary
 
 Chad Peets is one of the greatest sales leaders and recruiters of the last 25 years."]
+subtype: article
 ---
 
 # 20Sales: Why You Need a CRO Pre

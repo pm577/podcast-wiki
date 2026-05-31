@@ -36,3 +36,15 @@ confidence: medium
 - [[pivot]]
 - [[y-combinator]]
 - [[venture-capital]]
+
+---
+
+*Merged from [[dalton]]:*
+
+# Dalton
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/dalton-caldwell|Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)]] — *to be summarized*

@@ -1,4 +1,5 @@
 ---
+
 title: Sam Schillace
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, microsoft, google-docs, innovation, cto, writely, startups]
 sources:
   - raw/transcripts/lenny/sam-schillace.md
 confidence: high
+subtype: person
 ---
 
 # Sam Schillace

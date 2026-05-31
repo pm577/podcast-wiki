@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: clark-landry
 name: Clark Landry
 source: 20vc

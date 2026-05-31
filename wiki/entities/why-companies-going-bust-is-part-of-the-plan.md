@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-companies-going-bust-is-part-of-the-plan
 name: Why Companies Going Bust Is Part Of The Plan
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-01-02
 tags: ["founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Charlie O'Donnell is the Founder and Sole Partner @  Brooklyn Bridge Ventures, the first venture capital fund based in Brooklyn, who manage $23m across 2 funds."]
+subtype: article
 ---
 
 # Why Companies Going Bust Is Part Of The Plan

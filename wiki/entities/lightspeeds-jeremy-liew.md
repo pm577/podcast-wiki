@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lightspeeds-jeremy-liew
 name: Lightspeed's Jeremy Liew
 source: 20vc

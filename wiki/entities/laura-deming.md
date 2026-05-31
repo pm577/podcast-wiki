@@ -1,4 +1,5 @@
 ---
+
 title: Laura Deming
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, ai-ml, biotech-health]
 sources:
   - raw/transcripts/20vc/20vc-2018-11-26-20vc-why-raising-a-first-time.md
 confidence: medium
+subtype: person
 ---
 
 

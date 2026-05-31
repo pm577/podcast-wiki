@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: best-teams-do-product-reviews
 name: Best Teams Do Product Reviews
 source: 20vc

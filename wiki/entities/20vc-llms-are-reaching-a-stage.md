@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-llms-are-reaching-a-stage
 name: "20VC: LLMs Are Reaching a Stage"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: LLMs Are Reaching a Stage of Diminishing Returns: What is t
 ## Summary
 
  Matt Clifford is the Co-Founder of Entrepreneur First (EF), the leading global talent investor and incubator."]
+subtype: article
 ---
 
 # 20VC: LLMs Are Reaching a Stage

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-this-time-will-be-worse-than-t
 name: "20VC: Why This Time Will Be Worse Than T"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-02-13
 tags: ["go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Tom Loverro is a Partner @ IVP where he has led or was actively involved in investments in Amplitude, Coinbase, Hashicorp and Datadog to name a few."]
+subtype: article
 ---
 
 # 20VC: Why This Time Will Be Worse Than T

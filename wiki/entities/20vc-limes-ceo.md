@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-limes-ceo
 name: "20VC: Lime's CEO"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Lime's CEO on Going from Losing $3 on Every $1 to $90M in E
 ## Summary
 
 Wayne Ting is CEO of Lime."]
+subtype: article
 ---
 
 # 20VC: Lime's CEO

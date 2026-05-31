@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: greg-rogers
 name: Greg Rogers
 source: 20vc

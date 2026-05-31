@@ -223,11 +223,27 @@ def do_get_podcast_stats() -> dict:
 
 def do_ask(query: str) -> dict:
     """Combined Q&A — search + prepare context for LLM synthesis."""
-    episodes = do_search_episodes(query, limit=5)
+    # Use semantic search for better results, fall back to keyword
+    semantic_results = do_search_by_meaning(query, limit=3)
+    keyword_results = do_search_episodes(query, limit=3)
+    
+    # Get entity context: find related people
+    related_entities = []
+    semantic_list = semantic_results.get('results', []) if isinstance(semantic_results, dict) else []
+    for r in (semantic_list + keyword_results)[:5]:
+        guest = r.get('guest', r.get('entity_name', ''))
+        if guest and guest not in related_entities and guest != 'unknown-guest':
+            related_entities.append(guest)
+        source_id = r.get('source_id', '')
+        if source_id and source_id not in related_entities and '_' not in source_id and not source_id.startswith('lenny-') and not source_id.startswith('20vc-'):
+            related_entities.append(source_id)
+    
     return {
         'query': query,
-        'results': episodes,
-        'note': 'Pass these results to your LLM for synthesis. Each result has title, date, guest, and a content snippet.'
+        'semantic_matches': semantic_list[:5],
+        'keyword_matches': keyword_results[:3],
+        'related_entities': related_entities[:5],
+        'note': 'Hybrid search results — semantic for meaning, keyword for exact matches.'
     }
 
 

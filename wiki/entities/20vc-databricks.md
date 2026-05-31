@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-databricks
 name: "20VC: Databricks"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Databricks at $100BN | Chamath's SPAC Revival: Peak Mania? 
 ## Summary
 
 Agenda: 00:00 – Databricks hits $100B: Bubble or just the beginning? 03:15 – Is Databricks actually undervalued at 25x revenue? 07:40 – Are we on the verge of the biggest IPO wave ever? 11:30 – Can Andreessen's Databricks bet return $30B+? 18:10 – Who really gets rich when mega-unicorns IPO? 19:30 – Is the return of Chamath's SPACs the ultimate bubble signal? 28:00 – Should OpenAI staff be cashing out billions in secondaries? 33:30 – Founder raises $130M… then walks away."]
+subtype: article
 ---
 
 # 20VC: Databricks

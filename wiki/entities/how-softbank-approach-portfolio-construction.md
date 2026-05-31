@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-softbank-approach-portfolio-construction
 name: How Softbank Approach Portfolio Construction
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-05-20
 tags: ["product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Jeff Housenbold is a Managing Partner @ Softbank Vision Fund, the leading and most influential firm in the venture space investing more than $93 billion in the businesses and technologies they believe"]
+subtype: article
 ---
 
 # How Softbank Approach Portfolio Construction

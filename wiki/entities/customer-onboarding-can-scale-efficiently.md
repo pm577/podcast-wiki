@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: customer-onboarding-can-scale-efficiently
 name: Customer Onboarding Can Scale Efficiently
 source: 20vc

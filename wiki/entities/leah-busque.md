@@ -1,4 +1,5 @@
 ---
+
 title: Leah Busque
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, marketplaces, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2018-03-19-20vc-finding-vc-partners-that.md
 confidence: medium
+subtype: person
 ---
 
 

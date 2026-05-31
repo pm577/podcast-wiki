@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: nvidia-core-business-threatened
 name: NVIDIA Core Business Threatened
 source: 20vc

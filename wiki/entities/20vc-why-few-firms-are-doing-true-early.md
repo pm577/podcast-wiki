@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-few-firms-are-doing-true-early
 name: "20VC: Why Few Firms Are Doing True Early"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Few Firms Are Doing True Early Stage Investing Today, W
 ## Summary
 
  Anna Khan is a General Partner @ CRV, one of the pre-eminent firms of Silicon Valley stretching over what is now an incredible 18 funds."]
+subtype: article
 ---
 
 # 20VC: Why Few Firms Are Doing True Early

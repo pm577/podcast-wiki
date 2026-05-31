@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-managing-the-largest-sovereign-wea
 name: "20VC: Managing the Largest Sovereign Wea"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Managing the Largest Sovereign Wealth Fund in the World: $1
 ## Summary
 
  Nicolai Tangen is the CEO of Norges Bank Investment Management, the largest sovereign wealth fund in the world with $1.55 Trn in assets, owning on average, 1.5% of every listed company."]
+subtype: article
 ---
 
 # 20VC: Managing the Largest Sovereign Wea

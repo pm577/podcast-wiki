@@ -1,4 +1,5 @@
 ---
+
 title: Nancy Duarte
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, storytelling, presentations, communication, duarte-inc, public-sp
 sources:
   - raw/transcripts/lenny/nancy-duarte.md
 confidence: high
+subtype: person
 ---
 
 # Nancy Duarte
@@ -46,3 +48,15 @@ People think presentations are about data, but data without narrative doesn't st
 - [[communication-skills]]
 - [[public-speaking]]
 - [[persuasion]]
+
+---
+
+*Merged from [[nancy]]:*
+
+# Nancy
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/nancy-duarte|Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks]] — *to be summarized*

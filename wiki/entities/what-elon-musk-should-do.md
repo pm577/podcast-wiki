@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-elon-musk-should-do
 name: What Elon Musk Should Do
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-01-23
 tags: ["fintech", "venture-capital"]
 related_concepts: []
 key_views: ["Albert Wenger is a managing partner at Union Square Ventures, one of the most successful venture firms of the last decade with a portfolio including Coinbase, Twitter, Twilio, Etsy, and many more."]
+subtype: article
 ---
 
 # What Elon Musk Should Do

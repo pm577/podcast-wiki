@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-the-future
 name: Why The Future
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-05-12
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Clem Delangue is the Co-Founder and CEO @ Hugging Face, the AI community building the future."]
+subtype: article
 ---
 
 # Why The Future

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ramp-sales-teams
 name: Ramp Sales Teams
 source: 20vc

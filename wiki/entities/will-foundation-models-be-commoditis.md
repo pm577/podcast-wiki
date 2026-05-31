@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: will-foundation-models-be-commoditis
 name: Will Foundation Models Be Commoditis
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-05-22
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Aaron Levie is one of the OG founders of the last two decades as the Co-Founder and CEO of Box."]
+subtype: article
 ---
 
 # Will Foundation Models Be Commoditis

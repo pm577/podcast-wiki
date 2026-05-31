@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anthropic-raises-30bn
 name: "20VC: Anthropic Raises $30BN"
 source: 20vc
@@ -31,6 +32,7 @@ AGENDA: 04:14 Anthropic's $30B Raise at $380B 06:18 Why SaaS Stocks Keep Getting
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-anthropic-raises-30bn-at-380bn-valuation-thrive-raises-new-10bn-fund-openai-buys-openclaw-stripe-raises-at-140bn-is-adyen-wildly-undervalued-monday-figma-shopify-which-are-buys-vs-sells)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Anthropic Raises $30BN

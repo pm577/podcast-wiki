@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: investments-will-do-worse
 name: Investments Will Do Worse
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-biggest-risk-for-founders-in-th
 name: The Biggest Risk For Founders In Th
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-11-03
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Jack Altman is the Founder & CEO of Lattice, actually our partners for this month on the show and as you will hear, they are the #1 performance management solution for growing companies."]
+subtype: article
 ---
 
 # The Biggest Risk For Founders In Th

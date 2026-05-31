@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-inside-accels-4bn-growth-investi
 name: "20VC: Inside Accel's $4BN Growth Investi"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Inside Accel's $4BN Growth Investing Machine | Cursor is De
 ## Summary
 
 Miles Clements is a Partner @ Accel where he helps to lead their growth fund."]
+subtype: article
 ---
 
 # 20VC: Inside Accel's $4BN Growth Investi

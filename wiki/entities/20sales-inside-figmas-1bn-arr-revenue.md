@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-inside-figmas-1bn-arr-revenue
 name: "20Sales: Inside Figma's $1BN ARR Revenue"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Inside Figma's $1BN ARR Revenue Machine | Why We Do Not 
 ## Summary
 
 Shaunt Voskanian is the CRO @ Figma, where he has scaled the sales machine to over $1BN in ARR and over 400 people."]
+subtype: article
 ---
 
 # 20Sales: Inside Figma's $1BN ARR Revenue

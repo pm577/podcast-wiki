@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: has-price-discipline-disappeared
 name: Has Price Discipline Disappeared
 source: 20vc

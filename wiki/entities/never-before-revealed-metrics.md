@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: never-before-revealed-metrics
 name: Never Before Revealed Metrics
 source: 20vc

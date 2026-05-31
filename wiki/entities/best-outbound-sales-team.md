@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: best-outbound-sales-team
 name: Best Outbound Sales Team
 source: 20vc

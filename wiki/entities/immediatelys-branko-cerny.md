@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: immediatelys-branko-cerny
 name: Immediately's Branko Cerny
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Ron Bouganim
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology]
 sources:
   - raw/transcripts/20vc/20vc-2018-10-29-20vc-the-2-core-roles-played.md
 confidence: medium
+subtype: person
 ---
 
 

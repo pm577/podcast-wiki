@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: oura-going-public
 name: Oura Going Public
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Arielle Jackson
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/arielle-jackson.md
 confidence: medium
 key_finding: A Name Should Be Evocative, Not Descriptive
+subtype: person
 ---
 
 # Arielle Jackson

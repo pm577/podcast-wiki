@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-conviction-building-process
 name: The Conviction Building Process
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-10-05
 tags: ["founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Geoff Lewis is a Founder and Managing Partner of Bedrock, one of the breakout and new venture firms of the last decade, famously in search of narrative violations."]
+subtype: article
 ---
 
 # The Conviction Building Process

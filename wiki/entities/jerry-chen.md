@@ -1,4 +1,5 @@
 ---
+
 title: Jerry Chen
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, enterprise-saas, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2018-04-02-20vc-greylocks-jerry-chen-on.md
 confidence: medium
+subtype: person
 ---
 
 

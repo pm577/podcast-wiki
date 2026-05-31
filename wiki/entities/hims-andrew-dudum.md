@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: hims-andrew-dudum
 name: Hims' Andrew Dudum
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-single-most-important-perspective-an-invest
 name: The Single Most Important Perspective An Invest
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-05-27
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Geoff Ralston is President @ Y Combinator, the world's leading accelerator with a portfolio that includes the likes of Stripe, Airbnb, Dropbox, Coinbase, Instacart, DoorDash, Flexport and so many more"]
+subtype: article
 ---
 
 # The Single Most Important Perspective An Invest

@@ -1,4 +1,5 @@
 ---
+
 title: Max Gazor
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, hiring-culture, ai-ml, enterprise-saas]
 sources:
   - raw/transcripts/20vc/20vc-2017-08-02-20vc-when-should-ceos-ask-the.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-atlassian-ceo
 name: "20VC: Atlassian CEO"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Atlassian CEO on Why Everything is Overvalued & Are We in a
 ## Summary
 
 Mike Cannon-Brookes is the Co-Founder and Co-CEO of Atlassian, the $50BN software giant behind products like Jira, Confluence, and Trello."]
+subtype: article
 ---
 
 # 20VC: Atlassian CEO

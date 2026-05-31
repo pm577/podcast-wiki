@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-are-lps-open-for-business-what-do
 name: "20VC: Are LPs Open For Business? What Do"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Are LPs Open For Business? What Does it Take to Raise a Fun
 ## Summary
 
  Beezer Clarkson leads Sapphire Partners' investments in venture funds domestically and internationally."]
+subtype: article
 ---
 
 # 20VC: Are LPs Open For Business? What Do

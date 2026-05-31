@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-what-is-the-big-lie-to-silicon-val
 name: "20VC: What Is The Big Lie To Silicon Val"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-09-01
 tags: ["ai-ml", "fintech", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Tim Harris is the Founder & CEO @ Swift Navigation, the startup focused on building a world-class organization that will power the next generation of GPS-enabled robots and autonomous vehicles."]
+subtype: article
 ---
 
 # 20VC: What Is The Big Lie To Silicon Val

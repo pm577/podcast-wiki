@@ -1,4 +1,5 @@
 ---
+
 title: Peter Rojas
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, product-strategy, marketplac
 sources:
   - raw/transcripts/20vc/20vc-2015-10-14-20-vc-079-betaworks-week-eas.md
 confidence: medium
+subtype: person
 ---
 
 

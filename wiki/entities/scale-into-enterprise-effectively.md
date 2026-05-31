@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: scale-into-enterprise-effectively
 name: Scale Into Enterprise Effectively
 source: 20vc

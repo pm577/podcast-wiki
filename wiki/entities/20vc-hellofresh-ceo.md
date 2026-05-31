@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-hellofresh-ceo
 name: "20VC: HelloFresh CEO"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: HelloFresh CEO on Why When You Raise VC You Only Have Two O
 ## Summary
 
  Dominik Richter is the Founder & CEO @ HelloFresh, one of the largest direct-to-consumer businesses of the last decade and the #1 recipe box delivery service."]
+subtype: article
 ---
 
 # 20VC: HelloFresh CEO

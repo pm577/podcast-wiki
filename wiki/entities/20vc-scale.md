@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-scale
 name: "20VC: Scale"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Scale, Surge, Turing, Mercor: Who Wins & Who Loses in Data 
 ## Summary
 
 Jonathan Siddharth is Founder and CEO of Turing, one of the fastest-growing AI companies advancing frontier models."]
+subtype: article
 ---
 
 # 20VC: Scale

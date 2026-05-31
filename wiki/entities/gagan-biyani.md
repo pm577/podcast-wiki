@@ -1,4 +1,5 @@
 ---
+
 title: Gagan Biyani
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, marketplaces, person, product-strategy, ventur
 sources:
   - raw/transcripts/20vc/20vc-2016-04-08-20vc-sprigs-gagan-biyani-on.md
 confidence: medium
+subtype: person
 ---
 
 

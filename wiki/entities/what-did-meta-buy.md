@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-did-meta-buy
 name: What Did Meta Buy
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-06-19
 tags: ["go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Agenda: 00:00 – Meta's $14.8B Deal for Scale: The Analysis 05:40 – Will Scale Lose Their $800M ARR? Will All Customers Leave? 13:00 – Who is the Winner from All Scale Customers Leaving? 21:30 – Who Ma"]
+subtype: article
 ---
 
 # What Did Meta Buy

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-why-product-memes-are-more-im
 name: "20Product: Why Product Memes Are More Im"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Why Product Memes Are More Important Than a Product Ro
 ## Summary
 
  Kevin Niparko is the VP of Product @ Twilio."]
+subtype: article
 ---
 
 # 20Product: Why Product Memes Are More Im

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-tim-ferriss-why-i-walked-away-fro
 name: "20VC: Tim Ferriss: Why I Walked Away Fro"
 source: 20vc
@@ -23,6 +24,7 @@ key_views: ["# 20VC: Tim Ferriss: Why I Walked Away From Angel Investing After U
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-tim-ferriss-why-i-walked-away-from-angel-investing-after-uber-how-i-accidentally-lost-150-million-money-fixed-my-problemsthen-made-me-miserable)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Tim Ferriss: Why I Walked Away Fro

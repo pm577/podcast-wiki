@@ -1,4 +1,5 @@
 ---
+
 title: Greg Bettinelli
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, consumer, founder-psychology, person, product-strategy, venture-ca
 sources:
   - raw/transcripts/20vc/20vc-2016-08-22-20vc-upfront-ventures-greg-b.md
 confidence: medium
+subtype: person
 ---
 
 

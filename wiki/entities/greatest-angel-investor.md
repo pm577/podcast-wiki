@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: greatest-angel-investor
 name: Greatest Angel Investor
 source: 20vc

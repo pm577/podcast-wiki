@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-fundraising-is-like-dating
 name: Why Fundraising Is Like Dating
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-07-13
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Rachel Blumenthal is the Founder & CEO @ Rockets of Awesome, the startup that is reinventing the way parents shop for their kids clothes."]
+subtype: article
 ---
 
 # Why Fundraising Is Like Dating

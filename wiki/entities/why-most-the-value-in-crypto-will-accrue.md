@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-most-the-value-in-crypto-will-accrue
 name: Why Most The Value In Crypto Will Accrue
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-07-02
 tags: ["ai-ml", "fintech", "venture-capital"]
 related_concepts: []
 key_views: ["Joel Monegro is Founding Partner @ Placeholder."]
+subtype: article
 ---
 
 # Why Most The Value In Crypto Will Accrue

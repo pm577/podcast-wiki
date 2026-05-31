@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-nvidia-will
 name: Why Nvidia Will
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-09-25
 tags: ["ai-ml", "deeptech-hardware", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Eric Vishria is a General Partner @ Benchmark Capital, one of the world's leading venture firms."]
+subtype: article
 ---
 
 # Why Nvidia Will

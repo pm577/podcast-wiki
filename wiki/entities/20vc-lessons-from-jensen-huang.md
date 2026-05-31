@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-lessons-from-jensen-huang
 name: "20VC: Lessons from Jensen Huang"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Lessons from Jensen Huang on "Founder Mode" | How to Know i
 ## Summary
 
 Shiv Rao is the CEO and Co-Founder of Abridge, a leader in generative AI for healthcare."]
+subtype: article
 ---
 
 # 20VC: Lessons from Jensen Huang

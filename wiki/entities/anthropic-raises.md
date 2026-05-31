@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: anthropic-raises
 name: Anthropic Raises
 source: 20vc

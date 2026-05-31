@@ -1,4 +1,5 @@
 ---
+
 title: Judd Antin
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, ux-research, user-research, airbnb, meta, research-reckoning, pro
 sources:
   - raw/transcripts/lenny/judd-antin.md
 confidence: high
+subtype: person
 ---
 
 # Judd Antin

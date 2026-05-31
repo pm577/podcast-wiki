@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-exclusive-keith-rabois
 name: "20VC Exclusive: Keith Rabois"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC Exclusive: Keith Rabois on Rejoining Khosla Ventures
 ## Summary
 
  Keith Rabois is a Managing Director @ Khosla Ventures and one of the most respected venture investors of the last decade."]
+subtype: article
 ---
 
 # 20VC Exclusive: Keith Rabois

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-memo-the-23bn-company-you-mi
 name: "20VC: The Memo: The $23BN Company You Mi"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Memo: The $23BN Company You Might Not Have Heard Of: Tr
 ## Summary
 
  Billy Hult is Chief Executive Officer of Tradeweb Markets (Nasdaq: TW), as Billy puts it, they are the "electronic interface that connects Citadel and Goldman"."]
+subtype: article
 ---
 
 # 20VC: The Memo: The $23BN Company You Mi

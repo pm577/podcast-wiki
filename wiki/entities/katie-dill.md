@@ -1,4 +1,5 @@
 ---
+
 title: Katie Dill
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,7 +9,7 @@ sources:
   - raw/transcripts/lenny/katie-dill.md
 confidence: high
 key_finding: Beauty Enhances Functionality
-
+subtype: person
 ---
 
 # Katie Dill

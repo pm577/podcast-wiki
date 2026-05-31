@@ -1,4 +1,5 @@
 ---
+
 title: Chamath Palihapitiya
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [consumer, founder-psychology, go-to-market, marketplaces, person, venture
 sources:
   - raw/transcripts/20vc/20vc-2020-07-13-20vc-chamath-palihapitiya-on.md
 confidence: medium
+subtype: person
 ---
 
 

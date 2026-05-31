@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: true-ventures-founder
 name: True Ventures Founder
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-benchmark-vs-a16z-why-stage-speci
 name: "20VC: Benchmark vs a16z: Why Stage Speci"
 source: 20vc
@@ -23,6 +24,7 @@ Today's Topics: 04:44 Analysis of $3 Billion Windsurf Acquisition 12:39 Will Meg
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-benchmark-vs-a16z-why-stage-specific-firms-win-windsurf-sells-for-3bn-decagon-raises-at-100x-arr-do-mega-funds-win-the-future-of-vc-what-does-harvards-losing-their-for-profit-status-mean-for-vc)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Benchmark vs a16z: Why Stage Speci

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: effective-decision
 name: Effective Decision
 source: 20vc

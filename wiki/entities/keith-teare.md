@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: keith-teare
 name: Keith Teare
 source: 20vc

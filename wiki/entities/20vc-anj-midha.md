@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anj-midha
 name: "20VC: Anj Midha"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Anj Midha on Investing $300M into Anthropic | The Early Day
 ## Summary
 
 Anj Midha is the founder of AMP, and a founding investor in Anthropic."]
+subtype: article
 ---
 
 # 20VC: Anj Midha

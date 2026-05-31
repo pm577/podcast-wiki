@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-data-size-matters-more-than-model-size
 name: Why Data Size Matters More Than Model Size
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-06-30
 tags: ["ai-ml", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Douwe Kiela is the CEO of Contextual AI, building the contextual language model to power the future of businesses."]
+subtype: article
 ---
 
 # Why Data Size Matters More Than Model Size

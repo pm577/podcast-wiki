@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-biggest-growth-lessons
 name: "20Growth: Biggest Growth Lessons"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: Biggest Growth Lessons from Instacart and Opendoor, Why
 ## Summary
 
  Sri Batchu currently leads Growth at Ramp."]
+subtype: article
 ---
 
 # 20Growth: Biggest Growth Lessons

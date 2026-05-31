@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-truth-about-valuation-that-very-few
 name: The Truth About Valuation That Very Few
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-10-18
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Roy Bahat is the Head of Bloomberg Beta, one of the leading early-stage funds in the valley and NYC with a portfolio that includes the likes of Flexport, Kobalt, Textio, Rigetti Computing and more inc"]
+subtype: article
 ---
 
 # The Truth About Valuation That Very Few

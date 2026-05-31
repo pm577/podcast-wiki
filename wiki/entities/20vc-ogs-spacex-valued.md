@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-ogs-spacex-valued
 name: "20VC OGs: SpaceX Valued"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 03:46 SpaceX's $800 Billion Valuation: A Deep Dive 09:18 IPO Market Pred
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-ogs-spacex-valued-at-800bn-harvey-raises-160m-at-an-8bn-price-airwallex-raises-330m-and-the-battle-with-keith-rabois-netflix-acquires-warner-brothers-ipo-market-predictions-for-2026-anthropic-stripe-databricks-and-spacex)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC OGs: SpaceX Valued

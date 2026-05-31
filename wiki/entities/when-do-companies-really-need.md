@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: when-do-companies-really-need
 name: When Do Companies Really Need
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-08-02
 tags: ["ai-ml", "enterprise-saas", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Max Gazor is a General Partner @ CRV, one of the nation's oldest and most successful VC firms now on their 16th fund and with a prior portfolio consisting of the likes of Twitter, Yammer, Zendesk and "]
+subtype: article
 ---
 
 # When Do Companies Really Need

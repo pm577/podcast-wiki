@@ -1,4 +1,5 @@
 ---
+
 title: Melanie Perkins
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/melanie-perkins.md
 confidence: high
 key_finding: Crazy Big Goals make you feel inadequate — that's the point
+subtype: person
 ---
 
 # Melanie Perkins
@@ -42,3 +44,15 @@ Melanie Perkins is CEO and co-founder of Canva, currently valued at over $42 bil
 ## Episodes
 
 - **20VC: Start Niche, Move Broader & Become Profitable Quickly with Melanie Perkins, Founder & CEO @ Ca** (2016-06-10)
+
+---
+
+*Merged from [[melanie]]:*
+
+# Melanie
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/melanie-perkins|She turned 100+ rejections into a $42B company | Melanie Perkins]] — *to be summarized*

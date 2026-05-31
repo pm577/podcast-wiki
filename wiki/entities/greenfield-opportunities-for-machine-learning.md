@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: greenfield-opportunities-for-machine-learning
 name: Greenfield Opportunities For Machine Learning
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: when-to-hire-your-head
 name: When To Hire Your Head
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2021-12-08
 tags: ["go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Kyle Parrish is VP Sales @ Figma, the company that connects everyone in the design process so teams can deliver better products, faster."]
+subtype: article
 ---
 
 # When To Hire Your Head

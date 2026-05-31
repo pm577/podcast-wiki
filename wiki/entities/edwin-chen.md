@@ -36,3 +36,15 @@ confidence: medium
 - [[bootstrapped]]
 - [[surge-ai]]
 - [[founder]]
+
+---
+
+*Merged from [[edwin]]:*
+
+# Edwin
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/edwin-chen|The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen]] — *to be summarized*

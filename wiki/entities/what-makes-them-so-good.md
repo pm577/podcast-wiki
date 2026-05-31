@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: what-makes-them-so-good
 name: What Makes Them So Good
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-04-17
 tags: ["ai-ml", "founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Jason Lemkin is one of the leading SaaS investors of the last decade with a portfolio including the likes of Algolia, Talkdesk, Owner, RevenueCat, Saleloft and more."]
+subtype: article
 ---
 
 # What Makes Them So Good

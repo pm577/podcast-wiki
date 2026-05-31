@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: orange-growth-capital
 name: Orange Growth Capital
 source: 20vc

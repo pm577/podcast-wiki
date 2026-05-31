@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: top-three-lessons
 name: Top Three Lessons
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-07-17
 tags: ["ai-ml", "deeptech-hardware", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Dave Clark is the CEO of Flexport, the global freight forwarder and logistics platform that has now raised over $2."]
+subtype: article
 ---
 
 # Top Three Lessons

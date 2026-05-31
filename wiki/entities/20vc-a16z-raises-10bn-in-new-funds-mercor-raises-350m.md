@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-a16z-raises-10bn-in-new-funds-mercor-raises-350m
 name: "20VC: a16z Raises $10BN in New Funds | Mercor Raises $350M"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 05:17 OpenAI's Restructuring: Winners and Losers 17:17 Andreessen Horowi
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-a16z-raises-10bn-in-new-funds-mercor-raises-350m-at-a-10bn-valuation-openai-restructuring-who-wins-and-who-loses-why-irr-is-a-bs-metric-and-three-ways-to-win-in-vc-today)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: a16z Raises $10BN in New Funds | Mercor Raises $350M

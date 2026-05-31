@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: board-with-bill-gates
 name: Board With Bill Gates
 source: 20vc

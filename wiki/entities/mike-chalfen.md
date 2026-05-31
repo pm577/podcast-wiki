@@ -1,4 +1,5 @@
 ---
+
 title: Mike Chalfen
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, product-strategy]
 sources:
   - raw/transcripts/20vc/20vc-2022-07-08-20vc-how-to-build-anti-fragil.md
 confidence: medium
+subtype: person
 ---
 
 

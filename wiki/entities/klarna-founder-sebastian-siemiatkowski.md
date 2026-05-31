@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: klarna-founder-sebastian-siemiatkowski
 name: Klarna Founder Sebastian Siemiatkowski
 source: 20vc

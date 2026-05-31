@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-every
 name: Why Every
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-11-13
 tags: ["ai-ml", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Markus Villig is the Founder and CEO of Bolt, a global mobility platform with more than 200 million lifetime customers in more than 50 countries and 600 cities."]
+subtype: article
 ---
 
 # Why Every

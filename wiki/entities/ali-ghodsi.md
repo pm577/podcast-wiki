@@ -1,4 +1,5 @@
 ---
+
 title: Ali Ghodsi
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, go-to-market, hiring-culture, marketplaces, person, v
 sources:
   - raw/transcripts/20vc/20vc-2021-01-14-20vc-databricks-ceo-ali-ghod.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-stage-specific-firms-win
 name: Why Stage Specific Firms Win
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-05-07
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Today's Topics: 04:44 Analysis of $3 Billion Windsurf Acquisition 12:39 Will Mega Funds Win the Future of Venture Capital 18:39 Does Every Fund Have to do Pre-Seed to Win Series A and B Today 27:53 Wh"]
+subtype: article
 ---
 
 # Why Stage Specific Firms Win

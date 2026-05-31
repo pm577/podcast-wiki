@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-loom-cpo-janie-lee
 name: "20Product: Loom CPO Janie Lee"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Loom CPO Janie Lee on Three Core Skills that Make the 
 ## Summary
 
  Janie Lee is the Head of Product and the owner of the Self-Serve business at Loom."]
+subtype: article
 ---
 
 # 20Product: Loom CPO Janie Lee

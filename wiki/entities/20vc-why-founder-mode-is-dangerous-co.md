@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-founder-mode-is-dangerous-co
 name: "20VC: Why Founder Mode is Dangerous & Co"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Founder Mode is Dangerous & Could Encourage Bad Behavio
 ## Summary
 
 Zach Perret is the CEO and Co-Founder of Plaid, a technology platform reshaping financial services."]
+subtype: article
 ---
 
 # 20VC: Why Founder Mode is Dangerous & Co

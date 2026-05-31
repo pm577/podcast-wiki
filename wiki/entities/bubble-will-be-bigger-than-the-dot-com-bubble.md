@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bubble-will-be-bigger-than-the-dot-com-bubble
 name: Bubble Will Be Bigger Than The Dot Com Bubble
 source: 20vc

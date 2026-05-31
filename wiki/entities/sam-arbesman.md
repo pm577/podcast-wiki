@@ -1,4 +1,5 @@
 ---
+
 title: Sam Arbesman
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, biotech-health]
 sources:
   - raw/transcripts/20vc/20vc-2017-10-18-20vc-lux-capitals-scientist-.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: is-compute
 name: Is Compute
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-08-19
 tags: ["ai-ml", "founder-psychology", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Aidan Gomez is the Co-founder & CEO at Cohere, the leading AI platform for enterprise, having raised over $1BN from some of the best with their last round pricing the company at a whopping $5."]
+subtype: article
 ---
 
 # Is Compute

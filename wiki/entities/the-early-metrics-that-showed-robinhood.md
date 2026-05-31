@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-early-metrics-that-showed-robinhood
 name: The Early Metrics That Showed Robinhood
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-01-28
 tags: ["ai-ml", "consumer", "enterprise-saas", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Scott Sandell is the Managing General Partner of NEA, one of the leading firms of the last 3 decades with now close to $24Bn under management and a portfolio including Salesforce, Robinhood, Plaid, Da"]
+subtype: article
 ---
 
 # The Early Metrics That Showed Robinhood

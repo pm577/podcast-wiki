@@ -1,4 +1,5 @@
 ---
+
 title: Benjamin Lauzier
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/benjamin-lauzier.md
 confidence: medium
 key_finding: Marketplaces Win Through Managed Quality and Market Forces
+subtype: person
 ---
 
 # Benjamin Lauzier

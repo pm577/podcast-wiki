@@ -1,4 +1,5 @@
 ---
+
 title: Maha Ibrahim
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2015-04-27-20-vc-031-investing-in-gaming.md
 confidence: medium
+subtype: person
 ---
 
 

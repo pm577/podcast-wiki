@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: scale-founder-alex-wang
 name: Scale Founder Alex Wang
 source: 20vc

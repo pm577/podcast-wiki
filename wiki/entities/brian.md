@@ -1,4 +1,5 @@
 ---
+
 title: Brian Tolkin
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, uber, opendoor, scaling, operations, marketpl
 sources:
   - raw/transcripts/lenny/brian-tolkin.md
 confidence: high
+subtype: person
 ---
 
 # Brian Tolkin

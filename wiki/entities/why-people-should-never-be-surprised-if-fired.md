@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-people-should-never-be-surprised-if-fired
 name: Why People Should Never Be Surprised If Fired
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-07-29
 tags: ["enterprise-saas", "founder-psychology", "hiring-culture", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Amir Elaguizy is the Founder & CEO @ YC backed, Cratejoy, the website builder and backend for subscription e-commerce stores."]
+subtype: article
 ---
 
 # Why People Should Never Be Surprised If Fired

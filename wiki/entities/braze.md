@@ -1,4 +1,5 @@
 ---
+
 title: Braze
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, hiring-culture, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2022-08-29-20vc-is-now-really-the-best-t.md
 confidence: medium
+subtype: person
 ---
 
 

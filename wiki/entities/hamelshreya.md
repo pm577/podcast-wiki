@@ -1,4 +1,5 @@
 ---
+
 title: Hamel Husain + Shreya Shankar
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/hamelshreya.md
 confidence: medium
 key_finding: Evals Are the Highest ROI Activity for AI Product Builders
+subtype: person
 ---
 
 # Hamel Husain + Shreya Shankar

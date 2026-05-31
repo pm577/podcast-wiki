@@ -1,4 +1,5 @@
 ---
+
 title: Jeff Jordan
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, biotech-health, go-to-market, marketplaces, person, venture-capita
 sources:
   - raw/transcripts/20vc/20vc-2023-01-16-20vc-a16zs-jeff-jordan-on-th.md
 confidence: medium
+subtype: person
 ---
 
 

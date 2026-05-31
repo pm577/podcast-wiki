@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-the-peace-dividends-from-the-autonomous-car
 name: Why The Peace Dividends From The Autonomous Car
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-11-05
 tags: ["ai-ml", "deeptech-hardware", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Avidan Ross is the Founding Partner @ Root Ventures, one of Silicon Valley's most exciting newer generation of funds dedicated to backing bold engineers at seed."]
+subtype: article
 ---
 
 # Why The Peace Dividends From The Autonomous Car

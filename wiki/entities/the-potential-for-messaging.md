@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-potential-for-messaging
 name: The Potential For Messaging
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-03-18
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy"]
 related_concepts: []
 key_views: ["Puneet Mehta, Founder @ Msg.ai, an artificial intelligence startup for conversational commerce and for an AI founder you don’t get much better than starting your career at IBM's TJ Watson Center, whic"]
+subtype: article
 ---
 
 # The Potential For Messaging

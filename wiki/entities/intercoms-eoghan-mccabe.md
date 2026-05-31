@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: intercoms-eoghan-mccabe
 name: Intercom's Eoghan McCabe
 source: 20vc

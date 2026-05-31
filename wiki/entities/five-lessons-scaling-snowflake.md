@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: five-lessons-scaling-snowflake
 name: Five Lessons Scaling Snowflake
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-11-10
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "go-to-market", "product-strategy"]
 related_concepts: []
 key_views: ["Chris Degnan serves as Snowflake's Chief Revenue Officer and has been with the company since 2013."]
+subtype: article
 ---
 
 # Five Lessons Scaling Snowflake

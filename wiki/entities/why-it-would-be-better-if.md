@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-it-would-be-better-if
 name: Why It Would Be Better If
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-03-20
 tags: ["ai-ml", "fintech", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Misha Esipov is the Founder & CEO @ Nova Credit, the startup that allows you to use your international credit history to apply for credit cards, apartment rentals, loans and more."]
+subtype: article
 ---
 
 # Why It Would Be Better If

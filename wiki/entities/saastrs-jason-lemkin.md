@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: saastrs-jason-lemkin
 name: SaaStr's Jason Lemkin
 source: 20vc

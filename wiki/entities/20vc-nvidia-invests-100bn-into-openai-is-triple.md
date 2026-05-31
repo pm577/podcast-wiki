@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-nvidia-invests-100bn-into-openai-is-triple
 name: "20VC: NVIDIA Invests $100BN Into OpenAI | Is Triple"
 source: 20vc
@@ -23,6 +24,7 @@ AGENDA: 00:00 Why I am 100% Equities and 0% Cash 04:35 Nvidia's Massive $100BN I
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-nvidia-invests-100bn-into-openai-is-triple-triple-double-double-dead-navan-files-to-go-public-notion-hits-500m-arr-the-impact-of-h1b-visas-on-startups-in-the-us)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: NVIDIA Invests $100BN Into OpenAI | Is Triple

@@ -1,4 +1,5 @@
 ---
+
 title: Jay Simons
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, go-to-market, product-strategy, enterprise-saas]
 sources:
   - raw/transcripts/20vc/20vc-2021-06-10-20vc-why-and-how-the-best-com.md
 confidence: medium
+subtype: person
 ---
 
 

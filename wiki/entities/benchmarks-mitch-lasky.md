@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: benchmarks-mitch-lasky
 name: Benchmark's Mitch Lasky
 source: 20vc

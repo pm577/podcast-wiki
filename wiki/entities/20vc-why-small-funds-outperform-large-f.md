@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-small-funds-outperform-large-f
 name: "20VC: Why Small Funds Outperform Large F"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Small Funds Outperform Large Funds & AUM is a Vanity Me
 ## Summary
 
  Nikhil Basu Trivedi is Co-Founder & General Partner at Footwork, an early-stage focused venture firm investing its first fund."]
+subtype: article
 ---
 
 # 20VC: Why Small Funds Outperform Large F

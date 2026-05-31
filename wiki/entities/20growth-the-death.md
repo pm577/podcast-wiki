@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20growth-the-death
 name: "20Growth: The Death"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Growth: The Death of Growth Teams? | How Hubspot Use AI to Trip
 ## Summary
 
 Kieran Flanagan is the CMO at HubSpot, where he's led the transformation of their growth strategy from SEO-led to multi-channel and AI-powered."]
+subtype: article
 ---
 
 # 20Growth: The Death

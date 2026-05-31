@@ -1,4 +1,5 @@
 ---
+
 title: Rob Salvagno
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, hiring-culture, marketplaces]
 sources:
   - raw/transcripts/20vc/20vc-2019-12-30-20vc-inside-the-acquisition-d.md
 confidence: medium
+subtype: person
 ---
 
 

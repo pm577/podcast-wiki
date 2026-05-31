@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: wealth-inequality
 name: Wealth Inequality
 source: 20vc

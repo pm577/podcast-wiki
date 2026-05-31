@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: models-truly-defensi
 name: Models Truly Defensi
 source: 20vc

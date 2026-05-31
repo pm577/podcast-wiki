@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cb-insights-anand-sanwal
 name: CB Insights' Anand Sanwal
 source: 20vc

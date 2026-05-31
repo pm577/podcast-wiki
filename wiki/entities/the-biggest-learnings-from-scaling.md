@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-biggest-learnings-from-scaling
 name: The Biggest Learnings From Scaling
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2019-06-10
 tags: ["ai-ml", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Scott Kupor is Managing Partner @ Andreessen Horowitz, one of the world's most renowned venture funds with a portfolio including the likes of Facebook, Airbnb, Github, Lyft, Coinbase, Slack and many m"]
+subtype: article
 ---
 
 # The Biggest Learnings From Scaling

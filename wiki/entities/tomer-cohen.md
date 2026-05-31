@@ -1,4 +1,5 @@
 ---
+
 title: Tomer Cohen
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, linkedin, ai, full-stack-builder, product-lea
 sources:
   - raw/transcripts/lenny/tomer-cohen.md
 confidence: high
+subtype: person
 ---
 
 # Tomer Cohen

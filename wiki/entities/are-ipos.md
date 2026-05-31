@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: are-ipos
 name: Are IPOs
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-05-22
 tags: ["ai-ml", "venture-capital"]
 related_concepts: []
 key_views: ["Agenda: 04:34 Chime's IPO Announcement: Who Wins & Who Loses 06:28 The Lopphole That Means Chime Has a Better Business than JP Morgan 10:51 Why Investors Who Invested at $25BN Will Make Money When it "]
+subtype: article
 ---
 
 # Are IPOs

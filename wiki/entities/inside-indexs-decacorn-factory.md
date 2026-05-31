@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: inside-indexs-decacorn-factory
 name: Inside Index's Decacorn Factory
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-08-11
 tags: ["hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Martin Mignot is a Partner at Index Ventures, the best-performing fund in the world right now."]
+subtype: article
 ---
 
 # Inside Index's Decacorn Factory

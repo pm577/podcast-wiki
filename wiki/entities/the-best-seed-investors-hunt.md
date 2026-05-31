@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-best-seed-investors-hunt
 name: The Best Seed Investors Hunt
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-03-30
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Paige Craig is a Founder and General Partner of Arena Ventures."]
+subtype: article
 ---
 
 # The Best Seed Investors Hunt

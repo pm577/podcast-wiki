@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: insight-managing-director
 name: Insight Managing Director
 source: 20vc

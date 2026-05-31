@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-biggest-mistakes-founders-make
 name: The Biggest Mistakes Founders Make
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-08-21
 tags: ["ai-ml", "enterprise-saas", "fintech", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Daniel Yanisse is the co-founder and CEO of Checkr, a leading HR technology company, currently valued at $5 billion.", "Aman Narang is the Co-Founder and CEO of Toast, one of the best-in-class vertical SaaS companies of our time with a market cap today of $13."]
+subtype: article
 ---
 
 # The Biggest Mistakes Founders Make

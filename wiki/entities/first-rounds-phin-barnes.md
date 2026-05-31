@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: first-rounds-phin-barnes
 name: First Round's Phin Barnes
 source: 20vc

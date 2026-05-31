@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: lightspeeds-nicole-quinn
 name: Lightspeed's Nicole Quinn
 source: 20vc

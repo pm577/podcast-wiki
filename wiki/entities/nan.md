@@ -1,4 +1,5 @@
 ---
+
 title: Nan Yu
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/nan-yu.md
 confidence: high
 key_finding: Speed and quality are not a trade-off — they go together
+subtype: person
 ---
 
 # Nan Yu

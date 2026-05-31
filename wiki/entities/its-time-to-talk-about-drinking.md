@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: its-time-to-talk-about-drinking
 name: It's Time To Talk About Drinking
 source: 20vc

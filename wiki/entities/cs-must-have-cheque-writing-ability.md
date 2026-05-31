@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-must-have-cheque-writing-ability
 name: Cs Must Have Cheque Writing Ability
 source: 20vc

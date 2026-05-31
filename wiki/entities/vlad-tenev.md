@@ -1,4 +1,5 @@
 ---
+
 title: Vlad Tenev
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/20vc/20vc-2024-11-01-20vc-robinhoods-vlad-tenev-o.md
   - raw/transcripts/20vc/20vc-2025-07-14-20vc-vlad-tenev-on-robinhood.md
 confidence: medium
+subtype: person
 ---
 
 # Vlad Tenev

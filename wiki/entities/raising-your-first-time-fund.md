@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: raising-your-first-time-fund
 name: Raising Your First Time Fund
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2022-06-24
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Henri Pierre-Jacques is Managing Partner of Harlem Capital, on a mission to change the face of entrepreneurship by investing in 1,000 diverse founders over the next 20 years."]
+subtype: article
 ---
 
 # Raising Your First Time Fund

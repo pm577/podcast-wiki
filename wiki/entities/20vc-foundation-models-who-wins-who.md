@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-foundation-models-who-wins-who
 name: "20VC: Foundation Models: Who Wins & Who"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Foundation Models: Who Wins & Who Loses | How Economies and
 ## Summary
 
 Rich Socher is the Founder and CEO of You.com."]
+subtype: article
 ---
 
 # 20VC: Foundation Models: Who Wins & Who

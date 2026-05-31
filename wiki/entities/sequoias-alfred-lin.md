@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: sequoias-alfred-lin
 name: Sequoia's Alfred Lin
 source: 20vc

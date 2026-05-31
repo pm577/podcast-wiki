@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-ramps-product-playbook-how-to-hire-product-teams
 name: "20VC: Ramp's Product Playbook: How To Hire Product Teams"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Ramp's Product Playbook: How To Hire Product Teams, How to 
 ## Summary
 
  Geoff Charles is the VP of Product at Ramp, leading the product management, operations, and support teams."]
+subtype: article
 ---
 
 # 20VC: Ramp's Product Playbook: How To Hire Product Teams

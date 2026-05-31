@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: fede-pirzio-biroli
 name: Fede Pirzio-Biroli
 source: 20vc

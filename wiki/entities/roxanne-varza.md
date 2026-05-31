@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: roxanne-varza
 name: Roxanne Varza
 source: 20vc

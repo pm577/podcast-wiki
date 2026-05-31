@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-proprietary-data-pools
 name: Why Proprietary Data Pools
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-01-16
 tags: ["ai-ml", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Tim Chang is a Managing Director @ Mayfield Fund and Tim was referred to me by many other VCs as 'the fittest man in silicon Valley', notable tech publications even write it."]
+subtype: article
 ---
 
 # Why Proprietary Data Pools

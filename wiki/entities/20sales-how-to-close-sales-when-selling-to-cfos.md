@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-how-to-close-sales-when-selling-to-cfos
 name: "20Sales: How to Close Sales When Selling to CFOs"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: How to Close Sales When Selling to CFOs, How to Guarante
 ## Summary
 
  Steve Goldberg is the Chief Revenue Officer at Salesloft, the sales engagement platform that was acquired by Vista in 2022 for $2.3BN."]
+subtype: article
 ---
 
 # 20Sales: How to Close Sales When Selling to CFOs

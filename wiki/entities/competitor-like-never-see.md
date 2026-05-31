@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: competitor-like-never-see
 name: Competitor Like Never See
 source: 20vc

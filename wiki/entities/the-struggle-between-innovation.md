@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-struggle-between-innovation
 name: The Struggle Between Innovation
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-11-13
 tags: ["consumer", "fintech", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Alex Rampell is a General Partner at Andreessen Horowitz where he leads the firms fintech investments and serves on the boards of Branch, PeerStreet, Point, and Quantopian."]
+subtype: article
 ---
 
 # The Struggle Between Innovation

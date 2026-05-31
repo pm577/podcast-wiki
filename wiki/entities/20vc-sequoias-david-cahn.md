@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-sequoias-david-cahn
 name: "20VC: Sequoia's David Cahn"
 source: 20vc
@@ -25,6 +26,7 @@ key_views: ["# 20VC: Sequoia's David Cahn on AI's $600BN Question | Why the Data
 ## Summary
 
 David Cahn is a Partner at Sequoia Capital and one of the world's leading AI investors."]
+subtype: article
 ---
 
 # 20VC: Sequoia's David Cahn

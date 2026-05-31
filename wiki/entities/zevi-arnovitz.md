@@ -1,4 +1,5 @@
 ---
+
 title: Zevi Arnovitz
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, meta, pm, ai-tools, cursor, vibe-coding, non-technical-builders]
 sources:
   - raw/transcripts/lenny/lenny-2026-01-18-zevi-arnovitz.md
 confidence: high
+subtype: person
 ---
 
 # Zevi Arnovitz

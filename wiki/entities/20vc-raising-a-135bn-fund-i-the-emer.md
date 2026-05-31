@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-raising-a-135bn-fund-i-the-emer
 name: "20VC: Raising A $1.35Bn Fund I, The Emer"
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-04-06
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Ravi Viswanathan is the Founder and Managing Partner @ NewView Capital, launched in 2018 with their $1."]
+subtype: article
 ---
 
 # 20VC: Raising A $1.35Bn Fund I, The Emer

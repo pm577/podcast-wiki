@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: dorm-room-to-public-company
 name: Dorm Room To Public Company
 source: 20vc

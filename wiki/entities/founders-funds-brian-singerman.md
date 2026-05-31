@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: founders-funds-brian-singerman
 name: Founders Fund's Brian Singerman
 source: 20vc

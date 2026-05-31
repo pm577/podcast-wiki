@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: financing-mechanism-for-consumer-brands-is-broken
 name: Financing Mechanism For Consumer Brands Is Broken
 source: 20vc

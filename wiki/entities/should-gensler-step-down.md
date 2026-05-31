@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: should-gensler-step-down
 name: Should Gensler Step Down
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-01-26
 tags: ["ai-ml", "fintech", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Dave Ripley is the CEO @ Kraken, one of the world's largest cryptocurrency exchanges, valued in 2022 at a whopping $10."]
+subtype: article
 ---
 
 # Should Gensler Step Down

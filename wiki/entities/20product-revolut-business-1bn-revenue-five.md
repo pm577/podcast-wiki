@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-revolut-business-1bn-revenue-five
 name: "20Product: Revolut Business $1BN Revenue: Five"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Revolut Business $1BN Revenue: Five of the Biggest Pro
 ## Summary
 
 James Gibson is Head of Revolut Business."]
+subtype: article
 ---
 
 # 20Product: Revolut Business $1BN Revenue: Five

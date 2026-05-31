@@ -1,4 +1,5 @@
 ---
+
 title: Your First Customers
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, go-to-market, enterprise-saas]
 sources:
   - raw/transcripts/20vc/20vc-2023-04-19-20sales-why-you-should-never.md
 confidence: medium
+subtype: person
 ---
 
 

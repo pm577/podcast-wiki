@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-you-should-never-hire
 name: Why You Should Never Hire
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-04-19
 tags: ["enterprise-saas", "go-to-market"]
 related_concepts: []
 key_views: ["Mark Goldberger is Head of Enterprise Sales at Ramp, the fastest-growing corporate card and bill payment software in America, and recently named Most Innovative Company in North America by Fast Compan"]
+subtype: article
 ---
 
 # Why You Should Never Hire

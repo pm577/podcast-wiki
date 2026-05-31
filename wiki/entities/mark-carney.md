@@ -1,4 +1,5 @@
 ---
+
 title: Mark Carney
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, fintech, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2023-05-01-20vc-first-republic-manageme.md
 confidence: medium
+subtype: person
 ---
 
 

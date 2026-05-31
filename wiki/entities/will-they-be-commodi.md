@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: will-they-be-commodi
 name: Will They Be Commodi
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-04-15
 tags: ["ai-ml", "go-to-market", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Sam Altman is the CEO @ OpenAI, the company on a mission is to ensure that artificial general intelligence benefits all of humanity."]
+subtype: article
 ---
 
 # Will They Be Commodi

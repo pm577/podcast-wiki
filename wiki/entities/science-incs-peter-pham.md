@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: science-incs-peter-pham
 name: Science Inc's Peter Pham
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: To Drop Bs
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, hiring-culture, person, product-strategy, vent
 sources:
   - raw/transcripts/20vc/20vc-2019-10-04-20vc-how-to-drop-the-bs-and-r.md
 confidence: medium
+subtype: person
 ---
 
 

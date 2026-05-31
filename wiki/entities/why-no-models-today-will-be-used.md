@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-no-models-today-will-be-used
 name: Why No Models Today Will Be Used
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-06-19
 tags: ["ai-ml", "founder-psychology", "marketplaces", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Alex Lebrun is the Co-Founder and CEO of Nabla, an AI assistant for doctors."]
+subtype: article
 ---
 
 # Why No Models Today Will Be Used

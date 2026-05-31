@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: investing-lessons-from-rounds-in-peloton
 name: Investing Lessons From Rounds In Peloton
 source: 20vc

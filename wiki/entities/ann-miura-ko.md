@@ -1,4 +1,5 @@
 ---
+
 title: Ann Miura Ko
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2021-08-12-20vc-the-lyft-memo-floodgate.md
 confidence: medium
+subtype: person
 ---
 
 

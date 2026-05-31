@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-too-many-people-give-up-too-quickly
 name: Why Too Many People Give Up Too Quickly
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2018-10-19
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "hiring-culture", "venture-capital"]
 related_concepts: []
 key_views: ["Dennis Mortensen is the Founder & CEO @ X."]
+subtype: article
 ---
 
 # Why Too Many People Give Up Too Quickly

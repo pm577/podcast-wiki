@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-most-untold-success-story
 name: The Most Untold Success Story
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-03-15
 tags: ["ai-ml", "founder-psychology", "go-to-market", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Luca Ferrari is Co-Founder and CEO of Bending Spoons, one of the most incredible but untold success stories in startups."]
+subtype: article
 ---
 
 # The Most Untold Success Story

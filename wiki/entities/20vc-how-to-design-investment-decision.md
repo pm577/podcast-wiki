@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-how-to-design-investment-decision
 name: "20VC: How To Design Investment Decision"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: How To Design Investment Decision Making That Allows For Ou
 ## Summary
 
 David Beisel is a co-founder and Partner at NextView Ventures, one of the East Coast's leading early stage funds with their recent $50m seed fund being announced just this month."]
+subtype: article
 ---
 
 # 20VC: How To Design Investment Decision

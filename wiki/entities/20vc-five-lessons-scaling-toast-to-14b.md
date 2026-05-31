@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-five-lessons-scaling-toast-to-14b
 name: "20VC: Five Lessons Scaling Toast to $14B"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Five Lessons Scaling Toast to $14BN Market Cap | The Bigges
 ## Summary
 
 Aman Narang is the Co-Founder and CEO of Toast, one of the best-in-class vertical SaaS companies of our time with a market cap today of $13.5BN."]
+subtype: article
 ---
 
 # 20VC: Five Lessons Scaling Toast to $14B

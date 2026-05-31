@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-top-five-product-lessons
 name: "20Product: Top Five Product Lessons"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: Top Five Product Lessons from Creating Snapchat "Disco
 ## Summary
 
  Will Wu is the CTO @ Match Group, the owner and operator of the largest global portfolio of popular online dating services including Tinder, Match.com, OkCupid, and Hinge to name a few."]
+subtype: article
 ---
 
 # 20Product: Top Five Product Lessons

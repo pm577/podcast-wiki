@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: mike-mignano-joins-lightspeed
 name: Mike Mignano Joins Lightspeed
 source: 20vc

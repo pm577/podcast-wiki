@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: is-the-perfect-preparation-for-founding
 name: Is The Perfect Preparation For Founding
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-05-06
 tags: ["consumer", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Chris Morton the Founder & CEO @ Lyst, the fashion aggregation and discovery app and universal checkout cart that has pulled in more than $60m in funding from the likes of Balderton, Accel and DFJ."]
+subtype: article
 ---
 
 # Is The Perfect Preparation For Founding

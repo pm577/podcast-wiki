@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-boards-are-inherently-inefficient
 name: Why Boards Are Inherently Inefficient
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-11-30
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Chris Farmer is a General Partner @ SignalFire, as he describes, 'the most quantitative fund in the world."]
+subtype: article
 ---
 
 # Why Boards Are Inherently Inefficient

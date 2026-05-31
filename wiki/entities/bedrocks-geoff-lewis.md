@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: bedrocks-geoff-lewis
 name: Bedrock's Geoff Lewis
 source: 20vc

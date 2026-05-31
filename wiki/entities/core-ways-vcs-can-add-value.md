@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: core-ways-vcs-can-add-value
 name: Core Ways VCs Can Add Value
 source: 20vc

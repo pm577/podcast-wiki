@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-must-approach-every-conversation
 name: Cs Must Approach Every Conversation
 source: 20vc

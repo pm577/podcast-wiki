@@ -1,4 +1,5 @@
 ---
+
 title: Tamar Yehoshua
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-leadership, ai, google, slack, glean]
 sources:
   - raw/transcripts/lenny/tamar-yehoshua.md
 confidence: high
+subtype: person
 ---
 
 # Tamar Yehoshua

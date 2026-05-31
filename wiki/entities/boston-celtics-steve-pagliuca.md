@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: boston-celtics-steve-pagliuca
 name: Boston Celtics' Steve Pagliuca
 source: 20vc

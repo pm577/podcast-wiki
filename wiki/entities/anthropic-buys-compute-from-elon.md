@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: anthropic-buys-compute-from-elon
 name: Anthropic Buys Compute From Elon
 source: 20vc

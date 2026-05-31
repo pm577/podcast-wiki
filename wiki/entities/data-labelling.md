@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: data-labelling
 name: Data Labelling
 source: 20vc

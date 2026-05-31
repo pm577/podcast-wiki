@@ -1,4 +1,5 @@
 ---
+
 title: Bill Cilluf
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, fintech]
 sources:
   - raw/transcripts/20vc/20vc-2022-04-22-20vc-how-todays-market-chang.md
 confidence: medium
+subtype: person
 ---
 
 

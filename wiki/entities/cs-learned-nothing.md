@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: cs-learned-nothing
 name: Cs Learned Nothing
 source: 20vc

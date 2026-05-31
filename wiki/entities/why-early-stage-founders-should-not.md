@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-early-stage-founders-should-not
 name: Why Early Stage Founders Should Not
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-11-03
 tags: ["biotech-health", "founder-psychology", "hiring-culture", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["Jack Altman is the Founder and CEO @ Lattice, the #1 people management platform, last valued at $3BN."]
+subtype: article
 ---
 
 # Why Early Stage Founders Should Not

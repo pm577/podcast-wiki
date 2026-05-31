@@ -1,4 +1,5 @@
 ---
+
 title: Boris Cherny
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, ai, anthropic, claude-code, coding-agents, software-engineering, 
 sources:
   - raw/transcripts/lenny/lenny-2026-02-19-boris-cherny.md
 confidence: high
+subtype: person
 ---
 
 # Boris Cherny

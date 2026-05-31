@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-from-41bn-to-142m-market-cap-w
 name: "20VC: From $4.1BN to $142M Market Cap; W"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: From $4.1BN to $142M Market Cap; Why Public Markets Have Wr
 ## Summary
 
  Joey Zwillinger is the Co-Founder & CEO @ Allbirds, the company behind the world's most comfortable shoe."]
+subtype: article
 ---
 
 # 20VC: From $4.1BN to $142M Market Cap; W

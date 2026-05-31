@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: where-value-accrues
 name: Where Value Accrues
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-07-28
 tags: ["ai-ml", "enterprise-saas", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Martin Casado is a General Partner @ a16z where he leads the firms $1."]
+subtype: article
 ---
 
 # Where Value Accrues

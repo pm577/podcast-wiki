@@ -1,4 +1,5 @@
 ---
+
 title: Chris Dixon
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, fintech, founder-psychology, person, product-strategy, venture-cap
 sources:
   - raw/transcripts/20vc/20vc-2024-03-27-20vc-a16zs-chris-dixon-on-wh.md
 confidence: medium
+subtype: person
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: everything-you-know-about-sales-playbooks
 name: Everything You Know About Sales Playbooks
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Ian McAllister
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/ian-mcallister.md
 confidence: high
 key_finding: Communicate, prioritize, execute — the core PM trinity
+subtype: person
 ---
 
 # Ian McAllister

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ps-can-add-strategic-value-to-portfolio-companies
 name: Ps Can Add Strategic Value To Portfolio Companies
 source: 20vc

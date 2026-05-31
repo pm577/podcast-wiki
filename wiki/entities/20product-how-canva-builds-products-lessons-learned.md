@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20product-how-canva-builds-products-lessons-learned
 name: "20Product: How Canva Builds Products: Lessons Learned"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Product: How Canva Builds Products: Lessons Learned, What Works
 ## Summary
 
  Cameron Adams is Chief Product Officer and co-founder of Canva where he is responsible for heading up the design and product teams."]
+subtype: article
 ---
 
 # 20Product: How Canva Builds Products: Lessons Learned

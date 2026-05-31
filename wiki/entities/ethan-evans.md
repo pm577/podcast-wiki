@@ -1,4 +1,5 @@
 ---
+
 title: Ethan Evans
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/ethan-evans.md
   - raw/transcripts/lenny/ethan-evans-20.md
 confidence: high
+subtype: person
 ---
 
 # Ethan Evans

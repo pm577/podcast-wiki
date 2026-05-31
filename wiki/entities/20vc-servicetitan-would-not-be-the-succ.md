@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-servicetitan-would-not-be-the-succ
 name: "20VC: ServiceTitan Would Not Be the Succ"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: ServiceTitan Would Not Be the Success if We Raised VC Earli
 ## Summary
 
  Ara Mahdessian is the Co-Founder and CEO @ ServiceTitan, one of the great vertical SaaS business of the last decade."]
+subtype: article
 ---
 
 # 20VC: ServiceTitan Would Not Be the Succ

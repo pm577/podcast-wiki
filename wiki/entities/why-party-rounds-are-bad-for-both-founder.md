@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: why-party-rounds-are-bad-for-both-founder
 name: Why Party Rounds Are Bad For Both Founder
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2017-11-29
 tags: ["ai-ml", "founder-psychology", "marketplaces", "venture-capital"]
 related_concepts: []
 key_views: ["David Waxman is the Founding Partner @ TenOneTen Ventures, one of the leading new venture firms in the rising tide of LA tech."]
+subtype: article
 ---
 
 # Why Party Rounds Are Bad For Both Founder

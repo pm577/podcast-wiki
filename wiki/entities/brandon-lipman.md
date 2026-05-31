@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: brandon-lipman
 name: Brandon Lipman
 source: 20vc

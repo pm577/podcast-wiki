@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-why-startup-valuations-are-not-as
 name: "20VC: Why Startup Valuations Are Not As"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Why Startup Valuations Are Not As Overpriced As You Think, 
 ## Summary
 
 Jason Brown is the Founder & CEO @ Tally, the startup that allows you to pay off your credit card debt faster and save money."]
+subtype: article
 ---
 
 # 20VC: Why Startup Valuations Are Not As

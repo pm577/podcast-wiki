@@ -1,4 +1,5 @@
 ---
+
 title: Defining Traits
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, founder-psychology, hiring-culture, marketplaces, person, product-
 sources:
   - raw/transcripts/20vc/20vc-2021-01-18-20vc-etsy-ceo-josh-silverman.md
 confidence: medium
+subtype: person
 ---
 
 

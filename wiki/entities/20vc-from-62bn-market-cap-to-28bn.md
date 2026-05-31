@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-from-62bn-market-cap-to-28bn
 name: "20VC: From $6.2BN Market Cap to $2.8BN:"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: From $6.2BN Market Cap to $2.8BN: What Is Not Translating A
 ## Summary
 
 Ariel Cohen is the Co-Founder and CEO of Navan (formerly TripActions), an AI-powered travel and expense platform."]
+subtype: article
 ---
 
 # 20VC: From $6.2BN Market Cap to $2.8BN:

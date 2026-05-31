@@ -1,4 +1,5 @@
 ---
+
 title: Shopify Founder Tobi
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2023-04-03-20vc-shopify-founder-tobi-lt.md
 confidence: medium
+subtype: person
 ---
 
 

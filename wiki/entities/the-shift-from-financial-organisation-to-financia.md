@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-shift-from-financial-organisation-to-financia
 name: The Shift From Financial Organisation To Financia
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2016-02-05
 tags: ["ai-ml", "fintech", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Kelly Peeler is the Founder and CEO of NextGenVest, the College Money Mentor for every student, helping students navigate the financial aid and student loan application process."]
+subtype: article
 ---
 
 # The Shift From Financial Organisation To Financia

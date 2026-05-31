@@ -1,4 +1,5 @@
 ---
+
 title: Melody Mc
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, marketplaces, ai-ml]
 sources:
   - raw/transcripts/20vc/20vc-2017-03-31-20vc-why-every-founder-should.md
 confidence: medium
+subtype: person
 ---
 
 

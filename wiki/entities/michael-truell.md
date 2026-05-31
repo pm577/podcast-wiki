@@ -1,4 +1,5 @@
 ---
+
 title: Michael Truell
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, cursor, anysphere, ai-code-editor, ceo, mit, programming]
 sources:
   - raw/transcripts/lenny/michael-truell.md
 confidence: high
+subtype: person
 ---
 
 # Michael Truell

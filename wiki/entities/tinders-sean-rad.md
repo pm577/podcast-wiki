@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: tinders-sean-rad
 name: Tinder's Sean Rad
 source: 20vc

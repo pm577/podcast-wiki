@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-three-biggest-mistakes-made
 name: The Three Biggest Mistakes Made
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-01-10
 tags: ["ai-ml", "biotech-health", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Jamin Ball is a Partner @ Altimeter Capital where he sits on the board of Airbyte, Clickhouse, dbt Labs, Prisma, Tabular."]
+subtype: article
 ---
 
 # The Three Biggest Mistakes Made

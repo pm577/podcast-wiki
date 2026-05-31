@@ -1,4 +1,5 @@
 ---
+
 title: Geoff Lewis
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [founder-psychology, person, product-strategy, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2022-02-14-20vc-bedrocks-geoff-lewis-on.md
 confidence: medium
+subtype: person
 ---
 
 

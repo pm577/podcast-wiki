@@ -1,4 +1,5 @@
 ---
+
 title: Shaun Clowes
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, product-management, confluent, datalakes, ai-data, atlassian, gro
 sources:
   - raw/transcripts/lenny/shaun-clowes.md
 confidence: high
+subtype: person
 ---
 
 # Shaun Clowes
@@ -59,3 +61,15 @@ Shaun's perspective on selling AI into enterprises: enterprises don't buy AI fea
 - [[product-led-growth]]
 - [[enterprise-saas]]
 - [[product-strategy]]
+
+---
+
+*Merged from [[shaun]]:*
+
+# Shaun
+
+*This page was migrated from the podcast wiki guest index. Expand with key views and frameworks from episode transcripts.*
+
+## Episode Appearances
+
+- [[lenny/shaun-clowes|Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)]] — *to be summarized*

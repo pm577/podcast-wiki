@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-the-fundamentals-of-optimising-the
 name: "20VC: The Fundamentals Of Optimising The"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: The Fundamentals Of Optimising The Fundraising Process, SAF
 ## Summary
 
 Chris Hutchins is the Founder & CEO @ Grove, the startup reinventing financial planning allowing you to reach your goals with personalized financial advice."]
+subtype: article
 ---
 
 # 20VC: The Fundamentals Of Optimising The

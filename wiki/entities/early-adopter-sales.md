@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: early-adopter-sales
 name: Early Adopter Sales
 source: 20vc

@@ -1,4 +1,5 @@
 ---
+
 title: Justin Kan
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, consumer, marketplaces, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2016-08-01-20vc-ycs-justin-kan-on-the-3.md
 confidence: medium
+subtype: person
 ---
 
 

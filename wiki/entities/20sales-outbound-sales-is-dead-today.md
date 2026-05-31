@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20sales-outbound-sales-is-dead-today
 name: "20Sales: Outbound Sales is Dead Today"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20Sales: Outbound Sales is Dead Today, Why Demand Generation Will
 ## Summary
 
  Brendon Cassidy is one of the OG of enterprise sales of the last decade, having advised the likes of Gong.io, Pipedrive, Showpad."]
+subtype: article
 ---
 
 # 20Sales: Outbound Sales is Dead Today

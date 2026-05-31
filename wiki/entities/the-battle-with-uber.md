@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-battle-with-uber
 name: The Battle With Uber
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-09-04
 tags: ["ai-ml", "founder-psychology", "venture-capital"]
 related_concepts: []
 key_views: ["Mudassir Sheikha is the CEO and Co-Founder of Careem."]
+subtype: article
 ---
 
 # The Battle With Uber

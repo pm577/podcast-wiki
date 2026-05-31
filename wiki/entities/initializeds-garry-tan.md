@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: initializeds-garry-tan
 name: Initialized's Garry Tan
 source: 20vc

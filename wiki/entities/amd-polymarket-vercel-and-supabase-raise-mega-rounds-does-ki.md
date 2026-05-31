@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: amd-polymarket-vercel-and-supabase-raise-mega-rounds-does-ki
 name: AMD | Polymarket, Vercel and Supabase Raise Mega Rounds | Does Ki
 source: 20vc

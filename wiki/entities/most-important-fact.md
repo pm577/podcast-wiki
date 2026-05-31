@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: most-important-fact
 name: Most Important Fact
 source: 20vc

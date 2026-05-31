@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-alain-de-botton
 name: 20VC Alain De Botton
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC Alain De Botton on Why Companies Are Not Families | Why Stat
 ## Summary
 
 Alain De Botton is one of the greatest philosophers of our time."]
+subtype: article
 ---
 
 # 20VC Alain De Botton

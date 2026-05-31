@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: angel-investments
 name: Angel Investments
 source: 20vc

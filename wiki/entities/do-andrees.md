@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: do-andrees
 name: Do Andrees
 source: 20vc

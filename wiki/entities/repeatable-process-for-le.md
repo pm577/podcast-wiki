@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: repeatable-process-for-le
 name: Repeatable Process For Le
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-hardest
 name: The Hardest
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2023-09-27
 tags: ["ai-ml", "enterprise-saas", "founder-psychology", "product-strategy", "venture-capital"]
 related_concepts: []
 key_views: ["Christian Lanng is the Founder and Former CEO @ Tradeshift, a company he took from garage to unicorn raising over $900M for with a latest price of $2."]
+subtype: article
 ---
 
 # The Hardest

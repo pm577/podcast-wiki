@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: should-wiz-have-accepted-googles
 name: Should Wiz Have Accepted Google's
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-07-24
 tags: ["enterprise-saas", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Jason Lemkin is one of the OG SaaS investors with all of his first five investments turning into unicorns with Pipedrive, Algolia, Talkdesk, Salesloft and RevenueCat all in his portfolio."]
+subtype: article
 ---
 
 # Should Wiz Have Accepted Google's

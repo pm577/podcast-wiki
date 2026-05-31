@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: nubank-ceo-david-velez
 name: Nubank CEO David Velez
 source: 20vc

@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: portfolio-construction
 name: Portfolio Construction
 source: 20vc

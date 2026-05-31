@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-best-performing-fund-would-only-back
 name: The Best Performing Fund Would Only Back
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2025-04-21
 tags: ["founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Jason Wilk is the Founder and CEO of Dave, the greatest turnaround in the public markets of the last 12 months."]
+subtype: article
 ---
 
 # The Best Performing Fund Would Only Back

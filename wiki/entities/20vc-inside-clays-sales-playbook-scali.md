@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-inside-clays-sales-playbook-scali
 name: "20VC: Inside Clay's Sales Playbook Scali"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Inside Clay's Sales Playbook Scaling to $100M ARR | How to 
 ## Summary
 
 Becca Lindquist is Head of Sales at Clay, one of the fastest-growing AI companies to reach $100M+ ARR."]
+subtype: article
 ---
 
 # 20VC: Inside Clay's Sales Playbook Scali

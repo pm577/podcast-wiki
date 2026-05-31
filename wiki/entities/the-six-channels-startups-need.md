@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: the-six-channels-startups-need
 name: The Six Channels Startups Need
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2024-05-31
 tags: ["ai-ml", "founder-psychology", "go-to-market", "hiring-culture", "product-strategy"]
 related_concepts: []
 key_views: ["Matt Lerner is one of the OGs of growth having spent 11 years leading growth teams at PayPal."]
+subtype: article
 ---
 
 # The Six Channels Startups Need

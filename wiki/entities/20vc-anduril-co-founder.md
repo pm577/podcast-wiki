@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-anduril-co-founder
 name: "20VC: Anduril Co-Founder"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Anduril Co-Founder on How a Trump Administration Changes th
 ## Summary
 
 Matt Grimm is the Co-Founder and Chief Operating Officer of Anduril Industries, an American defense technology company that specializes in advanced autonomous systems."]
+subtype: article
 ---
 
 # 20VC: Anduril Co-Founder

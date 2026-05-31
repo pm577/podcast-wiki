@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-tiger-global-saved-by-openai-coa
 name: "20VC: Tiger Global Saved by OpenAI | Coa"
 source: 20vc
@@ -23,6 +24,7 @@ Items Mentioned in Today's Episode: 04:11 Owner's New $120M Round at $1BN 06:05 
 - [Episode URL](https://thetwentyminutevc.libsyn.com/20vc-tiger-global-saved-by-openai-coatues-new-fund-hype-or-substance-why-sbf-is-the-greatest-investor-of-the-last-5-years-why-big-funds-are-investing-in-perplexity)
 
 <!-- Full transcript not yet available."]
+subtype: article
 ---
 
 # 20VC: Tiger Global Saved by OpenAI | Coa

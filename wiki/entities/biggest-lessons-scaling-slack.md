@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: biggest-lessons-scaling-slack
 name: Biggest Lessons Scaling Slack
 source: 20vc

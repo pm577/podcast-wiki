@@ -1,4 +1,5 @@
 ---
+
 title: Alessandra Sollberger
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, venture-capital, founder-psychology, ai-ml, enterprise-saas, cons
 sources:
   - raw/transcripts/20vc/20vc-2015-07-06-20-vc-051-the-new-silicon-val.md
 confidence: medium
+subtype: person
 ---
 
 

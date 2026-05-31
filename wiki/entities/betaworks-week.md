@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: betaworks-week
 name: BETAWORKS WEEK
 source: 20vc

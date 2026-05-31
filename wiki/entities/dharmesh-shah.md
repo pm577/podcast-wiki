@@ -1,4 +1,5 @@
 ---
+
 title: Dharmesh Shah
 created: 2026-05-31
 updated: 2026-05-31
@@ -8,6 +9,7 @@ sources:
   - raw/transcripts/lenny/dharmesh-shah.md
 confidence: medium
 key_finding: Zig When Everyone Zags — Leverage Asymmetry
+subtype: person
 ---
 
 # Dharmesh Shah

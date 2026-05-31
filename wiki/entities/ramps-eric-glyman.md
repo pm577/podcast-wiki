@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: ramps-eric-glyman
 name: Ramp's Eric Glyman
 source: 20vc

@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-we-did-it
 name: How We Did It
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2026-01-05
 tags: ["consumer", "fintech", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["I have interviewed 1,000 entrepreneurs over 10 years."]
+subtype: article
 ---
 
 # How We Did It

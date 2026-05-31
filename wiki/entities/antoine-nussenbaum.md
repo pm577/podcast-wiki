@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: antoine-nussenbaum
 name: Antoine Nussenbaum
 source: 20vc

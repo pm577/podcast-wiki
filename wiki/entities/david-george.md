@@ -1,4 +1,5 @@
 ---
+
 title: David George
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [ai-ml, go-to-market, hiring-culture, person, venture-capital]
 sources:
   - raw/transcripts/20vc/20vc-2025-12-15-20vc-a16zs-david-george-on-h.md
 confidence: medium
+subtype: person
 ---
 
 

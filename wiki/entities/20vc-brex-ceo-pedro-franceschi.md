@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: 20vc-brex-ceo-pedro-franceschi
 name: "20VC: Brex CEO Pedro Franceschi"
 source: 20vc
@@ -17,6 +18,7 @@ key_views: ["# 20VC: Brex CEO Pedro Franceschi on What Brex Needs to do to be a 
 ## Summary
 
  Pedro Franceschi is the Co-Founder and CEO @ Brex, the AI-powered spend platform with tens of thousands of customers, including DoorDash, Coinbase, Robinhood and Roblox."]
+subtype: article
 ---
 
 # 20VC: Brex CEO Pedro Franceschi

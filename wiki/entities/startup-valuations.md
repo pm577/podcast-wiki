@@ -1,5 +1,5 @@
 ---
-type: Entity
+type: entity
 id: startup-valuations
 name: Startup Valuations
 source: 20vc

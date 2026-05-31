@@ -1,5 +1,6 @@
 ---
-type: Entity
+
+type: entity
 id: how-to-think-through-bundling
 name: How To Think Through Bundling
 source: 20vc
@@ -9,6 +10,7 @@ last_episode: 2020-11-09
 tags: ["ai-ml", "founder-psychology", "go-to-market", "venture-capital"]
 related_concepts: []
 key_views: ["Derek Zanutto is a General Partner @ CapitalG, Alphabet's independent growth fund with investments in the likes of Stripe, UiPath, Looker, Robinhood and Lyft to name a few."]
+subtype: article
 ---
 
 # How To Think Through Bundling

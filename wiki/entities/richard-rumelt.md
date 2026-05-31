@@ -1,4 +1,5 @@
 ---
+
 title: Richard Rumelt
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, strategy, good-strategy-bad-strategy, author, ucla, consulting]
 sources:
   - raw/transcripts/lenny/richard-rumelt.md
 confidence: high
+subtype: person
 ---
 
 # Richard Rumelt

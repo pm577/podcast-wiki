@@ -1,4 +1,5 @@
 ---
+
 title: Brian Hale
 created: 2026-05-31
 updated: 2026-05-31
@@ -7,6 +8,7 @@ tags: [person, go-to-market, product-strategy, hiring-culture, consumer]
 sources:
   - raw/transcripts/20vc/20vc-2022-04-06-20-growth-why-retention-defin.md
 confidence: medium
+subtype: person
 ---
 
 
