@@ -1,30 +1,37 @@
 ---
-title: Ab Testing
+title: A/B Testing
 created: 2026-05-31
 updated: 2026-05-31
 type: concept
-tags: [concept]
+tags: [concept, experimentation, growth, analytics]
 sources:
-  - raw/transcripts/lenny/lennygrant-leedumbest-idea-ive-heard-to-100m-arr-inside-the-rise-of-gamma-grant-lee-co-founder.md
-  - raw/transcripts/lenny/lennynicole-forsgrenhow-to-measure-ai-developer-productivity-in-2025-nicole-forsgren.md
-  - raw/transcripts/lenny/lennynicole-forsgren-20how-to-measure-ai-developer-productivity-in-2025-nicole-forsgren.md
-confidence: medium
+  - lenny/ronny-kohavi
+  - lenny/ramesh-johari
+  - lenny/lauryn-isford
+  - lenny/tim-holley
+confidence: high
 ---
 
-# Ab Testing
+# A/B Testing
 
-*This page was migrated from the podcast wiki topic index. Expand with synthesis across episodes and key insights.*
+## Synthesis
 
-## Related Episodes
+1. **Test everything — any code change should be in an experiment.** Ronny Kohavi (Airbnb, Microsoft, Amazon) is the world's leading expert on controlled experiments at scale. His mantra: "Test everything." At Microsoft, he found that a third of experiments that teams expected to improve metrics actually hurt them. A/B testing is not just optimization — it's risk prevention.
 
-- [[grant-lee]]
-- [[nicole-forsgren]]
-- [[nicole-forsgren]]
-- [[lenny/julian-shapiro|From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo]]
-- [[lenny/sander-schulhoff|AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff]]
-- [[lenny/gibson-biddle|35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley]]
-- [[lenny/mike-krieger|Anthropic's CPO on what comes next | Mike Krieger (co-founder of Instagram)]]
-- [[lenny/sanchan-saxena|Why Uber’s CPO delivers food on weekends | Sachin Kansal]]
-- [[lenny/krithika-shankarraman|Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman]]
-- [[lenny/jerry-colonna|How have I been complicit in creating the conditions I say I don’t want? | Jerry Colonna]]
+2. **Failed experiments are valuable data, not failures.** Ramesh Johari (Stanford) introduces the concept of Bayesian priors in experimentation. Each experiment, even a "failed" one, updates your understanding of what works. Companies that celebrate well-run experiments regardless of outcome build a stronger experimentation culture than those that reward only wins.
 
+3. **Statistical significance is necessary but not sufficient for decision-making.** Ronny Kohavi emphasizes that many teams misuse p-values and sample size calculations. The more dangerous mistake: launching changes based on statistically significant but practically irrelevant effects. A 0.1% improvement in a secondary metric doesn't justify a product launch.
+
+4. **Experimentation culture starts with leadership, not tools.** Lauryn Isford (Airtable) describes how the best experimentation cultures exist at companies where leadership asks "what does the data say?" before making decisions. Tools are table stakes; the culture of hypothesis-driven decision-making is the moat.
+
+5. **Long-term effects often differ from short-term A/B test results.** Tim Holley (Etsy) notes that some changes improve metrics in the first week but degrade them over time (novelty effects). The best organizations run long-duration experiments and track delayed outcomes like retention and lifetime value.
+
+## Key Disagreements
+
+- **Bayesian vs. frequentist statistics:** Debate over which statistical framework is more appropriate for product experimentation.
+- **Holdout groups:** Some recommend permanent holdout groups to measure long-term effects; others consider them wasteful.
+- **Experimentation at startups:** Some say startups should A/B test everything; others argue early-stage companies should prioritize speed over rigor.
+
+## Related Concepts
+
+- [[analytics]], [[growth]], [[metrics]], [[activation]], [[retention]], [[product-development]], [[data-driven]], [[onboarding]]
