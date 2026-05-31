@@ -2091,3 +2091,7 @@ Total query pages: 764
 - `20vc-2026-05-23-20sales-the-100m-cro-bubble`
 - `20vc-2026-05-26-20vc-cerebras-ceo-on-the-futu`
 - `20vc-2026-05-30-20vc-corgi-insurance-the-mos`
+
+- [[noah-weiss]] — Noah Weiss
+- [[rahul-vohra]] — Rahul Vohra
+- [[ryan-hoover]] — Ryan Hoover
