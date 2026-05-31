@@ -268,64 +268,91 @@ def do_semantic_stats() -> dict:
 def do_synthesize(question: str) -> dict:
     """Synthesize an answer across episodes, entities, and concepts.
     
-    Returns a structured answer with synthesis, sources, disagreements, and confidence.
+    Multi-pass: (1) semantic search raw+enriched via FAISS v2,
+    (2) keyword search episodes, (3) enriched entity/concept scan,
+    (4) guest profile lookups for top matches.
+    Returns structured data with episode references, confidence, disagreements.
     """
     import re
     from pathlib import Path
     
     t0 = time.time()
+    query_terms = [t for t in question.lower().split() if len(t) > 2]
     
-    # Step 1: Search entity pages for insights related to the question
-    query_terms = question.lower().split()
+    # Step 1: Semantic search (FAISS v2 — covers raw + enriched)
+    semantic_results = do_search_by_meaning(question, limit=10)
+    semantic_list = semantic_results.get('results', []) if isinstance(semantic_results, dict) and 'results' in semantic_results else []
     
-    # Direct grep for relevant Key Views in entity pages
+    # Step 2: Keyword search episodes
+    keyword_results = do_search_episodes(question, limit=8)
+    
+    # Step 3: Search enriched entity/concept pages
     entity_dir = WIKI_DIR / "wiki" / "entities"
     concept_dir = WIKI_DIR / "wiki" / "concepts"
     
     sources = []
+    transcript_hits = []
     
-    # Search enriched entity pages (>30 lines)
+    # 3a: Entity pages — filter by semantic relevance first, then keyword
     if entity_dir.exists():
+        # Get entity slugs that appear in semantic results
+        semantic_entity_slugs = set()
+        for r in semantic_list:
+            source_id = r.get('source_id', '')
+            source_type = r.get('source_type', '')
+            if source_type == 'entity':
+                semantic_entity_slugs.add(source_id.lower())
+        
         for f in sorted(entity_dir.glob("*.md")):
-            content = f.read_text(encoding='utf-8', errors='replace')
-            lines = content.count('\n') + 1
-            if lines < 30:
-                continue
-            # Check if any query term appears in the content
-            content_lower = content.lower()
-            term_matches = sum(1 for t in query_terms if t in content_lower)
-            if term_matches < 2:
-                continue
-            # Extract title from frontmatter
-            title = f.stem.replace('-', ' ').title()
-            fm_match = re.search(r'title:\s*(.+)', content)
-            if fm_match:
-                title = fm_match.group(1).strip().strip("'").strip('"')
-            
-            # Extract Key Views
-            views = []
-            view_sections = re.findall(r'### \d+\.\s*(.+?)(?=\n###|\Z)', content, re.DOTALL)
-            for vs in view_sections[:3]:
-                lines_v = vs.strip().split('\n')
-                if lines_v:
-                    views.append(lines_v[0].strip()[:200])
-            
-            if views:
-                sources.append({
-                    "guest": title,
-                    "source_type": "entity",
-                    "insights": views[:3],
-                    "file": str(f.name),
-                    "score": term_matches
-                })
-    
-    # Also search concept pages
-    if concept_dir.exists():
-        for f in sorted(concept_dir.glob("*.md")):
             content = f.read_text(encoding='utf-8', errors='replace')
             lines = content.count('\n') + 1
             if lines < 20:
                 continue
+            
+            slug = f.stem.lower()
+            in_semantic = slug in semantic_entity_slugs
+            
+            content_lower = content.lower()
+            term_matches = sum(1 for t in query_terms if t in content_lower)
+            
+            # Include if semantically relevant OR has 2+ keyword matches
+            if not in_semantic and term_matches < 2:
+                continue
+            
+            # Extract title
+            title = f.stem.replace('-', ' ').title()
+            fm_match = re.search(r'title:\s*(.+)', content)
+            if fm_match:
+                title = fm_match.group(1).strip().strip("'").strip('"')
+            
+            # Extract Key Views with more context
+            views = []
+            view_sections = re.findall(r'### \d+\.\s*(.+?)(?=\n###|\Z)', content, re.DOTALL)
+            for vs in view_sections[:5]:
+                lines_v = vs.strip().split('\n')
+                if lines_v:
+                    heading = lines_v[0].strip()[:150]
+                    # Get body text (following lines, excluding empty)
+                    body = '\n'.join(l for l in lines_v[1:] if l.strip())[:300]
+                    views.append(f"{heading}" + (f": {body[:200]}" if body else ""))
+            
+            score = 20 if in_semantic else term_matches
+            if views:
+                sources.append({
+                    "guest": title,
+                    "source_type": "entity",
+                    "insights": views[:5],
+                    "file": str(f.name),
+                    "score": score
+                })
+    
+    # 3b: Concept pages
+    if concept_dir.exists():
+        for f in sorted(concept_dir.glob("*.md")):
+            content = f.read_text(encoding='utf-8', errors='replace')
+            lines = content.count('\n') + 1
+            if lines < 15:
+                continue
             content_lower = content.lower()
             term_matches = sum(1 for t in query_terms if t in content_lower)
             if term_matches < 2:
@@ -335,9 +362,8 @@ def do_synthesize(question: str) -> dict:
             if fm_match:
                 title = fm_match.group(1).strip().strip("'").strip('"')
             
-            # Extract synthesis section
             syn_match = re.search(r'## Synthesis\s*\n(.*?)(?=\n##|\Z)', content, re.DOTALL)
-            synthesis_preview = syn_match.group(1).strip()[:300] if syn_match else ""
+            synthesis_preview = syn_match.group(1).strip()[:400] if syn_match else ""
             
             sources.append({
                 "guest": title,
@@ -347,21 +373,49 @@ def do_synthesize(question: str) -> dict:
                 "score": term_matches
             })
     
-    # Step 2: Sort by relevance, deduplicate
-    sources.sort(key=lambda s: -s["score"])
+    # Step 4: Extract raw transcript hits from semantic search
+    seen_raw = set()
+    for r in semantic_list:
+        source_type = r.get('source_type', '')
+        if source_type == 'raw':
+            ep_id = r.get('source_id', '')
+            if ep_id and ep_id not in seen_raw:
+                seen_raw.add(ep_id)
+                snippet = r.get('snippet', '')[:400]
+                score = r.get('score', 0)
+                transcript_hits.append({
+                    "episode_id": ep_id,
+                    "podcast": r.get('podcast', ''),
+                    "title": r.get('title', ''),
+                    "guest": r.get('guest', ''),
+                    "snippet": snippet,
+                    "score": round(score * 10, 1) if isinstance(score, float) else 5,
+                })
     
-    # Deduplicate
+    # Step 5: Get guest profiles for top entity matches
+    for s in sources[:6]:
+        if s["source_type"] == "entity":
+            try:
+                profile = do_get_guest_profile(s["guest"])
+                if isinstance(profile, dict) and "error" not in profile:
+                    s["episode_refs"] = profile.get("episodes", [])[:4]
+            except Exception:
+                pass
+    
+    # Step 6: Sort and deduplicate
+    sources.sort(key=lambda s: -s["score"])
     seen = set()
     unique_sources = []
     for s in sources:
-        key = s["guest"]
+        key = s["guest"].lower()
         if key not in seen:
             seen.add(key)
             unique_sources.append(s)
     
-    top_sources = unique_sources[:10]
+    top_enriched = unique_sources[:12]
+    top_transcript = sorted(transcript_hits, key=lambda h: -h["score"])[:8]
     
-    # Step 3: Check for disagreements (look at disagreement comparison pages)
+    # Step 7: Disagreements
     disagreements = []
     comp_dir = WIKI_DIR / "wiki" / "comparisons"
     if comp_dir.exists():
@@ -369,41 +423,44 @@ def do_synthesize(question: str) -> dict:
             content = f.read_text(encoding='utf-8', errors='replace')
             content_lower = content.lower()
             if any(t in content_lower for t in query_terms):
-                # Extract topic name
                 topic = f.stem.replace("disagreements-", "").replace("-", " ").title()
                 disagreements.append({
                     "topic": topic,
                     "page": str(f.name)
                 })
     
-    # Step 4: Build synthesis
+    # Step 8: Synthesis summary
     synthesis_parts = []
-    if top_sources:
-        # Group by source type
-        entities = [s for s in top_sources if s["source_type"] == "entity"]
-        concepts_result = [s for s in top_sources if s["source_type"] == "concept"]
-        
-        if entities:
-            names = [s["guest"] for s in entities[:5]]
-            synthesis_parts.append(f"Found relevant insights from {len(entities)} guests including {', '.join(names[:3])}.")
-        
-        if concepts_result:
-            synthesis_parts.append(f"Relevant concepts found: {', '.join(s['guest'] for s in concepts_result[:3])}.")
-        
-        if disagreements:
-            synthesis_parts.append(f"Disagreements identified on topics: {', '.join(d['topic'] for d in disagreements)}.")
-    else:
-        synthesis_parts.append("No directly matching synthesized insights found. Try a broader query or check entity pages directly.")
+    entity_names = [s["guest"] for s in top_enriched if s["source_type"] == "entity"]
+    concept_names = [s["guest"] for s in top_enriched if s["source_type"] == "concept"]
+    ep_names = list(set(h["title"] for h in top_transcript if h.get("title")))
+    
+    if entity_names:
+        synthesis_parts.append(f"Found relevant insights from {len(entity_names)} guests including {', '.join(entity_names[:5])}.")
+    if concept_names:
+        synthesis_parts.append(f"Relevant frameworks/concepts: {', '.join(concept_names[:3])}.")
+    if ep_names:
+        synthesis_parts.append(f"Matching transcript segments from {len(ep_names)} episodes including {', '.join(ep_names[:3])}.")
+    if keyword_results:
+        synthesis_parts.append(f"Keyword search found {len(keyword_results)} matching episodes.")
+    if disagreements:
+        synthesis_parts.append(f"Disagreements identified on topics: {', '.join(d['topic'] for d in disagreements)}.")
+    
+    total = len(top_enriched) + len(top_transcript)
+    confidence = "high" if total >= 5 else ("medium" if total >= 2 else "low")
     
     t1 = time.time()
     
     return {
         "question": question,
         "synthesis": " ".join(synthesis_parts),
-        "sources": top_sources,
+        "enriched_sources": top_enriched,
+        "transcript_matches": top_transcript,
+        "keyword_matches": keyword_results[:5],
         "disagreements": disagreements,
-        "total_sources_found": len(sources),
-        "confidence": "high" if len(top_sources) >= 3 else ("medium" if top_sources else "low"),
+        "total_enriched_found": len(sources),
+        "total_transcript_found": len(transcript_hits),
+        "confidence": confidence,
         "latency_ms": round((t1 - t0) * 1000)
     }
 
