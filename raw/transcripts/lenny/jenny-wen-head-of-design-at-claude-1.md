@@ -1,0 +1,21 @@
+---
+source: lenny
+guest: "Jenny Wen (head of design at Claude)"
+title: "The design process is dead. Here's what's replacing it. | Jenny Wen (head of design at Claude)"
+publish_date: "2026-03-01"
+source_url: "https://www.lennysnewsletter.com/p/the-design-process-is-dead"
+wiki_slug: "jenny-wen-head-of-design-at-claude"
+ingested_at: "2026-05-31T14:02:03.314556"
+source_type: "substack"
+---
+
+# The design process is dead. Here's what's replacing it. | Jenny Wen (head of design at Claude)
+
+**Source:** [Substack article](https://www.lennysnewsletter.com/p/the-design-process-is-dead)
+**Guest:** Jenny Wen (head of design at Claude)
+**Date:** 2026-03-01
+**Word count:** 427
+
+---
+
+Jenny Wen leads design for Claude at Anthropic. Prior to this, she was Director of Design at Figma, where she led the teams behind FigJam and Slides. Before that, she was a designer at Dropbox, Square, and Shopify. Listen on YouTube , Spotify , and Apple Podcasts We discuss: Why the classic discovery → mock → iterate design process is becoming obsolete What a day in the life of a designer at Anthropic looks like, including her AI tool stack Whether AI will eventually surpass humans in taste and judgment Why Jenny left a director role at Figma to return to IC work at Anthropic The three archetypes Jenny is hiring for now Why chatbot interfaces may be more durable than most people expect Brought to you by: Mercury —Radically different banking Orkes —The enterprise platform for reliable applications and agentic workflows Omni —AI analytics your customers can trust Where to find Jenny Wen: • X: https://x.com/jenny_wen • LinkedIn: https://www.linkedin.com/in/jennywen • Substack: https://jennywen.substack.com • Website: https://jennywen.ca Referenced: • Figma: https://www.figma.com • Anthropic: https://www.anthropic.com • v0: https://v0.app • Navigating a Design Career with Jenny Wen | Figma at Waterloo: https://www.youtube.com/watch?v=OHcBPMh2ivk • Claude Cowork: https://claude.com/product/cowork • Use Claude Code in VS Code: https://code.claude.com/docs/en/vs-code • Claude Code in Slack: https://code.claude.com/docs/en/slack • Lex Fridman’s website: https://lexfridman.com • Head of Claude Code: What happens after coding is solved | Boris Cherny: https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens • OpenClaw: https://openclaw.ai • OpenAI’s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil (CPO at OpenAI, ex-Instagram, Twitter): https://www.lennysnewsletter.com/p/kevin-weil-open-ai • Marc Andreessen: The real AI boom hasn’t even started yet: https://www.lennysnewsletter.com/p/marc-andreessen-the-real-ai-boom • Socratica: https://www.socratica.info • Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram): https://www.lennysnewsletter.com/p/anthropics-cpo-heres-what-comes-next • Radical Candor: From theory to practice with author Kim Scott: https://www.lennysnewsletter.com/p/radical-candor-from-theory-to-practice • Evan Tana’s ‘legibility matrix’ on X: https://x.com/evantana/status/1927404374252269667 • How to spot a top 1% startup early: https://www.lennysnewsletter.com/p/how-to-spot-a-top-1-startup-early • Palantir: https://www.palantir.com • Stripe: https://stripe.com • Linear: https://linear.app • Notion: https://www.notion.com • Julie Zhuo’s website: https://www.juliezhuo.com • Sentimental Value : https://www.imdb.com/title/tt27714581 • The Pitt on Prime Video: https://www.amazon.com/The-Pitt-Season-1/dp/B0DNRR8QWD • Noah Wyle: https://en.wikipedia.org/wiki/Noah_Wyle • ER on Prime Video: https://www.amazon.com/gp/video/detail/B0FWZSDYRP • Retro: https://retro.app • Granola: https://www.granola.ai Recommended books: • Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity : https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509 • The Power Broker: Robert Moses and the Fall of New York : https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394480767 • Insomniac City: New York, Oliver Sacks, and Me : https://www.amazon.com/Insomniac-City-New-York-Oliver/dp/162040494X Production and marketing by https://penname.co/ . For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com . Lenny may be an investor in the companies discussed. My biggest takeaways from this conversation:

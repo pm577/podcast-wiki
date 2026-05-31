@@ -1,0 +1,21 @@
+---
+source: lenny
+guest: "Annie Pearl (CPO)"
+title: "Behind the scenes of Calendly's rapid growth | Annie Pearl (CPO)"
+publish_date: "2023-02-26"
+source_url: "https://www.lennysnewsletter.com/p/behind-the-scenes-of-calendlys-rapid"
+wiki_slug: "annie-pearl-cpo"
+ingested_at: "2026-05-31T14:04:17.422240"
+source_type: "substack"
+---
+
+# Behind the scenes of Calendly's rapid growth | Annie Pearl (CPO)
+
+**Source:** [Substack article](https://www.lennysnewsletter.com/p/behind-the-scenes-of-calendlys-rapid)
+**Guest:** Annie Pearl (CPO)
+**Date:** 2023-02-26
+**Word count:** 471
+
+---
+
+Brought to you by Miro —A collaborative visual platform where your best work comes to life: https://miro.com/lenny | Coda —Meet the evolution of docs: https://coda.io/lenny | Vanta —Automate compliance. Simplify security: https://vanta.com/lenny — Annie Pearl is the Chief Product Officer at Calendly. Previously, she was Chief Product Officer at Glassdoor, as well as Director of Product Management at Box. She was named one of the most influential women in Bay Area business by the San Francisco Business Times . In today’s episode, Annie shares three paths into product management and advice on how to get your foot in the door. She also gives us an inside look at how Calendly’s product teams are structured, how they transitioned from solely PLG to adding a sales team and unlocking new growth levers, how they do planning, and much more. Listen now on Apple , Spotify , Google , Overcast , and YouTube . Where to find Annie Pearl: • LinkedIn: https://www.linkedin.com/in/anniepearl/ • Email: Annie.Pearl@calendly.com Where to find Lenny: • Newsletter: https://www.lennysnewsletter.com • Twitter: https://twitter.com/lennysan • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/ Referenced: • How to send a calendar invite with Calendly: https://calendly.com/blog/how-to-send-a-calendar-invite • Google’s APM program: https://careers.google.com/programs/apm/ • The 15 Best Associate and Rotational Product Manager Programs: https://medium.com/agileinsider/product-management-digest-apm-3c2631683139 • Playing to Win: How Strategy Really Works : https://www.amazon.com/Playing-Win-Strategy-Really-Works/dp/142218739X/ • Confluence: https://www.atlassian.com/software/confluence • Aha: https://www.aha.io/ • Airtable: https://www.airtable.com/ • Loom: https://www.loom.com/ • Jira: https://www.atlassian.com/software/jira • Pendo: https://go.pendo.io/ • Tope Awotona on LinkedIn: https://www.linkedin.com/in/bawotona/ • The Skip podcast: https://www.skip.community/ • Skip Community on LinkedIn: https://www.linkedin.com/company/skip-community-for-cpos/ • Nikhyl Singhal on LinkedIn: https://www.linkedin.com/in/nikhyl/ • Good to Great: Why Some Companies Make the Leap and Others Don’t : https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996 • Hooked: How to Build Habit-Forming Products : https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/0241184835/ • 20VC podcast: https://www.thetwentyminutevc.com/ • Sing 2 on Netflix: https://www.netflix.com/title/81475311 • Miro: https://miro.com/ In this episode, we cover: (00:00) Annie’s background (03:50) How to send a Calendly invite without feeling awkward (06:04) How to transition to product work from a non-technical career (09:53) APM programs (10:52) The characteristics of internal-transfer PMs (13:26) How Calendly structures product teams  (14:57) Why Annie hired a Head of Design (16:58) How Calendly structures product teams (19:07) OKRs at Calendly (21:02) Changes made at Calendly to improve execution and shipping (22:45) The challenges with narrowing Calendly’s customer base and adding sales  (25:21) Where 70% of new Calendly users come from (26:17) The transition from PLG to sales (29:23) How to build a great relationship with your sales team (31:52) Planning and prioritization at Calendly (38:14) Strategy documents at Calendly (39:39) Calendly’s product stack (40:21) How Calendly got their first 1,000 users  (43:36) The surprising new growth levers at Calendly (46:05) Fun traditions (48:43) “Focus wisely” and other aspects of Calendly’s culture (52:07) Learnings from Box and Glassdoor (54:57) The Skip Community (58:10) Lightning round Production and marketing by https://penname.co/ . For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com .

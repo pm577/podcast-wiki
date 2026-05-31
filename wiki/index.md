@@ -2101,3 +2101,8 @@ Total query pages: 764
 - [[nabeel-s-qureshi]] — Nabeel S. Qureshi
 - [[shreyas-doshi]] — Shreyas Doshi
 - [[wes-kao]] — Wes Kao
+- [[katie-dill]] — Katie Dill
+- [[petra-wille]] — Petra Wille
+- [[ronny-kohavi]] — Ronny Kohavi
+- [[tom-conrad]] — Tom Conrad
+- [[tristan-de-montebello]] — Tristan de Montebello

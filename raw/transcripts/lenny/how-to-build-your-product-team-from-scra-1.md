@@ -1,0 +1,21 @@
+---
+source: lenny
+guest: ""
+title: "How to build your product team from scratch, attract top product talent, go multi-product, and more"
+publish_date: "2025-12-28"
+source_url: "https://www.lennysnewsletter.com/p/10-contrarian-leadership-truths"
+wiki_slug: "how-to-build-your-product-team-from-scra"
+ingested_at: "2026-05-31T14:01:42.525392"
+source_type: "substack"
+---
+
+# How to build your product team from scratch, attract top product talent, go multi-product, and more
+
+**Source:** [Substack article](https://www.lennysnewsletter.com/p/10-contrarian-leadership-truths)
+**Guest:** 
+**Date:** 2025-12-28
+**Word count:** 384
+
+---
+
+Matt MacInnis is the chief product officer and former longtime COO at Rippling, a unified workforce management platform valued at over $16 billion. Listen on YouTube , Spotify , and Apple Podcasts We discuss: Why “extraordinary results demand extraordinary efforts” Why you should deliberately understaff projects, and how to know when you’ve gone too far Matt’s transition from COO to CPO and what surprised him about leading product The “high alpha, low beta” framework for evaluating people, processes, and products When founders should quit their startups (hint: much earlier than VCs want you to) How to fight entropy in your organization through relentless energy and intensity Brought to you by: Google Gemini —Your everyday AI assistant Datadog —Now home to Eppo, the leading experimentation and feature flagging platform GoFundMe Giving Funds —Make year-end giving easy Where to find Matt MacInnis: • X: https://x.com/stanine • LinkedIn: https://www.linkedin.com/in/macinnis • Email: macinnis@rippling.com Referenced: • Rippling: https://www.rippling.com • Sunil Raman on LinkedIn: https://www.linkedin.com/in/sunilraman • Dan Gill on LinkedIn: https://www.linkedin.com/in/dangill • Carvana: https://www.carvana.com • Brian Chesky’s new playbook: https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach • Parker Conrad on LinkedIn: https://www.linkedin.com/in/parkerconrad • Inkling: https://www.inkling.com • Akshay Kothari on LinkedIn: https://www.linkedin.com/in/akothari • Notion: https://www.notion.com • Conway’s law: https://en.wikipedia.org/wiki/Conway%27s_law • Seeking Alpha: https://seekingalpha.com • Dennis Rodman’s website: https://dennisrodman.com • Dancing pickle emoji: https://slackmojis.com/emojis/456-dancing_pickle • Pickle Rick: https://en.wikipedia.org/wiki/Pickle_Rick • SPOTAK: The Six Traits I Look for When I’m Hiring: https://finance.yahoo.com/news/spotak-six-traits-look-m-181335267.html • Geoff Lewis on LinkedIn: https://www.linkedin.com/in/geofflewis1 • Zenefits: https://en.wikipedia.org/wiki/TriNet_Zenefits • New banking records prove Deel paid thief who stole trade secrets from Rippling: https://www.rippling.com/blog/new-banking-records-prove-deel-paid-thief-who-stole-trade-secrets-from-rippling • Workday: https://www.workday.com • Matic robots: https://maticrobots.com • Wall-E : https://www.imdb.com/title/tt0910970 • Conviction: https://www.conviction.com • Mike Vernal on X: https://x.com/mvernal • Sarah Guo on X: https://x.com/saranormous • No Priors: https://linktr.ee/nopriors • Gemini: https://gemini.google.com • ChatGPT: https://chatgpt.com • Claude: https://claude.ai • Bryan Schreier on LinkedIn: https://www.linkedin.com/in/bryanschreier • Heated Rivalry on HBO Max: https://www.hbomax.com/shows/heated-rivalry/50cd4e99-04ee-427b-a3b4-da721ed05d9c • Fellow coffee maker: https://fellowproducts.com/products/aiden-precision-coffee-maker Recommended books: • Pale Blue Dot: A Vision of the Human Future in Space : https://www.amazon.com/Pale-Blue-Dot-Vision-Future/dp/0345376595 • Conscious Business: How to Build Value Through Values : https://www.amazon.com/Conscious-Business-Build-through-Values/dp/1622032020 • Thinking in Systems: https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557 • The Effective Executive: The Definitive Guide to Getting the Right Things Done : https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459 Production and marketing by https://penname.co/ . For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com . Lenny may be an investor in the companies discussed. My biggest takeaways from this conversation:
