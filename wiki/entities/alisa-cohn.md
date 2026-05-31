@@ -3,42 +3,55 @@ title: Alisa Cohn
 created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, coaching, leadership, management]
+tags: [person, leadership, coaching, management, communication, feedback]
 sources:
   - raw/transcripts/lenny/alisa-cohn.md
-confidence: medium
+confidence: high
 ---
-
 
 # Alisa Cohn
 
-Alisa Cohn is an executive coach who works with startup founders and tech leaders on leadership development, difficult conversations, and performance management. She appears on [[Lenny's Podcast]] and is referenced by [[Rachel Lockett]] in discussions about coaching vs. telling.
+**Role:** Executive coach to C-suite leaders at startups (Venmo, Etsy, Wirecutter, DraftKings) and Fortune 500 companies (Microsoft, Google, Pfizer); named #1 startup coach by Global Gurus  
+**Known for:** Practical scripts for difficult conversations, the Founder Prenup framework, and teaching leaders that their job isn't to make people happy — it's to drive results through honest feedback.
 
-## Key Frameworks
+## Key Views
 
-### Coaching vs. Telling
+### 1. Specific scripts for difficult conversations — the "what I'm hearing" framework
 
-Alisa's core framework for managers: know when to coach and when to tell. Coaching is for capable people who are stuck; telling is for people who lack information or experience. Most leaders get this backwards.
+Alisa provides leaders with exact language for performance feedback: start with "I want to chat with you about the way you're interacting with your peers. What I'm hearing from them is…" This framing uses observable facts rather than subjective judgments. Focus on "what I've observed" or "what I'm hearing" to keep the conversation neutral. The key structure: state the behavior, explain why it matters, and leave with a clear action item.
 
-### Scripts for Difficult Conversations
+> "Observable facts — this is not a judgment. It makes it neutral. I always ask my clients, 'What's my evidence that this is happening?' It makes the feedback easier for you to give and easier for them to hear." — Alisa Cohn
 
-Alisa provides specific scripts and phrases for performance reviews and difficult conversations. Her key reframe: "Through that upset on the other side can be a whole new possibility, a lot of joy and freedom."
+### 2. Your job as a leader isn't to make people happy
 
-### Leader's Job Isn't to Make People Happy
+Alisa's core reframe for managers: the goal isn't to be the leader everyone loves — it's to drive results while developing your people. Avoiding difficult feedback because you don't want to upset someone ultimately leads to the demise of your company. Real care means giving people the information they need to improve, even when it's uncomfortable.
 
-A leader's job is to be clear and direct with compassion — not to make people happy. This is a key distinction that separates effective leaders from avoidant ones.
+> "They're trying now to be the leader who everyone loves, but what really needs to happen very often is we need to drive towards results. Ultimately, avoiding giving difficult feedback leads to the demise of your company." — Alisa Cohn
 
-## Connections
+### 3. Three end-of-meeting questions
 
-- Referenced in [[Talent Decision Framework — When to Keep, Coach, or Transition Someone]] alongside [[Carilu Dietrich]] and [[Netflix]]
-- Works in the same space as [[Jerry Colonna]] (executive coaching)
-- Her framework on coaching vs. telling complements the [[Enthusiastic Rehire Test]]
+Alisa recommends ending every meeting with three specific questions to maximize forward progress: (1) What are our takeaways? (2) Who's doing what by when? (3) When will we check in next? This simple ritual prevents the common failure mode where teams leave meetings with vague plans and no accountability. It works for one-on-ones, team meetings, and external conversations alike.
 
-## Sources
+### 4. Handling defensiveness — pause, don't escalate
 
-- [[Rachel Lockett]] episode on Lenny's Podcast — references Alisa's coaching frameworks
+When an employee gets defensive or emotional during feedback, Alisa's script is: "Let's just pause for a second because I can see that you're getting a little bit heated. I have no intention of upsetting you — I want to talk about the things that are going to help you in your career." The pause gives both parties a moment to reset. The underlying message: the feedback comes from a place of care, not criticism.
+
+> "The importance is not even what you say, but that you have prepared for that reaction and you don't have to react to it yourself. It gives you another tool in your toolkit." — Alisa Cohn
+
+### 5. The Founder Prenup — questions to ask before committing to a co-founder
+
+Alisa's set of questions for potential co-founders to discuss upfront: What does success look like to each of you? How do you handle stress? What's your relationship with money? What happens if one of you wants out? How do you make decisions when you disagree? These conversations prevent the most common source of startup failure — co-founder conflict — by aligning expectations before it's too late.
+
+> "On the other side of that difficult conversation can be a whole new possibility and a whole new revelation, and actually a lot of joy and freedom. We forget about all the other possibilities that come out of difficult conversations." — Alisa Cohn
+
+## Episode Appearances
+
+- [[lenny/alisa-cohn|Scripts for navigating difficult conversations | Alisa Cohn (executive coach)]] — Performance feedback scripts, defensive reactions, meeting questions, Founder Prenup
 
 ## Related Concepts
 
 - [[leadership]]
 - [[management]]
+- [[communication]]
+- [[feedback]]
+- [[founder-dynamics]]
