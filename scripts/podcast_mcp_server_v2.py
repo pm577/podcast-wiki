@@ -81,7 +81,7 @@ def load_semantic():
         return True
     try:
         sys.path.insert(0, str(WIKI_DIR / "scripts"))
-        from semantic_index import query_index
+        from semantic_index_v2 import query_index
         _semantic_query_fn = query_index
         _semantic_loaded = True
         return True
@@ -234,7 +234,7 @@ def do_ask(query: str) -> dict:
 def do_search_by_meaning(query: str, limit: int = 10, podcast: str | None = None) -> dict:
     """Semantic search — finds episodes by meaning, not just keywords."""
     if not load_semantic():
-        return {"error": "Semantic index not available. Run `python3 scripts/semantic_index.py rebuild` first."}
+        return {"error": "Semantic index not available. Run `python3 scripts/semantic_index_v2.py rebuild` first."}
     t0 = time.time()
     results = _semantic_query_fn(query, k=limit, podcast=podcast)
     t1 = time.time()
