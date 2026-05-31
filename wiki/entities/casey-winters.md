@@ -3,7 +3,7 @@ title: Casey Winters
 created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, product-management, growth, eventbrite, pinterest, grubhub, startup-advice, cpo]
+tags: [person, growth, product-management, startups, scale, pinterest, redfin, growth-strategy, pmf]
 sources:
   - raw/transcripts/lenny/casey-winters.md
 confidence: high
@@ -11,45 +11,51 @@ confidence: high
 
 # Casey Winters
 
-**Role:** Chief Product Officer at Eventbrite; former growth lead at Pinterest (40M→150M MAU), GrubHub (Series A→IPO), and Airbnb (advisor); Greylock Partners; advisor to Tinder, Canva, Thumbtack, Reddit  
-**Known for:** Being one of the most experienced product/growth leaders in consumer tech, the "brittle strategies → fire strategies" growth framework, and deep expertise in product trade-off communication.
+**Role:** Former Chief Product Officer at Eventbrite; growth advisor and operating partner at multiple VC firms; former growth leader at Pinterest and Redfin  
+**Known for:** Deep frameworks on growth-stage product management; the difference between startup PM and big-company PM; growth strategies for marketplace and consumer products.
 
 ## Key Views
 
-### 1. Brittle strategies unlock fire strategies — the growth maturity ladder
+### 1. Most Product Managers Are Unprepared for Startup Realities
 
-Casey's framework for growth: startups should start with "brittle strategies" (non-scalable hacks, manual processes, high-touch efforts) that exist solely to unlock "fire strategies" — scalable channels that can take you to millions of users. Brittle strategies (e.g., personally onboarding users, manual content creation, direct outreach) prove the channel exists and generate the data needed to build the automated, scalable version. Many startups make the mistake of trying to jump straight to scalable channels without first doing the manual work to understand what works.
+Casey's core argument: Big-company PMs who join startups fail because they don't understand the constraints. At a startup, you have no data, no resources, no brand, and no process. The skills that made you successful at Google/Slack/Airbnb (getting resources, running experiments, optimizing through processes) are irrelevant or counterproductive at an early-stage company. Startup PMs need to be comfortable with ambiguity, scrappiness, and making decisions without data.^[raw/transcripts/lenny/casey-winters.md]
 
-> "The goal of your brittle strategies, these like non-scalable hacks, they only exist to unlock the fire strategies, to unlock the things that could take you to millions of users." — Casey Winters
+> "Most product managers from big companies are completely unprepared for startups. At a startup, the answer to 'let's run an experiment' is 'we don't have the traffic for that.'" — Casey Winters
 
-### 2. The growth role was born at the intersection of marketing and product
+### 2. Non-Scalable Hacks Unlock Scalable Strategies
 
-Casey was doing "growth" before the term existed — he started as an analyst measuring channel effectiveness (SEO, AdWords, email), then naturally moved into optimizing those channels and improving the product to convert better. At GrubHub (employee #15), the mandate was simple: "As long as you grow how many people order food, I don't care if you work on marketing or change the product — do whatever, we'll have results." From his team, they created the product management function. This cross-functional origin is why growth is inherently a blend of marketing, product, engineering, and data.
+Casey's growth framework: start with non-scalable, manual tactics ("hacks") that prove demand, then use those learnings to build scalable strategies. For example, manually recruiting your first 100 users teaches you who your real customers are and what message resonates. That learning then informs paid acquisition, SEO, and viral loops. The mistake founders make is trying to skip the manual phase and go straight to scalable channels.^[raw/transcripts/lenny/casey-winters.md]
 
-> "They were like, 'Dude, we don't care. As long as you grow how many people order food, I don't care if you work on marketing, I don't care if you change the product, do whatever — we'll have results.' We now call these roles growth, but that term didn't exist at the time." — Casey Winters
+> "Non-scalable hacks exist only to unlock scalable strategies. But you can't skip the hacks — they teach you what the scalable strategy should be." — Casey Winters
 
-### 3. Escalate early — leaders can't fix what they don't know about
+### 3. Growth Stage Determines the Job
 
-As a CPO, Casey learned that a major failure point is leaders not escalating problems. Team leads would try to "handle it" themselves instead of raising issues early — and by the time it reached him, the situation was much worse. His lesson: being a leader doesn't mean handling every problem alone. The right thing is often to escalate so that senior leaders can change the circumstances, not just cope with them. Leaders must create a culture where bad news travels fast and early.
+Casey categorizes products by stage: (1) Zero-to-one — find PMF through manual interventions; (2) Growth — build the engine that scaled to PMF; (3) Optimization — maximize the mature engine. Each stage requires a completely different PM skillset, different metrics, and different team structure. Most breakdowns happen when a company is in one stage but hires a PM experienced in a different stage.^[raw/transcripts/lenny/casey-winters.md]
 
-> "These people on my team thought that being a leader was handling it the best they could given the circumstances when in many cases the right way is to escalate the issue so that perhaps I could help them change the circumstances." — Casey Winters
+> "The PM who got you from 0 to 1 is rarely the PM who can take you from 1 to 100. The playbook changes completely." — Casey Winters
 
-### 4. Explicit trade-off communication is the CPO's superpower
+### 4. Marketplaces Require Supply-Side Growth First
 
-Casey emphasizes that one of the highest-leverage things a product leader can do is be explicit about trade-offs — and communicate them clearly upward (to executives) and outward (across the company). When teams understand WHY a particular investment was chosen over alternatives, they execute with more conviction and less second-guessing. He recommends documenting what you're NOT doing and why, as clearly as what you ARE doing. This prevents the "you don't understand the situation" dynamic.
+From his experience at Pinterest and Redfin, Casey argues that marketplaces should invest in supply before demand. Without enough supply, demand-side users have a bad experience and leave. The exception is when supply is naturally abundant (user-generated content) and curation is the challenge. For most marketplaces, the hardest growth problem is getting enough high-quality supply — and founders should solve that before optimizing demand acquisition.^[raw/transcripts/lenny/casey-winters.md]
 
-### 5. The spectrum of product skills — from execution to strategy
+> "In marketplaces, supply is always the harder problem. If you don't have enough supply, no amount of demand-side growth will save you." — Casey Winters
 
-Casey categorizes PMs along a spectrum: some are strong on execution (shipping, project management, stakeholder coordination) while others excel at strategy (market understanding, competitive analysis, long-term vision). Most companies need both, but the mix depends on the company stage and business model. His advice to PMs looking to level up: deliberately work on your weaker side. If you're an execution PM, spend time on competitive analysis, market sizing, and long-term planning. If you're a strategy PM, get your hands dirty with shipping and metrics.
+### 5. Metrics That Matter Change by Stage
+
+Casey's metrics framework: zero-to-one companies should track qualitative signals (user love, retention cohorts) not vanity metrics. Growth-stage companies should track absolute growth rate and channel efficiency. Optimization-stage should track unit economics and LTV/CAC. Using the wrong metrics for your stage leads to bad decisions. Many early-stage companies obsess over revenue before they've validated retention — a classic PMF mistake that growth can't fix.^[raw/transcripts/lenny/casey-winters.md]
+
+> "At every stage, there are exactly 2-3 metrics that matter. Everything else is noise. The art is knowing which ones matter for your stage." — Casey Winters
 
 ## Episode Appearances
 
-- [[lenny/casey-winters|Why most product managers are unprepared for the demands of a real startup | Casey Winters]] — Growth framework, brittle→fire strategies, trade-off communication, product skills spectrum
+- [[lenny/casey-winters|Why most product managers are unprepared for the demands of a real startup | Casey Winters]] — Startup PM skills, non-scalable hacks, growth stage framework, marketplace supply, stage-appropriate metrics
 
 ## Related Concepts
 
-- [[growth]]
 - [[product-management]]
-- [[startup-advice]]
-- [[cpo]]
-- [[consumer-tech]]
+- [[growth]]
+- [[startups]]
+- [[marketplace]]
+- [[pmf]]
+- [[growth-stage]]
+- [[metrics]]

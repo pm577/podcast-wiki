@@ -3,54 +3,37 @@ title: April Dunford 2.0
 created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, growth, product-management, marketing, sales, career, strategy, ai-ml]
+tags: ['person', 'positioning', 'product-strategy', 'differentiation', 'marketing', 'saas']
 sources:
   - raw/transcripts/lenny/april-dunford-20.md
 confidence: medium
+key_finding: Positioning Is How You Win in the Market, Not Just How You Describe Yourself
 ---
 
 # April Dunford 2.0
 
-**Role:** Product Leader  
-**Known for:** April Dunford is the author of the must-read best-selling book Obviously Awesome, a definitive guide to product position
+April Dunford's second appearance on Lenny's Podcast focused on the fundamentals of product positioning from her book "Obviously Awesome." She discusses the positioning process she uses with companies, how to find differentiated value, and why most companies get positioning wrong by starting with themselves instead of the market.
 
 ## Key Views
 
-### 1. 40 to 60% of B2B purchase processes end in no decision
+**Positioning Is the Act of Designing a Company's Market-Facing Representation** — Most people think positioning is just messaging or a tagline. It's actually the entire process of defining who you compete with, who your ideal customer is, and what makes you different and better in a way that matters. Done right, positioning informs every decision from product roadmap to sales to pricing. ^[raw/transcripts/lenny/april-dunford-20.md]
 
+**The Double No-See** — Positioning suffers from two problems simultaneously: (1) You know your product too well to see it clearly from a customer's perspective. (2) You're too close to your internal debates and jargon. The solution: bring in an outside facilitator (or a cross-functional team with explicit rules) to create distance and force customer-centric thinking. ^[raw/transcripts/lenny/april-dunford-20.md]
 
-40 to 60% of B2B purchase processes end in no decision. If you scratch on that data, the majority of those aren't saying, "Well, I'm not making a decision to buy something new because the old thing we were doing is better." That's not true at all. In fact, the majority of those is they couldn't figure out how to make a choice confidently. So what they did was they just went to their boss and said, "You know what? Now's not a good time. Let's not do it now. Let's do it next year. Let's just de...
+**Market Category Is a Shortcut for Customers** — A category answers "what is this thing?" You can fight against an existing category (risky, expensive) or fit into one (easier, faster). April's advice: fit into the closest existing category and differentiate within it. Once you're winning, you can expand or redefine the category. Starting as a category creator from day one is rarely the winning move. ^[raw/transcripts/lenny/april-dunford-20.md]
 
-### 2. So great to be back
+**Differentiated Value Is a Pyramid** — Start with your unique capabilities. For each, ask "So what?" to surface the feature's value. Ask "So what?" again to get the business value. This creates a pyramid: capabilities → features → value → business value. Present at the business value level, not the capabilities level. Customers don't buy features — they buy outcomes. ^[raw/transcripts/lenny/april-dunford-20.md]
 
-
-So great to be back. We were talking about this earlier, but it feels like it was so long ago when I did the last one. I was one of the first guests and I feel like, man, you've been running this thing forever. And that was like a year ago. It feels like a lifetime, but it was about a year ago.
-
-### 3. But what you've done with it is amazing, right? The growth in it, everything ...
-
-
-But what you've done with it is amazing, right? The growth in it, everything else, it's super inspirational. Thanks April. I appreciate that.
-
-### 4. You're welcome
-
-
-You're welcome. It's true though. I think everybody looks at your stuff and goes, "What the heck? How does he do it?" The secret is a lot of work.
-
-### 5. So you can think of it is
-
-
-So you can think of it is... So first of all, the pitch structure has two big pieces. So the first is the setup. The setup piece is not about us, it's about the market, our point of view on the market. The second bit is all about our differentiated value. So why pick us over the other guys? So those pieces aren't equal. In a normal sales pitch situation, we don't want to spend all day in the setup part. We want to get to the meat, which is our differentiated value, but we can't skip that bit....
+**The Ten-Step Positioning Process** — (1) Understand the customers who love you, (2) Identify your competitive alternatives, (3) Isolate your unique capabilities, (4) Figure out what's valuable about those capabilities, (5) Find the customer segment that cares most, (6) Define a market category that makes sense, (7) Look at the trends that make your category relevant, (8) Create positioning docs, (9) Test externally, (10) Pressure-test internally. Most companies skip to 9 and 10 without doing 1-8. ^[raw/transcripts/lenny/april-dunford-20.md]
 
 ## Episode Appearances
 
-- [[lenny/april-dunford-20|How to nail your product positioning | April Dunford (Obviously Awesome)]] — *to be summarized*
+- [[lenny/april-dunford-20|How to nail your product positioning | April Dunford (Obviously Awesome)]] — The definitive positioning framework from the world's top positioning expert
 
 ## Related Concepts
 
-- [[growth]]
-- [[product-management]]
+- [[positioning]]
+- [[product-strategy]]
+- [[differentiation]]
 - [[marketing]]
-- [[sales]]
-- [[career]]
-- [[strategy]]
-- [[ai-ml]]
+- [[saas]]

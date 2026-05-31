@@ -3,54 +3,37 @@ title: Asha Sharma
 created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, growth, product-management, leadership, strategy, engineering, ai-ml, data]
+tags: ['person', 'ai-ml', 'product-management', 'leadership', 'platform', 'agents']
 sources:
   - raw/transcripts/lenny/asha-sharma.md
 confidence: medium
+key_finding: Products Are Becoming Living Organisms, Not Artifacts
 ---
 
 # Asha Sharma
 
-**Role:** Product Leader  
-**Known for:** Asha Sharma leads AI product strategy at Microsoft, where she works with thousands of companies building AI products and
+Asha Sharma is Corporate Vice President of Product for Microsoft's AI Platform, overseeing AI infrastructure, foundation models, agent toolchains, applied engineering, responsible AI, and growth for the core AI division. She was previously COO at Instacart, VP of Product at Meta (Messenger, Instagram Direct, Messenger Kids), and sits on the boards of The Home Depot and Coupang. She holds a second-degree black belt in Taekwondo.
 
 ## Key Views
 
-### 1. We're approaching this world in which the marginal cost of the good output is...
+**From Product as Artifact to Product as Organism** — Because AI models improve with every interaction, products are evolving from static artifacts into living organisms that learn and adapt. "These are these living organisms that just get better with the more interactions that happen. This is the new IP of every single company — products that think and live and learn." ^[raw/transcripts/lenny/asha-sharma.md]
 
+**The Org Chart Becomes the Work Chart** — As the marginal cost of good output approaches zero, demand for productivity scales exponentially through agents. The organizational layers needed to manage human throughput collapse. "When all of that happens, the org chart starts to become the work chart. You just don't need as many layers." ^[raw/transcripts/lenny/asha-sharma.md]
 
-We're approaching this world in which the marginal cost of the good output is approaching zero. We're going to see exponential demand for productivity and outputs. The way that you scale to that is with agents. When all of that happens, the org chart starts to become the work chart. You just don't need as many layers. We were chatting about this concept you have that we're moving from product as artifact to product as organism.
+**Planning by Seasons, Not Quarters** — Traditional roadmapping breaks down when model capabilities shift every few months. Asha's team plans by "seasons" rather than quarters: Season 1 was AI prototyping, then reasoning models, now the advent of agents. "How does anyone plan a roadmap when GPT-5 is out?" ^[raw/transcripts/lenny/asha-sharma.md]
 
-### 2. Because these models are so effective at this point, you want to start to tun...
+**Post-Training Is the New Pre-Training** — The biggest differentiator for companies building with AI isn't the base model — it's what you do after: fine-tuning, RLHF, prompt engineering, and building agentic toolchains that adapt models to specific outcomes. This is where most value creation happens. ^[raw/transcripts/lenny/asha-sharma.md]
 
-
-Because these models are so effective at this point, you want to start to tune them to certain types of outcomes. All of a sudden, these are these living organisms that just get better with the more interactions that happen. I think this is the new IP of every single company products that think and live and learn. Planning right now is just crazy. How does anyone plan a roadmap when there's just like, "Okay, GPT-5 is out."
-
-### 3. We think about it as what season are we in? Season one might've been prototyp...
-
-
-We think about it as what season are we in? Season one might've been prototyping of AI and then it was all around models and reasoning models, and now it's the advent of agents. Today, my guest is Asha Sharma. Asha is Chief Vice President of Product for Microsoft's AI platform where she oversees their AI infrastructure, foundation models and agent tool chains, while also leading applied engineering, responsible AI and growth for the core AI division. She was previously COO at Instacart and VP...
-
-### 4. It's been a pretty interesting shift, especially over the last year or so bec...
-
-
-It's been a pretty interesting shift, especially over the last year or so because when I got to Microsoft, it was right after OpenAI and the large foundation models happened, and then immediately after there was this explosion of models, proprietary open frontier models that were pushing the frontier curve and so they were both more efficient and then we're starting to see domain level expertise in a bunch of them and then even more recently, models now can tool call and they can function cal...
-
-### 5. I think why we're seeing the rise of post-training happen is just that the mo...
-
-
-I think why we're seeing the rise of post-training happen is just that the models themselves are so powerful. As of this year, Nathan Lambert did this study that I thought was pretty interesting of all the top leader boards and it showed that once a model hits 30 billion parameters, the CapEx to actually train a model and put billions of tokens into a pre-run doesn't economically make sense and you can start to optimize on the loop. And so yeah, in many ways, I think using your own data is th...
+**The Biggest Leadership Lesson from Satya Nadella** — Working closely with Satya, the single most important leadership lesson is the power of a learning mindset. In a space moving as fast as AI, leaders must be able to change their minds publicly, admit what they don't know, and create an environment where the team feels safe exploring the unknown. ^[raw/transcripts/lenny/asha-sharma.md]
 
 ## Episode Appearances
 
-- [[lenny/asha-sharma|How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma]] — *to be summarized*
+- [[lenny/asha-sharma|How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma]] — Microsoft AI platform strategy and the future of building with AI
 
 ## Related Concepts
 
-- [[growth]]
+- [[ai-ml]]
 - [[product-management]]
 - [[leadership]]
-- [[strategy]]
-- [[engineering]]
-- [[ai-ml]]
-- [[data]]
+- [[agents]]
+- [[platform]]

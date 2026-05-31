@@ -3,54 +3,37 @@ title: Austin Hay
 created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, growth, product-management, leadership, startup, marketing, career, strategy]
+tags: ['person', 'growth', 'marketing-technology', 'martech', 'data', 'analytics']
 sources:
   - raw/transcripts/lenny/austin-hay.md
 confidence: medium
+key_finding: MarTech Is Product Management for Your Marketing Systems
 ---
 
 # Austin Hay
 
-**Role:** VP  
-**Known for:** Austin Hay is currently Head of Marketing Technology at Ramp and was previously the VP of Business Operations at Runway,
+Austin Hay is Head of Marketing Technology at Ramp. Previously he was VP of Business Operations at Runway, VP of Growth at mParticle, and the fourth employee at unicorn Branch Metrics. He teaches MarTech at Reforge and has advised Notion, Airbnb, Walmart, Postmates, and Robinhood on their marketing technology strategies.
 
 ## Key Views
 
-### 1. From 2010 to 2020, we had the golden years of deterministic matching where it...
+**MarTech Is a Product Management Discipline for Systems** — Marketing technology lives at the crossroads of product, growth, engineering, and marketing. It's a product manager whose specific focus is the system — both third-party tools and first-party homegrown platforms. The job is people, process, systems, and platforms — exactly like product management, but for the marketing stack. ^[raw/transcripts/lenny/austin-hay.md]
 
+**The Death of Deterministic Matching** — From 2010-2020, marketers had golden years of deterministic matching (IDFA tied to PII). Now, ad networks have become more complex while it's harder to understand exactly where customers come from. The new skill is making decisions with probabilistic data — building models from 30% of the population and extrapolating to 100%. ^[raw/transcripts/lenny/austin-hay.md]
 
-From 2010 to 2020, we had the golden years of deterministic matching where it was very easy to run an ad and understand with precision who installed the app. Maybe you didn't know their name, but you actually would know their IDFA and you could tie that to their PII. You can't do that anymore. So, what that means is these ad networks are becoming more complex, sophisticated, and interesting, right at the same time that it's harder for marketers to really understand how they're spending money....
+**MarTech Organization Depends on Company Stage** — At early stage, one person handles all MarTech (email, analytics, ads, attribution) as a generalist. As companies grow, MarTech splits into specialties: lifecycle marketing, growth engineering, data engineering, and platform teams. The inflection point is around 50-100 people when a dedicated MarTech hire becomes essential. ^[raw/transcripts/lenny/austin-hay.md]
 
-### 2. We are going to get super nerdy today and we're going to dive deep into the v...
+**Preferred Tools Stack** — Austin's recommended stack includes: Segment or mParticle for CDP, Braze or Customer.io for lifecycle, Mixpanel or Amplitude for analytics, Google Ads and Meta for paid, and Airflow or dbt for data engineering. The key is having a clean, well-instrumented data layer that connects all tools. ^[raw/transcripts/lenny/austin-hay.md]
 
-
-We are going to get super nerdy today and we're going to dive deep into the very cool field of MarTech. How excited are you about us chatting about MarTech?
-
-### 3. I'm so excited
-
-
-I'm so excited. Because it seems like you might be one of the first people in product and growth to talk about MarTech. Wow, okay. That makes me even more excited. Yeah, it's something that I haven't fully understood and so I'm excited to dig real deep. So, let's start with just the basics. What exactly is MarTech and then what does someone who is in MarTech do?
-
-### 4. Such a good question
-
-
-Such a good question. Because marketing technology is like this very amorphous, cross-functional discipline that lives at the crossroads of product and growth and engineering and marketing. It brings together processes and systems from a wide range of disciplines. And I think really the way to think about marketing technology is it's a product manager whose specific role and focus is the system or the third party or first party platform because marketing technology can mean a collection of th...
-
-### 5. At some levels there's maybe no difference
-
-
-At some levels there's maybe no difference. There's a lot of startups I would say are 30 people or less where you have a growth team and your growth acquisition person is using a CDP to send data to their ad network to run their ads because that's part of their job and maybe they are the MarTech person. And actually you find a lot of people who consider themselves MarTech professionals now having started in growth or user acquisition roles because they had to just use tools in order to get th...
+**The Best Interview Question for MarTech Hires** — Ask candidates to design the ideal MarTech stack for a hypothetical company at a specific stage. This tests systems thinking, understanding of tool tradeoffs, and ability to prioritize. Great answers include migration paths, cost considerations, and how the stack evolves as the company scales. ^[raw/transcripts/lenny/austin-hay.md]
 
 ## Episode Appearances
 
-- [[lenny/austin-hay|The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)]] — *to be summarized*
+- [[lenny/austin-hay|The ultimate guide to MarTech | Austin Hay (Reforge, Ramp, Runway)]] — Marketing technology strategy, tools, and team building
 
 ## Related Concepts
 
 - [[growth]]
+- [[marketing-technology]]
+- [[data]]
+- [[analytics]]
 - [[product-management]]
-- [[leadership]]
-- [[startup]]
-- [[marketing]]
-- [[career]]
-- [[strategy]]

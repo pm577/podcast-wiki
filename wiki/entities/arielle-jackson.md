@@ -3,54 +3,37 @@ title: Arielle Jackson
 created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, growth, product-management, startup, marketing, sales, strategy, ai-ml]
+tags: ['person', 'marketing', 'brand', 'naming', 'startups', 'positioning']
 sources:
   - raw/transcripts/lenny/arielle-jackson.md
 confidence: medium
+key_finding: A Name Should Be Evocative, Not Descriptive
 ---
 
 # Arielle Jackson
 
-**Role:** Product Leader  
-**Known for:** What makes a great brand? After working at Google and Square, Arielle Jackson has spent the past eight years consulting 
+Arielle Jackson spent nine years at Google helping grow Gmail from side project to hundreds of millions of users, then went to Square where she helped launch the Square Stand. She's consulted 100+ startups on brand and marketing (Patreon, Loom, Front, Eero, Maven), teaches a startup brand strategy course, and is Marketer in Residence at First Round Capital.
 
 ## Key Views
 
-### 1. So over time, a word can come to mean something that is beyond what that actu...
+**A Name Should Be Evocative, Not Descriptive** — Jackson has named over 30 companies. Her preference is suggestive names that make sense when you hear what the company does but don't describe it literally. Examples: Seesaw (edtech platform where work goes back and forth between teacher, parent, student), Maven (Yiddish for "one who understands from experience" — perfect for cohort-based classes taught by operators). ^[raw/transcripts/lenny/arielle-jackson.md]
 
+**Empty Vessel Names Work — They Just Take More Marketing** — Names like Yahoo, Google, and Eero don't inherently mean anything product-related. They can be memorable and evocative, but they require massive marketing spend and consistency over time to build meaning. Apple is the ultimate example: a generic word with no connection to computers, made iconic through relentless brand investment. ^[raw/transcripts/lenny/arielle-jackson.md]
 
-So over time, a word can come to mean something that is beyond what that actual word means. Like Disney means magic today. Volvo means safety. Those names are not good. If I just put it in a spreadsheet or one of those lists, no one would pick it. So that's kind of what I mean, that the name is just part of the overall marketing or the overall brand and a bad name with a really great company with great company strategy, great marketing is going to be great over time. And a good name is just g...
+**The Best Names Pass the "Call Your Mom" Test** — A good name should be short, easy to spell, easy to say over the phone, and memorable. For B2B companies where sales happens over the phone, names that are hard to spell or pronounce (like a food name for an enterprise product) create friction. "I'm calling from Lettuce" doesn't work — "I'm calling from Lattice" does. ^[raw/transcripts/lenny/arielle-jackson.md]
 
-### 2. Thanks so much for having me
+**Positioning Before Naming** — Before naming anything, do the positioning work: who is the customer, what's the market context, what alternatives exist, what makes you different and better. The name is the capstone of positioning, not the starting point. Square Stand's positioning: "Turn your iPad into a point of sale that you'd be proud to have on your counter." ^[raw/transcripts/lenny/arielle-jackson.md]
 
-
-Thanks so much for having me. It's great to be here. It's absolutely my pleasure. I've read so much of your writing online. You've done a lot of writing, which I found really helpful. And so I'm really jazzed to be digging into all kinds of really good stuff. Before we get into some of the meat, just a couple questions that I had in my mind. You've worked with so many amazing companies, Google, Square, Loom, Patreon, Front. So many others. I don't want to keep going. What's been either your f...
-
-### 3. Gosh, it's like asking me to choose my favorite son
-
-
-Gosh, it's like asking me to choose my favorite son. I'm like, gosh, I can't really like pick one. That'll be the next question.
-
-### 4. I would probably say that my favorite project, and this is because they get r...
-
-
-I would probably say that my favorite project, and this is because they get reminded of it on a daily basis was working at on the Square stand at Square. It was the first time I ever worked on hardware and our joint Square was 140 people. We had no marketing function. We had a couple marketing people. We had no product managers and the hardware team was running the show on launching this new product that was supposed to get us up market into brick and mortar.
-
-### 5. And anyway, I was running event marketing at the time and giving away a bunch...
-
-
-And anyway, I was running event marketing at the time and giving away a bunch of those readers that you stick into a phone for free and having a lot of small merchants use. I volunteered to run the launch of this product as a product marketer for the first time. And it was just so fun, doing everything from positioning it, figuring out how we were going to talk about this beautiful new piece of hardware that would turn your iPad into a real point of sale.
+**Living the Customer Experience Is a Superpower** — Jackson got her job at Square because she was a Square merchant (she made and sold jewelry at craft fairs). Using her own product gave her authentic insight into the small-merchant experience that informed every marketing decision. Being a user before being a marketer is the ultimate competitive advantage. ^[raw/transcripts/lenny/arielle-jackson.md]
 
 ## Episode Appearances
 
-- [[lenny/arielle-jackson|The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)]] — *to be summarized*
+- [[lenny/arielle-jackson|The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)]] — Naming, branding, and PR for startups
 
 ## Related Concepts
 
-- [[growth]]
-- [[product-management]]
-- [[startup]]
 - [[marketing]]
-- [[sales]]
-- [[strategy]]
-- [[ai-ml]]
+- [[brand]]
+- [[positioning]]
+- [[startups]]
+- [[naming]]

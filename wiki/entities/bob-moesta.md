@@ -3,54 +3,37 @@ title: Bob Moesta
 created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, growth, product-management, leadership, career, strategy, engineering, ai-ml]
+tags: ['person', 'jobs-to-be-done', 'product-management', 'innovation', 'user-research', 'strategy']
 sources:
   - raw/transcripts/lenny/bob-moesta.md
 confidence: medium
+key_finding: Context Makes the Irrational Rational
 ---
 
 # Bob Moesta
 
-**Role:** Product Leader  
-**Known for:** Bob Moesta, co-creator of the Jobs to Be Done framework, recently published a new book, Job Moves. Drawing from intervie
+Bob Moesta is the co-creator of the Jobs to Be Done framework alongside Clay Christensen. He has started eight companies and is currently CEO of the Rewired Group, helping companies unlock hidden insights. He recently published "Job Moves," applying JTBD to career transitions based on interviews with over 1,000 people.
 
 ## Key Views
 
-### 1. I think one of the biggest misconceptions around Jobs to Be Done is this noti...
+**Context Makes the Irrational Rational** — The biggest misconception about JTBD is focusing on pain/gain rather than context/outcome. When someone's behavior seems irrational, it's because you're missing their context. "Nine times out of 10, it's because you don't have the rest of the story." Understanding the full context — not just the functional problem — reveals why people do what they do. ^[raw/transcripts/lenny/bob-moesta.md]
 
+**Progress, Not Solutions** — Customers don't "hire" products for features. They hire them to make progress in a specific circumstance. The progress includes functional, emotional, and social dimensions. A milkshake isn't purchased for nutrition — it's hired by a commuter to make the drive to work more interesting and to feel virtuous about a "healthy" breakfast. ^[raw/transcripts/lenny/bob-moesta.md]
 
-I think one of the biggest misconceptions around Jobs to Be Done is this notion that it's pain and gain as opposed to context and outcome. When you hear somebody's story and it seems irrational, like we'll have people go, "Oh my God, that's an anomaly. That doesn't happen." But what you realize is that the context makes the irrational rational. So the moment you hear a story, you go, "I can't believe that," nine times out of 10, it's because you don't have the rest of the story. And so part o...
+**The Struggle Moment** — JTBD interviews should focus on the moment of struggle — the specific instance when a person decided they needed to change. Not hypotheticals, not generalities. Ask: "Tell me about the last time you realized you needed a different solution." The details of that moment reveal the real job. ^[raw/transcripts/lenny/bob-moesta.md]
 
-### 2. Thanks, Lenny
+**When JTBD Doesn't Apply** — The framework is powerful for existing behaviors people want to change (switching jobs, buying a car). It's less useful for: (1) truly novel behaviors people have never experienced (the first web browser), (2) habit-adjacent improvements (make my existing tool slightly better), and (3) purely emotional purchases without functional progress. ^[raw/transcripts/lenny/bob-moesta.md]
 
-
-Thanks, Lenny. Excited to be here. Big fan. Ah, I'm a big fan of yours. I wasn't even super familiar with you before we started organizing this podcast chat.And then as you saw, I posted on LinkedIn what questions people had for you and around Jobs to Be Done in general. And I've never seen so many comments and questions and so much passion for guests I had on, I think there was over-
-
-### 3. I've worked with all of them, they're great people and fun to work with
-
-
-I've worked with all of them, they're great people and fun to work with. I just had no idea there's so much passion for Jobs to Be Done. I have a million questions for you, a lot of them coming from the audience, some from me. So I'm excited to dig into a lot of this stuff.
-
-### 4. All right, let's dive in
-
-
-All right, let's dive in. Okay, so I thought it'd be useful just to start with the very basics briefly, just what is the simplest way to understand the Jobs to Be Done framework?
-
-### 5. I think the easiest way to think about it is that I'm an engineer, electrical...
-
-
-I think the easiest way to think about it is that I'm an engineer, electrical, basically have been building product for almost 30 years and one of the lies I was told growing up was build it and they will come. And so we always think about it from a technological, how do I build this thing? And all right, who wants this product? And what I realized very early in my career is that really it didn't work, I couldn't make it work.
+**The Four Forces of Progress** — Every decision to change is driven by four forces: Push (dissatisfaction with current situation), Pull (attraction of the new solution), Anxiety (fear of change), and Habit (inertia of current behavior). To drive adoption, increase push and pull while decreasing anxiety and habit — most product teams only focus on the pull side. ^[raw/transcripts/lenny/bob-moesta.md]
 
 ## Episode Appearances
 
-- [[lenny/bob-moesta|How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \"Job Moves”)]] — *to be summarized*
+- [[lenny/bob-moesta|How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves")]] — JTBD applied to products and careers
 
 ## Related Concepts
 
-- [[growth]]
+- [[jobs-to-be-done]]
 - [[product-management]]
-- [[leadership]]
-- [[career]]
+- [[user-research]]
+- [[innovation]]
 - [[strategy]]
-- [[engineering]]
-- [[ai-ml]]

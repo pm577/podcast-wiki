@@ -3,54 +3,37 @@ title: Camille Ricketts
 created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, growth, product-management, leadership, marketing, career, mental-health, strategy]
+tags: ['person', 'marketing', 'community', 'content', 'growth', 'notion']
 sources:
   - raw/transcripts/lenny/camille-ricketts.md
 confidence: medium
+key_finding: Community-Led Growth Starts with Content Market Fit
 ---
 
 # Camille Ricketts
 
-**Role:** Product Leader  
-**Known for:** Camille Ricketts began her career in journalism, at the Wall Street Journal, in 2006. In 2010 she joined Tesla, where sh
+Camille Ricketts was the first marketing hire and longtime Head of Marketing at Notion, where community-led growth was a core driver of the company's rise. Previously she was Head of Content and Marketing at First Round Capital (launched the First Round Review), did content marketing at Kiva, and worked in communications at early Tesla alongside Elon Musk. She started her career as a journalist at the Wall Street Journal.
 
 ## Key Views
 
-### 1. The way that you think about product market fit, you have to think about cont...
+**Content Market Fit Comes Before Product Market Fit** — The same rigor you apply to product-market fit applies to content: who is your audience, what do they need in their lives, what causes them anxiety, and how can you create content that addresses those needs? Notion's early content wasn't about features — it was about helping knowledge workers organize their thinking. This created an audience that was primed to love the product. ^[raw/transcripts/lenny/camille-ricketts.md]
 
+**Community-Led Growth Is a Commitment, Not a Tactic** — Notion's community wasn't a growth hack — it was a long-term investment in user relationships. The community provided support, templates, inspiration, and evangelism that Notion couldn't have built in-house. But it took years of consistent investment before the ROI was obvious. Most companies give up too early because they treat community as a short-term growth lever. ^[raw/transcripts/lenny/camille-ricketts.md]
 
-The way that you think about product market fit, you have to think about content market fit. So even though content feels like it's running adjacent to the actual product that you're putting out there, you still have to think about who is my audience? Who is the audience that I really want to have? Who is the audience that is going to be drawn to this most? Who are they? What is it that they really need in their lives? Even abstracting content from it at all. What is it that they need to get ...
+**The First Round Review Model: Invest in Ideas, Not Promotion** — The First Round Review succeeded because it focused on genuinely useful content for founders, not on promoting First Round's portfolio. By teaching valuable frameworks (with proper attribution and storytelling), the Review built trust and authority that made First Round a destination for founders — not just another VC blog. ^[raw/transcripts/lenny/camille-ricketts.md]
 
-### 2. Hello there
+**Working at Early Tesla: Chaos as Feature** — At early Tesla, the chaos wasn't a bug — it was the natural state of a company trying to do something that had never been done. Working alongside Elon meant constant intensity, rapid context switching, and an expectation that everyone would figure things out. The lesson: great companies in their early days look messy from the inside. ^[raw/transcripts/lenny/camille-ricketts.md]
 
-
-Hello there. Thank you so much for having me. Absolutely, my pleasure. You have such a fascinating background working at so many world-class companies with so many fascinating people. Could you just take a minute to talk about some of the wonderful things you've done in your career just to set a little context for folks?
-
-### 3. I feel like it's been a quite circuitous path, but definitely has taken me to...
-
-
-I feel like it's been a quite circuitous path, but definitely has taken me to some interesting places. I started off as a journalist at the Wall Street Journal and then found my way into communications and marketing at Tesla Motors where part of my responsibility there was to sit to Elon's right and make sure he had all the data he needed at his fingertips when talking to the press, which was deep end of the pool on the PR learning. And then after that, found my way to First Round Capital whe...
-
-### 4. I mean, it was a long time ago, so I'll caveat that
-
-
-I mean, it was a long time ago, so I'll caveat that. This was before Model S came out even. So a lot of my work was, and this was a great opportunity, but driving around in the Roadster and talking to journalists and letting reporters ride in the car, which was very seductive and I think maybe just a little unfair from a PR standpoint. But in terms of what I learned, that was really the first job that I had that was necessitating just being incredibly on point with all the information. So mak...
-
-### 5. I think that that was the place where you just needed to be so on your game
-
-
-I think that that was the place where you just needed to be so on your game. Game face every single day. Which is a wonderful skill to learn. And then I think there were other moments in my career where just the stakes might have been a little bit higher. Certainly at Notion every day felt like we're building this thing together and we're in this very special moment. So yeah, I think there was a mix there. Speaking of Notion, I think you mentioned this and if not, you were the first marketing...
+**Content Marketing Should Be a Product** — Treat your content like a product: have a clear value proposition, iterate based on engagement data, invest in quality over quantity, and build feedback loops. The best content programs have a clear "job to be done" for their audience — the same JTBD rigor applied to the product should apply to the content. ^[raw/transcripts/lenny/camille-ricketts.md]
 
 ## Episode Appearances
 
-- [[lenny/camille-ricketts|How Notion leveraged community to build a $10B business | Camille Ricketts]] — *to be summarized*
+- [[lenny/camille-ricketts|How Notion leveraged community to build a $10B business | Camille Ricketts]] — Community-led growth and content marketing at Notion
 
 ## Related Concepts
 
-- [[growth]]
-- [[product-management]]
-- [[leadership]]
 - [[marketing]]
-- [[career]]
-- [[mental-health]]
-- [[strategy]]
+- [[community]]
+- [[content]]
+- [[growth]]
+- [[notion]]

@@ -3,54 +3,37 @@ title: Archie Abrams
 created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, growth, marketing, sales, career, strategy, ai-ml, culture]
+tags: ['person', 'growth', 'ecommerce', 'experimentation', 'product-management', 'leadership']
 sources:
   - raw/transcripts/lenny/archie-abrams.md
 confidence: medium
+key_finding: Optimize for Cohort GMV, Not Churn
 ---
 
 # Archie Abrams
 
-**Role:** Executive Coach  
-**Known for:** Matt Abrahams is a renowned communication expert, with decades of teaching, coaching, and consulting experience. At Stan
+Archie Abrams is VP of Product and Head of Growth at Shopify, where he leads an org of over 600 people across product, design, engineering, data ops, and growth marketing. Shopify represents ~10% of all US ecommerce, processing $235B in GMV (roughly the size of Finland's economy).
 
 ## Key Views
 
-### 1. When you have teams naturally break up the world into different funnel stages...
+**Optimize for Cohort GMV, Not Churn** — Shopify's growth team optimizes for total GMV per cohort, not retention. Most businesses fail, but the few that succeed (Allbirds, FIGS, etc.) make the entire economics work. This is like angel investing: most bets fail, but the winners cover the portfolio. Shopify lowers barriers to entry, profits from payments tied to merchant success, and lets power-law dynamics drive returns. ^[raw/transcripts/lenny/archie-abrams.md]
 
+**30-40% of Short-Term Experiment Lifts Disappear** — When Shopify re-examines experiments after a year, 30-40% show no long-term GMV lift despite short-term gains. Up-funnel metrics often pull forward demand without creating lasting value. The most interesting cases are when experiments uncover valuable merchant pockets that short-term metrics missed entirely. ^[raw/transcripts/lenny/archie-abrams.md]
 
-When you have teams naturally break up the world into different funnel stages or different points in the journey, it gets very seductive to look at my part of the funnel and what's my conversion rate through that part of the funnel, right? And then the team starts to optimize for that conversion rate as their north star. But in practice, it's actually almost always easier to just make it harder to do the thing right before your step in the funnel to increase your conversion rate. Instead of I...
+**Long-Term Holdout Experiments** — Shopify runs permanent holdout groups and automatically re-evaluates experiments 1, 2, and 3 years later. This enables learning that short-term metrics can't capture. The practice trained the growth team to be humble about claimed impact and to refine which input metrics actually correlate with long-term value. ^[raw/transcripts/lenny/archie-abrams.md]
 
-### 2. The way we think about churn is really going back to Shopify as a kind of our...
+**Three Time Horizons, One Company** — Shopify structures its product org into three groups on different time horizons: Core Product (100-year vision, no KPIs, taste-driven), Merchant Services (medium-term, building payments/shipping), and Growth (end-to-end customer journey). Core teams are banned from using metrics to guide the roadmap — decisions come from intuition and long-term vision. ^[raw/transcripts/lenny/archie-abrams.md]
 
-
-The way we think about churn is really going back to Shopify as a kind of our mission and what we want to do, which is to increase the amount of entrepreneurship on the internet. And so as a business, we want to make it as easy as possible to get started with your online store, with your business.
-
-### 3. Correct
-
-
-Correct. And that's really a different insight than most SaaS companies that they get a customer, they really never want that person to leave. And we want to lower that barriers to get started and be successful. One of the main reasons companies focus so much on churn and retention is because it costs them a lot of money to drive new customers and users. I imagine there's almost an implied it's really cheap for you all to find new customers because of maybe the brand and word of mouth. Is tha...
-
-### 4. I think that definitely has some dynamics
-
-
-I think that definitely has some dynamics. I think the bigger factor is the monetization model. For most SaaS companies, they're making from a subscription, right? 29 bucks a month is the only way that they're going to really monetize. Whereas our business works, you have folks who are paying a subscription. But as folks get bigger, because we're monetizing on that GMV that that merchant is producing or the revenue the merchant is producing in the form of payments and other services, it allow...
-
-### 5. This way is thinking about a cohort of users we acquire in a given time perio...
-
-
-This way is thinking about a cohort of users we acquire in a given time period, say a quarter. And then over the next year, two years, three years, four years, five years, how much GMV have those merchants produced in total? Not about per merchant basis, but in total, did that cohort generate GMV? And if they generate GMV, that will translate into revenue and gross profit and all of those things that we can then use to reinvest in growing the business. So it's really looking at the total valu...
+**Monetary Friction Can Unlock Hidden Winners** — Reducing early monetary friction (trial discounts, waived fees) doesn't necessarily attract low-quality merchants. It can causally make borderline entrepreneurs successful by giving them more time to find product-market fit. The very best merchants often come from these monetary-friction-reducing experiments. ^[raw/transcripts/lenny/archie-abrams.md]
 
 ## Episode Appearances
 
-- [[lenny/archie-abrams|How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)]] — *to be summarized*
+- [[lenny/archie-abrams|How Shopify grows: long-term holdouts, optimizing for churn, and the 100-year vision | Archie Abrams]] — Shopify's unique approach to growth and experimentation
 
 ## Related Concepts
 
 - [[growth]]
-- [[marketing]]
-- [[sales]]
-- [[career]]
-- [[strategy]]
-- [[ai-ml]]
-- [[culture]]
+- [[experimentation]]
+- [[ecommerce]]
+- [[product-management]]
+- [[leadership]]

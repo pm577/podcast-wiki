@@ -3,54 +3,62 @@ title: Adam Grenier
 created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, go-to-market, growth-marketing, acquisition-channels, leadership, product-strategy]
+tags: [person, growth-marketing, cmo, growth, acquisition, uber, masterclass, mental-health, improv]
 sources:
-  - raw/transcripts/20vc/20vc-2023-03-15-20growth-the-inside-story-to.md
-  - raw/transcripts/lenny/adam-grenier.md
+  - episodes/lenny/adam-grenier
 confidence: high
+key_finding: When the market shifts, assume you no longer have product-market fit — your entire customer base may have changed, not just the next 10%.
 ---
 
 # Adam Grenier
 
-**Role:** Former Head of Growth Marketing & Innovation at Uber, VP of Product & Marketing at Lambda School, VP of Marketing at MasterClass; now advises companies on growth  
-**Known for:** Building Uber's growth marketing infrastructure, pioneering the growth CMO role, and a three-part framework for evaluating emerging acquisition channels.
+**Role:** Former Head of Growth Marketing and Innovation at Uber, former VP of Marketing at MasterClass  
+**Known for:** Emerging acquisition channel framework, the "Growth CMO" concept, improv-in-business methodology, and candid conversations about burnout vs depression in tech.
 
 ## Key Views
 
-### 1. Assume you've lost product-market fit in a changing market
+### 1. The Emerging Channel Framework — Three Ingredients
 
-Adam's opening advice in any economic shift: start by assuming you no longer have product-market fit. You had fit in a *different* market. Don't reflexively chase a new acquisition channel — the entire customer base may have changed. Fix the product-market fit first, then layer on channels.
+Before investing in any new acquisition channel (TikTok, Clubhouse, VR, influencers, OTT, podcast ads), evaluate three things:
 
-> "Start by assuming you no longer have product market fit, because you had product market fit in a different market. If you just assume you need to launch a new channel to fix this problem, you're going to be wrong." — Adam Grenier
+1. **Overlap** — Is there genuine alignment between what the channel does well, what your customers need, and what your company's growth goals are? Spotify + Clubhouse made sense (audio-first). Spotify + the photo-first app Paparazzi did not.
+2. **Channel DNA** — Where is the channel on its growth trajectory? Early channels change fast and may disappear. Most importantly, study the channel's own monetization strategy — if your business model aligns with theirs, they will partner with you. Adam got Facebook mobile ads alpha access by positioning Hotel Tonight as a non-gaming case study for their travel category.
+3. **Company DNA** — Does your org have the risk appetite to be a true first mover? Do you have spare headcount? Do you already have foundational channels working (Google, Facebook) before exploring? Rarely should a new channel be the team's full focus.^[episodes/lenny/adam-grenier]
 
-### 2. Three-ingredient framework for evaluating emerging channels
+### 2. Market Shifts Invalidate PMF — Start Over
 
-Adam's framework for deciding whether to invest in a new channel (TikTok, Clubhouse, VR, etc.) has three parts: **(1) Strengths overlap** — does the channel's strengths (e.g., Clubhouse's audio-first live conversation) align with your customer needs and company goals? **(2) Channel DNA** — where is the channel in its growth curve? Early channels change fast and may die. Also evaluate their monetization strategy — your goals aligning with the channel's monetization gives you a built-in partnership advantage. **(3) Risk acceptance** — be honest about the commitment level. Early channels require cycles that might vanish when the platform pivots.
+Adam's most urgent advice for companies navigating economic changes: *"Start by assuming you no longer have product-market fit, because you had product-market fit in a different market."* In a downturn or market shift, your whole customer base changes, not just the incremental next 10%. If you assume you just need a new channel, you'll be wrong — the problem runs deeper. Re-establish fit first, then rebuild the growth model on top of it.^[episodes/lenny/adam-grenier]
 
-> "The piece I see people ignore most is the strengths of the channel. They just want to know if a channel is hot or not. 'I don't need a Notion Clubhouse channel this week.'" — Adam Grenier
+### 3. The Growth CMO — Product and Marketing, Married at the Hip
 
-### 3. Monetization alignment unlocks channel partnerships
+Most traditional CMOs fail at product-driven companies because they operate with a 1920s/1950s mindset where marketing owned "the box." The modern Growth CMO is: **data-driven** (measuring retention, brand, and consideration — not just clicks), **iterative** (treating brand the same way product treats features — as something to be experimented on in sprints), and **experimentation-minded** (testing the whole funnel, not just channels). Adam's prescription: marketing leaders should learn agile product development. "If you and your product leader aren't married at the hip, you're missing out on tons of compounding opportunity."^[episodes/lenny/adam-grenier]
 
-Adam's insight: if your business model aligns with how a channel makes money, you become a strategic partner rather than just another advertiser. At Hotel Tonight, he became an alpha tester for Facebook's mobile ads by positioning: "You need non-gaming case studies, and I have five years of mobile ad experience." The channel will invest in helping you succeed when your success is their success.
+### 4. Improv in Business — "Yes, And" and the Gift of Details
 
-### 4. Improv skills are directly applicable to growth leadership
+Adam trained at Second City and ImprovOlympic and applies improv to business directly:
+- **"Yes, and..."** — Never deny a teammate's idea; accept it and build. Cross-functional tension dissolves when both sides accept that both truths can coexist.
+- **The Gift of Details** — Specificity unlocks creativity. Saying "MasterClass creates educational entertainment" is fine; saying "MasterClass solves deep curiosities the way a biography would" opens up the entire competitive landscape and user psychology.
+- **Recommendation**: Everyone should take improv 101. It's not about being funny — it's about getting comfortable with change, teamwork, and building off each other.^[episodes/lenny/adam-grenier]
 
-Adam draws three principles from improv that apply to business: **(1) "Yes, and..."** — accept and build on ideas rather than blocking them. **(2) The gift of details** — specific, vivid details give teams more to work with than vague statements. **(3) Public accountability** — tell your team what skill you're working on and ask them to hold you accountable. He recommends improv classes as team bonding that directly builds growth skills.
+### 5. Burnout vs. Depression — The Adaptability Signal
 
-> "If I say 'Masterclass creates content that's both education and entertainment,' that's interesting. But if I say '...to solve people's deep curiosities in the way a biography would,' that opens up the exact problem you're trying to solve." — Adam Grenier
+Adam's personal framework for distinguishing the two: **depression seeps into everything; burnout stays at work.** When he's exhausted from work, he still enjoys improv class, community drinks, time with family. When he's depressed, he cancels those things. The single biggest early signal he watches for in himself and his teams: **a drop in adaptability.** Growth and marketing pros are drawn to the work *because* it's hard and changing — when someone starts minimizing challenge, seeking the easy path, or shutting down new ideas, that's burnout, not mere exhaustion. His advice: find a therapist (check company benefits), build a circle of 5-6 friends where mutual transparency is safe, and use meditation apps like Waking Up (learning *about* meditation, not just how to meditate).^[episodes/lenny/adam-grenier]
 
-### 5. Burnout requires the same frameworks you apply to growth
+### 6. Channel Exploration: Don't Let It Bleed Past a Quarter
 
-Adam brings real talk about mental health in tech: the same experimentation mindset you apply to channels should apply to your own wellbeing. He advocates being public about struggles, setting team-level goals around psychological safety, and recognizing that burnout patterns follow the same S-curves as growth — you need to catch them before they flatten you.
+Most new channels fail (~5% success rate for truly new platforms). Adam's rule of thumb: give a channel no more than one quarter. Within a month you can "fish" — put bait in the water to see where the fish are. If the channel requires heavy up-front investment (e.g., $20K video content), you may need more time, but directionally it should be improving within a quarter or it goes back on ice. Always define what success looks like beforehand — for a soft channel like Clubhouse that might be "can we grow room attendance by 10% each time?" rather than clicks or conversions.^[episodes/lenny/adam-grenier]
 
 ## Episode Appearances
 
-- [[20vc-2023-03-15-20growth-the-inside-story-to]] — *to be summarized*
-- [[lenny/adam-grenier|When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)]] — Emerging channel evaluation framework, growth CMO role, burnout
+- [[lenny/adam-grenier|When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)]]
 
 ## Related Concepts
 
-- [[go-to-market]]
-- [[growth-marketing]]
 - [[acquisition-channels]]
-- [[product-strategy]]
+- [[growth-marketing]]
+- [[product-market-fit]]
+- [[growth-cmo]]
+- [[improv-for-business]]
+- [[mental-health]]
+- [[burnout]]
+- [[experimentation]]

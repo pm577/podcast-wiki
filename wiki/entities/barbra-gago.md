@@ -3,54 +3,37 @@ title: Barbra Gago
 created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, growth, product-management, leadership, startup, marketing, sales, career]
+tags: ['person', 'marketing', 'brand', 'category-creation', 'go-to-market', 'saas']
 sources:
   - raw/transcripts/lenny/barbra-gago.md
 confidence: medium
+key_finding: Category Creation Requires Validation, Education, and Thought Leadership
 ---
 
 # Barbra Gago
 
-**Role:** Founder; CEO  
-**Known for:** Barbra Gago is the founder and CEO of Pando, where she’s democratizing career progression. Previously she worked as the 
+Barbra Gago is founder and CEO of Pando, democratizing career progression. Previously she was CMO and Global Head of Marketing at Miro, where she helped create the visual collaboration category. Before that she was VP of Marketing at Greenhouse (bringing the product to market) and Head of Marketing at Culture Amp (closing their first 50 customers).
 
 ## Key Views
 
-### 1. When you're building a category, you need to make sure that there is a catego...
+**Category Creation Requires Validation and Education** — Building a new category means three things simultaneously: validating the category exists (through analyst reports, directory sites, buyer intent signals), creating thought leadership explaining why the category matters, and educating buyers that there is a category they should budget for. You can't just declare a category — it must be confirmed by the market. ^[raw/transcripts/lenny/barbra-gago.md]
 
+**Miro Didn't Just Build a Product — It Built a Category** — Miro didn't position itself as "whiteboarding software." It created and owned "visual collaboration" as a category. This required consistent messaging across every touchpoint, content that taught people what visual collaboration meant, and analyst relations to get Gartner and Forrester to recognize the space. ^[raw/transcripts/lenny/barbra-gago.md]
 
-When you're building a category, you need to make sure that there is a category that's validated by analysts and directory sites and things like that. But also, you want to have a lot of traction in terms of thought leadership like why is this the category? What are the unique value propositions of this particular thing? What are the pain points it solves? And then of course, getting a lot of content around because when you're generating a new category, you're also needing to educate buyers t...
+**Rebranding Is a Signal, Not a Fix** — A rebrand should signal a fundamental shift in strategy, market, or audience — not fix a bad logo or color scheme. When Miro (formerly RealtimeBoard) rebranded, it signaled the transition from a real-time whiteboarding tool for engineers to an enterprise visual collaboration platform for everyone. If nothing strategic has changed, a rebrand is wasted. ^[raw/transcripts/lenny/barbra-gago.md]
 
-### 2. Thanks, Lenny
+**Opinionated Software Wins** — Software that takes a strong point of view about how work should get done attracts passionate users and repels the wrong ones. Miro's opinion: collaboration should be visual, async-first, and inclusive of everyone in the organization. This conviction guided product decisions, from infinite canvas to template libraries. ^[raw/transcripts/lenny/barbra-gago.md]
 
-
-Thanks, Lenny. Excited to be here. Just to start off and set a little context for our listeners, can you give us a 55-second background on some of the wonderful things you've done in your career and what you're up to now?
-
-### 3. Definitely
-
-
-Definitely. So I've spent pretty much my entire career in B2B SaaS tech, building and scaling through hyper growth, oftentimes with disruptive technologies at the center of people, tech, future of work. I would say I helped bring products like CultureAmp and Greenhouse to market in the people space. Before that, I did some work in enterprise social networking in the Yammer days. And most recently, I was the CMO at Miro where I also led the rebrand and introduced that product to the world, whi...
-
-### 4. They're both great examples because in one, we did create a new category and ...
-
-
-They're both great examples because in one, we did create a new category and in the other, we tried and abandoned ship. With Miro, I think when I joined the company, there was this concept of an online whiteboard, which also is a category, but it's a much smaller category and it wasn't something that a lot of people searched for. And I think the biggest motivating factor of thinking about category creation at Miro was how do we become something really big and needed by every company and not j...
-
-### 5. When you're thinking about category creation, it's really, for us, it was rea...
-
-
-When you're thinking about category creation, it's really, for us, it was really about the scope of what we're trying to do and not wanting to be in something too small. And I think with Miro, the platform that it is, there is so much possibility. I used to joke that it was, even as a company, we were the ever expanding universe. There's just so much to do there, but online whiteboard was really small.
+**Go-to-Market for a New Category Is Different** — When you're creating a category, you can't just compete on features. Your GTM must teach the market why the old way is broken and what the new approach means. This means heavy investment in content marketing, analyst education, community building, and customer case studies that demonstrate the paradigm shift in action. ^[raw/transcripts/lenny/barbra-gago.md]
 
 ## Episode Appearances
 
-- [[lenny/barbra-gago|Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)]] — *to be summarized*
+- [[lenny/barbra-gago|Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)]] — How to build a category, brand, and opinionated software
 
 ## Related Concepts
 
-- [[growth]]
-- [[product-management]]
-- [[leadership]]
-- [[startup]]
 - [[marketing]]
-- [[sales]]
-- [[career]]
+- [[brand]]
+- [[category-creation]]
+- [[go-to-market]]
+- [[saas]]

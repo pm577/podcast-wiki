@@ -1,79 +1,61 @@
 ---
 title: Rachel Lockett
-created: 2026-05-30
+created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, coaching, leadership, executive]
+tags: [person, executive-coaching, leadership, difficult-conversations, high-trust-teams, stripe, pinterest, hr]
 sources:
   - raw/transcripts/lenny/rachel-lockett.md
 confidence: high
 ---
 
-
 # Rachel Lockett
 
-Rachel Lockett is a sought-after executive coach and former HR leader at [[Stripe]] and Pinterest. She works with CEOs, founders, and tech leaders on emotional intelligence, resilience, and leadership development. She also works with Alpine Investors' portfolio companies on their "People First Operating Rhythm."
+**Role:** Executive coach and former HR leader at Stripe and Pinterest; works with CEOs, founders, and tech leaders on emotional intelligence, resilience, and leadership skills  
+**Known for:** Frameworks for having difficult conversations; building high-trust teams; coaching leaders to stop having all the answers; the GROW coaching technique; live coaching demonstrations on the podcast.
 
-## Key Frameworks
+## Key Views
 
-### The Enthusiastic Rehire Test
+### 1. Coach, Don't Solve: Let People Find Their Own Answers
 
-The single most powerful talent decision framework from Stripe, used to decide whether to keep or transition someone:
+Rachel's fundamental insight: most leaders over-rotate into "advising mode" — they hear a problem and immediately offer solutions. But the most effective leaders coach their teams to find their own answers. The instinct to solve comes from a desire to be helpful, but it creates dependency and limits growth. When a team member comes with a problem, the first response should be a question: "What do you think?" or "What options are you considering?" Only after they've explored should you offer your perspective.^[raw/transcripts/lenny/rachel-lockett.md]
 
-> **"Would you enthusiastically rehire this person for the same role?"**
+> "Most leaders, especially technical leaders, assume they have to have all the answers. But the highest-impact leaders are the ones who help others find their own solutions." — Rachel Lockett
 
-If the answer is **no**, you must do something — but it doesn't have to be firing. Options: have the hard conversation, put them on a performance plan, move them to a different role. What you *can't* do is avoid it.^[raw/transcripts/lenny/rachel-lockett.md]
+### 2. The GROW Framework for Coaching Conversations
 
-Lenny connects this to [[Netflix]]'s similar approach (per CTO Elizabeth Stone): asking the same question about every team member, every review cycle.
+Rachel uses the GROW coaching model: **G**oal (what do you want to achieve?), **R**eality (what's happening now?), **O**ptions (what could you do?), **W**ill (what will you commit to?). This framework turns vague concerns into actionable plans. The key is that the person being coached drives the process — the coach only asks questions and provides structure. GROW works for everything from performance issues to career decisions to co-founder conflicts.^[raw/transcripts/lenny/rachel-lockett.md]
 
-### Reframing Difficult Conversations
+> "GROW is simple but powerful. It helps people step out of the problem and into a solution mindset without you having to tell them what to do." — Rachel Lockett
 
-Rachel's core reframe: **conflict is hard because something important is at stake.** Rather than avoiding, lean in:
+### 3. Difficult Conversations Are a Skill, Not a Personality Trait
 
-1. This is hard because there's something to learn
-2. You are always complicit in creating the conditions you're complaining about (attributed to [[Jerry Colonna]])
-3. Enter conflict with humility and curiosity, not blame
-4. Use Nonviolent Communication (NVC): Observe → Feelings → Needs → Request
+Rachel demystifies difficult conversations: they're not something you're "good at" or "bad at" — they're a skill that can be learned and practiced. Her framework: (1) State your intent — "I want to share something because I care about our working relationship." (2) Describe the specific behavior — not the person. (3) Share the impact it had on you. (4) Ask for their perspective. The most important rule: don't have the conversation when you're emotional. Wait until you can be curious rather than accusatory.^[raw/transcripts/lenny/rachel-lockett.md]
 
-### The One-Page Plan (from Alpine Investors)
+> "A difficult conversation is just a conversation where the stakes feel high. The more you practice, the less difficult they become. It's a muscle, not a talent." — Rachel Lockett
 
-A simplified operating rhythm that aligns an entire company:
-| Column 1 | Column 2 | Column 3 | Column 4 |
-|---|---|---|---|
-| Vision + Values | Strategic Intentions + KPIs | Annual Goals | Quarterly Goals |
+### 4. High-Trust Teams Start With Vulnerability
 
-Ensures everyone knows "how my work ladders up to the big picture."
+Trust isn't built through team-building activities or shared goals — it's built through vulnerability. Leaders who admit mistakes, share uncertainty, and ask for help create psychological safety that cascades through the team. Rachel's advice: leaders should go first. When a leader says "I don't know" or "I made a mistake," it gives everyone else permission to do the same. High-trust teams are not teams where everyone agrees — they're teams where people can disagree openly and still feel safe.^[raw/transcripts/lenny/rachel-lockett.md]
 
-### The GROW Technique
+> "Trust isn't built by being right all the time. It's built by being real. When leaders model vulnerability, it gives everyone permission to bring their full selves to work." — Rachel Lockett
 
-For coaching direct reports, she uses GROW:
-- **G**oal — what do you want?
-- **R**eality — what's happening now?
-- **O**ptions — what could you do?
-- **W**ill — what will you commit to?
+### 5. Design Your Life, Not Just Your Career
 
-### When to Coach vs. When to Tell
+Rachel challenges the hustle-until-burnout culture. Her framework for designing a life you love: (1) Identify your core values — what truly matters to you? (2) Audit your energy — what activities energize vs. drain you? (3) Set boundaries that protect what matters. (4) Re-evaluate regularly. Burnout isn't a badge of honor — it's a signal that your life design needs adjustment. She encourages leaders to think of their career as one part of a whole life, not the whole life itself. Sustainable high performance requires rest, relationships, and purpose beyond work.^[raw/transcripts/lenny/rachel-lockett.md]
 
-Rachel's framework for managers:
-- **Coach** when the person is capable but stuck (they need perspective)
-- **Tell** when the person lacks information or experience (they need direction)
-- The mistake most leaders make: telling when they should coach, and vice versa
+> "You can't pour from an empty cup. The most successful leaders I've worked with are the ones who've designed a life that sustains them, not just a career that exhausts them." — Rachel Lockett
 
-## Notable Quotes
+## Episode Appearances
 
-> "The cave you fear contains the treasure you seek."
-
-> "Would you enthusiastically rehire this person for the same role? ... People have a physical sense — a full body yes — that provides clarity."
-
-> "Talent and the environment you put your talent in is everything. You need to create the conditions such that your talent can thrive."
-
-## Connections
-
-- Former HR leader at [[Stripe]] and Pinterest
-- Works with [[Alpine Investors]] portfolio companies
-- Framework references: [[Jerry Colonna]] (complicity), [[Nonviolent Communication]]
-- Episode discusses coaching vs. telling, a framework also covered by [[Alisa Cohn]]
+- [[lenny/rachel-lockett|A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett]] — Coaching vs. advising, GROW framework, difficult conversations, trust-building, life design
 
 ## Related Concepts
 
+- [[executive-coaching]]
 - [[leadership]]
+- [[difficult-conversations]]
+- [[trust]]
+- [[burnout-prevention]]
+- [[career-frameworks]]
+- [[vulnerability]]

@@ -3,53 +3,37 @@ title: Camille Fournier
 created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, product-management, leadership, career, engineering, ai-ml, culture]
+tags: ['person', 'engineering', 'management', 'leadership', 'platform', 'cto']
 sources:
   - raw/transcripts/lenny/camille-fournier.md
 confidence: medium
+key_finding: PMs Must Share Credit and Respect Engineering Details
 ---
 
 # Camille Fournier
 
-**Role:** Product Leader  
-**Known for:** Camille Fournier is the author of The Manager’s Path, which many consider the definitive guide for navigating one’s care
+Camille Fournier is the author of The Manager's Path, widely considered the definitive guide for navigating a tech career into management. She was CTO of Rent the Runway, VP of Technology at Goldman Sachs, Global Head of Engineering at JP Morgan Chase, and Head of Platform Engineering at Two Sigma.
 
 ## Key Views
 
-### 1. Hoarding credit
+**Don't Hoard Credit — Engineers Notice** — The #1 thing PMs do that annoys engineers: taking credit for the team's work. Because PMs are the front-facing person for initiatives, engineers often feel their contributions go unrecognized. The fix is simple: share credit proactively, give engineers opportunities to present their work, and celebrate team wins, not individual PM successes. ^[raw/transcripts/lenny/camille-fournier.md]
 
+**Respect the Details — Engineering Is in the Weeds** — Successful software is all about the details. When PMs dismiss engineering complexity ("why is this taking so long?"), it signals a lack of empathy for the work. You don't need to understand every line of code, but acting like the details don't matter is deeply demotivating. The best PMs dive deep enough to appreciate what's hard. ^[raw/transcripts/lenny/camille-fournier.md]
 
-Hoarding credit. PMs, they tend to be the front-facing person for initiative. Engineers sometimes think that they don't get the credit for their work because the PM takes all the glory and all the credit for the project that they really worked very hard on. I find the best PMs are the ones that talk the least and encourage other people to do the presenting-
+**Major Rewrites Are Usually a Trap** — Engineers often want to rewrite systems from scratch (it's more fun). But rewrites almost always take longer than estimated and deliver less value than expected. The better approach: incremental refactoring with clear business justification. Only consider a rewrite when the current system is actively preventing shipping new customer value. ^[raw/transcripts/lenny/camille-fournier.md]
 
-### 2. The next thing that engineers really get annoyed about with PMs, when they ju...
+**You Might Be Doing Too Many One-on-Ones** — New managers often over-index on one-on-ones, thinking more is better. But excessive 1:1s can create dependency and reduce team autonomy. The right cadence depends on the person's experience level and the complexity of their work. For senior ICs, bi-weekly or monthly may be plenty. For junior team members, weekly might be right. ^[raw/transcripts/lenny/camille-fournier.md]
 
-
-The next thing that engineers really get annoyed about with PMs, when they just don't understand the details and act like they don't matter, it just shows a real lack of empathy for the work that engineers are doing and I think it really can be very off-putting. Is there any insight you can give about what people may be missed about the motivation of engineers, what gets them excited?
-
-### 3. A lot of people assume that engineers just write code and don't underestimate...
-
-
-A lot of people assume that engineers just write code and don't underestimate the ability for your engineers to want to understand the business problem, want to understand the customer problem. I think the product managers that have done the best, they're not threatened by other people having ideas. Today, my guest is Camille Fournier. Camille is one of the most respected technology executives in tech and the author of the Manager's Path, which many considered the definitive guide for navigat...
-
-### 4. I would say there are a few things that PMs do that annoy engineers and to be...
-
-
-I would say there are a few things that PMs do that annoy engineers and to be clear, I am sure that engineers annoy PMs, just as much. So I've realized this is a two-way street. So I think there's some things that are really easy to fix and some things that are maybe a little bit harder. So the easy things to fix are hoarding credit. Sometimes I think PMs because they tend to be the front-facing person for initiatives, they're talking to customers, they're talking to the executive team, whate...
-
-### 5. The third is playing telephone
-
-
-The third is playing telephone. Anybody in a manager role can fall victim to this, but I think PMs especially can be very annoying. So if you are being asked questions that you cannot answer because you just don't know or because that's something that involves a level of technical detail that only the engineers have that you just don't have, and you put yourself in this in-between position where people ask you questions, you turn around, you ask the engineers questions, you take whatever they...
+**Great PMs Aren't Threatened by Engineers with Ideas** — The best PM-engineer relationships happen when the PM isn't threatened by engineers who want to understand the business problem and contribute ideas. Engineers who care about the customer and the strategy are a gift, not a threat. The PM's job becomes channeling that energy, not protecting their territory. ^[raw/transcripts/lenny/camille-fournier.md]
 
 ## Episode Appearances
 
-- [[lenny/camille-fournier|The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)]] — *to be summarized*
+- [[lenny/camille-fournier|The things engineers are desperate for PMs to understand | Camille Fournier ("The Manager's Path")]] — Engineering management wisdom and PM-Engineer relationships
 
 ## Related Concepts
 
+- [[engineering-management]]
 - [[product-management]]
 - [[leadership]]
-- [[career]]
-- [[engineering]]
-- [[ai-ml]]
-- [[culture]]
+- [[platform-engineering]]
+- [[team-culture]]

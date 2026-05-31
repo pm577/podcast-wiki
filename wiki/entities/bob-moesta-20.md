@@ -1,56 +1,60 @@
 ---
-title: Bob Moesta 2.0
+title: Bob Moesta (2.0)
 created: 2026-05-31
 updated: 2026-05-31
 type: entity
-tags: [person, product-management, leadership, startup, sales, career, strategy, ai-ml]
+tags: [person, jobs-to-be-done, jtbd, product-discovery, innovation, clay-christensen, product-strategy, customer-research]
 sources:
   - raw/transcripts/lenny/bob-moesta-20.md
-confidence: medium
+confidence: high
 ---
 
-# Bob Moesta 2.0
+# Bob Moesta (2.0)
 
-**Role:** Founder; CEO  
-**Known for:** Bob Moesta is the co-creator of the Jobs To Be Done (JTBD) framework, a close collaborator of Clay Christensen, and CEO 
+**Role:** Co-creator of the Jobs To Be Done (JTBD) framework; close collaborator of Clayton Christensen; CEO and founder of The Re-Wired Group; has helped launch more than 3,500 products using JTBD  
+**Known for:** The definitive JTBD framework for product innovation; the "struggle" and "push" in customer decision-making; practical JTBD interviewing techniques.
 
 ## Key Views
 
-### 1. The moment you stop making progress in your career is the moment you start lo...
+### 1. The Job is the Progress the Customer is Trying to Make
 
+Bob's core JTBD philosophy: people don't buy products — they hire them to make progress in their lives. The "job" is not a functional task (e.g., "drill a hole") but the progress the person is trying to make in a specific circumstance (e.g., "hang a shelf to display my collection without damaging the wall"). Understanding the job means understanding the emotional and social dimensions of progress, not just the functional. The job has three dimensions: functional, emotional, and social.^[raw/transcripts/lenny/bob-moesta-20.md]
 
-The moment you stop making progress in your career is the moment you start looking for another job. And so over the last 15 years we've interviewed over a thousand people. I've coached almost a thousand people because I think there's a billion people a year who switched jobs and ultimately most of them end up with a job that's worse than the one they were at, but they don't know how to find it. They don't know themselves well enough. There's a very tactical piece of advice in your book, which...
+> "People don't buy products. They hire them to make progress in their lives. If you don't understand the progress they're trying to make, you're building in the dark." — Bob Moesta
 
-### 2. When you're in a startup, it changes who you are and the moment that you get ...
+### 2. The Forces of Progress: Push, Pull, Anxiety, Inertia
 
+Bob's decision-making framework: four forces govern whether someone "hires" a new solution. **Push**: dissatisfaction with the current situation. **Pull**: attraction of a new solution. **Anxiety**: fear that the new solution won't work or will create new problems. **Inertia**: habit, comfort, and the effort of change. For a purchase to happen, Push + Pull must exceed Anxiety + Inertia. This explains why good products sometimes fail — the anxiety and inertia forces are stronger than the product team realizes.^[raw/transcripts/lenny/bob-moesta-20.md]
 
-When you're in a startup, it changes who you are and the moment that you get out of that environment, you need to take the time to reset your mind and your body. I call it a jobcation, which is a job I can go do with one hand tie by hide my back so I can rest and recover to go do something else. It's about actually being able to go to the gym and work out and have some vacations. The moment you are comfortable doing nothing, you know who you are again, and you can actually figure this out. Yo...
+> "Every purchase decision is a battle between four forces: push and pull on one side, anxiety and inertia on the other. You need to address all four, not just make the pull stronger." — Bob Moesta
 
-### 3. It's very simple, very similar to product
+### 3. The "Struggle" is More Important Than the Solution
 
+Bob's interviewing methodology: don't ask people what they want — ask about the struggle that preceded the decision. The struggle is the gap between where the person is and where they want to be. Great JTBD interviews focus on the timeline of the struggle: when did it start? what made it worse? what did they try? what was the final straw (the "triggering event")? The struggle reveals the job better than any direct question about needs or features.^[raw/transcripts/lenny/bob-moesta-20.md]
 
-It's very simple, very similar to product. There's difference between product features and product experiences, and what you start to realize is it's the experiences that keep you at your job. It's not just about the money because you start to realize money is a surrogate for respect, or I've got bills to pay or I'm falling behind. Money has actually many, many different implications to it because everybody wants more money, but the question is why do you want more money? Today my guest is Bo...
+> "Don't ask people what features they want. Ask them about the struggle — the moment they said 'I can't take this anymore.' That's where the real insight lives." — Bob Moesta
 
-### 4. Oh, yeah
+### 4. Innovation Comes From Unmet "Push" Forces
 
+Bob's advice for innovation: the best opportunities come from push forces that no product is adequately addressing. Look for situations where people are using workarounds, living with dissatisfaction, or settling for "good enough." The push force (dissatisfaction with the current solution) is a stronger innovation signal than any new technology or feature idea. The most successful products don't create new behaviors — they resolve existing struggles.^[raw/transcripts/lenny/bob-moesta-20.md]
 
-Oh, yeah. Well, I think there's only a small group. I actually think your audience really appreciates Jobs-to-be-Done, but I think the fact is that there's only... Let's say there's a hundred thousand people who need to know Jobs-to-be-Done. There are a billion people every year who actually need to know how to find their next job. And so to me, it's just a much bigger market. And so that's why I think I'll have more impact on it. Yeah. And it also helps people hiring. So the TAM is even larger.
+> "The best innovations don't create new behaviors — they resolve struggles people are already having. Find the push forces that no one is addressing." — Bob Moesta
 
-### 5. The thing that I've learned though is that Jobs-to-be-Done is a very powerful...
+### 5. JTBD Changes How You Measure Success
 
+Bob argues that JTBD changes product success metrics: stop measuring by features shipped or even user engagement — measure by whether customers are making the progress they're hiring your product to make. If a user signs up but never achieves the progress they wanted, they will churn — no amount of onboarding optimization will fix that. The JTBD lens reveals that retention problems are often job-progress problems, not product-quality problems. The product is doing the job correctly; it's just that the user couldn't complete the progress.^[raw/transcripts/lenny/bob-moesta-20.md]
 
-The thing that I've learned though is that Jobs-to-be-Done is a very powerful concept, but the reality is I think it's actually more beneficial when you apply it to things. So I've applied it to sales, I've applied it to college, I've applied it to careers, and so part of it is figuring out where to apply it next. And so I have other places that I'm working on, but the reality is I think jobs is so powerful that it will just help recreate categories. Okay. So before I get into specific questi...
+> "Churn isn't a product problem. It's a progress problem. The user hired your product to make progress, and they couldn't. Fix the progress, not the product." — Bob Moesta
 
 ## Episode Appearances
 
-- [[lenny/bob-moesta-20|The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)]] — *to be summarized*
+- [[lenny/bob-moesta-20|The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)]] — JTBD framework, forces of progress, struggle interviews, innovation triggers, progress-based metrics
 
 ## Related Concepts
 
-- [[product-management]]
-- [[leadership]]
-- [[startup]]
-- [[sales]]
-- [[career]]
-- [[strategy]]
-- [[ai-ml]]
+- [[jobs-to-be-done]]
+- [[product-discovery]]
+- [[innovation]]
+- [[customer-research]]
+- [[product-strategy]]
+- [[clayton-christensen]]
