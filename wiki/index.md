@@ -2115,3 +2115,7 @@ Total query pages: 764
 - [[karina-nguyen]] — Karina Nguyen
 - [[krithika-shankarraman]] — Krithika Shankarraman
 - [[patrick-campbell]] — Patrick Campbell
+- [[logan-kilpatrick]] — Logan Kilpatrick
+- [[luc-levesque]] — Luc Levesque
+- [[nan-yu]] — Nan Yu
+- [[nikita-miller]] — Nikita Miller
