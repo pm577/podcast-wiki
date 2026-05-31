@@ -1,7 +1,7 @@
 ---
 title: Podcast Wiki Index
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-01
 type: query
 tags: [meta]
 ---
@@ -10,14 +10,14 @@ tags: [meta]
 
 A catalog of all wiki pages, organized by type. 
 Based on Karpathy's LLM Wiki pattern.
-Updated: 2026-05-31
+Updated: 2026-06-01
 
 ## Source Summary
 
-- **Podcasts covered:** Lenny's Podcast, 20VC
-- **Total episodes ingested:** ~1,823
-- **Guests indexed:** 1057
-- **Topics indexed:** 183
+- **Podcasts covered:** Lenny's Podcast, 20VC, Stanford AI Frontier
+- **Total episodes ingested:** ~1,824
+- **Guests indexed:** 1062
+- **Topics indexed:** 193
 
 ## Entities
 
@@ -114,6 +114,7 @@ Notable people, companies, and organizations discussed across episodes.
 - [[app]]
 - [[april]]
 - [[apurva-mehta]]
+- [[applied-compute]]
 - [[ara-mahdessian]]
 - [[archie]]
 - [[ari-helgason]]
@@ -243,6 +244,7 @@ Notable people, companies, and organizations discussed across episodes.
 - [[clem-delangue]]
 - [[clinton-foy]]
 - [[clio]]
+- [[cognition]]
 - [[compassion]]
 - [[conor-white]]
 - [[content-agencies]]
@@ -311,6 +313,7 @@ Notable people, companies, and organizations discussed across episodes.
 - [[domm-holland]]
 - [[donald-tang]]
 - [[donna]]
+- [[doordash]]
 - [[doug-adamic]]
 - [[doug-leone]]
 - [[doug-scott]]
@@ -1057,6 +1060,7 @@ Notable people, companies, and organizations discussed across episodes.
 - [[why-founders-should-take-secondaries-earlier]]
 - [[why-mass-layoffs-are-more-worrying-than-anyone-sees]]
 - [[why-stablecoins-will-replace-banking-rails]]
+- [[windsurf]]
 - [[will]]
 - [[will-porteous]]
 - [[will-quist]]
@@ -1123,6 +1127,7 @@ Key ideas, frameworks, and strategies synthesized across episodes.
 - [[constraints]]
 - [[consumer]]
 - [[consumer-psychology]]
+- [[continual-learning]]
 - [[conversion]]
 - [[creativity]]
 - [[culture]]
@@ -1139,6 +1144,7 @@ Key ideas, frameworks, and strategies synthesized across episodes.
 - [[differentiation]]
 - [[efficiency]]
 - [[engineering]]
+- [[enterprise-ai]]
 - [[enterprise-saas]]
 - [[enterprise-sales]]
 - [[entrepreneurship]]
@@ -1189,11 +1195,13 @@ Key ideas, frameworks, and strategies synthesized across episodes.
 - [[metrics]]
 - [[microsoft]]
 - [[mission]]
+- [[model-evals]]
 - [[monetization]]
 - [[mvp]]
 - [[network-effects]]
 - [[networking]]
 - [[neuroscience]]
+- [[non-transformer-architectures]]
 - [[okrs]]
 - [[onboarding]]
 - [[open-source]]
@@ -1209,7 +1217,9 @@ Key ideas, frameworks, and strategies synthesized across episodes.
 - [[pmf]]
 - [[portfolio-management]]
 - [[positioning]]
+- [[post-training]]
 - [[power]]
+- [[pre-training-scaling-laws]]
 - [[pricing]]
 - [[prioritization]]
 - [[product-development]]
@@ -1223,10 +1233,12 @@ Key ideas, frameworks, and strategies synthesized across episodes.
 - [[prototype]]
 - [[psychology]]
 - [[recruiting]]
+- [[reasoning-models]]
 - [[referral-program]]
 - [[registered-users]]
 - [[remote-work]]
 - [[retention]]
+- [[rlvr]]
 - [[revenue]]
 - [[risk-aversion]]
 - [[roadmap]]
@@ -1238,6 +1250,7 @@ Key ideas, frameworks, and strategies synthesized across episodes.
 - [[simplicity]]
 - [[skill-building]]
 - [[slack]]
+- [[stanford-ai-frontier]]
 - [[startup]]
 - [[startup-culture]]
 - [[startup-growth]]
@@ -1248,10 +1261,12 @@ Key ideas, frameworks, and strategies synthesized across episodes.
 - [[stress-management]]
 - [[stripe]]
 - [[subscription]]
+- [[synthetic-data]]
 - [[talent-decision-framework]]
 - [[team-building]]
 - [[team-structure]]
 - [[technical-debt]]
+- [[test-time-compute]]
 - [[time-management]]
 - [[top-episodes]]
 - [[trust]]
