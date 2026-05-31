@@ -2106,3 +2106,5 @@ Total query pages: 764
 - [[ronny-kohavi]] — Ronny Kohavi
 - [[tom-conrad]] — Tom Conrad
 - [[tristan-de-montebello]] — Tristan de Montebello
+- [[archie-abrams]] — Archie Abrams
+- [[dharmesh-shah]] — Dharmesh Shah
