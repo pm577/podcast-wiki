@@ -2124,3 +2124,6 @@ Total query pages: 764
 - [[lane-shackleton]] — Lane Shackleton
 - [[lauren-ipsen]] — Lauren Ipsen
 - [[will-larson]] — Will Larson
+- [[timothy-davis]] — Timothy Davis
+- [[varun-parmar]] — Varun Parmar
+- [[yuhki-yamashata]] — Yuhki Yamashita
