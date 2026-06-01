@@ -6,6 +6,7 @@ type: entity
 tags: ['person', 'growth', 'product-led-growth', 'saas', 'leadership', 'experimentation', 'hiring']
 sources:
   - raw/transcripts/lenny/elena-verna.md
+  - raw/transcripts/lenny/elena-verna-20.md
 confidence: high
 key_finding: "Don't Hire a Head of Growth Too Early"
 
@@ -26,6 +27,21 @@ Elena Verna appeared on Lenny's Podcast to discuss growth leader and former head
 **Copying Competitors Is the Fastest Path to Mediocrity** — You don't know if what you're seeing is the competitor's actual experience, their tactics are specific to their customers and channels, and you miss the context that led to their current solution. Even inside a company like Dropbox, pages that look polished may be 10-year-old experiments that perform terribly. Use competitor analysis for inspiration and patterns, but do your own research, design, and testing. The only real shortcut is talking to people who have solved your problem before. ^[raw/transcripts/lenny/elena-verna.md]
 
 **Your Problems Aren't Unique — Don't Start from Scratch** — Before trying to solve something from scratch, research how others have solved similar challenges and talk to people who have done it before. Elena hired an advisor from Atlassian to help stand up Miro's community, which saved 6-8 months of trial and error. Hiring advisors is one of the biggest career and business amplifiers you can do. Patternize your solutions — figure out frameworks that solve not just one problem but a class of problems. ^[raw/transcripts/lenny/elena-verna.md]
+
+
+## Episode Appearances
+- [[lenny/elena-verna-20.md|Elena Verna returns: The ultimate guide to product-led sales — PLS vs PLG, the enterprise bridge, and when to hire a sales team]]
+
+
+### 1. **Product-Led Sales Is the Bridge Between Self-Serve and Enterprise** — PLG converts individuals through self-serve (cap at ~$10K on credit cards). PLS converts that usage into sales opportunities, attaching a salesperson to close much larger contracts ($15K-$100K+). The bridge works because products are terrible at communicating enterprise-level value — sales tells that story. Individual use case solves one person's job; enterprise escalator solves data-driven culture, increased innovation, or org-wide productivity. ^[raw/transcripts/lenny/elena-verna-20.md]
+
+### 2. **Product Must Own Pipeline, Not Just Features** — In PLS, the collaboration is between product and sales — not marketing and sales. Product acquires and activates customers, then creates pipeline for sales. The worst failure mode is putting PLS 'in marketing.' Product must take accountability for selling. If product doesn't own the outcome, the motion collapses within six months. ^[raw/transcripts/lenny/elena-verna-20.md]
+
+### 3. **Organic Demand Dries Up — 90% of PLS Is Finding the Buyer Outside the User** — Hand-raisers (users asking to buy for their org) are a finite pool because the end user ≠ enterprise buyer. After that organic demand plateaus, 90% of PLS work is converting usage into opportunities by finding the decision-maker OUTSIDE the user base. Marketing and sales become crucial for connecting decision-makers to usage — this is where the real leverage lives. ^[raw/transcripts/lenny/elena-verna-20.md]
+
+### 4. **Don't Start PLS Until You See Hand-Raisers** — Never hire an SDR before users are organically asking to purchase for their org. The signal is real: if nobody's asking, adding more sales headcount won't create demand. The natural sequence: product-led growth → organic enterprise demand → hire sales to satisfy it. Then, and only then, move into proactive PLS. ^[raw/transcripts/lenny/elena-verna-20.md]
+
+### 5. **PLS Goes Both Directions: PLG Goes Upmarket, SLG Goes Downmarket** — If you start PLG (individual prosumer), adding PLS takes you upmarket to larger contracts. If you start sales-led (enterprise top-down), adding PLS takes you downmarket — customers need to see value before signing, and your fixed cost of sale doesn't scale to smaller deals. Both paths converge on the same middle: a product that proves value before purchase. ^[raw/transcripts/lenny/elena-verna-20.md]
 
 ## Related Concepts
 
