@@ -2,12 +2,13 @@
 
 title: Hamel Husain & Shreya Shankar
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-01
 type: entity
 tags: [person, ai, evals, product, ml, training, education]
 sources:
   - raw/transcripts/lenny/hamel-husain-shreya-shankar.md
   - raw/transcripts/lenny/hamelshreya.md
+  - raw/transcripts/lenny/lenny-2025-09-25-hamel-husain-shreya-shankar.md
 confidence: high
 subtype: person
 ---
@@ -46,10 +47,18 @@ Hamel and Shreya emphasize that the eval process is a skill that, once learned, 
 
 > "The top one is, 'We live in the age of AI. Can't the AI just eval it?' But it doesn't work." — Hamel Husain
 
+
+### 1. Start With Data Analysis, Not Tests — The #1 trap Hamel and Shreya see teams fall into: jumping straight to writing eval tests without understanding what needs measuring. With LLMs' stochastic nature, you must ground your eval strategy in actual usage data first — look at real user interactions, identify failure patterns, categorize the types of errors. Only then should you build targeted tests. 'It's a little different than software engineering where you have a lot more expectations of how the system is going to work. With LLMs, it's a lot more surface area.' ^[raw/transcripts/lenny/lenny-2025-09-25-hamel-husain-shreya-shankar.md]
+
+### 2. Vibe Checks Are Fine Initially — But They Don't Scale — Hamel explicitly acknowledges that vibe checks (manually reviewing a handful of outputs) are a legitimate starting point for eval. 'Vibe checks are good and you should do vibe checks initially.' The problem is they become unmanageable fast as the application grows. The transition from vibe checks to systematic evals should happen when you can no longer hold all the failure modes in your head — well before you're experiencing customer-impacting regressions. ^[raw/transcripts/lenny/lenny-2025-09-25-hamel-husain-shreya-shankar.md]
+
+### 3. Evals Span a Spectrum: From Unit Tests to Metric Tracking to Cohort Discovery — Shreya's broader definition: evals are not just tests. They range from simple 'non-negotiable functionality' unit tests to ongoing engagement metrics (thumbs up/down, retention) to cohort discovery (finding new user segments you didn't know existed). Each serves a different purpose, and mature teams use all three layers. The unit test metaphor only captures a small part of the puzzle — the real value is in the ongoing, data-driven improvement loop that evals enable across the entire product lifecycle. ^[raw/transcripts/lenny/lenny-2025-09-25-hamel-husain-shreya-shankar.md]
+
 ## Episode Appearances
 
 - [[hamel-husain-shreya-shankar]] — *Why AI evals are the hottest new skill for product builders*
 - [[hamelshreya]]
+- [[lenny/lenny-2025-09-25-hamel-husain-shreya-shankar.md|Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar — date-prefixed summary]]
 
 ## Related Concepts
 

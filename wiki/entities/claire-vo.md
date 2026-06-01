@@ -1,11 +1,12 @@
 ---
 title: Claire Vo
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-01
 type: entity
 tags: [product-management, ai, career-growth, launchdarkly, chatprd, cpto]
 sources:
   - raw/transcripts/lenny/claire-vo.md
+  - raw/transcripts/lenny/lenny-2026-03-29-claire-vo.md
 confidence: medium
 ---
 
@@ -25,9 +26,19 @@ confidence: medium
 
 5. **Career conversations should be rare and focused on company needs**: Only ~0.005% of Claire's interactions with her boss are about her career growth. Instead of constantly pushing for promotion, she focuses on doing the work and producing results. The conversation is about "what a different position does for the company," not "what it does for me."
 
+
+### 1. Pull the Thread on AI Tools — Claire went from a disastrous first install (8 hours of setup, family calendar deleted) to running 8 agents across 3 Mac Minis. Her framework: evaluate AI tools not by where they are today but where they'll be in a week, a month, or two months. The product-market fit signal is when enough utility shines through the pain that you can't walk away. She applied this same patience to Claude Cowork — initially dismissing it, then returning week after week until she found the unlock. ^[raw/transcripts/lenny/lenny-2026-03-29-claire-vo.md]
+
+### 2. Multiple Specialized Agents Beat One Generalist — Claire's core insight from running OpenClaw at scale: people stumble because they try to throw any task at a single agent. She runs eight distinct named agents (Polly, Finn, Max, Howie, Kelly, Holly, Sam) each purpose-built for specific workflows. Sam handles sales, replacing a $10k/year contractor. Others manage home logistics, scheduling, email triage. The architecture is not one general assistant but a team of specialists — and each one improves with dedicated configuration. ^[raw/transcripts/lenny/lenny-2026-03-29-claire-vo.md]
+
+### 3. Automate What You Avoid — Claire's productivity heuristic: pay attention to what you're avoiding. If a task triggers avoidance, either it doesn't serve your purpose (eliminate it) or it matters but has too much friction (automate it). This creates a virtuous cycle of identifying and removing friction. Her personal example: she stopped trying to do everything and instead spent that time building agents to do the avoiding for her. The goal isn't to be busy; it's to let the tools handle the work that drains you. ^[raw/transcripts/lenny/lenny-2026-03-29-claire-vo.md]
+
+### 4. Every Professional Deserves an EA; Every Family Deserves a Family Manager — Claire's highest-ROI insight: the first and most impactful use case for AI agents is personal assistant work — scheduling, email triage, project management. Then, household logistics (complex family schedules, kids' activities, medical appointments, grocery planning). She argues that most professionals are bottlenecked by administrative overhead that a well-configured agent can handle. The unlock is not technical sophistication — it's the willingness to spend the initial setup time. ^[raw/transcripts/lenny/lenny-2026-03-29-claire-vo.md]
+
 ## Episode Appearances
 
 - [[claire-vo]] — *Bending the universe in your favor*
+- [[lenny/lenny-2026-03-29-claire-vo.md|From skeptic to true believer: How OpenClaw changed my life | Claire Vo — date-prefixed summary]]
 
 ## Related Concepts
 

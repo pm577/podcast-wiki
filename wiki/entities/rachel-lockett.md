@@ -2,11 +2,12 @@
 
 title: Rachel Lockett
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-01
 type: entity
 tags: [person, executive-coaching, leadership, difficult-conversations, high-trust-teams, stripe, pinterest, hr]
 sources:
   - raw/transcripts/lenny/rachel-lockett.md
+  - raw/transcripts/lenny/lenny-2025-11-23-rachel-lockett.md
 confidence: high
 subtype: person
 ---
@@ -48,9 +49,17 @@ Rachel challenges the hustle-until-burnout culture. Her framework for designing 
 
 > "You can't pour from an empty cup. The most successful leaders I've worked with are the ones who've designed a life that sustains them, not just a career that exhausts them." — Rachel Lockett
 
+
+### 6. The Monkey on the Back (HBR Framework) — Rachel references the classic Harvard Business Review piece: every time a team member brings a problem to a leader, they're trying to hand the leader their 'monkey.' The leader's job is to keep the monkey on the team member's back, not take it. When you accept the monkey, you train your team to bring you every hard problem. When you keep the monkey with the team member through coaching questions, you build self-sufficiency and scale your leadership capacity. ^[raw/transcripts/lenny/lenny-2025-11-23-rachel-lockett.md]
+
+### 7. Coaching Converts Advice Into Ownership — Rachel's insight: when you give someone the answer, you might solve the immediate problem, but you train them to return for every subsequent problem. When you coach them to find their own answer, they own both the solution and the capability to solve similar problems independently. The cost of coaching (10 extra minutes of questions) pays dividends in team autonomy. The hardest shift for technical leaders is unlearning the habit of being the smartest person in the room. ^[raw/transcripts/lenny/lenny-2025-11-23-rachel-lockett.md]
+
+### 8. Lighten Up: Joy as a Leadership Tool — Rachel challenges the 'purely logical, all business' culture of tech. Professionals have feelings; the goal is not to suppress them but to engage the human side of work. She argues that leaders who attune to the people around them — who bring curiosity, lightness, and joy to their teams — create the conditions for both high performance and resilience. The human side of business building is 'incredibly fun and impactful' and achievable with simple tools. ^[raw/transcripts/lenny/lenny-2025-11-23-rachel-lockett.md]
+
 ## Episode Appearances
 
 - [[lenny/rachel-lockett|A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett]] — Coaching vs. advising, GROW framework, difficult conversations, trust-building, life design
+- [[lenny/lenny-2025-11-23-rachel-lockett.md|A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett — date-prefixed summary]]
 
 ## Related Concepts
 

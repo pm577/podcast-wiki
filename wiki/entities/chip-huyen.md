@@ -2,11 +2,12 @@
 
 title: Chip Huyen
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-01
 type: entity
 tags: [person, ai, machine-learning, nvidia, stanford, ai-engineering, ml-systems, data-engineering]
 sources:
   - raw/transcripts/lenny/chip-huyen.md
+  - raw/transcripts/lenny/lenny-2025-10-23-chip-huyen.md
 confidence: high
 subtype: person
 ---
@@ -42,9 +43,17 @@ Chip observed an interesting split: individual managers would rather have an ext
 
 Chip's pragmatic advice: before adopting a new AI technology (framework, protocol, model), ask two questions: (1) How much improvement does this give vs. the current solution? (2) How hard would it be to switch away if it doesn't work out? If the improvement is marginal and switching costs are high, don't do it. Many teams over-commit to technologies that haven't been battle-tested, creating lock-in without commensurate value. The best AI products are built on reliable, well-understood foundations — not the latest hype.
 
+
+### 6. Token Sampling Strategy Is the Hidden Lever — The way you sample from a model's probability distribution (greedy vs. creative) can boost performance more than model choice itself, yet almost nobody optimizes it. Most teams agonize over which model to use or which framework to adopt, while ignoring the single biggest lever they control: how they draw tokens from the distribution. Chip calls sampling strategy 'extremely important' and 'very, very underrated.' A simple temperature or top-k adjustment can transform output quality without changing anything else about the stack. ^[raw/transcripts/lenny/lenny-2025-10-23-chip-huyen.md]
+
+### 7. Manager vs. Executive AI Adoption Gap — When offered 'expensive coding agent subscriptions or an extra headcount,' individual managers universally choose headcount (they're building teams), while executives choose AI subscriptions (they measure business metrics). This reveals a structural misalignment in AI adoption: the people closest to the work see AI as augmentation at best, while those furthest from the work see AI as leverage. The productivity measurement problem means AI value is evaluated differently at every org level. ^[raw/transcripts/lenny/lenny-2025-10-23-chip-huyen.md]
+
+### 8. Reinforcement Learning Is Everywhere, Not Just RLHF — Chip emphasizes that RL is no longer just RLHF (reinforcement learning from human feedback). Frontier labs now apply RL to reasoning chains (thinking step-by-step, getting rewarded for correct answers), code generation (test-passing as reward signal), and math (verifiable rewards for provably correct solutions). Post-training with RL signals is where all the differentiation happens — pre-training data has been largely maxed out, and the moat is now in reward signal design. ^[raw/transcripts/lenny/lenny-2025-10-23-chip-huyen.md]
+
 ## Episode Appearances
 
 - [[lenny/chip-huyen|AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)]] — What actually improves AI apps, pre/post-training, ideal crisis, pragmatic AI adoption
+- [[lenny/lenny-2025-10-23-chip-huyen.md|AI Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix) — date-prefixed summary]]
 
 ## Related Concepts
 
