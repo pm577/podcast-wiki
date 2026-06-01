@@ -2143,3 +2143,8 @@ Total query pages: 764
 - [[oji-udezue]] — Oji Udezue
 - [[yuriy-timen]] — Yuriy Timen
 - [[zoelle-egner]] — Zoelle Egner
+- [[jonathan-becker]] — Jonathan Becker
+- [[nickey-skarstad]] — Nickey Skarstad
+- [[ray-cao]] — Ray Cao
+- [[ryan-j-salva]] — Ryan J. Salva
+- [[tamar-yehoshua]] — Tamar Yehoshua
