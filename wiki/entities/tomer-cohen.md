@@ -2,11 +2,12 @@
 
 title: Tomer Cohen
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-01
 type: entity
 tags: [person, product-management, linkedin, ai, full-stack-builder, product-leadership, career]
 sources:
   - raw/transcripts/lenny/tomer-cohen.md
+  - raw/transcripts/lenny/tomer-cohen-20.md
 confidence: high
 subtype: person
 ---
@@ -48,9 +49,23 @@ Tomer advises PMs to seek roles where they're slightly out of their depth ("dise
 
 > "If you feel like you've mastered your role, that's the signal to find the next challenge. The most interesting careers are sequences of being uncomfortable." — Tomer Cohen
 
+### 6. **Curation Beats Volume — Feeding AI the Right Data Trumps Feeding It All Data** — Just giving an AI agent access to your entire knowledge base causes rampant hallucination. Tomer learned he had to hand-curate gold-standard examples and carefully define context boundaries, a process he compares to manually filtering what makes a good professional post on LinkedIn. You must think specifically about what context and knowledge base to give the AI at each moment.
+
+### 7. **AI Amplifies the Talent Gap — Top Performers Benefit Most** — Contrary to the hope that AI democratizes capability, Tomer's data shows the opposite: the best builders use AI tools the most and get even further ahead. The key trait is a relentless drive to improve craft, which top talent already possesses. LinkedIn's highest-performing builders are the ones using AI-powered tools most intensively and giving the strongest feedback.
+
+### 8. **Off-the-Shelf AI Agents Never Work at Scale — You Must Build Your Own** — Despite trying every major external tool, Tomer found that no agent works out of the box on LinkedIn's unique codebase, design systems, and trust vectors. Every tool required deep customization and often building entirely proprietary agents (trust agent, growth agent, research agent) from internal data. The general solution does not exist yet.
+
+### 9. **Process Complexity, Not the Work Itself, Is the Real Enemy** — Tomer's core diagnosis: product development at scale isn't inherently hard, but organizations have layered on so many substeps (15 research sources, design reviews, privacy reviews, security reviews, micro-specialization across functions) that the process itself blocks velocity. Collapsing that complexity is what the full-stack builder model solves. The work is simple; the process is complex.
+
+### 10. **If You're Waiting for a Reorg, You're Already Too Late** — Tomer actively discourages people from waiting for formal titles, restructures, or official tool rollouts. The critical shift is mindset before structure — individuals should just start building end-to-end with whatever tools are available and prove the model through action. Permission is something you take, not something you receive.
+
+
 ## Episode Appearances
 
 - [[lenny/tomer-cohen|Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)]] — Full Stack Builder, AI-era PM skills, LinkedIn turnaround, product culture evolution, career advice
+
+
+- [[lenny/tomer-cohen-20|Tomer Cohen (LinkedIn CPO) returns: AI agents at scale, process complexity, and why top performers benefit most from AI]]
 
 ## Related Concepts
 
