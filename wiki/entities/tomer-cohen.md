@@ -8,6 +8,7 @@ tags: [person, product-management, linkedin, ai, full-stack-builder, product-lea
 sources:
   - raw/transcripts/lenny/tomer-cohen.md
   - raw/transcripts/lenny/tomer-cohen-20.md
+  - raw/transcripts/lenny/lenny-2025-12-04-tomer-cohen.md
 confidence: high
 subtype: person
 ---
@@ -60,12 +61,18 @@ Tomer advises PMs to seek roles where they're slightly out of their depth ("dise
 ### 10. **If You're Waiting for a Reorg, You're Already Too Late** — Tomer actively discourages people from waiting for formal titles, restructures, or official tool rollouts. The critical shift is mindset before structure — individuals should just start building end-to-end with whatever tools are available and prove the model through action. Permission is something you take, not something you receive.
 
 
+
+### 11. 'Might Be Wrong but Not Confused' — The Tomerism That Liberates Organizations — Tomer's signature phrase encodes a deep leadership philosophy: get attached to clarity and focus, not to being right or wrong. The first part (clarity of thought) means pushing past the polite masking of disagreement as 'I don't understand' — ask directly: are you disagreeing or misunderstanding? If disagreeing, stop hedging and decide. The second part (clarity of execution) means what you say is a priority must actually match your resourcing. If your top priority is X but most engineers work on Y, you haven't achieved clarity of execution. Teams find this liberating because it frees them from the anxiety of being wrong — they can just move fast together. ^[raw/transcripts/lenny/lenny-2025-12-04-tomer-cohen.md]
+
+### 12. First-Principles Opinions Have Teeth — Tomer pushes teams to articulate what trade-offs they're actually making, not just what they're building. 'I want to build a simple product' is useless — everyone wants that. 'I'm willing to sacrifice engagement metrics for user trust' is an opinion with teeth. The best product strategies emerge from articulating what you're NOT willing to do. Tomer's framework: have a first-principles opinion, explain what you'd trade off to hold it, and let the organization align around those trade-offs, not around vague aspirations. ^[raw/transcripts/lenny/lenny-2025-12-04-tomer-cohen.md]
+
 ## Episode Appearances
 
 - [[lenny/tomer-cohen|Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)]] — Full Stack Builder, AI-era PM skills, LinkedIn turnaround, product culture evolution, career advice
 
 
 - [[lenny/tomer-cohen-20|Tomer Cohen (LinkedIn CPO) returns: AI agents at scale, process complexity, and why top performers benefit most from AI]]
+- [[lenny/lenny-2025-12-04-tomer-cohen.md|Why LinkedIn is turning PMs into AI-powered full stack builders | Tomer Cohen (LinkedIn CPO)]]
 
 ## Related Concepts
 

@@ -1,11 +1,12 @@
 ---
 title: Brendan Foody
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-01
 type: entity
 tags: ['person', 'ai', 'evals', 'startups', 'labor-market', 'rlhf']
 sources:
   - raw/transcripts/lenny/brendan-foody.md
+  - raw/transcripts/lenny/lenny-2025-09-18-brendan-foody.md
 confidence: high
 key_finding: Evals Are the New PRDs (and the New Marketing)
 
@@ -26,6 +27,19 @@ Brendan Foody appeared on Lenny's Podcast to discuss brendan foody, ceo and co-f
 **Pursue Elastic-Demand Industries** — Brendan advises focusing on domains where increased productivity expands demand rather than shrinking it. "In software development, I think we can ship 100 times more features... There's just unlimited demand." By contrast, accounting has finite demand. The winning mindset is abundance and leaning into doing so much more, not fighting displacement. ^[raw/transcripts/lenny/brendan-foody.md]
 
 **Three Cultural Pillars: Can-Do, High Standards, Intensity** — Brendan credits Mercor's explosive growth to: (1) setting ridiculously ambitious goals that the company's trajectory forms around (they projected $50M run rate from $1.5M and hit it within weeks); (2) a super high hiring bar — first 10 hires included ex-Scale head of growth and multiple former founders; (3) output-oriented intensity where bought-in people burn the midnight oil. ^[raw/transcripts/lenny/brendan-foody.md]
+
+
+### 6. Evals = Your New Marketing — Evals serve dual purpose: they guide researchers on what to build AND they become the primary sales collateral demonstrating model capability. Labs stop pointing at academic benchmarks (GPQA, Olympiad Math) and start showing practical capability evals. Sarah Guo's framing says it all: 'Evals equals your new marketing.' The eval set becomes the most important document in the company — PRD and pitch deck combined. ^[raw/transcripts/lenny/lenny-2025-09-18-brendan-foody.md]
+
+### 7. The Economy as an RL Training Environment — Brendan's provocative thesis: 'It's highly likely that the entire economy will become an aural environment machine, building out all of these worlds and contexts.' The narrative around AI has focused on job displacement, but almost no one is talking about the new category of jobs being created — evaluating model outputs, writing rubrics for capability areas, and designing reward signals for reinforcement learning environments. Humans are not being replaced; they're becoming the reward function. ^[raw/transcripts/lenny/lenny-2025-09-18-brendan-foody.md]
+
+### 8. Enterprise Evals: Measure Your Own Value Chain — Brendan's advice for enterprises: don't just use generic AI benchmarks. Build systematic tests that measure how well AI automates your specific core value chain. Every company has its own value chain (architecture firm producing diagrams, investment bank doing analysis) and measuring that chain is the prerequisite to effective AI deployment. The barrier to automating the entire economy is not model capability — it's defining what success looks like for every workflow. ^[raw/transcripts/lenny/lenny-2025-09-18-brendan-foody.md]
+
+### 9. The Signal of the Fastest Revenue Ascent in History — Mercor grew from $1M to $400M in 16 months (fastest in history) by tapping the structural shift from crowdsourcing to expert vetting. Brendan met OpenAI by chance, discovered labs needed a 'labor marketplace' for extraordinary professionals who can measure model capabilities, and the company's trajectory reformed around that demand. He projected $50M run rate when at $1.5M and hit it within weeks — a pattern of setting ridiculously ambitious goals and having the trajectory bend toward them. ^[raw/transcripts/lenny/lenny-2025-09-18-brendan-foody.md]
+
+
+## Episode Appearances
+- [[lenny/lenny-2025-09-18-brendan-foody.md|Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody (CEO of Mercor)]]
 
 ## Related Concepts
 

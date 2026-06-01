@@ -2,11 +2,12 @@
 
 title: Melanie Perkins
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-01
 type: entity
 tags: ['person', 'canva', 'founder', 'ceo', 'entrepreneurship', 'design', 'startups', 'persistence', 'vision', 'leadership']
 sources:
   - raw/transcripts/lenny/melanie-perkins.md
+  - raw/transcripts/lenny/lenny-2025-11-02-melanie-perkins.md
 confidence: high
 key_finding: Crazy Big Goals make you feel inadequate — that's the point
 subtype: person
@@ -28,9 +29,17 @@ Melanie Perkins is CEO and co-founder of Canva, currently valued at over $42 bil
 
 **From Yearbook Platform to Design Powerhouse** — Canva started as a yearbook publishing platform (Fusion Books) before pivoting to the broader design tool it is today. The pivot was driven by the insight that the same technology that made yearbook design easy could work for any kind of visual communication. AI was in Canva's vision decks before it was widely feasible — they were trying to do AI before AI was a thing. ^[raw/transcripts/lenny/melanie-perkins.md]
 
+
+### 6. The Ladder to the Moon: Compound Small Steps Toward a Crazy Big Vision — Melanie's framework: have a crazy big goal with 'a ladder all the way up to the moon' (the vision), then 'rungs that work their way up step by step.' The first step might be microscopic and embarrassing, but as you climb you compound — Canva's initial 'empower the world to design' vision has been compounding for over a decade. The key is not just having the big dream, but taking that embarrassing first tiny step and then the next. ^[raw/transcripts/lenny/lenny-2025-11-02-melanie-perkins.md]
+
+### 7. Don't Kill the Ugly Baby — Melanie echoes Ed Catmull's concept from Creativity Inc.: new ideas start as 'ugly babies' that nobody wants to look at. The first step from chaos to clarity is embarrassing because you don't have mastery. You have none of the answers but just the idea that you think would be cool — so cool that you want to work for years to will it into existence. The instinct to kill fragile early ideas is the biggest barrier to breakthrough innovation. ^[raw/transcripts/lenny/lenny-2025-11-02-melanie-perkins.md]
+
+### 8. Visual Communication Is the Clarity Engine — Melanie's mechanism for turning chaos into clarity: pitch decks, vision decks, and prototypes that make invisible ideas visible. How do you go from chaos to clarity? 'You add clarity.' Writing it down is the first step, then creating a pitch deck, then designs, then a prototype. Each step adds clarity, makes the idea more real, and lets more people see it. Visual communication is why Canva itself exists — it's both the company's product and its operating system. ^[raw/transcripts/lenny/lenny-2025-11-02-melanie-perkins.md]
+
 ## Episode Appearances
 
 - [[melanie-perkins]] — She turned 100+ rejections into a $42B company
+- [[lenny/lenny-2025-11-02-melanie-perkins.md|The woman behind Canva shares how she built a $42B company from nothing | Melanie Perkins]]
 
 ## Related Concepts
 
