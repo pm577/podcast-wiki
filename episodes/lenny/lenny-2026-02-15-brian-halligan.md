@@ -8,14 +8,14 @@ key_insights:
   you, that kind of hits you when you hit your first c...'
 podcast: lenny
 tags:
-- ai-ml
-- saas
-- leadership
-- hiring
-- go-to-market
-- marketplace
-- startups
 - pricing
+- saas
+- startups
+- ai-ml
+- marketplace
+- leadership
+- go-to-market
+- hiring
 title: 'Sequoia CEO coach: Why it’s never been easier to start a company, and never
   been harder to scale one | Brian Halligan (co-founder, HubSpot)'
 type: Episode
@@ -29,18 +29,18 @@ Brian Halligan co-founded HubSpot, ran it as CEO for about 15 years, and now coa
 **Guest:** Brian Halligan
 **Date:** 2026-02-15
 **YouTube:** https://www.youtube.com/watch?v=3UyitfSbY6c
-**Topics:** ai-ml, saas, leadership, hiring, go-to-market, marketplace, startups, pricing, retention, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, go-to-market, hiring, retention, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
-- [[saas]]
-- [[leadership]]
-- [[hiring]]
-- [[go-to-market]]
-- [[marketplace]]
-- [[startups]]
 - [[pricing]]
+- [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[leadership]]
+- [[go-to-market]]
+- [[hiring]]
 - [[retention]]
 - [[fundraising]]
 

@@ -6,13 +6,13 @@ key_insights:
 - 'Sherwin Wu: 95% of engineers use Codex. 100% of our PRs are reviewed by Codex....'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - go-to-market
-- marketplace
-- startups
-- pricing
 - fundraising
 title: Sherwin Wu V2
 type: Episode
@@ -25,17 +25,17 @@ If you talk to a lot of engineers, the thing that annoys them the most is after 
 
 **Guest:** Sherwin Wu V2
 **Date:** 2026-02-12
-**Topics:** ai-ml, saas, leadership, go-to-market, marketplace, startups, pricing, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, go-to-market, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[go-to-market]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[fundraising]]
 
 ## Transcript Highlights

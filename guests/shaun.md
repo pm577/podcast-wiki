@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/shaun-clowes|Why great AI products are all about the data | Shaun Clowes (CPO at Confluent)]] (2024-12-29)
+- [[shaun-clowes]] (2024-12-29)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

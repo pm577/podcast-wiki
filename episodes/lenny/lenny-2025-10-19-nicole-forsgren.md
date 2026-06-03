@@ -8,12 +8,12 @@ key_insights:
   folks that I work with, this is their biggest problem....'
 podcast: lenny
 tags:
-- ai-ml
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
 - retention
 - product-strategy
 title: How to measure AI developer productivity in 2025 | Nicole Forsgren
@@ -28,16 +28,16 @@ Nicole Forsgren created the most widely used frameworks for measuring developer 
 **Guest:** Nicole Forsgren
 **Date:** 2025-10-19
 **YouTube:** https://www.youtube.com/watch?v=SWcDfPVTizQ
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, retention, product-strategy
+**Topics:** saas, startups, ai-ml, marketplace, leadership, hiring, retention, product-strategy
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
 - [[retention]]
 - [[product-strategy]]
 

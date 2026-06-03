@@ -169,3 +169,10 @@
 - [[lenny/ken-norton|How to unlock your product leadership skills | Ken Norton, Ex-Google]] — *Ken Norton* (2022-07-24)
 - [[lenny/nickey-skarstad|Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing product quality, second-order decisions, brainstorming, influence, and much more]] — *Nickey Skarstad* (2022-07-18)
 - [[lenny/daniel-lereya|Daniel Lereya]] — *Daniel Lereya* (unknown date)
+
+## See also
+
+- [[pricing]]
+- [[monetization]]
+- [[growth]]
+- [[profitability]]

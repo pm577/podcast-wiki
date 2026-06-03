@@ -190,3 +190,11 @@
 - [[lenny/nickey-skarstad|Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing product quality, second-order decisions, brainstorming, influence, and much more]] — *Nickey Skarstad* (2022-07-18)
 - [[lenny/daniel-lereya|Daniel Lereya]] — *Daniel Lereya* (unknown date)
 - [[lenny/peter-deng|Peter Deng]] — *Peter Deng* (unknown date)
+
+## See also
+
+- [[kpis]]
+- [[analytics]]
+- [[growth]]
+- [[experimentation]]
+- [[data-driven]]

@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/marty-cagan-20|The disease of process people | Marty Cagan]] (2023-02-06)
+- [[marty-cagan-20]] (2023-02-06)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

@@ -8,12 +8,12 @@ key_insights:
   or Lovable. It basically felt like someone came up...'
 podcast: lenny
 tags:
-- ai-ml
-- saas
-- hiring
-- marketplace
-- startups
 - pricing
+- saas
+- startups
+- ai-ml
+- marketplace
+- hiring
 title: The non-technical PM’s guide to building with Cursor | Zevi Arnovitz (Meta)
 type: Episode
 word_count: 15000
@@ -26,16 +26,16 @@ The complete AI workflow that lets non-technical people build real products in C
 **Guest:** Zevi Arnovitz
 **Date:** 2026-01-18
 **YouTube:** https://www.youtube.com/watch?v=1em64iUFt3U
-**Topics:** ai-ml, saas, hiring, marketplace, startups, pricing
+**Topics:** pricing, saas, startups, ai-ml, marketplace, hiring
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
-- [[saas]]
-- [[hiring]]
-- [[marketplace]]
-- [[startups]]
 - [[pricing]]
+- [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[hiring]]
 
 ## Transcript Highlights
 

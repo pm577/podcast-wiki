@@ -82,3 +82,10 @@
 - [[lenny/yuriy-timen|How to grow a subscription business | Yuriy Timen (Grammarly, Canva, Airtable)]] — *Yuriy Timen* (2022-09-01)
 - [[lenny/shreyas-doshi|The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)]] — *Shreyas Doshi* (2022-08-25)
 - [[lenny/shreyas-doshi-live|The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)]] — *Shreyas Doshi Live* (2022-08-25)
+
+## See also
+
+- [[roadmap]]
+- [[product-strategy]]
+- [[focus]]
+- [[iteration]]

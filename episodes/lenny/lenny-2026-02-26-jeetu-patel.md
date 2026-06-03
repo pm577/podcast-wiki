@@ -8,13 +8,13 @@ key_insights:
   who take care of them, that could cause a lot of hu...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 - retention
 title: Jeetu Patel
 type: Episode
@@ -27,17 +27,17 @@ And the reason we pulled this thing together, the goal was, what is happening in
 
 **Guest:** Jeetu Patel
 **Date:** 2026-02-26
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention, product-strategy, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring, retention, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[product-strategy]]
 - [[fundraising]]

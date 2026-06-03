@@ -8,13 +8,13 @@ key_insights:
   or Google. We didn''t have the first-mover advantag...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 - retention
 title: 'Anthropic’s $1B to $19B growth run: how Claude became the fastest-growing
   AI product in history | Amol Avasare'
@@ -28,17 +28,17 @@ How Claude became the fastest-growing AI product in history, covering growth sys
 
 **Guest:** Amol Avasare
 **Date:** 2026-04-05
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention, product-strategy, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring, retention, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[product-strategy]]
 - [[fundraising]]

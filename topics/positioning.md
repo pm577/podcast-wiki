@@ -30,4 +30,12 @@
 - [[lenny/april-dunford-20|How to nail your product positioning | April Dunford (Obviously Awesome)]] — *April Dunford 2.0* (2023-01-22)
 - [[lenny/barbra-gago|Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)]] — *Barbra Gago* (2022-10-27)
 - [[lenny/emily-kramer|How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)]] — *Emily Kramer* (2022-09-11)
-- [[lenny/arielle-jackson|The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)]] — *Arielle Jackson* (2022-08-18)
+|- [[lenny/arielle-jackson|The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)]] — *Arielle Jackson* (2022-08-18)
+
+## See also
+
+- [[brand-building]]
+- [[storytelling]]
+- [[product-strategy]]
+- [[competition]]
+- [[product-market-fit]]

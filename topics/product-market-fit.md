@@ -23,4 +23,12 @@
 - [[lenny/nikita-bier|Driving alignment within teams, work-life balance, and the changing PM landscape | Nikita Miller]] — *Nikita Bier* (2023-04-06)
 - [[lenny/marty-cagan-20|The disease of process people | Marty Cagan]] — *Marty Cagan 2.0* (2023-02-06)
 - [[lenny/naomi-ionita|How to price your product | Naomi Ionita (Menlo Ventures)]] — *Naomi Ionita* (2023-01-12)
-- [[lenny/adam-fishman|How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)]] — *Adam Fishman* (2022-10-13)
+|- [[lenny/adam-fishman|How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)]] — *Adam Fishman* (2022-10-13)
+
+## See also
+
+- [[product-strategy]]
+- [[product-led-growth]]
+- [[customer-research]]
+- [[iteration]]
+- [[vision]]

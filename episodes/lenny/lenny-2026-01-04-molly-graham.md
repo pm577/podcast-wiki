@@ -8,14 +8,14 @@ key_insights:
   defined by the personality of the founder...'
 podcast: lenny
 tags:
-- ai-ml
-- saas
-- leadership
-- hiring
-- go-to-market
-- marketplace
-- startups
 - pricing
+- saas
+- startups
+- ai-ml
+- marketplace
+- leadership
+- go-to-market
+- hiring
 title: 'The high-growth handbook: Molly Graham’s frameworks for leading through chaos,
   change, and scale'
 type: Episode
@@ -29,18 +29,18 @@ Molly Graham has worked for some of tech’s most effective leaders, including M
 **Guest:** Molly Graham
 **Date:** 2026-01-04
 **YouTube:** https://www.youtube.com/watch?v=twzLDx9iers
-**Topics:** ai-ml, saas, leadership, hiring, go-to-market, marketplace, startups, pricing, retention
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, go-to-market, hiring, retention
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
-- [[saas]]
-- [[leadership]]
-- [[hiring]]
-- [[go-to-market]]
-- [[marketplace]]
-- [[startups]]
 - [[pricing]]
+- [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[leadership]]
+- [[go-to-market]]
+- [[hiring]]
 - [[retention]]
 
 ## Transcript Highlights

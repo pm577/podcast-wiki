@@ -38,3 +38,11 @@
 - [[lenny/pete-kazanjy|Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)]] — *Pete Kazanjy* (2022-12-15)
 - [[lenny/petra-wille|How to be the best coach to product people | Petra Wille (Strong Product People)]] — *Petra Wille* (2022-11-27)
 - [[lenny/shreyas-doshi|The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)]] — *Shreyas Doshi* (2022-08-25)
+
+## See also
+
+- [[analytics]]
+- [[experimentation]]
+- [[data-analytics]]
+- [[decision-making]]
+- [[metrics]]

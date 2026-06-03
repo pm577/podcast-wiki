@@ -8,13 +8,13 @@ key_insights:
   I always felt that we could fire 90% of the peopl...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 - retention
 title: The 100-person AI lab that became Anthropic and Google's secret weapon | Edwin
   Chen (Surge AI)
@@ -29,17 +29,17 @@ Edwin Chen is the founder and CEO of Surge AI, the company that teaches AI whatâ
 **Guest:** Edwin Chen
 **Date:** 2025-12-07
 **YouTube:** https://www.youtube.com/watch?v=dduQeaqmpnI
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring, retention, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[fundraising]]
 

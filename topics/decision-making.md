@@ -24,5 +24,14 @@ Episodes discussing **decision making**:
 - [Stewart Butterfield](../episodes/stewart-butterfield/transcript.md)
 - [Upasna Gautam](../episodes/upasna-gautam/transcript.md)
 
+## See also
+
+- [[founder-psychology]]
+- [[leadership]]
+- [[second-order-thinking]]
+- [[gut-instinct]]
+- [[data-driven]]
+- [[information-asymmetry]]
+
 ---
 *Source: ChatPRD curated topic index*

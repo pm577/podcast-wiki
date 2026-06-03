@@ -86,3 +86,10 @@
 - [[lenny/adam-fishman|How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)]] — *Adam Fishman* (2022-10-13)
 - [[lenny/shishir-mehrotra|The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft]] — *Shishir Mehrotra* (2022-08-14)
 - [[lenny/crystal-w|How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu]] — *Crystal W* (2022-07-31)
+
+## See also
+
+- [[pricing]]
+- [[retention]]
+- [[churn]]
+- [[monetization]]

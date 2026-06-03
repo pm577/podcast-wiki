@@ -8,11 +8,11 @@ key_insights:
   is going to saturate. When that happens, the next frontier is...'
 podcast: lenny
 tags:
-- ai-ml
 - saas
+- startups
+- ai-ml
 - leadership
 - hiring
-- startups
 - retention
 - product-strategy
 title: Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI,
@@ -27,15 +27,15 @@ Why we’re at the beginning of the AI hardware boom, covering product design, c
 
 **Guest:** Caitlin Kalinowski
 **Date:** 2026-05-17
-**Topics:** ai-ml, saas, leadership, hiring, startups, retention, product-strategy
+**Topics:** saas, startups, ai-ml, leadership, hiring, retention, product-strategy
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
 - [[leadership]]
 - [[hiring]]
-- [[startups]]
 - [[retention]]
 - [[product-strategy]]
 

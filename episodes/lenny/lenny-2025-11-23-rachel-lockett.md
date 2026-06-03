@@ -8,12 +8,12 @@ key_insights:
   reliable, the smartest person in the room. But gre...'
 podcast: lenny
 tags:
-- ai-ml
 - saas
-- leadership
-- hiring
-- go-to-market
 - startups
+- ai-ml
+- leadership
+- go-to-market
+- hiring
 - retention
 - product-strategy
 title: A guide to difficult conversations, building high-trust teams, and designing
@@ -29,16 +29,16 @@ A guide to difficult conversations, building high-trust teams, and designing a l
 **Guest:** Rachel Lockett
 **Date:** 2025-11-23
 **YouTube:** https://www.youtube.com/watch?v=1GDVum5IarI
-**Topics:** ai-ml, saas, leadership, hiring, go-to-market, startups, retention, product-strategy, fundraising
+**Topics:** saas, startups, ai-ml, leadership, go-to-market, hiring, retention, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
-- [[leadership]]
-- [[hiring]]
-- [[go-to-market]]
 - [[startups]]
+- [[ai-ml]]
+- [[leadership]]
+- [[go-to-market]]
+- [[hiring]]
 - [[retention]]
 - [[product-strategy]]
 - [[fundraising]]

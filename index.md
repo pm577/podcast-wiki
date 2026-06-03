@@ -1,208 +1,1271 @@
-# Podcast Wiki Index
+# Podcast Knowledge Wiki — Content Index
 
-*Generated: 2026-05-31 06:06:08*
-
-## Overview
-
-- **Total episodes:** 1823
-  - **20vc:** 1462 episodes
-  - **lenny:** 351 episodes
-  - **newsletters:** 10 episodes
-- **Unique guests:** 1122
-- **Unique topics:** 119
-
-## By Podcast
-
-### 20vc (1462 episodes)
-
-- [[20vc-2026-05-30-20vc-corgi-insurance-the-mos]] — 20VC: Corgi Insurance: The Most Intense Workplace Culture in America:  (2026-05-30)
-- [[20vc-2026-05-28-20vc-openai-spacex-s1-drops]] — 20VC: OpenAI & SpaceX S1 Drops | NVIDIA's $81BN Revenue Quarter | Clou (2026-05-28)
-- [[20vc-2026-05-26-20vc-cerebras-ceo-on-the-futu]] — 20VC: Cerebras CEO on the Future of Data Centres, Token Costs and Memo (2026-05-26)
-- [[20vc-2026-05-23-20sales-the-100m-cro-bubble]] — 20Sales: The $100M CRO Bubble: Why Anthropic Are Causing a Comp Crisis (2026-05-23)
-- [[20vc-2026-05-21-20vc-andrej-karpathy-joins-an]] — 20VC: Andrej Karpathy Joins Anthropic & Anthropic Raises $30BN at $900 (2026-05-21)
-- [[20vc-2026-05-18-20vc-turning-peter-thiels-1]] — 20VC: Turning Peter Thiel's $100K into $10M Angel Portfolio | The One  (2026-05-18)
-- [[20vc-2026-05-16-20vc-lessons-from-jensen-huan]] — 20VC: Lessons from Jensen Huang on "Founder Mode" | How to Know if Ope (2026-05-16)
-- [[20vc-2026-05-14-20vc-anthropic-buys-compute-f]] — 20VC: Anthropic Buys Compute From Elon & Commits $200BN to Google | Ce (2026-05-14)
-- [[20vc-2026-05-11-20vc-inside-legora-100m-arr]] — 20VC: Inside Legora: $100M ARR in 18 Months | Jude Law Generated $50M  (2026-05-11)
-- [[20vc-2026-05-09-20vc-what-i-learned-from-100]] — 20VC: What I Learned from 100 of the Best CEOs in the World | What I L (2026-05-09)
-- [[20vc-2026-05-07-20vc-mag7-earnings-google-]] — 20VC: Mag7 Earnings: Google & Amazon Win - Meta and Microsoft Falter | (2026-05-07)
-- [[20vc-2026-05-04-20vc-shopifys-tobi-ltke-on]] — 20VC: Shopify's Tobi Lütke on How AI is a Scapegoat for Mass Layoffs & (2026-05-04)
-- [[20vc-2026-05-02-20vc-inside-clays-sales-play]] — 20VC: Inside Clay's Sales Playbook Scaling to $100M ARR | How to Set S (2026-05-02)
-- [[20vc-2026-04-30-20vc-anthropic-raises-45bn-b]] — 20VC: Anthropic Raises $45BN but Falls Short on Compute | OpenAI Crush (2026-04-30)
-- [[20vc-2026-04-27-20vc-applovin-160bn-market]] — 20VC: Applovin: $160BN Market Cap, $5.48BN Revenue, $10M EBITDA Per He (2026-04-27)
-- [[20vc-2026-04-25-20product-replit-ceo-on-why-c]] — 20Product: Replit CEO on Why Coding Models Are Plateauing | Why the Sa (2026-04-25)
-- [[20vc-2026-04-23-20vc-cursor-acquired-for-60b]] — 20VC: Cursor Acquired for $60BN by xAI | Anthropic Hits $1TRN in Secon (2026-04-23)
-- [[20vc-2026-04-20-20vc-everyone-is-wrong-we-wi]] — 20VC: Everyone is Wrong; We Will Have More Developers in Five Years |  (2026-04-20)
-- [[20vc-2026-04-18-20vc-jake-paul-on-why-traditi]] — 20VC: Jake Paul on Why Traditional VC is Toast and Attention is More V (2026-04-18)
-- [[20vc-2026-04-16-20vc-anthropic-unveils-mythos]] — 20VC: Anthropic Unveils Mythos | SpaceX's Financials Leaked: Is it Wor (2026-04-16)
-- [[20vc-2026-04-14-20vc-anj-midha-on-investing-]] — 20VC: Anj Midha on Investing $300M into Anthropic | The Early Days of  (2026-04-14)
-- [[20vc-2026-04-11-20sales-elevenlabs-why-we-se]] — 20Sales: ElevenLabs: Why We Set a 20x Sales Quota | How to Structure S (2026-04-11)
-- [[20vc-2026-04-09-20vc-anthropic-surpasses-open]] — 20VC: Anthropic Surpasses OpenAI Revenue | OpenAI Acquisition of TBPN: (2026-04-09)
-- [[20vc-2026-04-07-20vc-deepminds-demis-hassabi]] — 20VC: DeepMind's Demis Hassabis on Why AGI is Bigger than the Industri (2026-04-07)
-- [[20vc-2026-04-04-20vc-hims-hers-43bn-mark]] — 20VC: Hims & Hers: $4.3BN Market Cap on $2.3BN of Revenue: The Comebac (2026-04-04)
-- [[20vc-2026-04-02-20vc-anthropics-6bn-revenue]] — 20VC: Anthropic's $6BN Revenue Month | OpenAI Kills Sora & Hits $100M  (2026-04-02)
-- [[20vc-2026-03-30-20vc-marc-andreessen-on-the-f]] — 20VC: Marc Andreessen on The Future of Venture Capital: Will a16z Go P (2026-03-30)
-- [[20vc-2026-03-28-20vc-the-venture-model-is-bro]] — 20VC: The Venture Model is Broken | You Need to be Greedy and Selfish  (2026-03-28)
-- [[20vc-2026-03-26-20vc-why-you-need-a-1bn-fund]] — 20VC: Why You Need a $1BN Fund To Do Series A Today | OpenAI vs Anthro (2026-03-26)
-- [[20vc-2026-03-23-20vc-inside-andurils-20bn-a]] — 20VC: Inside Anduril's $20BN Army Contract & Why Anduril Must Go Publi (2026-03-23)
-- [[20vc-2026-03-21-20sales-inside-figmas-1bn-a]] — 20Sales: Inside Figma's $1BN ARR Revenue Machine | Why We Do Not Have  (2026-03-21)
-- [[20vc-2026-03-19-20vc-the-return-of-travis-kal]] — 20VC: The Return of Travis Kalanick: Uber Would Be $1TRN Today With Hi (2026-03-19)
-- [[20vc-2026-03-16-20vc-the-8-moats-of-enduring]] — 20VC: The 8 Moats of Enduring Software Companies: How to Analyse for D (2026-03-16)
-- [[20vc-2026-03-14-20growth-inside-lovables-40]] — 20Growth: Inside Lovable's $400M ARR Growth Machine | How Lovable Does (2026-03-14)
-- [[20vc-2026-03-12-20vc-anthropic-vs-the-pentago]] — 20VC: Anthropic vs The Pentagon: Who Wins | The Ultimate Stock Picks:  (2026-03-12)
-- [[20vc-2026-03-09-20vc-inside-accels-4bn-grow]] — 20VC: Inside Accel's $4BN Growth Investing Machine | Cursor is Dead is (2026-03-09)
-- [[20vc-2026-03-07-20vc-why-the-saas-apocalypse]] — 20VC: Why the SaaS Apocalypse is BS | Why China Will Win the AI War |  (2026-03-07)
-- [[20vc-2026-03-05-20vc-anthropic-vs-the-pentago]] — 20VC: Anthropic vs The Pentagon: Who Wins | OpenAI's $110BN Mega Round (2026-03-05)
-- [[20vc-2026-03-02-20vc-mondaycom-ceo-on-is-saa]] — 20VC: Monday.com CEO on Is SaaS Dead: Will Everything Be Vibe Coded |  (2026-03-02)
-- [[20vc-2026-02-28-20vc-why-cursor-is-dead-an]] — 20VC: Why Cursor is Dead | An AI Tsunami is Coming & You Need to Prepa (2026-02-28)
-- [[20vc-2026-02-26-20vc-anthropic-wipes-billions]] — 20VC: Anthropic Wipes Billions Off Markets | Citrini Research: The Ult (2026-02-26)
-- [[20vc-2026-02-23-20vc-inside-coatues-70bn-ma]] — 20VC: Inside Coatue's $70BN Machine: Why Price Matters Least | Why Meg (2026-02-23)
-- [[20vc-2026-02-21-20vc-codex-vs-claude-code-vs]] — 20VC: Codex vs Claude Code vs Cursor: Who Wins, Who Loses | Will All C (2026-02-21)
-- [[20vc-2026-02-19-20vc-anthropic-raises-30bn-a]] — 20VC: Anthropic Raises $30BN at $380BN Valuation | Thrive Raises New $ (2026-02-19)
-- [[20vc-2026-02-16-20vc-saas-is-dead-why-system]] — 20VC: SaaS is Dead: Why Systems of Record Will Die in an Agentic World (2026-02-16)
-- [[20vc-2026-02-14-20sales-inside-elevenlabs-33]] — 20Sales: Inside ElevenLabs $330M ARR Sales Machine | The 20x Sales Com (2026-02-14)
-- [[20vc-2026-02-12-20vc-anthropics-superbowl-ad]] — 20VC: Anthropic's Superbowl Ad: Who Won - Who Lost | Harvey Raises $20 (2026-02-12)
-- [[20vc-2026-02-09-20vc-is-saas-dead-in-a-world]] — 20VC: Is SaaS Dead in a World of AI | Do Margins Matter Anymore | Is T (2026-02-09)
-- [[20vc-2026-02-07-20vc-from-62bn-market-cap-t]] — 20VC: From $6.2BN Market Cap to $2.8BN: What Is Not Translating About  (2026-02-07)
-- [[20vc-2026-02-05-20vc-spacex-completes-acquisi]] — 20VC: SpaceX Completes Acquisition of xAI | The 2026 SaaS Massacre: Pu (2026-02-05)
-  *...and 1412 more*
-
-### lenny (351 episodes)
-
-- [[teaser_2021]] — teaser_2021
-- [[peter-deng]] — Peter Deng
-- [[lulu-cheng-meservey]] — lulu-cheng-meservey
-- [[daniel-lereya]] — Daniel Lereya
-- [[lenny-2026-05-24-dan-shipper]] — The AI paradox: More automation, more humans, more work | Dan Shipper (2026-05-24)
-- [[lenny-2026-05-17-caitlin-kalinowski]] — Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowsk (2026-05-17)
-- [[lenny-2026-05-10-eric-ries-lean-startup-author]] — How to build a company that withstands any era | Eric Ries, Lean Start (2026-05-10)
-- [[lenny-2026-04-26-evan-spiegel]] — Snapchat CEO: Why distribution has become the most important moat | Ev (2026-04-26)
-- [[lenny-2026-04-23-cat-wu]] — How Anthropic’s product team moves faster than anyone else | Cat Wu (H (2026-04-23)
-- [[lenny-2026-04-19-nikhyl-singhal]] — Why half of product managers are in trouble | Nikhyl Singhal (Meta, Go (2026-04-19)
-- [[lenny-2026-04-12-keith-rabois]] — Hard truths about building in the AI era | Keith Rabois (Khosla Ventur (2026-04-12)
-- [[lenny-2026-04-05-amol-avasare]] — Anthropic’s $1B to $19B growth run: how Claude became the fastest-grow (2026-04-05)
-- [[lenny-2026-04-02-simon-willison]] — An AI state of the union: We’ve passed the inflection point, dark fact (2026-04-02)
-- [[lenny-2026-03-29-claire-vo]] — From skeptic to true believer: How OpenClaw changed my life | Claire V (2026-03-29)
-- [[lenny-2026-03-22-jessica-fain]] — The art of influence: The single most important skill that AI can’t re (2026-03-22)
-- [[lenny-2026-03-01-jenny-wen]] — Jenny Wen (2026-03-01)
-- [[lenny-2026-02-26-jeetu-patel]] — Jeetu Patel (2026-02-26)
-- [[lenny-2026-02-19-boris-cherny]] — Boris Cherny (2026-02-19)
-- [[lenny-2026-02-15-brian-halligan]] — Sequoia CEO coach: Why it’s never been easier to start a company, and  (2026-02-15)
-- [[lenny-2026-02-12-sherwin-wu-v2]] — Sherwin Wu V2 (2026-02-12)
-- [[lenny-2026-02-08-lazar-jovanovic]] — The rise of the professional vibe coder (a new AI-era job) | Lazar Jov (2026-02-08)
-- [[lenny-2026-02-01-dr-becky-kennedy]] — A child psychologist’s guide to working with difficult adults | Dr. Be (2026-02-01)
-- [[lenny-2026-01-29-marc-andreessen]] — Marc Andreessen: The real AI boom hasn’t even started yet (2026-01-29)
-- [[lenny-2026-01-25-jason-cohen]] — 5 questions to ask when your product stops growing | Jason Cohen (2x u (2026-01-25)
-- [[lenny-2026-01-18-zevi-arnovitz]] — The non-technical PM’s guide to building with Cursor | Zevi Arnovitz ( (2026-01-18)
-- [[lenny-2026-01-15-sam-lessin]] — How to show up in any room with a low heart rate: Silicon Valley’s mis (2026-01-15)
-- [[lenny-2026-01-12-alexander-embiricos]] — The power user’s guide to Codex: parallelizing workflows, planning tec (2026-01-12)
-- [[aishwarya-naresh-reganti-kiriti-badam]] — Why most AI products fail: Lessons from 50+ AI deployments at OpenAI,  (2026-01-11)
-- [[lenny-2026-01-11-aishwarya-naresh-reganti-kiriti-badam]] — Aishwarya Naresh Reganti + Kiriti Badam (2026-01-11)
-- [[lenny-2026-01-04-molly-graham]] — The high-growth handbook: Molly Graham’s frameworks for leading throug (2026-01-04)
-- [[molly-graham]] — “I like being scared”: Molly Graham’s frameworks for rapid career grow (2026-01-04)
-- [[jason-m-lemkin]] — We replaced our sales team with 20 AI agents—here’s what happened next (2026-01-01)
-- [[lenny-2026-01-01-jason-m-lemkin]] — We replaced our sales team with 20 AI agents—here’s what happened | Ja (2026-01-01)
-- [[lenny-2025-12-28-matt-macinnis]] — 10 contrarian leadership truths every leader needs to hear | Matt MacI (2025-12-28)
-- [[matt-macinnis]] — "I deliberately understaff every project" | Leadership lessons from Ri (2025-12-28)
-- [[sander-schulhoff-20]] — Why securing AI is harder than anyone expected and guardrails are fail (2025-12-21)
-- [[elena-verna-40]] — The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one (2025-12-18)
-- [[lenny-2025-12-18-elena-verna-40]] — Elena Verna 4.0 (2025-12-18)
-- [[edwin-chen]] — The $1B Al company training ChatGPT, Claude & Gemini on the path to re (2025-12-07)
-- [[lenny-2025-12-07-edwin-chen]] — The 100-person AI lab that became Anthropic and Google's secret weapon (2025-12-07)
-- [[lenny-2025-12-04-tomer-cohen]] — Why LinkedIn is turning PMs into AI-powered "full stack builders” | To (2025-12-04)
-- [[tomer-cohen-20]] — Why AI is disrupting traditional product management | Tomer Cohen (Lin (2025-12-04)
-- [[tomer-cohen]] — Why AI is disrupting traditional product management | Tomer Cohen (Lin (2025-12-04)
-- [[jeanne-grosser]] — What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Verce (2025-11-30)
-- [[lenny-2025-11-30-jeanne-grosser]] — What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Verce (2025-11-30)
-- [[lenny-2025-11-23-rachel-lockett]] — A guide to difficult conversations, building high-trust teams, and des (2025-11-23)
-- [[rachel-lockett]] — A guide to difficult conversations, building high-trust teams, and des (2025-11-23)
-- [[lenny-2025-11-20-stewart-butterfield]] — Slack founder: Mental models for building products people love ft. Ste (2025-11-20)
-- [[stewart-butterfield]] — Mental models for building products people love ft. Stewart Butterfiel (2025-11-20)
-- [[dr-fei-fei-li]] — The Godmother of AI on jobs, robots & why world models are next | Dr.  (2025-11-16)
-  *...and 301 more*
-
-### newsletters (10 episodes)
-
-- [[what-people-are-vibe-coding-and-actually-using]] — None
-- [[state-of-the-product-job-market-in-2025]] — None
-- [[product-manager-is-an-unfair-role-so-work-unfairly]] — None
-- [[how-to-build-your-pm-second-brain-with-chatgpt]] — None
-- [[how-duolingo-reignited-user-growth]] — None
-- [[everyone-should-be-using-claude-code-more]] — None
-- [[essential-reading-for-product-builders-part-1]] — None
-- [[beyond-vibe-checks-a-pms-complete-guide-to-evals]] — None
-- [[an-ai-glossary]] — None
-- [[a-guide-to-ai-prototyping-for-product-managers]] — None
+**Last updated:** 2026-06-01 06:05
+**Podcasts indexed:** Lenny's Podcast, 20VC
+**Total episodes:** 351
+**Total guests:** 1053
+**Total topics:** 180
 
 ---
 
-## Top Guests
+## Episodes
 
-| Guest | Episodes | Podcasts |
-|-------|----------|----------|
-| unknown-guest | 619 | 20vc |
-| jason-lemkin | 6 | 20vc |
-| beezer-clarkson | 4 | 20vc |
-| scale | 4 | 20vc |
-| chad-peets | 4 | 20vc |
-| ed-sim | 3 | 20vc |
-| david-frankel | 3 | 20vc |
-| open | 3 | 20vc |
-| jonathan-ross | 3 | 20vc |
-| charlie | 2 | 20vc |
-| matt-lerner | 2 | 20vc |
-| hussein-kanji | 2 | 20vc |
-| samir-kaji | 2 | 20vc |
-| boris-wertz | 2 | 20vc |
-| nicolas-dessaigne | 2 | 20vc |
-| matt-clifford | 2 | 20vc |
-| melanie-perkins | 2 | 20vc, lenny |
-| sarah-guo | 2 | 20vc |
-| roger-ehrenberg | 2 | 20vc |
-| dennis-mortensen | 2 | 20vc |
-| christian-lanng | 2 | 20vc |
-| leo-polovets | 2 | 20vc |
-| jason-brown | 2 | 20vc |
-| brendan-wallace | 2 | 20vc |
-| joey-zwillinger | 2 | 20vc |
-| mario-schlosser | 2 | 20vc |
-| sami-inkinen | 2 | 20vc |
-| hans-tung | 2 | 20vc |
-| barry-eggers | 2 | 20vc |
-| investors | 2 | 20vc |
+- [[todd-jackson]] — A framework for finding product-market fit | Todd Jackson (First Round Capital) ()
+- [[tom-conrad]] — Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero) ()
+- [[tomer-cohen-20]] — Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO) ()
+- [[tomer-cohen]] — Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO) ()
+- [[tristan-de-montebello]] — Why most public speaking advice is wrong—and how to finally overcome anxiety | Tristan de Montebello ()
+- [[upasna-gautam]] — An inside look at how CNN builds product | Upasna Gautam ()
+- [[uri-levine-20]] — A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur) ()
+- [[uri-levine]] — A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur) ()
+- [[various]] — Countdown of the top 10 episodes of the year ()
+- [[varun-mohan]] — Building a magical AI code editor used by over 1m developers in 4 months: Inside Windsurf ()
+- [[varun-parmar]] — An inside look at how Miro builds product | Varun Parmar (CPO of Miro) ()
+- [[vijay]] — An inside look at Mixpanel’s product journey | Vijay Iyengar ()
+- [[vikrama-dhiman]] — A framework for PM skill development | Vikrama Dhiman (Gojek) ()
+- [[wes-kao-20]] — Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4) ()
+- [[wes-kao]] — Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4) ()
+- [[will-larson]] — The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg) ()
+- [[yamashata]] — An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma) ()
+- [[yuhki-yamashata]] — An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma) ()
+- [[yuriy-timen]] — How to grow a subscription business | Yuriy Timen (Grammarly, Canva, Airtable) ()
+- [[zoelle-egner]] — Lessons from Airtable’s unconventional growth strategy | Zoelle Egner ()
 
-## Top Topics
+## Guests
 
-- **venture-capital:** 1342 episodes (20vc, lenny)
-- **ai-ml:** 1015 episodes (20vc, lenny)
-- **founder-psychology:** 951 episodes (20vc)
-- **product-strategy:** 587 episodes (20vc, lenny)
-- **hiring-culture:** 441 episodes (20vc)
-- **go-to-market:** 430 episodes (20vc, lenny)
-- **growth:** 278 episodes (lenny)
-- **hiring:** 241 episodes (lenny)
-- **marketplaces:** 231 episodes (20vc)
-- **leadership:** 217 episodes (lenny)
-- **enterprise-saas:** 216 episodes (20vc)
-- **management:** 202 episodes (lenny)
-- **roadmap:** 190 episodes (lenny)
-- **metrics:** 182 episodes (lenny)
-- **consumer:** 180 episodes (20vc)
-- **strategy:** 176 episodes (lenny)
-- **culture:** 174 episodes (lenny)
-- **retention:** 172 episodes (lenny)
-- **revenue:** 161 episodes (lenny)
-- **vision:** 147 episodes (lenny)
-- **analytics:** 137 episodes (lenny)
-- **experimentation:** 133 episodes (lenny)
-- **conversion:** 132 episodes (lenny)
-- **market:** 129 episodes (lenny)
-- **acquisition:** 121 episodes (lenny)
-- **pricing:** 120 episodes (lenny)
-- **fintech:** 116 episodes (20vc)
-- **onboarding:** 115 episodes (lenny)
-- **mission:** 109 episodes (lenny)
-- **persona:** 100 episodes (lenny)
+- [[aaron-hirschhorn|Aaron Hirschhorn]]
+- [[aaron-levie|Aaron Levie]]
+- [[aaron-vandevender|Aaron Vandevender]]
+- [[aatish-nayak|Aatish Nayak]]
+- [[ada|Ada]]
+- [[adam-besvinick|Adam Besvinick]]
+- [[adam-draper|Adam Draper]]
+- [[adam-fisher|Adam Fisher]]
+- [[adam-fishman|Adam Fishman]]
+- [[adam-foroughi|Adam Foroughi]]
+- [[adam-grenier|Adam Grenier]]
+- [[adam-gross|Adam Gross]]
+- [[adam-pritzker|Adam Pritzker]]
+- [[adam|Adam]]
+- [[adarsh-hiremath|Adarsh Hiremath]]
+- [[additional-leverage|Additional Leverage]]
+- [[adena-hefets|Adena Hefets]]
+- [[adi-sideman|Adi Sideman]]
+- [[adrian-aoun|Adrian Aoun]]
+- [[adriel|Adriel]]
+- [[afton-vechery|Afton Vechery]]
+- [[agents|Agents]]
+- [[aishwarya-naresh-reganti-kiriti-badam|Aishwarya Naresh Reganti + Kiriti Badam]]
+- [[aishwarya|Aishwarya]]
+- [[akin-babayigit|Akin Babayigit]]
+- [[akshay-kothari|Akshay Kothari]]
+- [[alan-chang|Alan Chang]]
+- [[alan-chiu|Alan Chiu]]
+- [[alan-jones|Alan Jones]]
+- [[albert-cheng|Albert Cheng]]
+- [[albert|Albert]]
+- [[alessandra-sollberger|Alessandra Sollberger]]
+- [[alex-bangash|Alex Bangash]]
+- [[alex-bouaziz|Alex Bouaziz]]
+- [[alex-embiricos|Alex Embiricos]]
+- [[alex-lebrun|Alex Lebrun]]
+- [[alex-mather|Alex Mather]]
+- [[alex-mittal|Alex Mittal]]
+- [[alex-rampell|Alex Rampell]]
+- [[alex-rodrigues|Alex Rodrigues]]
+- [[alex|Alex]]
+- [[alexander-embiricos|Alexander Embiricos]]
+- [[alexander|Alexander]]
+- [[alexis-ohanian|Alexis Ohanian]]
+- [[alice-bentinck|Alice Bentinck]]
+- [[alina-cohen|Alina Cohen]]
+- [[alisa|Alisa]]
+- [[allison-goldberg|Allison Goldberg]]
+- [[alyssa-ravasio|Alyssa Ravasio]]
+- [[aman-narang|Aman Narang]]
+- [[amanda-bradford|Amanda Bradford]]
+- [[ami|Ami]]
+- [[amir-elaguizy|Amir Elaguizy]]
+- [[amit-bendov|Amit Bendov]]
+- [[amjad-masad|Amjad Masad]]
+- [[amjad|Amjad]]
+- [[amol-avasare|Amol Avasare]]
+- [[analysts-when-raising|Analysts When Raising]]
+- [[anand-sanwal|Anand Sanwal]]
+- [[andela|Andela]]
+- [[andrew-dudum|Andrew Dudum]]
+- [[andrew-farah|Andrew Farah]]
+- [[andrew-feldman|Andrew Feldman]]
+- [[andrew-parker|Andrew Parker]]
+- [[andrew|Andrew]]
+- [[andy-johns|Andy Johns]]
+- [[andy-pflaum|Andy Pflaum]]
+- [[andy|Andy]]
+- [[angela-tran-kingyens|Angela Tran Kingyens]]
+- [[anish-acharya|Anish Acharya]]
+- [[anjney-midha|Anjney Midha]]
+- [[anna-shedletsky|Anna Shedletsky]]
+- [[anneka|Anneka]]
+- [[annie-kadavy|Annie Kadavy]]
+- [[annie|Annie]]
+- [[anthony-pompliano|Anthony Pompliano]]
+- [[anthropic-dependency-risk|Anthropic Dependency Risk]]
+- [[antoine-le-nel|Antoine Le Nel]]
+- [[antoine-nussenbaum|Antoine Nussenbaum]]
+- [[anton-levy|Anton Levy]]
+- [[anton-osika|Anton Osika]]
+- [[anton|Anton]]
+- [[anu-duggal|Anu Duggal]]
+- [[anu-hariharan|Anu Hariharan]]
+- [[anuj|Anuj]]
+- [[aparna-chennapragada|Aparna Chennapragada]]
+- [[aparna|Aparna]]
+- [[app|App]]
+- [[april|April]]
+- [[apurva-mehta|Apurva Mehta]]
+- [[ara-mahdessian|Ara Mahdessian]]
+- [[archie|Archie]]
+- [[ari-helgason|Ari Helgason]]
+- [[ari-mir|Ari Mir]]
+- [[ariel-cohen|Ariel Cohen]]
+- [[arielle|Arielle]]
+- [[armon-dadgar|Armon Dadgar]]
+- [[arteen-arabshahi|Arteen Arabshahi]]
+- [[arvind-narayanan|Arvind Narayanan]]
+- [[asha|Asha]]
+- [[ashish-walia|Ashish Walia]]
+- [[assaf-wand|Assaf Wand]]
+- [[atomico|Atomico]]
+- [[austin|Austin]]
+- [[avi-eyal|Avi Eyal]]
+- [[avi-meir|Avi Meir]]
+- [[avichal-garg|Avichal Garg]]
+- [[avichal-managing-partner|Avichal Managing Partner]]
+- [[avicii|Avicii]]
+- [[avidan-ross|Avidan Ross]]
+- [[ayan-mitra|Ayan Mitra]]
+- [[aydin-senkut|Aydin Senkut]]
+- [[ayo|Ayo]]
+- [[bangaly-kaba|Bangaly Kaba]]
+- [[bangaly|Bangaly]]
+- [[barbra|Barbra]]
+- [[barry-eggers|Barry Eggers]]
+- [[barry-schuler|Barry Schuler]]
+- [[bart-lorang|Bart Lorang]]
+- [[becca-lindquist|Becca Lindquist]]
+- [[beezer-clarkson|Beezer Clarkson]]
+- [[ben-blumenfeld|Ben Blumenfeld]]
+- [[ben-einstein|Ben Einstein]]
+- [[ben-fiechtner|Ben Fiechtner]]
+- [[ben-horowitz|Ben Horowitz]]
+- [[ben-marcus|Ben Marcus]]
+- [[ben-nader|Ben Nader]]
+- [[ben|Ben]]
+- [[benchmark-adds-their-newest-general-partner|Benchmark Adds Their Newest General Partner]]
+- [[benjamin|Benjamin]]
+- [[bias|Bias]]
+- [[big-ideas|Big Ideas]]
+- [[bill-cilluf|Bill Cilluf]]
+- [[bill-clerico|Bill Clerico]]
+- [[bill-gates|Bill Gates]]
+- [[bill-gurley|Bill Gurley]]
+- [[bill|Bill]]
+- [[blake-scholl|Blake Scholl]]
+- [[bob-kocher|Bob Kocher]]
+- [[bob-pittman|Bob Pittman]]
+- [[bob|Bob]]
+- [[boris-cherny|Boris Cherny]]
+- [[boris-wertz|Boris Wertz]]
+- [[boz|Boz]]
+- [[brad-hargreaves|Brad Hargreaves]]
+- [[bram-sugarman|Bram Sugarman]]
+- [[brandon-deer|Brandon Deer]]
+- [[brandon|Brandon]]
+- [[braze|Braze]]
+- [[breaking-news|Breaking News]]
+- [[brendan-foody|Brendan Foody]]
+- [[brendan-wallace|Brendan Wallace]]
+- [[brendan|Brendan]]
+- [[brendon-cassidy|Brendon Cassidy]]
+- [[bret|Bret]]
+- [[brett-de|Brett De]]
+- [[brett-taylor|Brett Taylor]]
+- [[brian-ascher|Brian Ascher]]
+- [[brian-balfour|Brian Balfour]]
+- [[brian-garrett|Brian Garrett]]
+- [[brian-hale|Brian Hale]]
+- [[brian-halligan|Brian Halligan]]
+- [[brian-tolkin|Brian Tolkin]]
+- [[brian|Brian]]
+- [[brit-morin|Brit Morin]]
+- [[bucky-moore|Bucky Moore]]
+- [[byron-deeter|Byron Deeter]]
+- [[caitlin-kalinowski|Caitlin Kalinowski]]
+- [[cam|Cam]]
+- [[camille|Camille]]
+- [[canva-co|Canva Co]]
+- [[canvas-partner|Canvas Partner]]
+- [[carilu|Carilu]]
+- [[carl-rivera|Carl Rivera]]
+- [[carl-waldekranz|Carl Waldekranz]]
+- [[carles-reina|Carles Reina]]
+- [[carlos-delatorre|Carlos Delatorre]]
+- [[carole|Carole]]
+- [[casey-winters|Casey Winters]]
+- [[casey|Casey]]
+- [[cat-wu|Cat Wu]]
+- [[cem-kansu|Cem Kansu]]
+- [[cem-sertoglu|Cem Sertoglu]]
+- [[chad-peets|Chad Peets]]
+- [[chad-richard|Chad Richard]]
+- [[chandra-narayanan|Chandra Narayanan]]
+- [[chandra|Chandra]]
+- [[charles-hudson|Charles Hudson]]
+- [[charlie|Charlie]]
+- [[china|China]]
+- [[chip-huyen|Chip Huyen]]
+- [[chip|Chip]]
+- [[chris-chris-degnan|Chris Chris Degnan]]
+- [[chris-dark|Chris Dark]]
+- [[chris-degnan|Chris Degnan]]
+- [[chris-douvos|Chris Douvos]]
+- [[chris-farmer|Chris Farmer]]
+- [[chris-hutchins|Chris Hutchins]]
+- [[chris-morton|Chris Morton]]
+- [[chris-olsen|Chris Olsen]]
+- [[chris-paik|Chris Paik]]
+- [[chris-sacca|Chris Sacca]]
+- [[chris|Chris]]
+- [[christa-quarles|Christa Quarles]]
+- [[christian-claussen|Christian Claussen]]
+- [[christian-lanng|Christian Lanng]]
+- [[christian|Christian]]
+- [[christina|Christina]]
+- [[christine|Christine]]
+- [[christopher|Christopher]]
+- [[ciaran|Ciaran]]
+- [[claire-vo|Claire Vo]]
+- [[claire|Claire]]
+- [[clark-landry|Clark Landry]]
+- [[clay-wilkes|Clay Wilkes]]
+- [[clem-delangue|Clem Delangue]]
+- [[clinton-foy|Clinton Foy]]
+- [[clio|Clio]]
+- [[compassion|Compassion]]
+- [[conor-white|Conor White]]
+- [[content-agencies|Content Agencies]]
+- [[corporate-investors|Corporate Investors]]
+- [[cris-valenzuela|Cris Valenzuela]]
+- [[crossover|Crossover]]
+- [[crystal-huang|Crystal Huang]]
+- [[crystal|Crystal]]
+- [[dalton|Dalton]]
+- [[dan-fougere|Dan Fougere]]
+- [[dan-scheinman|Dan Scheinman]]
+- [[dan-shipper|Dan Shipper]]
+- [[dan-siroker|Dan Siroker]]
+- [[dan|Dan]]
+- [[daniel-dines|Daniel Dines]]
+- [[daniel-eric|Daniel Eric]]
+- [[daniel-gross|Daniel Gross]]
+- [[daniel-khachab|Daniel Khachab]]
+- [[daniel-lewis|Daniel Lewis]]
+- [[daniel-yan|Daniel Yan]]
+- [[daniel|Daniel]]
+- [[dannie-herzberg|Dannie Herzberg]]
+- [[danny-cohen|Danny Cohen]]
+- [[darian-shirazi|Darian Shirazi]]
+- [[darius-contractor|Darius Contractor]]
+- [[data-power-win|Data Power Win]]
+- [[data|Data]]
+- [[databricks|Databricks]]
+- [[dave-ripley|Dave Ripley]]
+- [[dave-vasen|Dave Vasen]]
+- [[dave|Dave]]
+- [[david-barrett|David Barrett]]
+- [[david-beisel|David Beisel]]
+- [[david-clark|David Clark]]
+- [[david-fialkow|David Fialkow]]
+- [[david-frankel|David Frankel]]
+- [[david-lieb|David Lieb]]
+- [[david-luan|David Luan]]
+- [[david-marcus|David Marcus]]
+- [[david-politis|David Politis]]
+- [[david-rogier|David Rogier]]
+- [[david-teten|David Teten]]
+- [[david-tisch|David Tisch]]
+- [[david-velez|David Velez]]
+- [[david-waxman|David Waxman]]
+- [[david-wu|David Wu]]
+- [[david|David]]
+- [[davis-smith|Davis Smith]]
+- [[dax-dasilva|Dax Dasilva]]
+- [[deb|Deb]]
+- [[debbie-sterling|Debbie Sterling]]
+- [[deckers|Deckers]]
+- [[deena-sh|Deena Sh]]
+- [[dennis-mortensen|Dennis Mortensen]]
+- [[derek-zanutto|Derek Zanutto]]
+- [[des-trayn|Des Trayn]]
+- [[des-traynor|Des Traynor]]
+- [[dhananja-jayalath|Dhananja Jayalath]]
+- [[dhanji-r-prasanna|Dhanji R. Prasanna]]
+- [[dhanji|Dhanji]]
+- [[dharmesh-raithatha|Dharmesh Raithatha]]
+- [[dharmesh|Dharmesh]]
+- [[dmitry-gurski|Dmitry Gurski]]
+- [[dmitry|Dmitry]]
+- [[dominik-richter|Dominik Richter]]
+- [[domm-holland|Domm Holland]]
+- [[donald-tang|Donald Tang]]
+- [[donna|Donna]]
+- [[doug-adamic|Doug Adamic]]
+- [[doug-leone|Doug Leone]]
+- [[doug-scott|Doug Scott]]
+- [[douwe-kiela|Douwe Kiela]]
+- [[dr-becky-kennedy|Dr. Becky Kennedy]]
+- [[dr-fei-fei-li|Dr. Fei Fei Li]]
+- [[dr|Dr]]
+- [[drew|Drew]]
+- [[dropbox|Dropbox]]
+- [[dustin-dolginow|Dustin Dolginow]]
+- [[dylan-serota|Dylan Serota]]
+- [[dylan|Dylan]]
+- [[ebi|Ebi]]
+- [[ed-baker|Ed Baker]]
+- [[ed-sim|Ed Sim]]
+- [[eddie-vivas|Eddie Vivas]]
+- [[edwin-chen|Edwin Chen]]
+- [[edwin|Edwin]]
+- [[eeke|Eeke]]
+- [[eiso-kant|Eiso Kant]]
+- [[el|El]]
+- [[eleanor-dorfman|Eleanor Dorfman]]
+- [[elena-verna-40|Elena Verna 4.0]]
+- [[elena-verna|Elena Verna]]
+- [[elena|Elena]]
+- [[eli|Eli]]
+- [[elias-torres|Elias Torres]]
+- [[elizabeth-yin|Elizabeth Yin]]
+- [[elizabeth|Elizabeth]]
+- [[elon-musk|Elon Musk]]
+- [[elon|Elon]]
+- [[ely-lerner|Ely Lerner]]
+- [[emad-mostaque|Emad Mostaque]]
+- [[emilie|Emilie]]
+- [[emily-melton|Emily Melton]]
+- [[emily|Emily]]
+- [[emmanuel-schalit|Emmanuel Schalit]]
+- [[eoghan-mc|Eoghan Mc]]
+- [[eoghan|Eoghan]]
+- [[eran-zinman|Eran Zinman]]
+- [[eric-hippeau|Eric Hippeau]]
+- [[eric-liaw|Eric Liaw]]
+- [[eric-paley|Eric Paley]]
+- [[eric-ries-lean-startup-author|Eric Ries, Lean Startup author]]
+- [[eric|Eric]]
+- [[erin-glenn|Erin Glenn]]
+- [[ethan-mollick|Ethan Mollick]]
+- [[ethan-smith|Ethan Smith]]
+- [[ethan|Ethan]]
+- [[eurie-kim|Eurie Kim]]
+- [[evan-spiegel|Evan Spiegel]]
+- [[evan|Evan]]
+- [[ever-increasing-reliance|Ever Increasing Reliance]]
+- [[ezra-galston|Ezra Galston]]
+- [[failure|Failure]]
+- [[family|Family]]
+- [[fareed|Fareed]]
+- [[farhan|Farhan]]
+- [[fede-pirzio|Fede Pirzio]]
+- [[federico-simionato|Federico Simionato]]
+- [[fei|Fei]]
+- [[flight|Flight]]
+- [[founders-in-organic|Founders In Organic]]
+- [[founders|Founders]]
+- [[frank-fillmann|Frank Fillmann]]
+- [[frank-mycroft|Frank Mycroft]]
+- [[fred-destin|Fred Destin]]
+- [[fred-wilson|Fred Wilson]]
+- [[fund|Fund]]
+- [[gabriel-weinberg|Gabriel Weinberg]]
+- [[garrett|Garrett]]
+- [[gaurav-jain|Gaurav Jain]]
+- [[gaurav|Gaurav]]
+- [[gene-frantz|Gene Frantz]]
+- [[geoff-charles|Geoff Charles]]
+- [[geoff|Geoff]]
+- [[geoffrey-wu|Geoffrey Wu]]
+- [[geoffrey|Geoffrey]]
+- [[george-bonaci|George Bonaci]]
+- [[george-sivulka|George Sivulka]]
+- [[gergely|Gergely]]
+- [[gia|Gia]]
+- [[gibson|Gibson]]
+- [[gili-raanan|Gili Raanan]]
+- [[gina-gotthilf|Gina Gotthilf]]
+- [[gina|Gina]]
+- [[girish-mathrubootham|Girish Mathrubootham]]
+- [[glenn-solomon|Glenn Solomon]]
+- [[glu-mobile|Glu Mobile]]
+- [[gokul-rajaram|Gokul Rajaram]]
+- [[gokul|Gokul]]
+- [[gonto|Gonto]]
+- [[good-parenting|Good Parenting]]
+- [[graham|Graham]]
+- [[grant-la|Grant La]]
+- [[grant-lee|Grant Lee]]
+- [[grant|Grant]]
+- [[guillaume-cabane|Guillaume Cabane]]
+- [[guillaume-moubeche|Guillaume Moubeche]]
+- [[guillermo-rauch|Guillermo Rauch]]
+- [[guillermo|Guillermo]]
+- [[gustaf|Gustaf]]
+- [[gustav|Gustav]]
+- [[guy-podjarny|Guy Podjarny]]
+- [[guy-turner|Guy Turner]]
+- [[hadi-partovi|Hadi Partovi]]
+- [[hadley-harris|Hadley Harris]]
+- [[hamel-husain-shreya-shankar|Hamel Husain & Shreya Shankar]]
+- [[hamel|Hamel]]
+- [[hamelshreya|Hamelshreya]]
+- [[hamilton-helmer|Hamilton Helmer]]
+- [[hamilton|Hamilton]]
+- [[hans-tung|Hans Tung]]
+- [[hari|Hari]]
+- [[harj-taggar|Harj Taggar]]
+- [[harley-finkelstein|Harley Finkelstein]]
+- [[harley-miller|Harley Miller]]
+- [[harry-stebbings|Harry Stebbings]]
+- [[harvey|Harvey]]
+- [[heather-fernandez|Heather Fernandez]]
+- [[heidi|Heidi]]
+- [[henri-pierre|Henri Pierre]]
+- [[henry-davis|Henry Davis]]
+- [[henry-schuck|Henry Schuck]]
+- [[hila-qu|Hila Qu]]
+- [[hila|Hila]]
+- [[hilary|Hilary]]
+- [[howard-lerman|Howard Lerman]]
+- [[howard-lindzon-founder|Howard Lindzon Founder]]
+- [[howie-liu|Howie Liu]]
+- [[howie|Howie]]
+- [[hubert-palan|Hubert Palan]]
+- [[hunter-somerville|Hunter Somerville]]
+- [[hussein-kanji|Hussein Kanji]]
+- [[ian-siegel|Ian Siegel]]
+- [[ian|Ian]]
+- [[ilir-sela|Ilir Sela]]
+- [[iman-abuzeid|Iman Abuzeid]]
+- [[immad-akhund|Immad Akhund]]
+- [[imperfect-data|Imperfect Data]]
+- [[imposter-syndrome|Imposter Syndrome]]
+- [[imran-khan|Imran Khan]]
+- [[inbal|Inbal]]
+- [[index|Index]]
+- [[interview|Interview]]
+- [[investors|Investors]]
+- [[ishan-mukherjee|Ishan Mukherjee]]
+- [[itamar|Itamar]]
+- [[ivan-mazour|Ivan Mazour]]
+- [[ivan|Ivan]]
+- [[jack-altman-joins-benchmark|Jack Altman Joins Benchmark]]
+- [[jack-altman|Jack Altman]]
+- [[jack-dorsey|Jack Dorsey]]
+- [[jack-groetzinger|Jack Groetzinger]]
+- [[jack-zhang|Jack Zhang]]
+- [[jack|Jack]]
+- [[jackie-reses|Jackie Reses]]
+- [[jackie|Jackie]]
+- [[jackson|Jackson]]
+- [[jag|Jag]]
+- [[jake-flomenberg|Jake Flomenberg]]
+- [[jake-saper|Jake Saper]]
+- [[jake|Jake]]
+- [[james-altucher|James Altucher]]
+- [[james-borow|James Borow]]
+- [[james-cham|James Cham]]
+- [[james-currier|James Currier]]
+- [[james-gibson|James Gibson]]
+- [[james-loftus|James Loftus]]
+- [[james-reinhart|James Reinhart]]
+- [[james-wise|James Wise]]
+- [[jamie-siminoff|Jamie Siminoff]]
+- [[jana-messerschmidt|Jana Messerschmidt]]
+- [[janna|Janna]]
+- [[jared-friedman|Jared Friedman]]
+- [[jason-brown|Jason Brown]]
+- [[jason-calacanis|Jason Calacanis]]
+- [[jason-cohen|Jason Cohen]]
+- [[jason-droege|Jason Droege]]
+- [[jason-fried|Jason Fried]]
+- [[jason-james|Jason James]]
+- [[jason-lemki|Jason Lemki]]
+- [[jason-lemkin|Jason Lemkin]]
+- [[jason-m-lemkin|Jason M Lemkin]]
+- [[jason-mendelson|Jason Mendelson]]
+- [[jason-pressman|Jason Pressman]]
+- [[jason-stoffer|Jason Stoffer]]
+- [[jason-wilk|Jason Wilk]]
+- [[jason|Jason]]
+- [[javier-soltero|Javier Soltero]]
+- [[jay-acunzo|Jay Acunzo]]
+- [[jay-desai|Jay Desai]]
+- [[jay-simons|Jay Simons]]
+- [[jean|Jean]]
+- [[jeanne-de|Jeanne De]]
+- [[jeanne-grosser|Jeanne Grosser]]
+- [[jeanne|Jeanne]]
+- [[jeetu-mahtani|Jeetu Mahtani]]
+- [[jeetu-patel|Jeetu Patel]]
+- [[jeff-bezos|Jeff Bezos]]
+- [[jeff-fagnan|Jeff Fagnan]]
+- [[jeff-morris-jr|Jeff Morris Jr]]
+- [[jeff-richards|Jeff Richards]]
+- [[jeff-russakow|Jeff Russakow]]
+- [[jeff-seibert|Jeff Seibert]]
+- [[jeff-wang|Jeff Wang]]
+- [[jeff|Jeff]]
+- [[jeffrey|Jeffrey]]
+- [[jen-abel|Jen Abel]]
+- [[jen|Jen]]
+- [[jenna-brown|Jenna Brown]]
+- [[jenny-lefcourt|Jenny Lefcourt]]
+- [[jenny-wen|Jenny Wen]]
+- [[jeppe-zink|Jeppe Zink]]
+- [[jeremy-conrad|Jeremy Conrad]]
+- [[jeremy|Jeremy]]
+- [[jerry-neumann|Jerry Neumann]]
+- [[jerry|Jerry]]
+- [[jess|Jess]]
+- [[jesse-genet|Jesse Genet]]
+- [[jesse-middleton|Jesse Middleton]]
+- [[jessica-fain|Jessica Fain]]
+- [[jessica|Jessica]]
+- [[jiaona|Jiaona]]
+- [[jim-scheinman|Jim Scheinman]]
+- [[joe-fernandez|Joe Fernandez]]
+- [[joe-floyd|Joe Floyd]]
+- [[joe-lonsda|Joe Lonsda]]
+- [[joe|Joe]]
+- [[joel-flory|Joel Flory]]
+- [[joel-monegro|Joel Monegro]]
+- [[joey-levin|Joey Levin]]
+- [[joey-zwillinger|Joey Zwillinger]]
+- [[johannes-reck|Johannes Reck]]
+- [[john-doerr|John Doerr]]
+- [[john-fein|John Fein]]
+- [[john-frankel|John Frankel]]
+- [[john-henderson|John Henderson]]
+- [[john-taylor|John Taylor]]
+- [[john|John]]
+- [[jon-dishotsky|Jon Dishotsky]]
+- [[jon-staenberg|Jon Staenberg]]
+- [[jonathan-downey|Jonathan Downey]]
+- [[jonathan-hsu|Jonathan Hsu]]
+- [[jonathan-libov|Jonathan Libov]]
+- [[jonathan-ross|Jonathan Ross]]
+- [[jonathan-siddharth|Jonathan Siddharth]]
+- [[jonathan|Jonathan]]
+- [[jonathon-triest|Jonathon Triest]]
+- [[jonny|Jonny]]
+- [[joost-de-valk|Joost De Valk]]
+- [[jordan-van-horn|Jordan Van Horn]]
+- [[josh-breinlinger|Josh Breinlinger]]
+- [[josh-browder|Josh Browder]]
+- [[josh-buckley|Josh Buckley]]
+- [[josh-felser|Josh Felser]]
+- [[josh-hannah|Josh Hannah]]
+- [[josh-udashkin|Josh Udashkin]]
+- [[josh-wolfe|Josh Wolfe]]
+- [[josh|Josh]]
+- [[judd|Judd]]
+- [[jude-gomila|Jude Gomila]]
+- [[judith-elsea|Judith Elsea]]
+- [[jules-maltz|Jules Maltz]]
+- [[jules|Jules]]
+- [[julia-de|Julia De]]
+- [[julia|Julia]]
+- [[julian-teixeira|Julian Teixeira]]
+- [[julian|Julian]]
+- [[julie|Julie]]
+- [[julio-vasconcellos|Julio Vasconcellos]]
+- [[just|Just]]
+- [[justin-ishbia|Justin Ishbia]]
+- [[kara-nortman|Kara Nortman]]
+- [[karina|Karina]]
+- [[karri|Karri]]
+- [[karthik-sridharan|Karthik Sridharan]]
+- [[kate-shillo|Kate Shillo]]
+- [[kathleen-utecht|Kathleen Utecht]]
+- [[kathryn-minshew|Kathryn Minshew]]
+- [[katie|Katie]]
+- [[kayvon|Kayvon]]
+- [[kaz-nejatian|Kaz Nejatian]]
+- [[keith-rabois|Keith Rabois]]
+- [[keith-teare|Keith Teare]]
+- [[keith|Keith]]
+- [[kelly-peeler|Kelly Peeler]]
+- [[ken|Ken]]
+- [[kenneth|Kenneth]]
+- [[kent-godfrey|Kent Godfrey]]
+- [[kent-goldman|Kent Goldman]]
+- [[ketty-slonimsky|Ketty Slonimsky]]
+- [[kevin-chou|Kevin Chou]]
+- [[kevin-egan|Kevin Egan]]
+- [[kevin-hartz|Kevin Hartz]]
+- [[kevin-niparko|Kevin Niparko]]
+- [[kevin-ryan|Kevin Ryan]]
+- [[kevin-scott|Kevin Scott]]
+- [[kevin-thau|Kevin Thau]]
+- [[kevin|Kevin]]
+- [[kim-graves|Kim Graves]]
+- [[kim-scott|Kim Scott]]
+- [[kim|Kim]]
+- [[kleiner-perkins|Kleiner Perkins]]
+- [[kris-jones|Kris Jones]]
+- [[kristen|Kristen]]
+- [[krithika|Krithika]]
+- [[kulveer-taggar|Kulveer Taggar]]
+- [[kunal|Kunal]]
+- [[kurt-rathmann|Kurt Rathmann]]
+- [[kyle-harrison|Kyle Harrison]]
+- [[kyle-hill|Kyle Hill]]
+- [[kyle-lui|Kyle Lui]]
+- [[kyle-norton|Kyle Norton]]
+- [[kyle-parrish|Kyle Parrish]]
+- [[kyle-samani|Kyle Samani]]
+- [[laela-sturdy|Laela Sturdy]]
+- [[lane|Lane]]
+- [[larry-aschebrook|Larry Aschebrook]]
+- [[larry-schurtz|Larry Schurtz]]
+- [[laura-deming|Laura Deming]]
+- [[laura|Laura]]
+- [[lauren-schwartz|Lauren Schwartz]]
+- [[lauren|Lauren]]
+- [[lauryn-isford|Lauryn Isford]]
+- [[lauryn|Lauryn]]
+- [[lazar-jovanovic|Lazar Jovanovic]]
+- [[leaders|Leaders]]
+- [[leah-busque|Leah Busque]]
+- [[lee-hower|Lee Hower]]
+- [[leo-polovets|Leo Polovets]]
+- [[leore-avidar|Leore Avidar]]
+- [[leura-fine|Leura Fine]]
+- [[leverage|Leverage]]
+- [[lindel-eakman|Lindel Eakman]]
+- [[lisa-edgar|Lisa Edgar]]
+- [[lisa-wu|Lisa Wu]]
+- [[little|Little]]
+- [[lloyd-tabb|Lloyd Tabb]]
+- [[lo-toney|Lo Toney]]
+- [[logan-bartlett|Logan Bartlett]]
+- [[logan|Logan]]
+- [[long-term-vision|Long Term Vision]]
+- [[lori-jimenez|Lori Jimenez]]
+- [[lowercarbon|Lowercarbon]]
+- [[luc|Luc]]
+- [[luca-ferrari|Luca Ferrari]]
+- [[lucas-swisher|Lucas Swisher]]
+- [[luke-harries|Luke Harries]]
+- [[luke-lang|Luke Lang]]
+- [[lulu|Lulu]]
+- [[lyon-wong|Lyon Wong]]
+- [[madhavan|Madhavan]]
+- [[maggie|Maggie]]
+- [[magic-johnson-changed-his-approach|Magic Johnson Changed His Approach]]
+- [[maha-ibrahim|Maha Ibrahim]]
+- [[manik|Manik]]
+- [[manu-kumar|Manu Kumar]]
+- [[mar-hershenson|Mar Hershenson]]
+- [[maran-nelson|Maran Nelson]]
+- [[marc-andreessen|Marc Andreessen]]
+- [[marc-bernegger|Marc Bernegger]]
+- [[marc|Marc]]
+- [[maria-angelidou|Maria Angelidou]]
+- [[mariam-naficy|Mariam Naficy]]
+- [[marily|Marily]]
+- [[mario-schlosser|Mario Schlosser]]
+- [[mark-carney|Mark Carney]]
+- [[mark-goldberg|Mark Goldberg]]
+- [[mark-mullen|Mark Mullen]]
+- [[mark-peter-davis|Mark Peter Davis]]
+- [[mark-roberge|Mark Roberge]]
+- [[mark-zuckerberg|Mark Zuckerberg]]
+- [[market-cycles|Market Cycles]]
+- [[mart|Mart]]
+- [[martin-mignot|Martin Mignot]]
+- [[marty|Marty]]
+- [[marvin-liao|Marvin Liao]]
+- [[masa-son|Masa Son]]
+- [[matan-bar|Matan Bar]]
+- [[mati-staniszewski|Mati Staniszewski]]
+- [[matt-biilmann|Matt Biilmann]]
+- [[matt-clifford|Matt Clifford]]
+- [[matt-fitzpatrick|Matt Fitzpatrick]]
+- [[matt-grimm|Matt Grimm]]
+- [[matt-lerner|Matt Lerner]]
+- [[matt-macinnis|Matt MacInnis]]
+- [[matt-plank|Matt Plank]]
+- [[matt-pohlson|Matt Pohlson]]
+- [[matt-rosenberg|Matt Rosenberg]]
+- [[matt-straz|Matt Straz]]
+- [[matt-switzer|Matt Switzer]]
+- [[matt-turck|Matt Turck]]
+- [[matt-williams|Matt Williams]]
+- [[matt|Matt]]
+- [[matteo-franceschetti|Matteo Franceschetti]]
+- [[matthew-bradley|Matthew Bradley]]
+- [[matthew-mc|Matthew Mc]]
+- [[matthew-prince|Matthew Prince]]
+- [[matthew-steckman|Matthew Steckman]]
+- [[matthew|Matthew]]
+- [[mattias-ljungman|Mattias Ljungman]]
+- [[max-gazor|Max Gazor]]
+- [[max-junestrand|Max Junestrand]]
+- [[max-motschwiller|Max Motschwiller]]
+- [[maya|Maya]]
+- [[maynard-webb|Maynard Webb]]
+- [[mayur-gupta|Mayur Gupta]]
+- [[mayur|Mayur]]
+- [[megan|Megan]]
+- [[melanie-perkins|Melanie Perkins]]
+- [[melanie|Melanie]]
+- [[melissa|Melissa]]
+- [[melody-mc|Melody Mc]]
+- [[meltem|Meltem]]
+- [[merci|Merci]]
+- [[micah-rosenbloom|Micah Rosenbloom]]
+- [[micha-kauffman|Micha Kauffman]]
+- [[michael-eisenberg|Michael Eisenberg]]
+- [[michael-kim|Michael Kim]]
+- [[michael-ma|Michael Ma]]
+- [[michael-skok|Michael Skok]]
+- [[michael-treskow|Michael Treskow]]
+- [[michael|Michael]]
+- [[mihika|Mihika]]
+- [[mike-cannon|Mike Cannon]]
+- [[mike-chalfen|Mike Chalfen]]
+- [[mike-duboe|Mike Duboe]]
+- [[mike-hirshland|Mike Hirshland]]
+- [[mike-hudack|Mike Hudack]]
+- [[mike-maples|Mike Maples]]
+- [[mike-mignano|Mike Mignano]]
+- [[mike-moritz|Mike Moritz]]
+- [[mike-seibel|Mike Seibel]]
+- [[mike-sliagadze|Mike Sliagadze]]
+- [[mike|Mike]]
+- [[mikey-shulman|Mikey Shulman]]
+- [[miles-clements|Miles Clements]]
+- [[misha-esipov|Misha Esipov]]
+- [[mitchell-green|Mitchell Green]]
+- [[mo|Mo]]
+- [[moisey-uretsky|Moisey Uretsky]]
+- [[molly-graham|Molly Graham]]
+- [[molly|Molly]]
+- [[money|Money]]
+- [[mr-beast|Mr Beast]]
+- [[mudassir-sheikha|Mudassir Sheikha]]
+- [[multi|Multi]]
+- [[mutaz-qubbaj|Mutaz Qubbaj]]
+- [[nabeel-hyatt|Nabeel Hyatt]]
+- [[nabeel|Nabeel]]
+- [[nadia-boujarwah|Nadia Boujarwah]]
+- [[nagraj-kashyap|Nagraj Kashyap]]
+- [[nan|Nan]]
+- [[nancy|Nancy]]
+- [[naomi|Naomi]]
+- [[nathan-wenzel|Nathan Wenzel]]
+- [[nav-athwal|Nav Athwal]]
+- [[neeraj-agrawal|Neeraj Agrawal]]
+- [[neil-young|Neil Young]]
+- [[new|New]]
+- [[nicholas-chirls|Nicholas Chirls]]
+- [[nick-bortot|Nick Bortot]]
+- [[nick-brown|Nick Brown]]
+- [[nick-chirls|Nick Chirls]]
+- [[nick-mehta|Nick Mehta]]
+- [[nick|Nick]]
+- [[nickey|Nickey]]
+- [[nico-wittenborn|Nico Wittenborn]]
+- [[nicolai-tangen|Nicolai Tangen]]
+- [[nicolas-dessaigne|Nicolas Dessaigne]]
+- [[nicolas-michaelsen|Nicolas Michaelsen]]
+- [[nicolas-szekasy|Nicolas Szekasy]]
+- [[nicolas-wittenborn|Nicolas Wittenborn]]
+- [[nicole-forsgren|Nicole Forsgren]]
+- [[nicole|Nicole]]
+- [[nigel-morris|Nigel Morris]]
+- [[nikhil-basu-trivedi|Nikhil Basu Trivedi]]
+- [[nikhil-basu|Nikhil Basu]]
+- [[nikhyl-singhal|Nikhyl Singhal]]
+- [[nikhyl|Nikhyl]]
+- [[nikita|Nikita]]
+- [[nikos-moraitakis|Nikos Moraitakis]]
+- [[nilan-peiris|Nilan Peiris]]
+- [[nilan|Nilan]]
+- [[nir|Nir]]
+- [[nitesh-banta|Nitesh Banta]]
+- [[no-advertising|No Advertising]]
+- [[no-deck|No Deck]]
+- [[no-funding|No Funding]]
+- [[no-plans|No Plans]]
+- [[no-product|No Product]]
+- [[no-venture-funding|No Venture Funding]]
+- [[no|No]]
+- [[noah|Noah]]
+- [[noam-lovinsky|Noam Lovinsky]]
+- [[noam-shazeer|Noam Shazeer]]
+- [[noam|Noam]]
+- [[non|Non]]
+- [[oana-olteanu|Oana Olteanu]]
+- [[oji|Oji]]
+- [[olaf-carlson|Olaf Carlson]]
+- [[oliver-jay|Oliver Jay]]
+- [[olof-math|Olof Math]]
+- [[omer-shai|Omer Shai]]
+- [[ooshma-garg|Ooshma Garg]]
+- [[open|Open]]
+- [[ophelia-brown|Ophelia Brown]]
+- [[orlando-bravo|Orlando Bravo]]
+- [[oscar-pierre|Oscar Pierre]]
+- [[paige-craig|Paige Craig]]
+- [[paige|Paige]]
+- [[pat-grady|Pat Grady]]
+- [[patricia-nakache|Patricia Nakache]]
+- [[patrick-forquer|Patrick Forquer]]
+- [[patrick-morley|Patrick Morley]]
+- [[patrick|Patrick]]
+- [[paul-berberian|Paul Berberian]]
+- [[paul-hsiao|Paul Hsiao]]
+- [[paul-martino|Paul Martino]]
+- [[paul|Paul]]
+- [[pete-flint|Pete Flint]]
+- [[pete|Pete]]
+- [[peter-csathy|Peter Csathy]]
+- [[peter-lacaillade|Peter Lacaillade]]
+- [[peter-parker|Peter Parker]]
+- [[peter-rahal|Peter Rahal]]
+- [[peter-rojas|Peter Rojas]]
+- [[peter-singlehurst|Peter Singlehurst]]
+- [[peter-thiel|Peter Thiel]]
+- [[peter-weijmarshausen|Peter Weijmarshausen]]
+- [[peter|Peter]]
+- [[petra|Petra]]
+- [[phil-carter|Phil Carter]]
+- [[phil-jacobson|Phil Jacobson]]
+- [[philip-freise|Philip Freise]]
+- [[phin-barnes|Phin Barnes]]
+- [[phyl|Phyl]]
+- [[potential-corporate-acquirers|Potential Corporate Acquirers]]
+- [[product-marketing|Product Marketing]]
+- [[product-messaging|Product Messaging]]
+- [[raaz-herzberg|Raaz Herzberg]]
+- [[raaz|Raaz]]
+- [[rachel-blumenthal|Rachel Blumenthal]]
+- [[rachel-drori|Rachel Drori]]
+- [[rachel-lockett|Rachel Lockett]]
+- [[rachel|Rachel]]
+- [[radical-transparency|Radical Transparency]]
+- [[rafael-illisha|Rafael Illisha]]
+- [[rahul-mehta|Rahul Mehta]]
+- [[rahul|Rahul]]
+- [[ralf-wenzel|Ralf Wenzel]]
+- [[raman-malik|Raman Malik]]
+- [[ramesh|Ramesh]]
+- [[randy-glein|Randy Glein]]
+- [[ravi-mehta|Ravi Mehta]]
+- [[ravi-viswanathan|Ravi Viswanathan]]
+- [[ravi|Ravi]]
+- [[ray|Ray]]
+- [[regulation|Regulation]]
+- [[renata-quintini|Renata Quintini]]
+- [[rich-liu|Rich Liu]]
+- [[richard-hanson|Richard Hanson]]
+- [[richard-socher|Richard Socher]]
+- [[richard|Richard]]
+- [[rick-nucci|Rick Nucci]]
+- [[rick-yang|Rick Yang]]
+- [[rishi-garg|Rishi Garg]]
+- [[risk|Risk]]
+- [[rob-go|Rob Go]]
+- [[rob-moffat|Rob Moffat]]
+- [[rob-salvagno|Rob Salvagno]]
+- [[rob-schutz|Rob Schutz]]
+- [[robby-stein|Robby Stein]]
+- [[robby|Robby]]
+- [[roger-dickey|Roger Dickey]]
+- [[roger-ehrenberg|Roger Ehrenberg]]
+- [[roger|Roger]]
+- [[ron-bouganim|Ron Bouganim]]
+- [[ron-gabrisko|Ron Gabrisko]]
+- [[ronny|Ronny]]
+- [[rory|Rory]]
+- [[roseanne-wincek|Roseanne Wincek]]
+- [[roy-bahat|Roy Bahat]]
+- [[rudina-seseri|Rudina Seseri]]
+- [[rujul-zaparde|Rujul Zaparde]]
+- [[ryan-akkina|Ryan Akkina]]
+- [[ryan-caldbeck|Ryan Caldbeck]]
+- [[ryan-denehy|Ryan Denehy]]
+- [[ryan-mc|Ryan Mc]]
+- [[ryan-petersen|Ryan Petersen]]
+- [[ryan-sarver|Ryan Sarver]]
+- [[ryan-wiggins|Ryan Wiggins]]
+- [[ryan|Ryan]]
+- [[saam-motamedi|Saam Motamedi]]
+- [[sachin|Sachin]]
+- [[sahil|Sahil]]
+- [[sam-arbesman|Sam Arbesman]]
+- [[sam-blond|Sam Blond]]
+- [[sam-corcos|Sam Corcos]]
+- [[sam-lessin|Sam Lessin]]
+- [[sam|Sam]]
+- [[sameer|Sameer]]
+- [[sami-inkinen|Sami Inkinen]]
+- [[samir-kaji|Samir Kaji]]
+- [[sanchan|Sanchan]]
+- [[sander|Sander]]
+- [[sandy-diao|Sandy Diao]]
+- [[sanjit-biswas|Sanjit Biswas]]
+- [[sarah-guo|Sarah Guo]]
+- [[sarah-schupp|Sarah Schupp]]
+- [[sarah|Sarah]]
+- [[sasha-orloff|Sasha Orloff]]
+- [[scale-from-team-to-product|Scale From Team To Product]]
+- [[scale|Scale]]
+- [[scaling|Scaling]]
+- [[scott-dietzen|Scott Dietzen]]
+- [[scott-dorsey|Scott Dorsey]]
+- [[scott-raney|Scott Raney]]
+- [[scott-taylor|Scott Taylor]]
+- [[scott-williamson|Scott Williamson]]
+- [[scott-wu|Scott Wu]]
+- [[scott|Scott]]
+- [[sean-brecker|Sean Brecker]]
+- [[sean-flynn|Sean Flynn]]
+- [[sean-murray|Sean Murray]]
+- [[sean-seton|Sean Seton]]
+- [[sean|Sean]]
+- [[sebastian-siemiatkowski|Sebastian Siemiatkowski]]
+- [[sequoia|Sequoia]]
+- [[seth-bannon|Seth Bannon]]
+- [[seth-sternberg|Seth Sternberg]]
+- [[seth|Seth]]
+- [[severin-hacker|Severin Hacker]]
+- [[shabih-rizvi|Shabih Rizvi]]
+- [[shakil-khan|Shakil Khan]]
+- [[sharon-wienbar|Sharon Wienbar]]
+- [[shaun-maguire|Shaun Maguire]]
+- [[shaun|Shaun]]
+- [[shaunt-voskanian|Shaunt Voskanian]]
+- [[sheel-mohnot|Sheel Mohnot]]
+- [[sherwin-wu-v2|Sherwin Wu V2]]
+- [[shishir-mehrotra|Shishir Mehrotra]]
+- [[shishir|Shishir]]
+- [[shiv-rao|Shiv Rao]]
+- [[shoaib-makani|Shoaib Makani]]
+- [[shreyas|Shreyas]]
+- [[shweta|Shweta]]
+- [[shyam-sankar|Shyam Sankar]]
+- [[simon-menashy|Simon Menashy]]
+- [[simon-willison|Simon Willison]]
+- [[sitar-teli|Sitar Teli]]
+- [[small-teams|Small Teams]]
+- [[solly-solomou|Solly Solomou]]
+- [[spencer-kimball|Spencer Kimball]]
+- [[spencer-lazar|Spencer Lazar]]
+- [[spike-lipkin|Spike Lipkin]]
+- [[sri-batchu|Sri Batchu]]
+- [[sri|Sri]]
+- [[sridhar-ramaswamy|Sridhar Ramaswamy]]
+- [[sriram|Sriram]]
+- [[stakeholders|Stakeholders]]
+- [[steeve-morin|Steeve Morin]]
+- [[stefan-glaenzer|Stefan Glaenzer]]
+- [[stephan|Stephan]]
+- [[stephane-kurgan|Stephane Kurgan]]
+- [[steve-goldberg|Steve Goldberg]]
+- [[steve-schlafman|Steve Schlafman]]
+- [[steve-vassallo|Steve Vassallo]]
+- [[stevie-case|Stevie Case]]
+- [[stewart-butterfield|Stewart Butterfield]]
+- [[stewart|Stewart]]
+- [[stress|Stress]]
+- [[success|Success]]
+- [[suchit-dash|Suchit Dash]]
+- [[sumeet-shah|Sumeet Shah]]
+- [[taavet-hinrikus|Taavet Hinrikus]]
+- [[tak-lo|Tak Lo]]
+- [[talent-acquisitions|Talent Acquisitions]]
+- [[tamar|Tamar]]
+- [[tanguy|Tanguy]]
+- [[tarek-mansour|Tarek Mansour]]
+- [[tariffs|Tariffs]]
+- [[teaser_2021|Teaser_2021]]
+- [[tech|Tech]]
+- [[ted-blosser|Ted Blosser]]
+- [[teresa|Teresa]]
+- [[the-cash-needs|The Cash Needs]]
+- [[the-tiger-global-memo|The Tiger Global Memo]]
+- [[thomas-jones|Thomas Jones]]
+- [[thomas-tull|Thomas Tull]]
+- [[tim-chang|Tim Chang]]
+- [[tim-harris|Tim Harris]]
+- [[tim-junio|Tim Junio]]
+- [[tim-urban|Tim Urban]]
+- [[tim|Tim]]
+- [[time|Time]]
+- [[timothy|Timothy]]
+- [[tobi|Tobi]]
+- [[todd|Todd]]
+- [[tom-blomfield|Tom Blomfield]]
+- [[tom-britton|Tom Britton]]
+- [[tom|Tom]]
+- [[tomasz-tunguz|Tomasz Tunguz]]
+- [[tomer-cohen|Tomer Cohen]]
+- [[tomer|Tomer]]
+- [[tooey-courtemanche|Tooey Courtemanche]]
+- [[topher-conway|Topher Conway]]
+- [[trae-vassallo|Trae Vassallo]]
+- [[travis-still-there|Travis Still There]]
+- [[tristan-handy|Tristan Handy]]
+- [[tristan|Tristan]]
+- [[twitter|Twitter]]
+- [[uber-eats|Uber Eats]]
+- [[uber|Uber]]
+- [[unknown-guest|Unknown Guest]]
+- [[upasna|Upasna]]
+- [[urgency|Urgency]]
+- [[uri|Uri]]
+- [[vaibhav-sahgal|Vaibhav Sahgal]]
+- [[val-scholz|Val Scholz]]
+- [[various|Various]]
+- [[varun-mohan|Varun Mohan]]
+- [[varun|Varun]]
+- [[venture-capital|Venture Capital]]
+- [[very-few-meetings|Very Few Meetings]]
+- [[vickie-peng|Vickie Peng]]
+- [[victor-riparbelli|Victor Riparbelli]]
+- [[victoria-treyger|Victoria Treyger]]
+- [[vijay|Vijay]]
+- [[vikrama|Vikrama]]
+- [[vinted|Vinted]]
+- [[vise|Vise]]
+- [[vulnerability|Vulnerability]]
+- [[wade-foster|Wade Foster]]
+- [[waseem-daher|Waseem Daher]]
+- [[wayne-chang|Wayne Chang]]
+- [[wayne-ting|Wayne Ting]]
+- [[wes-chan|Wes Chan]]
+- [[wes|Wes]]
+- [[weston-gaddy|Weston Gaddy]]
+- [[why-founders-should-take-secondaries-earlier|Why Founders Should Take Secondaries Earlier]]
+- [[why-mass-layoffs-are-more-worrying-than-anyone-sees|Why Mass Layoffs Are More Worrying Than Anyone Sees]]
+- [[why-stablecoins-will-replace-banking-rails|Why Stablecoins Will Replace Banking Rails]]
+- [[will-porteous|Will Porteous]]
+- [[will-quist|Will Quist]]
+- [[will-sacks|Will Sacks]]
+- [[will-wu|Will Wu]]
+- [[will|Will]]
+- [[woody-marshall|Woody Marshall]]
+- [[yahoo|Yahoo]]
+- [[yamashata|Yamashata]]
+- [[yamini-rangan|Yamini Rangan]]
+- [[your-first-customers|Your First Customers]]
+- [[yuhki-yamashita|Yuhki Yamashita]]
+- [[yuhki|Yuhki]]
+- [[yuriy|Yuriy]]
+- [[zach-coelius|Zach Coelius]]
+- [[zach-lawryk|Zach Lawryk]]
+- [[zach-lloyd|Zach Lloyd]]
+- [[zach-perret|Zach Perret]]
+- [[zal-bilimoria|Zal Bilimoria]]
+- [[zero-venture-funding|Zero Venture Funding]]
+- [[zevi-arnovitz|Zevi Arnovitz]]
+- [[zhenya-loginov|Zhenya Loginov]]
+- [[zoelle|Zoelle]]
+- [[zuck|Zuck]]
 
----
-*1823 episodes, 1122 guests, 119 topics*
+## Topics
+
+- [[README]] — Readme
+- [[ab-testing]] — Ab Testing
+- [[acquisition]] — Acquisition
+- [[activation]] — Activation
+- [[agile]] — Agile
+- [[ai-ml]] — Ai Ml
+- [[ai]] — Ai
+- [[airbnb]] — Airbnb
+- [[analytics]] — Analytics
+- [[angel-investing]] — Angel Investing
+- [[anxiety-management]] — Anxiety Management
+- [[architecture]] — Architecture
+- [[arpu]] — Arpu
+- [[automation]] — Automation
+- [[b2b]] — B2B
+- [[best-of]] — Best Of
+- [[biotech-health]] — Biotech Health
+- [[bootstrapping]] — Bootstrapping
+- [[brand-building]] — Brand Building
+- [[branding]] — Branding
+- [[business-strategy]] — Business Strategy
+- [[calm-company]] — Calm Company
+- [[career-development]] — Career Development
+- [[career-growth]] — Career Growth
+- [[career]] — Career
+- [[careers]] — Careers
+- [[chatgpt]] — Chatgpt
+- [[churn]] — Churn
+- [[communication]] — Communication
+- [[community-building]] — Community Building
+- [[company-culture]] — Company Culture
+- [[competition]] — Competition
+- [[compilation]] — Compilation
+- [[constraints]] — Constraints
+- [[consumer-psychology]] — Consumer Psychology
+- [[consumer]] — Consumer
+- [[conversion]] — Conversion
+- [[creativity]] — Creativity
+- [[culture]] — Culture
+- [[curiosity]] — Curiosity
+- [[customer-discovery]] — Customer Discovery
+- [[customer-experience]] — Customer Experience
+- [[customer-research]] — Customer Research
+- [[data-analytics]] — Data Analytics
+- [[data-driven]] — Data Driven
+- [[decision-making]] — Decision Making
+- [[deeptech-hardware]] — Deeptech Hardware
+- [[delta-4-framework]] — Delta 4 Framework
+- [[design]] — Design
+- [[differentiation]] — Differentiation
+- [[efficiency]] — Efficiency
+- [[engineering]] — Engineering
+- [[enterprise-saas]] — Enterprise Saas
+- [[enterprise-sales]] — Enterprise Sales
+- [[entrepreneurship]] — Entrepreneurship
+- [[episodes]] — Episodes
+- [[executive-coaching]] — Executive Coaching
+- [[executive-search]] — Executive Search
+- [[experimentation]] — Experimentation
+- [[facebook]] — Facebook
+- [[feedback]] — Feedback
+- [[fintech]] — Fintech
+- [[focus]] — Focus
+- [[founder-dharma]] — Founder Dharma
+- [[founder-mode]] — Founder Mode
+- [[founder-psychology]] — Founder Psychology
+- [[founder]] — Founder
+- [[freemium]] — Freemium
+- [[fundraising]] — Fundraising
+- [[funnel]] — Funnel
+- [[go-to-market]] — Go To Market
+- [[google]] — Google
+- [[growth-strategy]] — Growth Strategy
+- [[growth]] — Growth
+- [[gut-instinct]] — Gut Instinct
+- [[hiring-culture]] — Hiring Culture
+- [[hiring]] — Hiring
+- [[incumbents]] — Incumbents
+- [[independence]] — Independence
+- [[india]] — India
+- [[influence]] — Influence
+- [[information-asymmetry]] — Information Asymmetry
+- [[innovation]] — Innovation
+- [[investors]] — Investors
+- [[iteration]] — Iteration
+- [[jobs-to-be-done]] — Jobs To Be Done
+- [[kpis]] — Kpis
+- [[leadership]] — Leadership
+- [[linkedin]] — Linkedin
+- [[machine-learning]] — Machine Learning
+- [[management]] — Management
+- [[market]] — Market
+- [[marketing]] — Marketing
+- [[marketplace]] — Marketplace
+- [[marketplaces]] — Marketplaces
+- [[media-relations]] — Media Relations
+- [[mental-health]] — Mental Health
+- [[mentorship]] — Mentorship
+- [[meta]] — Meta
+- [[metrics]] — Metrics
+- [[microsoft]] — Microsoft
+- [[mission]] — Mission
+- [[monetization]] — Monetization
+- [[mvp]] — Mvp
+- [[network-effects]] — Network Effects
+- [[networking]] — Networking
+- [[neuroscience]] — Neuroscience
+- [[okrs]] — Okrs
+- [[onboarding]] — Onboarding
+- [[open-source]] — Open Source
+- [[openai]] — Openai
+- [[organizational-design]] — Organizational Design
+- [[persona]] — Persona
+- [[personal-branding]] — Personal Branding
+- [[personal-development]] — Personal Development
+- [[personal-transformation]] — Personal Transformation
+- [[pivot]] — Pivot
+- [[planning]] — Planning
+- [[platform]] — Platform
+- [[pmf]] — Pmf
+- [[portfolio-management]] — Portfolio Management
+- [[positioning]] — Positioning
+- [[power]] — Power
+- [[pricing]] — Pricing
+- [[prioritization]] — Prioritization
+- [[product-development]] — Product Development
+- [[product-leadership]] — Product Leadership
+- [[product-led-growth]] — Product Led Growth
+- [[product-management]] — Product Management
+- [[product-market-fit]] — Product Market Fit
+- [[product-strategy]] — Product Strategy
+- [[productivity]] — Productivity
+- [[profitability]] — Profitability
+- [[prototype]] — Prototype
+- [[psychology]] — Psychology
+- [[recruiting]] — Recruiting
+- [[referral-program]] — Referral Program
+- [[registered-users]] — Registered Users
+- [[remote-work]] — Remote Work
+- [[retention]] — Retention
+- [[revenue]] — Revenue
+- [[risk-aversion]] — Risk Aversion
+- [[roadmap]] — Roadmap
+- [[saas]] — Saas
+- [[sales]] — Sales
+- [[second-order-thinking]] — Second Order Thinking
+- [[segmentation]] — Segmentation
+- [[shape-up]] — Shape Up
+- [[simplicity]] — Simplicity
+- [[skill-building]] — Skill Building
+- [[slack]] — Slack
+- [[startup-culture]] — Startup Culture
+- [[startup-growth]] — Startup Growth
+- [[startup]] — Startup
+- [[startups]] — Startups
+- [[status]] — Status
+- [[storytelling]] — Storytelling
+- [[strategy]] — Strategy
+- [[stress-management]] — Stress Management
+- [[stripe]] — Stripe
+- [[subscription]] — Subscription
+- [[team-building]] — Team Building
+- [[team-structure]] — Team Structure
+- [[technical-debt]] — Technical Debt
+- [[time-management]] — Time Management
+- [[top-episodes]] — Top Episodes
+- [[trust]] — Trust
+- [[uber]] — Uber
+- [[ui]] — Ui
+- [[user-experience]] — User Experience
+- [[user-research]] — User Research
+- [[ux]] — Ux
+- [[venture-capital]] — Venture Capital
+- [[viral-growth]] — Viral Growth
+- [[vision]] — Vision
+- [[wealth]] — Wealth
+- [[wireframe]] — Wireframe
+- [[word-of-mouth]] — Word Of Mouth
+- [[work-life-balance]] — Work Life Balance
+- [[year-end]] — Year End

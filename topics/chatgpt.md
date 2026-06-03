@@ -12,5 +12,11 @@ Episodes discussing **ChatGPT**:
 - [Paul Adams](../episodes/paul-adams/transcript.md)
 - [Sander Schulhoff](../episodes/sander-schulhoff/transcript.md)
 
+## See also
+
+- [[ai-ml]]
+- [[openai]]
+- [[competition]]
+
 ---
 *Source: ChatPRD curated topic index*

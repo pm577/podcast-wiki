@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/jag-duggal|Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)]] (2024-05-16)
+- [[jag-duggal]] (2024-05-16)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

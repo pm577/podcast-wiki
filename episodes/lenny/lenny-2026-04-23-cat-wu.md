@@ -8,12 +8,12 @@ key_insights:
   out for the current model, how do you elici...'
 podcast: lenny
 tags:
-- ai-ml
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
 - retention
 - product-strategy
 title: How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of
@@ -28,16 +28,16 @@ How Anthropic’s product team moves faster than anyone else, covering team lead
 
 **Guest:** Cat Wu
 **Date:** 2026-04-23
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, retention, product-strategy
+**Topics:** saas, startups, ai-ml, marketplace, leadership, hiring, retention, product-strategy
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
 - [[retention]]
 - [[product-strategy]]
 

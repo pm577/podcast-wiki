@@ -10,5 +10,13 @@ Episodes discussing **customer research**:
 - [Patrick Campbell](../episodes/patrick-campbell/transcript.md)
 - [Shaun Clowes](../episodes/shaun-clowes/transcript.md)
 
+## See also
+
+- [[product-market-fit]]
+- [[product-strategy]]
+- [[customer-experience]]
+- [[customer-discovery]]
+- [[user-research]]
+
 ---
 *Source: ChatPRD curated topic index*

@@ -83,3 +83,12 @@
 - [[lenny/shreyas-doshi|The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)]] — *Shreyas Doshi* (2022-08-25)
 - [[lenny/nickey-skarstad|Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing product quality, second-order decisions, brainstorming, influence, and much more]] — *Nickey Skarstad* (2022-07-18)
 - [[lenny/peter-deng|Peter Deng]] — *Peter Deng* (unknown date)
+
+## See also
+
+- [[customer-research]]
+- [[ux]]
+- [[customer-discovery]]
+- [[customer-discovery]]
+- [[product-market-fit]]
+- [[ux]]

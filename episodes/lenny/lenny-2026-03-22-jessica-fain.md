@@ -8,13 +8,13 @@ key_insights:
   to an executive, we forget those skills and those tal...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 - retention
 title: 'The art of influence: The single most important skill that AI can’t replace
   | Jessica Fain (Webflow, ex-Slack)'
@@ -28,17 +28,17 @@ The single most important skill that AI can’t replace, covering team leadershi
 
 **Guest:** Jessica Fain
 **Date:** 2026-03-22
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention, product-strategy
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring, retention, product-strategy
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[product-strategy]]
 

@@ -8,13 +8,13 @@ key_insights:
   something that most of the market hasn''t even...'
 podcast: lenny
 tags:
-- ai-ml
-- saas
-- leadership
-- hiring
-- go-to-market
-- startups
 - pricing
+- saas
+- startups
+- ai-ml
+- leadership
+- go-to-market
+- hiring
 - retention
 title: '"Sell the alpha, not the feature": The enterprise sales playbook for $1M to
   $10M ARR | Jen Abel'
@@ -29,17 +29,17 @@ Jen Abel is GM of Enterprise at State Affairs and co-founded Jellyfish, a consul
 **Guest:** Jen Abel
 **Date:** 2025-11-09
 **YouTube:** https://www.youtube.com/watch?v=37fKFWdrMyA
-**Topics:** ai-ml, saas, leadership, hiring, go-to-market, startups, pricing, retention, fundraising
+**Topics:** pricing, saas, startups, ai-ml, leadership, go-to-market, hiring, retention, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
-- [[saas]]
-- [[leadership]]
-- [[hiring]]
-- [[go-to-market]]
-- [[startups]]
 - [[pricing]]
+- [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[leadership]]
+- [[go-to-market]]
+- [[hiring]]
 - [[retention]]
 - [[fundraising]]
 

@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/katie-dill|Building beautiful products with Stripe’s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)]] (2023-10-15)
+- [[katie-dill]] (2023-10-15)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

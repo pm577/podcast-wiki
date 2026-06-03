@@ -197,3 +197,10 @@
 - [[lenny/shreyas-doshi-live|The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)]] — *Shreyas Doshi Live* (2022-08-25)
 - [[lenny/shishir-mehrotra|The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft]] — *Shishir Mehrotra* (2022-08-14)
 - [[lenny/daniel-lereya|Daniel Lereya]] — *Daniel Lereya* (unknown date)
+
+## See also
+
+- [[product-strategy]]
+- [[planning]]
+- [[vision]]
+- [[prioritization]]

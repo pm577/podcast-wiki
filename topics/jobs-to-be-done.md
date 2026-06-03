@@ -12,3 +12,12 @@
 - [[lenny/guillermo-rauch|Everyone’s an engineer now: Inside v0’s mission to create 100 million builders | Guillermo Rauch]] — *Guillermo Rauch* (2025-04-13)
 - [[lenny/bob-moesta|How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of "Job Moves”)]] — *Bob Moesta* (2025-02-23)
 - [[lenny/andy-raskin|The power of strategic narrative | Andy Raskin]] — *Andy Raskin* (2023-05-28)
+
+## See also
+
+- [[product-market-fit]]
+- [[customer-research]]
+- [[product-strategy]]
+- [[innovation]]
+- [[customer-discovery]]
+- [[segmentation]]

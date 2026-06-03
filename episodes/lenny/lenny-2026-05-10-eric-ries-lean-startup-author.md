@@ -7,13 +7,13 @@ key_insights:
   not competition. Their very success became a liability....'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 - fundraising
 title: How to build a company that withstands any era | Eric Ries, Lean Startup author
 type: Episode
@@ -26,17 +26,17 @@ Building a company that withstands any era, covering product design, startup bui
 
 **Guest:** Eric Ries, Lean Startup author
 **Date:** 2026-05-10
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[fundraising]]
 
 ## Transcript Highlights

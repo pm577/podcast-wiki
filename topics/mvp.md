@@ -48,3 +48,11 @@
 - [[lenny/madhavan-ramanujam-20|The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher)]] — *Madhavan Ramanujam 2.0* (2022-12-08)
 - [[lenny/arielle-jackson|The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)]] — *Arielle Jackson* (2022-08-18)
 - [[lenny/peter-deng|Peter Deng]] — *Peter Deng* (unknown date)
+
+## See also
+
+- [[iteration]]
+- [[product-development]]
+- [[prototype]]
+- [[product-market-fit]]
+- [[experimentation]]

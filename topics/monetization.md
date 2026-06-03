@@ -83,3 +83,10 @@
 - [[lenny/fareed-mosavat|How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Pixar)]] — *Fareed Mosavat* (2022-10-23)
 - [[lenny/adam-grenier|When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)]] — *Adam Grenier* (2022-09-15)
 - [[lenny/shreyas-doshi|The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)]] — *Shreyas Doshi* (2022-08-25)
+
+## See also
+
+- [[pricing]]
+- [[revenue]]
+- [[freemium]]
+- [[subscription]]

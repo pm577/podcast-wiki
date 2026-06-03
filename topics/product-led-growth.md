@@ -26,5 +26,12 @@ Episodes discussing **product-led growth**:
 - [Hila Qu](../episodes/hila-qu/transcript.md)
 - [Nilan Peiris](../episodes/nilan-peiris/transcript.md)
 
+## See also
+
+- [[pricing]],
+- [[experimentation]]
+- [[growth-strategy]] [[sales]], [[retention]], [[go-to-market]], [[enterprise-saas]], [[product-strategy]], [[freemium]]
+
 ---
+
 *Source: ChatPRD curated topic index*

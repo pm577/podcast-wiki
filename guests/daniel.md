@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/daniel-lereya|Daniel Lereya]] (unknown date)
+- [[daniel-lereya]] (unknown date)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

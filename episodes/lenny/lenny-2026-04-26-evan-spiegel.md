@@ -7,13 +7,13 @@ key_insights:
   don''t spend nearly enough time thinking about distribution and figuring out distribution....'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 - retention
 title: 'Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel'
 type: Episode
@@ -26,17 +26,17 @@ Why distribution has become the most important moat, covering consumer products,
 
 **Guest:** Evan Spiegel
 **Date:** 2026-04-26
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention, product-strategy, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring, retention, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[product-strategy]]
 - [[fundraising]]

@@ -18,3 +18,10 @@
 - [[lenny/matthew-dicks|How to tell better stories | Matthew Dicks (Storyworthy)]] — *Matthew Dicks* (2023-12-15)
 - [[lenny/paul-millerd|Redefining success, money, and belonging | Paul Millerd (The Pathless Path)]] — *Paul Millerd* (2023-11-19)
 - [[lenny/matt-mochary|Are your fears giving you terrible advice? | Matt Mochary]] — *Matt Mochary* (2023-01-17)
+
+## See also
+
+- [[marketplace]]
+- [[network-effects]]
+- [[ai-ml]]
+- [[product-strategy]]

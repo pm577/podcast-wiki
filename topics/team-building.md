@@ -29,3 +29,12 @@
 - [[lenny/lauren-ipsen|Lessons from one of the world’s top executive recruiters | Lauren Ipsen (Daversa Partners, GC)]] — *Lauren Ipsen* (2022-11-03)
 - [[lenny/shishir-mehrotra|The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft]] — *Shishir Mehrotra* (2022-08-14)
 - [[lenny/peter-deng|Peter Deng]] — *Peter Deng* (unknown date)
+
+## See also
+
+- [[culture]]
+- [[leadership]]
+- [[organizational-design]]
+- [[hiring]]
+- [[remote-work]]
+- [[communication]]

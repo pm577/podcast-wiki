@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/ebi-atawodi|Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)]] (2023-12-03)
+- [[ebi-atawodi]] (2023-12-03)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

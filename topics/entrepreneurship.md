@@ -55,5 +55,12 @@ Episodes discussing **entrepreneurship**:
 - [Scott Wu](../episodes/scott-wu/transcript.md)
 - [Sean Ellis](../episodes/sean-ellis/transcript.md)
 
+
+## See also
+
+- [[startups]]
+- [[founder-psychology]]
+- [[bootstrapping]]
+- [[venture-capital]]
 ---
 *Source: ChatPRD curated topic index*

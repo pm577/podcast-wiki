@@ -8,12 +8,12 @@ key_insights:
   very slow technological change in the face of declining...'
 podcast: lenny
 tags:
-- ai-ml
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
 - retention
 - fundraising
 title: 'Marc Andreessen: The real AI boom hasn’t even started yet'
@@ -28,16 +28,16 @@ Marc Andreessen is a founder, investor, and co-founder of Netscape, as well as c
 **Guest:** Marc Andreessen
 **Date:** 2026-01-29
 **YouTube:** https://www.youtube.com/watch?v=87Pm0SGTtN8
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, retention, fundraising
+**Topics:** saas, startups, ai-ml, marketplace, leadership, hiring, retention, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
 - [[retention]]
 - [[fundraising]]
 

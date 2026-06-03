@@ -8,11 +8,11 @@ key_insights:
   time to make these beautiful mocks anymore....'
 podcast: lenny
 tags:
-- ai-ml
 - saas
+- startups
+- ai-ml
 - leadership
 - hiring
-- startups
 title: Jenny Wen
 type: Episode
 word_count: 15064
@@ -24,15 +24,15 @@ It's not just designers who are feeling like, "Oh yeah, we have to keep up with 
 
 **Guest:** Jenny Wen
 **Date:** 2026-03-01
-**Topics:** ai-ml, saas, leadership, hiring, startups
+**Topics:** saas, startups, ai-ml, leadership, hiring
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
 - [[leadership]]
 - [[hiring]]
-- [[startups]]
 
 ## Transcript Highlights
 

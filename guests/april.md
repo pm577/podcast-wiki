@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/april-dunford-20|How to nail your product positioning | April Dunford (Obviously Awesome)]] (2023-01-22)
+- [[april-dunford-20]] (2023-01-22)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

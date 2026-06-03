@@ -8,13 +8,13 @@ key_insights:
   Whenever I hear a stat like this, I think an importa...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 - product-strategy
 title: How Block is becoming the most AI-native enterprise in the world | Dhanji R.
   Prasanna
@@ -29,17 +29,17 @@ Dhanji R. Prasanna is the chief technology officer at Block (formerly Square), w
 **Guest:** Dhanji R. Prasanna
 **Date:** 2025-10-26
 **YouTube:** https://www.youtube.com/watch?v=JMeXWVw0r3E
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, product-strategy
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring, product-strategy
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[product-strategy]]
 
 ## Transcript Highlights

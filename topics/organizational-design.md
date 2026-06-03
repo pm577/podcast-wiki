@@ -11,5 +11,12 @@ Episodes discussing **organizational design**:
 - [Matt Mochary](../episodes/matt-mochary/transcript.md)
 - [Melissa Perri](../episodes/melissa-perri/transcript.md)
 
+## See also
+- [[leadership]]
+- [[culture]]
+- [[remote-work]]
+- [[independence]]
+- [[mission]]
+
 ---
 *Source: ChatPRD curated topic index*

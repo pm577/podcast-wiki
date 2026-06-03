@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/julie-zhuo-20|How To Win Friends & Influence Decisions (Julie Zhuo) | Lenny & Friends Summit 2024]] (2024-12-12)
+- [[julie-zhuo-20]] (2024-12-12)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

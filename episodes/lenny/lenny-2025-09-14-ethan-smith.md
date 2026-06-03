@@ -6,12 +6,12 @@ key_insights:
 - 'Ethan Smith: Answer Engine Optimization is how do I show up in LLMs as an answer?...'
 podcast: lenny
 tags:
-- ai-ml
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
 - retention
 - fundraising
 title: 'The ultimate guide to AEO: How to get ChatGPT to recommend your product |
@@ -27,16 +27,16 @@ Getting ChatGPT to recommend your product, covering AI product work, product des
 **Guest:** Ethan Smith
 **Date:** 2025-09-14
 **YouTube:** https://www.youtube.com/watch?v=iT7kq-R3Gjc
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, retention, fundraising
+**Topics:** saas, startups, ai-ml, marketplace, leadership, hiring, retention, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
 - [[retention]]
 - [[fundraising]]
 

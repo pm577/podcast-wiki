@@ -10,5 +10,11 @@ Episodes discussing **mentorship**:
 - [Jules Walter](../episodes/jules-walter/transcript.md)
 - [Melissa Tan](../episodes/melissa-tan/transcript.md)
 
+## See also
+- [[leadership]]
+- [[skill-building]]
+- [[curiosity]]
+- [[personal-branding]]
+
 ---
 *Source: ChatPRD curated topic index*

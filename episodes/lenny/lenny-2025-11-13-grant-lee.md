@@ -8,13 +8,13 @@ key_insights:
   "That has to be the worst pitch, worst idea I have...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 - retention
 title: '“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee
   (CEO)'
@@ -29,17 +29,17 @@ Inside the rise of Gamma, covering strategic decision-making, product design, an
 **Guest:** Grant Lee
 **Date:** 2025-11-13
 **YouTube:** https://www.youtube.com/watch?v=3H0ngGU5pbM
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention, product-strategy, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring, retention, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[product-strategy]]
 - [[fundraising]]

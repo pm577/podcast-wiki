@@ -11,14 +11,14 @@ key_insights:
   files, Slack messages or CRM records. Second, for AI...'
 podcast: lenny
 tags:
-- product-led-growth
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
+- product-led-growth
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 title: How Devin replaces your junior engineers with infinite AI interns that never
   sleep | Scott Wu (Cognition CEO)
 type: Episode
@@ -32,18 +32,18 @@ How Devin replaces your junior engineers with infinite AI interns that never sle
 **Guest:** Scott Wu
 **Date:** 2025-09-08
 **YouTube:** https://www.youtube.com/watch?v=7m_xKFqSxTo
-**Topics:** product-led-growth, ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, product-led-growth, leadership, hiring, retention, fundraising
 
 ## Key Topics Discussed
 
-- [[product-led-growth]]
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[product-led-growth]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[fundraising]]
 

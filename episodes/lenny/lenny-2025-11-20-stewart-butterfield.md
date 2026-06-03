@@ -8,12 +8,12 @@ key_insights:
   Slack. I said, "I feel like what we have right now is j...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
 - leadership
 - hiring
-- startups
-- pricing
 - product-strategy
 - fundraising
 title: 'Slack founder: Mental models for building products people love ft. Stewart
@@ -29,16 +29,16 @@ Mental models for building products people love ft. Stewart Butterfield, coverin
 **Guest:** Stewart Butterfield
 **Date:** 2025-11-20
 **YouTube:** https://www.youtube.com/watch?v=kLe-zy5r0Mk
-**Topics:** ai-ml, saas, leadership, hiring, startups, pricing, product-strategy, fundraising
+**Topics:** pricing, saas, startups, ai-ml, leadership, hiring, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
 - [[leadership]]
 - [[hiring]]
-- [[startups]]
-- [[pricing]]
 - [[product-strategy]]
 - [[fundraising]]
 

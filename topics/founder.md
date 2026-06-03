@@ -29,3 +29,12 @@
 - [[lenny/keith-yandell|Leading with empathy | Keith Yandell (DoorDash, Uber)]] — *Keith Yandell* (2023-02-09)
 - [[lenny/matt-mochary|Are your fears giving you terrible advice? | Matt Mochary]] — *Matt Mochary* (2023-01-17)
 - [[lenny/teaser_2021|Lenny's Podcast Episode]] — *Teaser_2021* (unknown date)
+
+## See also
+
+- [[entrepreneurship]]
+- [[venture-capital]]
+- [[founder-psychology]]
+- [[entrepreneurship]]
+- [[startups]]
+- [[leadership]]

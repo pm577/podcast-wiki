@@ -7,14 +7,14 @@ key_insights:
   on PMs and full stack designers....'
 podcast: lenny
 tags:
-- ai-ml
 - saas
-- leadership
+- fundraising
 - hiring
 - marketplace
 - startups
+- ai-ml
+- leadership
 - pricing
-- fundraising
 title: 'The AI paradox: More automation, more humans, more work | Dan Shipper'
 type: Episode
 word_count: 17673
@@ -26,18 +26,18 @@ More automation, more humans, more work, covering AI product work, engineering t
 
 **Guest:** Dan Shipper
 **Date:** 2026-05-24
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, fundraising
+**Topics:** saas, fundraising, hiring, marketplace, startups, ai-ml, leadership, pricing
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
-- [[leadership]]
+- [[fundraising]]
 - [[hiring]]
 - [[marketplace]]
 - [[startups]]
+- [[ai-ml]]
+- [[leadership]]
 - [[pricing]]
-- [[fundraising]]
 
 ## Transcript Highlights
 

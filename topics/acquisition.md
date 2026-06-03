@@ -127,4 +127,12 @@
 - [[lenny/wes-kao-20|Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)]] — *Wes Kao 2.0* (2022-08-28)
 - [[lenny/shreyas-doshi|The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)]] — *Shreyas Doshi* (2022-08-25)
 - [[lenny/shishir-mehrotra|The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft]] — *Shishir Mehrotra* (2022-08-14)
-- [[lenny/crystal-w|How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu]] — *Crystal W* (2022-07-31)
+|- [[lenny/crystal-w|How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu]] — *Crystal W* (2022-07-31)
+
+## See also
+
+- [[venture-capital]]
+- [[b2b]]
+- [[sales]]
+- [[growth]]
+- [[enterprise-saas]]

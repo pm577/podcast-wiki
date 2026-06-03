@@ -13,5 +13,11 @@ Episodes discussing **OpenAI**:
 - [Ryan J. Salva](../episodes/ryan-j-salva/transcript.md)
 - [Sander Schulhoff](../episodes/sander-schulhoff/transcript.md)
 
+## See also
+
+- [[ai-ml]]
+- [[chatgpt]]
+- [[competition]]
+
 ---
 *Source: ChatPRD curated topic index*

@@ -35,3 +35,10 @@
 - [[lenny/lauren-ipsen|Lessons from one of the world’s top executive recruiters | Lauren Ipsen (Daversa Partners, GC)]] — *Lauren Ipsen* (2022-11-03)
 - [[lenny/teresa-torres|Build better products with continuous product discovery | Teresa Torres]] — *Teresa Torres* (2022-10-06)
 - [[lenny/kristen-berman|Using behavioral science to improve your product | Kristen Berman (Irrational Labs)]] — *Kristen Berman* (2022-10-02)
+
+## See also
+
+- [[ui]]
+- [[design]]
+- [[user-research]]
+- [[customer-experience]]

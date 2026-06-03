@@ -8,11 +8,11 @@ key_insights:
   the beginning of companies calling themselves AI comp...'
 podcast: lenny
 tags:
-- ai-ml
 - saas
-- hiring
 - startups
+- ai-ml
 - marketplace
+- hiring
 - fundraising
 title: The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei
   Li
@@ -27,15 +27,15 @@ Jobs, robots & why world models are next, covering AI product work, product desi
 **Guest:** Dr. Fei Fei Li
 **Date:** 2025-11-16
 **YouTube:** https://www.youtube.com/watch?v=Ctjiatnd6Xk
-**Topics:** ai-ml, saas, hiring, startups, marketplace, fundraising
+**Topics:** saas, startups, ai-ml, marketplace, hiring, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
-- [[hiring]]
 - [[startups]]
+- [[ai-ml]]
 - [[marketplace]]
+- [[hiring]]
 - [[fundraising]]
 
 ## Transcript Highlights

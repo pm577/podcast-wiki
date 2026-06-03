@@ -11,13 +11,13 @@ key_insights:
   friends, or finally launch that side proje...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 - retention
 title: 10 contrarian leadership truths every leader needs to hear | Matt MacInnis
   (Rippling)
@@ -32,17 +32,17 @@ Matt MacInnis is the chief product officer and former longtime COO at Rippling, 
 **Guest:** Matt MacInnis
 **Date:** 2025-12-28
 **YouTube:** https://www.youtube.com/watch?v=O_W76LR77Vw
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention, product-strategy, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring, retention, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[product-strategy]]
 - [[fundraising]]

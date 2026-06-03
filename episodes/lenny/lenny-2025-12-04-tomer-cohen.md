@@ -8,11 +8,11 @@ key_insights:
   that sits on top of a very strong social graph. A...'
 podcast: lenny
 tags:
+- startups
 - ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
 - retention
 - product-strategy
 title: Why LinkedIn is turning PMs into AI-powered "full stack builders” | Tomer Cohen
@@ -28,15 +28,15 @@ Why LinkedIn is turning PMs into AI-powered "full stack builders”, covering pr
 **Guest:** Tomer Cohen
 **Date:** 2025-12-04
 **YouTube:** https://www.youtube.com/watch?v=R-zCfLQD_84
-**Topics:** ai-ml, leadership, hiring, marketplace, startups, retention, product-strategy
+**Topics:** startups, ai-ml, marketplace, leadership, hiring, retention, product-strategy
 
 ## Key Topics Discussed
 
+- [[startups]]
 - [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
 - [[retention]]
 - [[product-strategy]]
 

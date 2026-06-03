@@ -8,12 +8,12 @@ key_insights:
   intern that refuses to read Slack, doesn''t check Datadog u...'
 podcast: lenny
 tags:
-- ai-ml
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
 - retention
 - product-strategy
 title: 'The power user’s guide to Codex: parallelizing workflows, planning techniques,
@@ -30,16 +30,16 @@ How to set up and use Codex in VS Code and terminal environments for both simple
 **Guest:** Alexander Embiricos
 **Date:** 2026-01-12
 **YouTube:** https://www.youtube.com/watch?v=xeZDHGjG5zM
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, retention, product-strategy
+**Topics:** saas, startups, ai-ml, marketplace, leadership, hiring, retention, product-strategy
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
 - [[retention]]
 - [[product-strategy]]
 

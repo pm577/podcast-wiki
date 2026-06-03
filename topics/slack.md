@@ -1,3 +1,4 @@
+bash: fork: retry: Resource temporarily unavailable
 # Slack
 
 Episodes discussing **Slack**:
@@ -10,6 +11,12 @@ Episodes discussing **Slack**:
 - [Merci Grace](../episodes/merci-grace/transcript.md)
 - [Tamar Yehoshua](../episodes/tamar-yehoshua/transcript.md)
 - [Tanguy Crusson](../episodes/tanguy-crusson/transcript.md)
+
+## See also
+
+- [[communication]]
+- [[product-led-growth]]
+- [[team-building]]
 
 ---
 *Source: ChatPRD curated topic index*

@@ -8,14 +8,14 @@ key_insights:
   If you can''t, then you should find a buyer and...'
 podcast: lenny
 tags:
-- product-led-growth
-- ai-ml
+- pricing
 - saas
-- leadership
-- hiring
-- go-to-market
-- marketplace
 - startups
+- ai-ml
+- marketplace
+- product-led-growth
+- leadership
+- go-to-market
 title: How we restructured Airtable’s entire org for AI | Howie Liu (co-founder and
   CEO)
 type: Episode
@@ -29,19 +29,19 @@ How we restructured Airtable’s entire org for AI, covering AI product work, pr
 **Guest:** Howie Liu
 **Date:** 2025-08-31
 **YouTube:** https://www.youtube.com/watch?v=GT0jtVjRy2E
-**Topics:** product-led-growth, ai-ml, saas, leadership, hiring, go-to-market, marketplace, startups, pricing, product-strategy, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, product-led-growth, leadership, go-to-market, hiring, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[product-led-growth]]
-- [[ai-ml]]
-- [[saas]]
-- [[leadership]]
-- [[hiring]]
-- [[go-to-market]]
-- [[marketplace]]
-- [[startups]]
 - [[pricing]]
+- [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[product-led-growth]]
+- [[leadership]]
+- [[go-to-market]]
+- [[hiring]]
 - [[product-strategy]]
 - [[fundraising]]
 

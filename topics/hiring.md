@@ -247,3 +247,11 @@ episodes_covered:
 - [[lenny/gokul-rajaram|Gokul Rajaram on designing your product development process, when and how to hire your first PM, a playbook for hiring leaders, getting ahead in your career, how to get started angel investing, and more]] — *Gokul Rajaram* (2022-01-01)
 - [[lenny/daniel-lereya|Daniel Lereya]] — *Daniel Lereya* (unknown date)
 - [[lenny/peter-deng|Peter Deng]] — *Peter Deng* (unknown date)
+
+## See also
+
+- [[hiring-culture]]
+- [[team-building]]
+- [[leadership]]
+- [[recruiting]]
+- [[culture]]

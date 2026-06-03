@@ -8,13 +8,13 @@ key_insights:
   AI news? If you talk to the users who understand w...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 title: Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 type: Episode
 word_count: 15252
@@ -27,17 +27,17 @@ Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix), covering AI prod
 **Guest:** Chip Huyen
 **Date:** 2025-10-23
 **YouTube:** https://www.youtube.com/watch?v=qbvY0dQgSJ4
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 
 ## Transcript Highlights
 

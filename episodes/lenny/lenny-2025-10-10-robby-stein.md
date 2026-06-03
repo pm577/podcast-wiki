@@ -8,12 +8,12 @@ key_insights:
   we can actually achieve that more than ever bef...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
 - leadership
 - hiring
-- startups
-- pricing
 - retention
 title: 'Inside Google''s AI turnaround: The rise of AI Mode, strategy behind AI Overviews,
   and their vision for AI-powered search | Robby Stein (VP of Product, Google Search)'
@@ -28,16 +28,16 @@ Robby Stein is VP of Product at Google, where he oversees the core products of G
 **Guest:** Robby Stein
 **Date:** 2025-10-10
 **YouTube:** https://www.youtube.com/watch?v=kOnsqqVbIeY
-**Topics:** ai-ml, saas, leadership, hiring, startups, pricing, retention
+**Topics:** pricing, saas, startups, ai-ml, leadership, hiring, retention
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
 - [[leadership]]
 - [[hiring]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 
 ## Transcript Highlights

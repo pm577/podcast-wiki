@@ -7,14 +7,14 @@ key_insights:
   it takes to improve model capabilities....'
 podcast: lenny
 tags:
-- ai-ml
-- saas
-- leadership
-- hiring
-- go-to-market
-- marketplace
-- startups
 - pricing
+- saas
+- startups
+- ai-ml
+- marketplace
+- leadership
+- go-to-market
+- hiring
 title: Why experts writing AI evals is creating the fastest-growing companies in history
   | Brendan Foody (CEO of Mercor)
 type: Episode
@@ -28,18 +28,18 @@ Why experts writing AI evals is creating the fastest-growing companies in histor
 **Guest:** Brendan Foody
 **Date:** 2025-09-18
 **YouTube:** https://www.youtube.com/watch?v=ja6fWTDPQl4
-**Topics:** ai-ml, saas, leadership, hiring, go-to-market, marketplace, startups, pricing, retention, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, go-to-market, hiring, retention, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
-- [[saas]]
-- [[leadership]]
-- [[hiring]]
-- [[go-to-market]]
-- [[marketplace]]
-- [[startups]]
 - [[pricing]]
+- [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[leadership]]
+- [[go-to-market]]
+- [[hiring]]
 - [[retention]]
 - [[fundraising]]
 

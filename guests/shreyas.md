@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/shreyas-doshi-live|The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)]] (2022-08-25)
+- [[shreyas-doshi-live]] (2022-08-25)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

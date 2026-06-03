@@ -16,3 +16,10 @@
 
 ## Episodes
 - [[20vc-2026-05-18-20vc-turning-peter-thiels-1]]
+
+## See also
+
+- [[deeptech-hardware]]
+- [[ai-ml]]
+- [[venture-capital]]
+- [[innovation]]

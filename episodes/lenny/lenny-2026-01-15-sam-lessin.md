@@ -11,12 +11,12 @@ key_insights:
   on is Lessons From History is one of my favorite books ever. I woul...'
 podcast: lenny
 tags:
-- ai-ml
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
 - retention
 - fundraising
 title: 'How to show up in any room with a low heart rate: Silicon Valley’s missing
@@ -32,16 +32,16 @@ Silicon Valley’s missing etiquette playbook, covering startup building, produc
 **Guest:** Sam Lessin
 **Date:** 2026-01-15
 **YouTube:** https://www.youtube.com/watch?v=KtKJ3A6DWTs
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, retention, fundraising
+**Topics:** saas, startups, ai-ml, marketplace, leadership, hiring, retention, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
 - [[retention]]
 - [[fundraising]]
 

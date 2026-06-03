@@ -8,12 +8,12 @@ key_insights:
   ChatGPT for some code and it would spit out some...'
 podcast: lenny
 tags:
-- ai-ml
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
 - retention
 - product-strategy
 title: 'An AI state of the union: We’ve passed the inflection point, dark factories
@@ -28,16 +28,16 @@ We’ve passed the inflection point, dark factories are coming, and automation t
 
 **Guest:** Simon Willison
 **Date:** 2026-04-02
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, retention, product-strategy
+**Topics:** saas, startups, ai-ml, marketplace, leadership, hiring, retention, product-strategy
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
 - [[retention]]
 - [[product-strategy]]
 

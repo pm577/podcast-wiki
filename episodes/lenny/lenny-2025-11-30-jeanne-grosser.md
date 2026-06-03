@@ -8,14 +8,14 @@ key_insights:
   to market to differentiate yourself from the competiti...'
 podcast: lenny
 tags:
-- product-led-growth
-- ai-ml
+- pricing
 - saas
-- leadership
-- hiring
-- go-to-market
-- marketplace
 - startups
+- ai-ml
+- marketplace
+- product-led-growth
+- leadership
+- go-to-market
 title: What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe,
   Google)
 type: Episode
@@ -29,19 +29,19 @@ Jeanne DeWitt Grosser built world-class GTM teams at Stripe, Google, and, most r
 **Guest:** Jeanne Grosser
 **Date:** 2025-11-30
 **YouTube:** https://www.youtube.com/watch?v=RmnWHz8HD74
-**Topics:** product-led-growth, ai-ml, saas, leadership, hiring, go-to-market, marketplace, startups, pricing, product-strategy, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, product-led-growth, leadership, go-to-market, hiring, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[product-led-growth]]
-- [[ai-ml]]
-- [[saas]]
-- [[leadership]]
-- [[hiring]]
-- [[go-to-market]]
-- [[marketplace]]
-- [[startups]]
 - [[pricing]]
+- [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[product-led-growth]]
+- [[leadership]]
+- [[go-to-market]]
+- [[hiring]]
 - [[product-strategy]]
 - [[fundraising]]
 

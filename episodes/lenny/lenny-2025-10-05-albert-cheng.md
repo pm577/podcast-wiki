@@ -7,14 +7,14 @@ key_insights:
   Growth sometimes gets this reputation that it''s just pure metrics hacking....'
 podcast: lenny
 tags:
-- product-led-growth
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
+- product-led-growth
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 title: How to find hidden growth opportunities in your product | Albert Cheng (Duolingo,
   Grammarly, Chess.com)
 type: Episode
@@ -28,18 +28,18 @@ Finding hidden growth opportunities in your product, covering growth systems, me
 **Guest:** Albert Cheng
 **Date:** 2025-10-05
 **YouTube:** https://www.youtube.com/watch?v=2BKmNmnEj9w
-**Topics:** product-led-growth, ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention, product-strategy
+**Topics:** pricing, saas, startups, ai-ml, marketplace, product-led-growth, leadership, hiring, retention, product-strategy
 
 ## Key Topics Discussed
 
-- [[product-led-growth]]
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[product-led-growth]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[product-strategy]]
 

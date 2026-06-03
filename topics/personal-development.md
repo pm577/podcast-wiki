@@ -8,5 +8,13 @@ Episodes discussing **personal development**:
 - [Paul Millerd](../episodes/paul-millerd/transcript.md)
 - [Tristan de Montebello](../episodes/tristan-de-montebello/transcript.md)
 
+## See also
+
+- [[mentorship]]
+- [[curiosity]]
+- [[skill-building]]
+- [[career-development]]
+- [[personal-transformation]]
+
 ---
 *Source: ChatPRD curated topic index*

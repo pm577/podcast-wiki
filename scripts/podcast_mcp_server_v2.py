@@ -28,6 +28,25 @@ from typing import Any
 
 from mcp.server import Server
 from mcp.server.stdio import stdio_server
+
+# Query log for job feedback loop
+QUERY_LOG = Path(__file__).parent.parent / "state" / "mcp-query-log.jsonl"
+QUERY_LOG.parent.mkdir(parents=True, exist_ok=True)
+
+
+def log_query(tool: str, query: str, latency_ms: float, result_count: int, quality_hint: str = ""):
+    """Append one query record to mcp-query-log.jsonl."""
+    record = {
+        "ts": datetime.now().isoformat(),
+        "tool": tool,
+        "query": query[:200],
+        "latency_ms": round(latency_ms),
+        "result_count": result_count,
+        "quality_hint": quality_hint
+    }
+    with open(str(QUERY_LOG), "a") as f:
+        f.write(json.dumps(record) + "\n")
+
 from mcp.types import (
     GetPromptResult,
     Prompt,
@@ -223,6 +242,7 @@ def do_get_podcast_stats() -> dict:
 
 def do_ask(query: str) -> dict:
     """Combined Q&A — search + prepare context for LLM synthesis."""
+    t0 = time.time()
     # Use semantic search for better results, fall back to keyword
     semantic_results = do_search_by_meaning(query, limit=3)
     keyword_results = do_search_episodes(query, limit=3)
@@ -238,11 +258,17 @@ def do_ask(query: str) -> dict:
         if source_id and source_id not in related_entities and '_' not in source_id and not source_id.startswith('lenny-') and not source_id.startswith('20vc-'):
             related_entities.append(source_id)
     
+    t1 = time.time()
+    lat = (t1 - t0) * 1000
+    total_results = len(semantic_list[:5]) + len(keyword_results[:3])
+    log_query("ask", query, lat, total_results)
+    
     return {
         'query': query,
         'semantic_matches': semantic_list[:5],
         'keyword_matches': keyword_results[:3],
         'related_entities': related_entities[:5],
+        'latency_ms': round(lat),
         'note': 'Hybrid search results — semantic for meaning, keyword for exact matches.'
     }
 
@@ -250,11 +276,13 @@ def do_ask(query: str) -> dict:
 def do_search_by_meaning(query: str, limit: int = 10, podcast: str | None = None) -> dict:
     """Semantic search — finds episodes by meaning, not just keywords."""
     if not load_semantic():
-        return {"error": "Semantic index not available. Run `python3 scripts/semantic_index_v2.py rebuild` first."}
+        return {"error": "Semantic index not available."}
     t0 = time.time()
     results = _semantic_query_fn(query, k=limit, podcast=podcast)
     t1 = time.time()
-    return {'query': query, 'results': results, 'latency_ms': round((t1 - t0) * 1000)}
+    lat = (t1 - t0) * 1000
+    log_query("search_by_meaning", query, lat, len(results))
+    return {'query': query, 'results': results, 'latency_ms': round(lat)}
 
 
 def do_semantic_stats() -> dict:
@@ -450,6 +478,8 @@ def do_synthesize(question: str) -> dict:
     confidence = "high" if total >= 5 else ("medium" if total >= 2 else "low")
     
     t1 = time.time()
+    lat = (t1 - t0) * 1000
+    log_query("synthesize", question, lat, len(sources) + len(transcript_hits), "synthesized")
     
     return {
         "question": question,
@@ -461,7 +491,7 @@ def do_synthesize(question: str) -> dict:
         "total_enriched_found": len(sources),
         "total_transcript_found": len(transcript_hits),
         "confidence": confidence,
-        "latency_ms": round((t1 - t0) * 1000)
+        "latency_ms": round(lat)
     }
 
 

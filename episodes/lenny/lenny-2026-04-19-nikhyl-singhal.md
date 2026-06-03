@@ -8,12 +8,12 @@ key_insights:
   three years ago, their day was largely moving infor...'
 podcast: lenny
 tags:
-- ai-ml
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
 - product-strategy
 - fundraising
 title: Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)
@@ -27,16 +27,16 @@ Why half of product managers are in trouble, covering product design, team leade
 
 **Guest:** Nikhyl Singhal
 **Date:** 2026-04-19
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, product-strategy, fundraising
+**Topics:** saas, startups, ai-ml, marketplace, leadership, hiring, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
 - [[product-strategy]]
 - [[fundraising]]
 

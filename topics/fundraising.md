@@ -38,4 +38,12 @@ episodes_covered:
 ## Episodes (2)
 
 - [[lenny/graham-weaver|How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor)]] — *Graham Weaver* (2025-01-16)
-- [[lenny/jessica-livingston|The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)]] — *Jessica Livingston* (2024-06-27)
+|- [[lenny/jessica-livingston|The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)]] — *Jessica Livingston* (2024-06-27)
+
+## See also
+
+- [[venture-capital]]
+- [[founder-psychology]]
+- [[startups]]
+- [[bootstrapping]]
+- [[storytelling]]

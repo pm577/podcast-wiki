@@ -8,13 +8,13 @@ key_insights:
   and feedback. Often in the form of rejection, the...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 - fundraising
 title: The woman behind Canva shares how she built a $42B company from nothing | Melanie
   Perkins
@@ -29,17 +29,17 @@ The woman behind Canva shares how she built a $42B company from nothing, coverin
 **Guest:** Melanie Perkins
 **Date:** 2025-11-02
 **YouTube:** https://www.youtube.com/watch?v=-LywX3T5Scc
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[fundraising]]
 
 ## Transcript Highlights

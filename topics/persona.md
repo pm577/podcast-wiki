@@ -107,3 +107,10 @@
 - [[lenny/wes-kao|Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)]] — *Wes Kao* (2022-08-28)
 - [[lenny/wes-kao-20|Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)]] — *Wes Kao 2.0* (2022-08-28)
 - [[lenny/ken-norton|How to unlock your product leadership skills | Ken Norton, Ex-Google]] — *Ken Norton* (2022-07-24)
+
+## See also
+
+- [[customer-research]]
+- [[segmentation]]
+- [[design]]
+- [[marketing]]

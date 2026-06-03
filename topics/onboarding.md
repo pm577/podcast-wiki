@@ -122,3 +122,11 @@
 - [[lenny/shishir-mehrotra|The rituals of great teams | Shishir Mehrotra, Coda, YouTube, Microsoft]] — *Shishir Mehrotra* (2022-08-14)
 - [[lenny/crystal-w|How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu]] — *Crystal W* (2022-07-31)
 - [[lenny/nickey-skarstad|Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing product quality, second-order decisions, brainstorming, influence, and much more]] — *Nickey Skarstad* (2022-07-18)
+
+## See also
+
+- [[activation]]
+- [[user-experience]]
+- [[product-led-growth]]
+- [[customer-experience]]
+- [[activation]]

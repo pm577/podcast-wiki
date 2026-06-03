@@ -26,3 +26,7 @@
 - [[lenny/pete-kazanjy|Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)]] — *Pete Kazanjy* (2022-12-15)
 - [[lenny/camille-ricketts|How Notion leveraged community to build a $10B business | Camille Ricketts]] — *Camille Ricketts* (2022-12-11)
 - [[lenny/gia-laudi|Customer-led growth | Georgiana Laudi (Forget The Funnel)]] — *Gia Laudi* (2022-09-29)
+
+## See also
+
+- [[pricing]], [[product-led-growth]], [[retention]]

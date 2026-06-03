@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/elena-verna-40|The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year]] (2025-12-18)
+- [[elena-verna-40]] (2025-12-18)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

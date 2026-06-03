@@ -11,12 +11,12 @@ key_insights:
   of the AI, one easy, slippery slope is t...'
 podcast: lenny
 tags:
-- ai-ml
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
 - retention
 title: Aishwarya Naresh Reganti + Kiriti Badam
 type: Episode
@@ -29,16 +29,16 @@ But if you make a bunch of practitioners sit together and ask them, "Is it impor
 
 **Guest:** Aishwarya Naresh Reganti + Kiriti Badam
 **Date:** 2026-01-11
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, retention
+**Topics:** saas, startups, ai-ml, marketplace, leadership, hiring, retention
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
 - [[retention]]
 
 ## Transcript Highlights

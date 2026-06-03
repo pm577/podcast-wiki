@@ -8,12 +8,12 @@ key_insights:
   Probably one of my bigger ones on that was we went p...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
 - leadership
 - hiring
-- startups
-- pricing
 - retention
 - fundraising
 title: '$46B of hard truths from Ben Horowitz: Why founders fail and why you need
@@ -29,16 +29,16 @@ Why founders fail and why you need to run toward fear (a16z co-founder), coverin
 **Guest:** Ben Horowitz
 **Date:** 2025-09-11
 **YouTube:** https://www.youtube.com/watch?v=KPxTekxQjzc
-**Topics:** ai-ml, saas, leadership, hiring, startups, pricing, retention, fundraising
+**Topics:** pricing, saas, startups, ai-ml, leadership, hiring, retention, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
 - [[leadership]]
 - [[hiring]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[fundraising]]
 

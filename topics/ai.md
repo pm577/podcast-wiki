@@ -15,3 +15,13 @@
 - [[lenny/ethan-evans|Taking control of your career | Ethan Evans (Amazon)]] — *Ethan Evans* (2024-01-14)
 - [[lenny/ethan-evans-20|Taking control of your career | Ethan Evans (Amazon)]] — *Ethan Evans 2.0* (2024-01-14)
 - [[lenny/teaser_2021|Lenny's Podcast Episode]] — *Teaser_2021* (unknown date)
+
+## See also
+
+- [[ai-ml]]
+- [[machine-learning]]
+- [[product-development]]
+- [[product-strategy]]
+- [[openai]]
+- [[chatgpt]]
+- [[engineering]]

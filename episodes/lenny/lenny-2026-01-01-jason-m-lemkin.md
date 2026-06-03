@@ -8,14 +8,14 @@ key_insights:
   is to not sell a used car, okay? We are selling a Te...'
 podcast: lenny
 tags:
-- product-led-growth
-- ai-ml
+- pricing
 - saas
-- leadership
-- hiring
-- go-to-market
-- marketplace
 - startups
+- ai-ml
+- marketplace
+- product-led-growth
+- leadership
+- go-to-market
 title: We replaced our sales team with 20 AI agents—here’s what happened | Jason Lemkin
   (SaaStr)
 type: Episode
@@ -29,20 +29,20 @@ We replaced our sales team with 20 AI agents—here’s what happened, covering 
 **Guest:** Jason M Lemkin
 **Date:** 2026-01-01
 **YouTube:** https://www.youtube.com/watch?v=I-R1bc1rlFs
-**Topics:** product-led-growth, ai-ml, saas, leadership, hiring, go-to-market, marketplace, startups, retention, pricing, product-strategy, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, product-led-growth, leadership, go-to-market, hiring, retention, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[product-led-growth]]
-- [[ai-ml]]
-- [[saas]]
-- [[leadership]]
-- [[hiring]]
-- [[go-to-market]]
-- [[marketplace]]
-- [[startups]]
-- [[retention]]
 - [[pricing]]
+- [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[product-led-growth]]
+- [[leadership]]
+- [[go-to-market]]
+- [[hiring]]
+- [[retention]]
 - [[product-strategy]]
 - [[fundraising]]
 

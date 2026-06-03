@@ -12,3 +12,10 @@
 - [[lenny/ethan-evans-20|Taking control of your career | Ethan Evans (Amazon)]] — *Ethan Evans 2.0* (2024-01-14)
 - [[lenny/various|Countdown of the top 10 episodes of the year]] — *Various (Year-End Review)* (2022-12-29)
 - [[lenny/teaser_2021|Lenny's Podcast Episode]] — *Teaser_2021* (unknown date)
+
+## See also
+
+- [[career-development]]
+- [[career-growth]]
+- [[personal-development]]
+- [[mentorship]]

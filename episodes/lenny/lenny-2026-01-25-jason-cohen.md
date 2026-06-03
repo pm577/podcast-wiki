@@ -8,14 +8,14 @@ key_insights:
   they went through to get to the product. How did th...'
 podcast: lenny
 tags:
-- product-led-growth
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
+- product-led-growth
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 title: 5 questions to ask when your product stops growing | Jason Cohen (2x unicorn
   founder)
 type: Episode
@@ -29,18 +29,18 @@ Jason’s five-step framework: logo retention, pricing, NRR, marketing channels,
 **Guest:** Jason Cohen
 **Date:** 2026-01-25
 **YouTube:** https://www.youtube.com/watch?v=8xLquwfx6p0
-**Topics:** product-led-growth, ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, product-led-growth, leadership, hiring, retention, fundraising
 
 ## Key Topics Discussed
 
-- [[product-led-growth]]
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[product-led-growth]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[fundraising]]
 

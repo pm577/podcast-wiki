@@ -19,4 +19,5 @@
 # John Doerr
 
 **Appears in:**
+- [[20vc-2021-12-13-20vc-john-doerr-on-buying-12]] — Chairman at Kleiner Perkins
 - [[20vc-2020-09-04-20vc-biggest-lessons-from-wor]]

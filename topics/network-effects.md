@@ -11,5 +11,12 @@ Episodes discussing **network effects**:
 - [Seth Godin](../episodes/seth-godin/transcript.md)
 - [Yuriy Timen](../episodes/yuriy-timen/transcript.md)
 
+## See also
+
+- [[marketplace]]
+- [[platform]]
+- [[viral-growth]]
+- [[competition]]
+
 ---
 *Source: ChatPRD curated topic index*

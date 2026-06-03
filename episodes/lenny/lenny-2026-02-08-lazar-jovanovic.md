@@ -9,13 +9,13 @@ key_insights:
   Also, please consider giving us a rating or leaving...'
 podcast: lenny
 tags:
-- ai-ml
 - saas
-- leadership
-- hiring
-- go-to-market
-- marketplace
 - startups
+- ai-ml
+- marketplace
+- leadership
+- go-to-market
+- hiring
 - product-strategy
 title: The rise of the professional vibe coder (a new AI-era job) | Lazar Jovanovic
   (Professional Vibe Coder)
@@ -30,17 +30,17 @@ Lazar Jovanovic is a full-time professional vibe coder at Lovable. His job is to
 **Guest:** Lazar Jovanovic
 **Date:** 2026-02-08
 **YouTube:** https://www.youtube.com/watch?v=0XNkUdzxiZI
-**Topics:** ai-ml, saas, leadership, hiring, go-to-market, marketplace, startups, product-strategy
+**Topics:** saas, startups, ai-ml, marketplace, leadership, go-to-market, hiring, product-strategy
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
-- [[leadership]]
-- [[hiring]]
-- [[go-to-market]]
-- [[marketplace]]
 - [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[leadership]]
+- [[go-to-market]]
+- [[hiring]]
 - [[product-strategy]]
 
 ## Transcript Highlights

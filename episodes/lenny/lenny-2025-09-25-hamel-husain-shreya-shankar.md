@@ -9,11 +9,11 @@ key_insights:
   your product....'
 podcast: lenny
 tags:
-- ai-ml
 - saas
+- startups
+- ai-ml
 - leadership
 - hiring
-- startups
 title: 'Why AI evals are the hottest new skill for product builders | Hamel Husain
   & Shreya Shankar (creators of the #1 eval course)'
 type: Episode
@@ -27,15 +27,15 @@ Why AI evals are the hottest new skill for product builders, covering AI product
 **Guest:** Hamel Husain & Shreya Shankar
 **Date:** 2025-09-25
 **YouTube:** https://www.youtube.com/watch?v=BsWxPI9UM4c
-**Topics:** ai-ml, saas, leadership, hiring, startups
+**Topics:** saas, startups, ai-ml, leadership, hiring
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
 - [[leadership]]
 - [[hiring]]
-- [[startups]]
 
 ## Transcript Highlights
 

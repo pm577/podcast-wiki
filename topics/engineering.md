@@ -29,3 +29,11 @@
 - [[lenny/keith-yandell|Leading with empathy | Keith Yandell (DoorDash, Uber)]] — *Keith Yandell* (2023-02-09)
 - [[lenny/matt-mochary|Are your fears giving you terrible advice? | Matt Mochary]] — *Matt Mochary* (2023-01-17)
 - [[lenny/shreyas-doshi-live|The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)]] — *Shreyas Doshi Live* (2022-08-25)
+
+## See also
+
+- [[ai-ml]]
+- [[architecture]]
+- [[product-development]]
+- [[deeptech-hardware]]
+- [[culture]]

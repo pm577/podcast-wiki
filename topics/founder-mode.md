@@ -10,5 +10,13 @@ Episodes discussing **founder mode**:
 - [Howie Liu](../episodes/howie-liu/transcript.md)
 - [Tobi Lutke](../episodes/tobi-lutke/transcript.md)
 
+
+## See also
+
+- [[founder-psychology]]
+- [[leadership]]
+- [[management]]
+- [[startups]]
+- [[entrepreneurship]]
 ---
 *Source: ChatPRD curated topic index*

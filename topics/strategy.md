@@ -184,3 +184,9 @@
 - [[lenny/arielle-jackson|The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)]] — *Arielle Jackson* (2022-08-18)
 - [[lenny/nickey-skarstad|Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing product quality, second-order decisions, brainstorming, influence, and much more]] — *Nickey Skarstad* (2022-07-18)
 - [[lenny/peter-deng|Peter Deng]] — *Peter Deng* (unknown date)
+
+## See also
+
+- [[product-strategy]]
+- [[positioning]]
+- [[business-strategy]]

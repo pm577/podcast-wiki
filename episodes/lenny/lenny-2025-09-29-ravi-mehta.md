@@ -8,14 +8,14 @@ key_insights:
   means you feel really confident about the direction o...'
 podcast: lenny
 tags:
-- product-led-growth
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
+- product-led-growth
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 title: 'The secret to better AI prototypes: Why Tinder’s CPO starts with JSON, not
   design | Ravi Mehta (product advisor, previously EIR at Reforge)'
 type: Episode
@@ -29,18 +29,18 @@ Why Tinder’s CPO starts with JSON, not design, covering team leadership, start
 **Guest:** Ravi Mehta
 **Date:** 2025-09-29
 **YouTube:** https://www.youtube.com/watch?v=_yQMGHHl49g
-**Topics:** product-led-growth, ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention, product-strategy, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, product-led-growth, leadership, hiring, retention, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[product-led-growth]]
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[product-led-growth]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[product-strategy]]
 - [[fundraising]]

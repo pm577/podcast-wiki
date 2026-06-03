@@ -33,5 +33,12 @@
 - [[lenny/laura-modi|Career frameworks, A/B testing, onboarding tips, selling to engineers |  Laura Schaffer (Amplitude)]] — *Laura Modi* (2023-03-09)
 - [[lenny/upasna-gautam|An inside look at how CNN builds product | Upasna Gautam]] — *Upasna Gautam* (2023-02-23)
 - [[lenny/matt-mochary|Are your fears giving you terrible advice? | Matt Mochary]] — *Matt Mochary* (2023-01-17)
-- [[lenny/kristen-berman|Using behavioral science to improve your product | Kristen Berman (Irrational Labs)]] — *Kristen Berman* (2022-10-02)
-- [[lenny/teaser_2021|Lenny's Podcast Episode]] — *Teaser_2021* (unknown date)
+|- [[lenny/kristen-berman|Using behavioral science to improve your product | Kristen Berman (Irrational Labs)]] — *Kristen Berman* (2022-10-02)
+|- [[lenny/teaser_2021|Lenny's Podcast Episode]] — *Teaser_2021* (unknown date)
+
+## See also
+
+- [[entrepreneurship]]
+- [[fundraising]]
+- [[venture-capital]]
+- [[startup-growth]]

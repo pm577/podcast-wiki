@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/ami-vora|Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)]] (2024-06-23)
+- [[ami-vora]] (2024-06-23)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

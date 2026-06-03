@@ -15,5 +15,12 @@ Episodes discussing **innovation**:
 - [Fei Fei](../episodes/fei-fei/transcript.md)
 - [Gustaf Alstromer](../episodes/gustaf-alstromer/transcript.md)
 
+
+## See also
+
+- [[creativity]]
+- [[iteration]]
+- [[product-development]]
+- [[differentiation]]
 ---
 *Source: ChatPRD curated topic index*

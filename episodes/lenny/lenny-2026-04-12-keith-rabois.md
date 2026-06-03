@@ -7,13 +7,13 @@ key_insights:
   like being a CEO now, which is what are we building and why?...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 - product-strategy
 title: Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)
 type: Episode
@@ -26,17 +26,17 @@ Hard truths about building in the AI era, covering career development, product d
 
 **Guest:** Keith Rabois
 **Date:** 2026-04-12
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, product-strategy, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[product-strategy]]
 - [[fundraising]]
 

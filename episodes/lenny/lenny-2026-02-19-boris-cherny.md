@@ -8,13 +8,13 @@ key_insights:
   the moment I have, like, five agents running....'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 - retention
 title: Boris Cherny
 type: Episode
@@ -27,17 +27,17 @@ This is the world now." What's the next big shift to how software is written tha
 
 **Guest:** Boris Cherny
 **Date:** 2026-02-19
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring, retention
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 
 ## Transcript Highlights

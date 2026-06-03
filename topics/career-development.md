@@ -43,5 +43,12 @@ Episodes discussing **career development**:
 - [Upasna Gautam](../episodes/upasna-gautam/transcript.md)
 - [Wes Kao](../episodes/wes-kao/transcript.md)
 
+
+## See also
+
+- [[mentorship]]
+- [[skill-building]]
+- [[personal-development]]
+- [[curiosity]]
 ---
 *Source: ChatPRD curated topic index*

@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/christine-itwaru|Understanding the role of product ops | Christine Itwaru (Pendo)]] (2023-02-16)
+- [[christine-itwaru]] (2023-02-16)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

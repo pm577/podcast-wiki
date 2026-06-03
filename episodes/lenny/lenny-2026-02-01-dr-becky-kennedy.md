@@ -8,11 +8,11 @@ key_insights:
   have the skill they need to manage something happening inte...'
 podcast: lenny
 tags:
-- ai-ml
 - saas
+- startups
+- ai-ml
 - leadership
 - hiring
-- startups
 - fundraising
 title: A child psychologist’s guide to working with difficult adults | Dr. Becky Kennedy
 type: Episode
@@ -26,15 +26,15 @@ Working with difficult adults, covering product design, team leadership, and pra
 **Guest:** Dr. Becky Kennedy
 **Date:** 2026-02-01
 **YouTube:** https://www.youtube.com/watch?v=Auxs8ZsHRI4
-**Topics:** ai-ml, saas, leadership, hiring, startups, fundraising
+**Topics:** saas, startups, ai-ml, leadership, hiring, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
 - [[leadership]]
 - [[hiring]]
-- [[startups]]
 - [[fundraising]]
 
 ## Transcript Highlights

@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/jake-knapp-john-zeratsky-20|Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)]] (2024-02-11)
+- [[jake-knapp-john-zeratsky-20]] (2024-02-11)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

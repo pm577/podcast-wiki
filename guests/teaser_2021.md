@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/teaser_2021|Lenny's Podcast Episode]] (unknown date)
+- [[teaser_2021]] (unknown date)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

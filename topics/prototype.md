@@ -20,3 +20,10 @@
 - [[lenny/jake-knapp-john-zeratsky|Making time for what matters | Jake Knapp and John Zeratsky (Authors of Make Time, Character VC)]] — *Jake Knapp + John Zeratsky* (2024-02-11)
 - [[lenny/bob-moesta-20|The ultimate guide to JTBD | Bob Moesta (co-creator of the framework)]] — *Bob Moesta 2.0* (2023-08-24)
 - [[lenny/matt-mochary|Are your fears giving you terrible advice? | Matt Mochary]] — *Matt Mochary* (2023-01-17)
+
+## See also
+
+- [[mvp]]
+- [[innovation]]
+- [[product-development]]
+- [[iteration]]

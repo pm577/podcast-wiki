@@ -21,3 +21,10 @@
 - [[lenny/shreyas-doshi-live|The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)]] — *Shreyas Doshi Live* (2022-08-25)
 - [[lenny/arielle-jackson|The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)]] — *Arielle Jackson* (2022-08-18)
 - [[lenny/ken-norton|How to unlock your product leadership skills | Ken Norton, Ex-Google]] — *Ken Norton* (2022-07-24)
+
+## See also
+
+- [[positioning]]
+- [[competition]]
+- [[brand-building]]
+- [[product-strategy]]

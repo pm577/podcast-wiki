@@ -8,13 +8,13 @@ key_insights:
   headlines tell one story and then on the gr...'
 podcast: lenny
 tags:
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 - retention
 title: 'First interview with Scale AI’s CEO: $14B Meta deal, what’s working in enterprise
   AI, and what frontier labs are building next | Jason Droege'
@@ -29,17 +29,17 @@ Jason Droege is the CEO of Scale AI, a company that provides foundational traini
 **Guest:** Jason Droege
 **Date:** 2025-10-09
 **YouTube:** https://www.youtube.com/watch?v=W99jdYZOlN0
-**Topics:** ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention, product-strategy, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, leadership, hiring, retention, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[product-strategy]]
 - [[fundraising]]

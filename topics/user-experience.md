@@ -11,3 +11,10 @@
 - [[lenny/hamel-husain-shreya-shankar|Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar]] — *Hamel Husain & Shreya Shankar* (2025-09-25)
 - [[lenny/hamelshreya|Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar]] — *Hamel+Shreya* (2025-09-25)
 - [[lenny/lauren-ipsen|Lessons from one of the world’s top executive recruiters | Lauren Ipsen (Daversa Partners, GC)]] — *Lauren Ipsen* (2022-11-03)
+
+## See also
+
+- [[design]]
+- [[ux]]
+- [[customer-experience]]
+- [[customer-research]]

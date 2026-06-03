@@ -15,3 +15,10 @@
 - [[lenny/lulu-cheng-meservey|Gain attention as an underdog with this framework | Lulu Cheng Meservey]] — *Lulu Cheng Meservey* (2023-03-27)
 - [[lenny/matt-mochary|Are your fears giving you terrible advice? | Matt Mochary]] — *Matt Mochary* (2023-01-17)
 - [[lenny/teaser_2021|Lenny's Podcast Episode]] — *Teaser_2021* (unknown date)
+
+## See also
+
+- [[fundraising]]
+- [[venture-capital]]
+- [[angel-investing]]
+- [[startups]]

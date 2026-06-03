@@ -91,3 +91,11 @@
 - [[lenny/wes-kao|Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)]] — *Wes Kao* (2022-08-28)
 - [[lenny/wes-kao-20|Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)]] — *Wes Kao 2.0* (2022-08-28)
 - [[lenny/shreyas-doshi-live|The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)]] — *Shreyas Doshi Live* (2022-08-25)
+
+## See also
+
+- [[ux]]
+- [[creativity]]
+- [[user-research]]
+- [[product-development]]
+- [[innovation]]

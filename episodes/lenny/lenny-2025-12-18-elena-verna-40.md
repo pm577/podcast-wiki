@@ -7,14 +7,14 @@ key_insights:
   the pace here is insane....'
 podcast: lenny
 tags:
-- product-led-growth
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
+- product-led-growth
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 title: Elena Verna 4.0
 type: Episode
 word_count: 17618
@@ -26,18 +26,18 @@ Who would've thought that a head of growth, who is traditionally seen as data, m
 
 **Guest:** Elena Verna 4.0
 **Date:** 2025-12-18
-**Topics:** product-led-growth, ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention, product-strategy, fundraising
+**Topics:** pricing, saas, startups, ai-ml, marketplace, product-led-growth, leadership, hiring, retention, product-strategy, fundraising
 
 ## Key Topics Discussed
 
-- [[product-led-growth]]
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[product-led-growth]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 - [[product-strategy]]
 - [[fundraising]]

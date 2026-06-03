@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/peter-deng|Peter Deng]] (unknown date)
+- [[peter-deng]] (unknown date)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

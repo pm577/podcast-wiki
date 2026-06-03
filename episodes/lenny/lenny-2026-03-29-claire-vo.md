@@ -7,14 +7,14 @@ key_insights:
   running. In return for those eight hours, I got my personal family calendar deleted....'
 podcast: lenny
 tags:
-- product-led-growth
-- ai-ml
+- pricing
 - saas
+- startups
+- ai-ml
+- marketplace
+- product-led-growth
 - leadership
 - hiring
-- marketplace
-- startups
-- pricing
 title: 'From skeptic to true believer: How OpenClaw changed my life | Claire Vo'
 type: Episode
 word_count: 20081
@@ -26,18 +26,18 @@ How OpenClaw changed my life, covering AI product work, product design, and engi
 
 **Guest:** Claire Vo
 **Date:** 2026-03-29
-**Topics:** product-led-growth, ai-ml, saas, leadership, hiring, marketplace, startups, pricing, retention
+**Topics:** pricing, saas, startups, ai-ml, marketplace, product-led-growth, leadership, hiring, retention
 
 ## Key Topics Discussed
 
-- [[product-led-growth]]
-- [[ai-ml]]
+- [[pricing]]
 - [[saas]]
+- [[startups]]
+- [[ai-ml]]
+- [[marketplace]]
+- [[product-led-growth]]
 - [[leadership]]
 - [[hiring]]
-- [[marketplace]]
-- [[startups]]
-- [[pricing]]
 - [[retention]]
 
 ## Transcript Highlights

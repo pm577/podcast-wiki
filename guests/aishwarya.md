@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/aishwarya-naresh-reganti-kiriti-badam|Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon]] (2026-01-11)
+- [[aishwarya-naresh-reganti-kiriti-badam]] (2026-01-11)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*

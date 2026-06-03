@@ -6,7 +6,7 @@
 
 ## Episodes (1)
 
-- [[lenny/wes-kao-20|Persuasive communication and managing up | Wes Kao (Maven, altMBA, Section4)]] (2022-08-28)
+- [[wes-kao-20]] (2022-08-28)
 
 ---
 *Auto-generated from ChatPRD lennys-podcast-transcripts*
